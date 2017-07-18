@@ -1,5 +1,4 @@
-import cherrypy, sys
-sys.path.append('../')
+import cherrypy
 from apps.DialogType import Mails
 from apps.BayeNet import BayesNet
 from apps.Home import Home
