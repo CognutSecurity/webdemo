@@ -1,7 +1,7 @@
 import cherrypy
 import jinja2 as jj2
-from mlcore.utils.dataset_helper import read_csv
-from mlcore.models.H3BayesNet import H3BayesNet
+from utils.dataset_helper import read_csv
+from models.H3BayesNet import H3BayesNet
 
 
 class BayesNet(object):

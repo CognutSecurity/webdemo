@@ -127,7 +127,7 @@ class DataViz(object):
                                     xlim=xlim,
                                     ylim=ylim,
                                     width=width, height=height,
-                                    x_range = names)
+                                    x_range=names)
       f.circle(np.asarray(indices), X.T.flatten(), color='gray', size=self.dot_size, alpha=self.alpha)
       # if names is not None:
       #    f.set(x_range=names)

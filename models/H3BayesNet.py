@@ -17,8 +17,8 @@ from scipy.stats import norm
 from scipy import linalg
 from sklearn.covariance import graph_lasso, EmpiricalCovariance, ledoit_wolf, shrunk_covariance
 from sklearn.preprocessing import StandardScaler
-from mlcore.utils.bn_helper import *
-from mlcore.utils.dataset_helper import read_csv
+from utils.bn_helper import *
+from utils.dataset_helper import read_csv
 from libpgm import pgmlearner
 from causality.inference.search import IC
 from causality.inference.independence_tests import RobustRegressionTest
