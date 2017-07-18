@@ -1,0 +1,133 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CV	./DlgActTypeDetector.py	/^import sklearn.cross_validation as CV$/;"	i
+CV	./QuickTemplate.py	/^import sklearn.cross_validation as CV$/;"	i
+DatasetViewer	./utils/DatasetViewer.py	/^class DatasetViewer(object):$/;"	c
+DlgActTypeDetector	./DlgActTypeDetector.py	/^class DlgActTypeDetector(object):$/;"	c
+GaussianNB	./test.py	/^from sklearn.naive_bayes import GaussianNB$/;"	i
+GridSearchCV	./DlgActTypeDetector.py	/^from sklearn.grid_search import GridSearchCV$/;"	i
+GridSearchCV	./QuickTemplate.py	/^from sklearn.grid_search import GridSearchCV$/;"	i
+GridSearchCV	./test.py	/^from sklearn.grid_search import GridSearchCV$/;"	i
+KernelPCA	./test.py	/^from sklearn.decomposition import PCA, KernelPCA$/;"	i
+KernelPCA	./utils/DatasetViewer.py	/^from sklearn.decomposition import PCA, KernelPCA$/;"	i
+MDS	./test.py	/^from sklearn.manifold import MDS$/;"	i
+MDS	./utils/DatasetViewer.py	/^from sklearn.manifold import MDS$/;"	i
+PCA	./QuickTemplate.py	/^    from sklearn.decomposition import PCA$/;"	i
+PCA	./test.py	/^from sklearn.decomposition import PCA, KernelPCA$/;"	i
+PCA	./utils/DatasetViewer.py	/^from sklearn.decomposition import PCA, KernelPCA$/;"	i
+Preprocessor	./Preprocessor.py	/^class Preprocessor(object):$/;"	c
+QuickTemplate	./QuickTemplate.py	/^class QuickTemplate(object):$/;"	c
+RFClassifier	./test.py	/^from sklearn.ensemble import RandomForestClassifier as RFClassifier$/;"	i
+RegexpTokenizer	./PipelineWorkers.py	/^from nltk.tokenize import RegexpTokenizer$/;"	i
+SGDClassifier	./test.py	/^from sklearn.linear_model import SGDClassifier$/;"	i
+SVC	./DlgActTypeDetector.py	/^from sklearn.svm import SVC$/;"	i
+SVC	./QuickTemplate.py	/^from sklearn.svm import SVC$/;"	i
+SVC	./test.py	/^from sklearn.svm import SVC$/;"	i
+SentenceExtractor	./PipelineWorkers.py	/^class SentenceExtractor(Worker):$/;"	c
+Stemmer	./PipelineWorkers.py	/^class Stemmer(Worker):$/;"	c
+TfidfVec	./PipelineWorkers.py	/^from sklearn.feature_extraction.text import TfidfVectorizer as TfidfVec$/;"	i
+TfidfVectorizer	./PipelineWorkers.py	/^class TfidfVectorizer(Worker):$/;"	c
+Tokenizer	./PipelineWorkers.py	/^class Tokenizer(Worker):$/;"	c
+Worker	./PipelineWorkers.py	/^class Worker(object):$/;"	c
+X_proj	./QuickTemplate.py	/^    X_proj = projector.fit_transform(Xtr)$/;"	v	class:QuickTemplate
+Xtr	./QuickTemplate.py	/^    Xtr = mydata['vectors'].todense()$/;"	v	class:QuickTemplate
+Xtr	./test.py	/^Xtr = digits.data$/;"	v
+__author__	./utils/DatasetViewer.py	/^__author__ = 'morgan'$/;"	v
+__author__	./utils/plot_utils.py	/^__author__ = 'morgan'$/;"	v
+__init__	./DlgActTypeDetector.py	/^    def __init__(self, preprocessor):$/;"	m	class:DlgActTypeDetector
+__init__	./PipelineWorkers.py	/^    def __init__(self):$/;"	m	class:Worker
+__init__	./PipelineWorkers.py	/^    def __init__(self, params):$/;"	m	class:SentenceExtractor
+__init__	./PipelineWorkers.py	/^    def __init__(self, params):$/;"	m	class:Stemmer
+__init__	./PipelineWorkers.py	/^    def __init__(self, params):$/;"	m	class:TfidfVectorizer
+__init__	./PipelineWorkers.py	/^    def __init__(self, params):$/;"	m	class:Tokenizer
+__init__	./Preprocessor.py	/^    def __init__(self, pipeline):$/;"	m	class:Preprocessor
+__init__	./QuickTemplate.py	/^    def __init__(self,  preprocessor = None,$/;"	m	class:QuickTemplate
+__init__	./utils/DatasetViewer.py	/^    def __init__(self):$/;"	m	class:DatasetViewer
+all_points_x	./QuickTemplate.py	/^    all_points_x=np.c_[Ax.ravel(), Ay.ravel()]$/;"	v	class:QuickTemplate
+ax	./QuickTemplate.py	/^    ax = plt.subplot(1,2,1)$/;"	v	class:QuickTemplate
+bx	./QuickTemplate.py	/^    bx = plt.subplot(1,2,2)$/;"	v	class:QuickTemplate
+classify	./DlgActTypeDetector.py	/^    def classify(self, testset):$/;"	m	class:DlgActTypeDetector
+classify	./QuickTemplate.py	/^    def classify(self, testset):$/;"	m	class:QuickTemplate
+clf_gaussnb	./test.py	/^clf_gaussnb = GaussianNB()$/;"	v
+clf_gaussnb	./test.py	/^clf_gaussnb = model_selector_gaussnb.best_estimator_$/;"	v
+clf_logreg	./test.py	/^clf_logreg = SGDClassifier(loss="log", warm_start=True, alpha=0.0001)$/;"	v
+clf_logreg	./test.py	/^clf_logreg = model_selector_logreg.best_estimator_$/;"	v
+clf_randforest	./test.py	/^clf_randforest = RFClassifier(n_estimators=10)$/;"	v
+clf_randforest	./test.py	/^clf_randforest = model_selector_randforest.best_estimator_$/;"	v
+clf_svm	./test.py	/^clf_svm = SVC(kernel='rbf', C=20, gamma=20, class_weight='auto')$/;"	v
+clf_svm	./test.py	/^clf_svm = model_selector_svm.best_estimator_$/;"	v
+cv	./test.py	/^from sklearn import cross_validation as cv$/;"	i
+data_raw	./Preprocessor.py	/^    data_raw = json.load(open('..\/feed.json'))$/;"	v	class:Preprocessor
+dataset_tr	./Preprocessor.py	/^    dataset_tr = prep.run(mails_in[:30])$/;"	v	class:Preprocessor
+dataset_tt	./Preprocessor.py	/^    dataset_tt = prep.run(mails_in[30:])$/;"	v	class:Preprocessor
+digits	./test.py	/^digits = load_digits()$/;"	v
+dist_all	./QuickTemplate.py	/^    dist_all=myTemplate.clf.decision_function(all_points_x)$/;"	v	class:QuickTemplate
+gamma	./test.py	/^                                                      gamma=np.logspace(0.1,10,10)),$/;"	v
+getBoxbyX	./utils/plot_utils.py	/^def getBoxbyX(X, grid=50, padding=True):$/;"	f
+getopt	./utils/DatasetViewer.py	/^import getopt,sys,os.path$/;"	i
+importlib	./Preprocessor.py	/^        import importlib$/;"	i
+json	./Preprocessor.py	/^    import json$/;"	i
+load_digits	./test.py	/^from sklearn.datasets import load_digits$/;"	i
+mails	./QuickTemplate.py	/^    mails = mydata['mails']$/;"	v	class:QuickTemplate
+mails_in	./Preprocessor.py	/^    mails_in = [mail['body'] for mail in data_raw['emails_in']]$/;"	v	class:Preprocessor
+main	./utils/DatasetViewer.py	/^    def main(argv):$/;"	f
+matplotlib	./QuickTemplate.py	/^    import matplotlib.pyplot as plt$/;"	i
+matplotlib	./test.py	/^import matplotlib.pyplot as plt$/;"	i
+matplotlib	./utils/DatasetViewer.py	/^import matplotlib.pyplot as plt$/;"	i
+model_selection	./DlgActTypeDetector.py	/^    def model_selection(self, trainset, labels):$/;"	m	class:DlgActTypeDetector
+model_selection	./QuickTemplate.py	/^    def model_selection(self, trainset, labels):$/;"	m	class:QuickTemplate
+model_selector_gaussnb	./test.py	/^model_selector_gaussnb = GridSearchCV(estimator=clf_gaussnb, param_grid=dict(),$/;"	v
+model_selector_logreg	./test.py	/^model_selector_logreg = GridSearchCV(estimator=clf_logreg, param_grid=dict(alpha=np.logspace(0.0001,50,10)),$/;"	v
+model_selector_randforest	./test.py	/^model_selector_randforest = GridSearchCV(estimator=clf_randforest, param_grid=dict(n_estimators=range(2,21)),$/;"	v
+model_selector_svm	./test.py	/^model_selector_svm = GridSearchCV(estimator=clf_svm, param_grid=dict(C=np.logspace(0.1,10,10),$/;"	v
+myTemplate	./QuickTemplate.py	/^    myTemplate = QuickTemplate()$/;"	v	class:QuickTemplate
+mydata	./QuickTemplate.py	/^    mydata = pickle.load(open('..\/feed_dataset.p', 'rb'))$/;"	v	class:QuickTemplate
+nltk	./PipelineWorkers.py	/^import nltk$/;"	i
+np	./DlgActTypeDetector.py	/^import numpy as np$/;"	i
+np	./QuickTemplate.py	/^import numpy as np$/;"	i
+np	./test.py	/^import numpy as np$/;"	i
+np	./utils/DatasetViewer.py	/^import numpy as np$/;"	i
+np	./utils/plot_utils.py	/^import numpy as np$/;"	i
+original_labels	./QuickTemplate.py	/^    original_labels = ytr.copy()$/;"	v	class:QuickTemplate
+original_labels	./test.py	/^original_labels = digits.target$/;"	v
+os	./utils/DatasetViewer.py	/^import getopt,sys,os.path$/;"	i
+partial_train	./DlgActTypeDetector.py	/^    def partial_train(self, partial_trainset):$/;"	m	class:DlgActTypeDetector
+partial_train	./QuickTemplate.py	/^    def partial_train(self, partial_trainset):$/;"	m	class:QuickTemplate
+partial_transform	./PipelineWorkers.py	/^    def partial_transform(self, dataset):$/;"	m	class:TfidfVectorizer
+path	./utils/DatasetViewer.py	/^import getopt,sys,os.path$/;"	i
+pickle	./QuickTemplate.py	/^    import pickle$/;"	i
+pickle	./test.py	/^import pickle$/;"	i
+plot_corr	./utils/DatasetViewer.py	/^    def plot_corr(self, X, names=None):$/;"	m	class:DatasetViewer
+plot_utils	./QuickTemplate.py	/^    from utils import plot_utils$/;"	i
+plot_utils	./test.py	/^from utils import plot_utils$/;"	i
+plt	./QuickTemplate.py	/^    import matplotlib.pyplot as plt$/;"	i
+plt	./test.py	/^import matplotlib.pyplot as plt$/;"	i
+plt	./utils/DatasetViewer.py	/^import matplotlib.pyplot as plt$/;"	i
+pltool	./utils/DatasetViewer.py	/^import plot_utils as pltool$/;"	i
+prep	./Preprocessor.py	/^    prep = Preprocessor(workers)$/;"	v	class:Preprocessor
+project2d	./utils/DatasetViewer.py	/^    def project2d(self, X, y=None, method='pca', g=0.5):$/;"	m	class:DatasetViewer
+projector	./QuickTemplate.py	/^    projector = PCA(n_components=2)$/;"	v	class:QuickTemplate
+qj	./models/DlgActTypeClf.p	/^qj(hfUCodeTypeqk…qlRqm(KKKKCT/;"	f
+random	./test.py	/^import random$/;"	i
+res	./QuickTemplate.py	/^    res = myTemplate.model_selection(Xtr, ytr)          # select optimal parameters$/;"	v	class:QuickTemplate
+run	./Preprocessor.py	/^    def run(self, data_raw):$/;"	m	class:Preprocessor
+setAxSquare	./utils/plot_utils.py	/^def setAxSquare(ax):$/;"	f
+sklearn	./DlgActTypeDetector.py	/^import sklearn.cross_validation as CV$/;"	i
+sklearn	./QuickTemplate.py	/^import sklearn.cross_validation as CV$/;"	i
+sys	./utils/DatasetViewer.py	/^import getopt,sys,os.path$/;"	i
+train	./DlgActTypeDetector.py	/^    def train(self, trainset, labels=None):$/;"	m	class:DlgActTypeDetector
+train	./QuickTemplate.py	/^    def train(self, trainset, labels=None):$/;"	m	class:QuickTemplate
+transform	./PipelineWorkers.py	/^    def transform(self, dataset):$/;"	m	class:SentenceExtractor
+transform	./PipelineWorkers.py	/^    def transform(self, dataset):$/;"	m	class:Stemmer
+transform	./PipelineWorkers.py	/^    def transform(self, dataset):$/;"	m	class:TfidfVectorizer
+transform	./PipelineWorkers.py	/^    def transform(self, dataset):$/;"	m	class:Tokenizer
+usage	./utils/DatasetViewer.py	/^    def usage():$/;"	f
+verbose	./test.py	/^                      verbose=1)$/;"	v
+view_features_distribution	./utils/DatasetViewer.py	/^    def view_features_distribution(self, X):$/;"	m	class:DatasetViewer
+visualize	./utils/DatasetViewer.py	/^    def visualize(self, X, y, names= None):$/;"	m	class:DatasetViewer
+workers	./Preprocessor.py	/^    workers = [('TfidfVectorizer', {'encoding': 'utf-8'})]$/;"	v	class:Preprocessor
+ytr	./QuickTemplate.py	/^    ytr = np.array(mydata['labels'])$/;"	v	class:QuickTemplate

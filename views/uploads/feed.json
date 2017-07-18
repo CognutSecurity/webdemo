@@ -1,0 +1,410 @@
+{
+   "campaign_id":680,
+   "emails_in":[
+      {
+         "order":1,
+         "email_id":114570,
+         "timestamp":1455742896,
+         "body":"Hi Nicolas,  \n Thank you so much for considering me for the position. I had applied to a few of Prof. Bernstein's projects, so I'm unsure which one you're talking about. Is this the one with StartX?  \n \n Thank you, \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":2,
+         "email_id":114571,
+         "timestamp":1455743897,
+         "body":"Hi Nicolas, \n Thank you very much for your interest in my application. Unfortunately, I had to accept an internship offer, as the deadline for that offer was yesterday. Sorry about that! \n \n Thank you again, \n Vivian \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":3,
+         "email_id":114603,
+         "timestamp":1455747220,
+         "body":"Nicolas, \n Thank you so much for the offer! I have responded to the form as honestly as I could and I would love to speak with you in an interview soon. \n \n Best, \n \n -Charlie \n \n",
+         "replied_with_template_ids":[
+            1825
+         ]
+      },
+      {
+         "order":4,
+         "email_id":114620,
+         "timestamp":1455748881,
+         "body":"Hi Nicolas, \n Thanks for reaching out. I am familiar with the research project and am very much interested in working on the research project over the summer. Thanks for your time. \n \n With kind regards, \n Faraz \n \n",
+         "replied_with_template_ids":[
+            1826
+         ]
+      },
+      {
+         "order":5,
+         "email_id":114621,
+         "timestamp":1455749020,
+         "body":"Hi Nicholas, Thanks for the clarification. I'm not sure if you can speak to this or not, but I applied to a number of other projects with Professor Bernstein--does this mean that I am no longer considered a candidate for those projects? Regardless, because I wasn't sure about which project the survey was asking me about, I selected \"Yes\" to the question \"Are you willing to take CS142 in the Spring?\" though it seems like the appropriate answer is \"The CURIS project I applied to should not require CS142.\" Not sure if that is helpful or not in considering me as an applicant. Thanks, Ben On Wednesday, February 17, 2016, Nicolas Kokkalis \u003c nicolas@assistantcrowd.com \u003e wrote: \n \n",
+         "replied_with_template_ids":[
+            1818
+         ]
+      },
+      {
+         "order":6,
+         "email_id":114627,
+         "timestamp":1455752779,
+         "body":"Nicolas, \n Thank you. I accidentally submitted an incomplete response, so please look at the second submission. Also, I will actually be in Austin, TX this Friday for a dance competition, so in the event I get selected for an interview, could we possible work out a different time?  \n \n Thanks! \n Anika \n \n",
+         "replied_with_template_ids":[
+            1817
+         ]
+      },
+      {
+         "order":7,
+         "email_id":114630,
+         "timestamp":1455753894,
+         "body":"Nicolas, Yes I can meet Thursday anytime from noon-7pm! \n Thanks, \n \n Anika \n \n",
+         "replied_with_template_ids":[
+            1824
+         ]
+      },
+      {
+         "order":8,
+         "email_id":114636,
+         "timestamp":1455777166,
+         "body":"Hi Nicolas, \n Thanks for reaching out to me. I've filled out and submitted the questionnaire. \n \n Looking forward to hearing back from you! \n \n Regards, \n David Morales \n \n",
+         "replied_with_template_ids":[
+            1825
+         ]
+      },
+      {
+         "order":9,
+         "email_id":114637,
+         "timestamp":1455777612,
+         "body":"Thanks for the followup! \n",
+         "replied_with_template_ids":[
+            1823
+         ]
+      },
+      {
+         "order":10,
+         "email_id":114640,
+         "timestamp":1455783485,
+         "body":"Hi Nicolas,  \n Thanks for letting me know. Just submitted it (a little late), but hope that's okay!  \n \n \n",
+         "replied_with_template_ids":[
+            1823
+         ]
+      },
+      {
+         "order":11,
+         "email_id":114641,
+         "timestamp":1455787607,
+         "body":"Hi Nicolas, \n Thank you for your email! \n \n I have completed the online questionnaire that you sent. \n \n Best, \n Catherine \n \n",
+         "replied_with_template_ids":[
+            1823
+         ]
+      },
+      {
+         "order":12,
+         "email_id":114644,
+         "timestamp":1455818645,
+         "body":"Hi Nicolas, \n I just filled out the survey. Sorry I did not do it yesterday - I am in a show and we are in tech week, so I did not get a chance to check email after yesterday morning. I am very interested in this opportunity though!  \n \n Thank you, \n Niki \n \n",
+         "replied_with_template_ids":[
+            1826
+         ]
+      },
+      {
+         "order":13,
+         "email_id":114650,
+         "timestamp":1455851794,
+         "body":"Hi Nicholas, I'm incredibly sorry that I missed your email and was unable to fill out the application - I was unfortunately out of town yesterday. Can I still fill out the application and be considered for an interview? I'm definitely really interested in the  \"Silicon Valley's Collective Social Capital through StartX Network\" project and would love to get a chance to talk to you about it. \n \n Thanks, \n -Tara \n \n",
+         "replied_with_template_ids":[
+            1823
+         ]
+      },
+      {
+         "order":14,
+         "email_id":114659,
+         "timestamp":1455865078,
+         "body":"Awesome, thank you so much, Nicolas. I'm looking forward to meeting you both tomorrow. Best, \n -Tara \n \n",
+         "replied_with_template_ids":[
+            1841
+         ]
+      },
+      {
+         "order":15,
+         "email_id":114674,
+         "timestamp":1455897977,
+         "body":"Nicolas, \n I will be back on campus Sunday early afternoon. This weekend will unfortunately be very busy with rehearsals and competition and limited wifi, but I could Skype anytime after noon on Sunday. Additionally, if you let me know what times you have free tonight during your interview session, I can see if I'll be able to sneak out of rehearsal during any of those times. Sorry for the inconvenience! I can also come in Monday if that's easiest:) \n \n Thanks, \n Anika \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":16,
+         "email_id":114677,
+         "timestamp":1455913997,
+         "body":"Hi Nicolas, Unfortunately, I have an event for the entire evening and won't be able to make any of the times. Do you have alternate times? Thanks! Best, Jessica On Friday, February 19, 2016, Nicolas Kokkalis \u003c nicolas@assistantcrowd.com \u003e wrote: \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":17,
+         "email_id":114719,
+         "timestamp":1455933064,
+         "body":"Sorry about that!  I signed up for the 6pm shift now, is that okay? \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":18,
+         "email_id":114736,
+         "timestamp":1455937101,
+         "body":"Hi Nicolas, I will not be able to make the 7pm interview slot today. Though, I will be joining another CURIS project for the summer. Thank you for considering me as a candidate. Best, Catherine \n On Feb 18, 2016, at 10:56 PM, Nicolas Kokkalis \u003c nicolas@assistantcrowd.com \u003e wrote: \n Hi Catherine, Thanks for filling out the questionnaire. We have decided to invite you for an interview tomorrow, Friday. Please sign up for a time lot on this sheet: https://docs.google.com/spreadsheets/d/1N9vxSAc9Lb...   My collaborator, Chengdiao Fan, and I are looking forward to meeting you in person tomorrow. Thanks, Nicolas   \n \n \n    \n    \n    \n     \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":19,
+         "email_id":114828,
+         "timestamp":1456175817,
+         "body":"Hello Nicolas and Chengdiao,  \n It was lovely meeting you both and learning about your projects earlier today. I'm writing to let you know that I'm interested to pre-match with both the projects that you are working on, with a preference towards Mail Merge. Please confirm if you'd like to pre-match.  \n \n Looking forward to hearing from you!  \n \n \n Aashna Shroff  \n \n \n \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":20,
+         "email_id":114743,
+         "timestamp":1455999657,
+         "body":"\n Dear Nicolas, \n \n Thank you for demoing your project to me last night. After thinking about it for the rest of the evening, I've decided that I would prefer to seek out an industry position for this summer. Please do not consider me for the position any longer. \n \n Best, \n Matt \n \n On Friday, February 19, 2016, Nicolas Kokkalis \u003c nicolas@assistantcrowd.com \u003e wrote: \n \n \n",
+         "replied_with_template_ids":[
+            1842
+         ]
+      },
+      {
+         "order":21,
+         "email_id":114744,
+         "timestamp":1456007387,
+         "body":"\n\n\n\n\n\n \n Hey guys, \n \n \n It was great talking with you yesterday. The project looks very fun and interesting. I would love to be a part of this project and rate it as the \"most interested\" project.  \n \n \n \nThanks and have a great day. \n \n \n \n \n From:  Nicolas Kokkalis \u003cnicolas@assistantcrowd.com\u003e \n Sent:  Thursday, February 18, 2016 11:42 PM \n To:  Ram Hari Dahal \n Cc:  Chengdiao Fan \n Subject:  RE: CURIS Followup [Action Requested]\n   \n \n Hi Ram, \n \nThanks for filling out the questionnaire. We have decided to invite you for an interview tomorrow, Friday. \n \nPlease sign up for a time lot on this sheet: \n https://docs.google.com/spreadsheets/d/1N9vxSAc9Lb... \n \n \nMy collaborator, Chengdiao Fan, and I are looking forward to meeting you in person tomorrow. \n \nThanks, \nNicolas \n \n\n \n \n\n\n\n\n \n \n \n \n\n\n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":22,
+         "email_id":114829,
+         "timestamp":1456175818,
+         "body":"Hi Nicolas and Chengdiao,  \n I've received a couple of pre-match offers from other projects, and was told the pre-match deadline is tonight. Since both of your projects are higher in my preferences than the others, I was wondering if you could let me know if you're interested to pre-match with me.  \n \n I understand this process is complicated, but I'd appreciate you letting me know as soon as you can.  \n \n Thank you, \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":23,
+         "email_id":114745,
+         "timestamp":1456024459,
+         "body":"Hi Nicolas, \n I don't think I can commit to rating all the other projects low, but I rated your project the highest.  Good luck and hopefully I'll see you this summer! \n \n Orien \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":24,
+         "email_id":114830,
+         "timestamp":1456175818,
+         "body":"Hi Aashna, \n Thanks for telling us. It is exciting that you like our project. We enjoyed meeting with you and we also want to give you a prematch. We will check in with the rest of Prof. Bernstein's group to make sure this is ok.  \n \n \n Thanks, \n Chengdiao and Nicolas \n \n \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":25,
+         "email_id":114831,
+         "timestamp":1456175818,
+         "body":"Hi Chengdiao,  That's great-- just wanted to clarify if it is for Mail Merge or Social Capital?  Thanks, Aashna  On Saturday, February 20, 2016, Chengdiao Fan \u003c cdfan@stanford.edu \u003e wrote: \n --  \n Aashna Shroff  \n \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":26,
+         "email_id":114748,
+         "timestamp":1456033160,
+         "body":"Hi Nicolas and Chengdiao, Thank you so much! I'm delighted to hear that - I really enjoyed talking with you both as well and your projects seemed extremely interesting. I'd definitely love to join your team this summer. I have one quick question though - would it be a prematch for both projects or one specific project? \n Best, \n -Tara \n \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":27,
+         "email_id":114832,
+         "timestamp":1456175818,
+         "body":"Hi Aashna, \n It's for the mail merge project. However, we checked with Niloufar and Ethan, and Niloufar is the one moving ahead with the offer and prematching with you. Please let us know if that doesn't work out, because we really want to work with you as well. :) Regardless of the curis pairings, I'd like to get to know you. Maybe we can find other ways to work together in the future. Do you want to have lunch with me one of the days? \n \n Thanks! \n Chengdiao \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":28,
+         "email_id":114833,
+         "timestamp":1456175818,
+         "body":"Hi Chengdiao,  \n Thank you so much for your quick response! I would love to work with you as well. I've just asked Niloufar it is alright for me to switch to another team at this point. With her go-ahead, I will confirm my commitment to Mail Merge. Since I have been told the deadline is tonight, please let me know ASAP what the steps for doing the pre-match are.  \n \n Best, \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":29,
+         "email_id":114834,
+         "timestamp":1456175818,
+         "body":"Hi Chengdiao and Nicolas,  \n Niloufar just gave me the green signal and I'd like to go ahead and pre match with you. Please let me know what the steps to do so are as soon as possible! :) \n \n Best, \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":30,
+         "email_id":114754,
+         "timestamp":1456077361,
+         "body":"Nicolas, Mine is anika.raghuvanshi1. Let me know what time you would like to Skype! Thanks Anika \n On Sunday, February 21, 2016, Nicolas Kokkalis \u003c nicolas@assistantcrowd.com \u003e wrote: \n \n \n --  \n Anika Raghuvanshi \n \n Stanford University | Class of 2019 \n \n B.S. Candidate | Computer Science  \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":31,
+         "email_id":114757,
+         "timestamp":1456096667,
+         "body":"That sounds good! Talk to you soon:) \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":32,
+         "email_id":114835,
+         "timestamp":1456175818,
+         "body":"Hi Aashna,  \n I am glad you got aligned with your top preference project, \"gender bias\". When we asked the group if it is ok to prematch with you because you said our projects are higher in your preference than the others', Ethan also said that you told him that his project was your first choice. This confused everyone and we ended up sharing your emails with each other to figure out what was your true preference. After seeing the messages, we understood that actually you gave such preferences in a serial manner. Sorry for not being so responsive yesterday, which might have contributed to this confusion. I am glad this is all clear now and I hope you have a great research summer. I am still happy to get to know you better sometime. \n \n \n Best, \n Chengdiao \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":33,
+         "email_id":114758,
+         "timestamp":1456099494,
+         "body":"Would you like me to call? \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":34,
+         "email_id":114759,
+         "timestamp":1456101960,
+         "body":"Sure, Nicolas that also sounds good to me. Best, \n -Tara \n \n",
+         "replied_with_template_ids":[
+            1846
+         ]
+      },
+      {
+         "order":35,
+         "email_id":114761,
+         "timestamp":1456105377,
+         "body":"Nicolas, \n I was just following up and letting you know that I would love to prematch with either of your projects. I have a slight preference towards the StartX project, but both are fascinating to me. Like I mentioned, I would also be more than willing to do some work in the spring to catch up on the project.  \n \n Thank you! \n Anika \n \n",
+         "replied_with_template_ids":[
+            1847
+         ]
+      },
+      {
+         "order":36,
+         "email_id":114765,
+         "timestamp":1456116434,
+         "body":"Nicolas, \n That's great! I looked at the CURIS portal and there is no option for ranking a project as 0 - should I just delete the other apps?  \n \n Also a few logistical questions about the project and the program in general. I know you told me a little bit about this, but what kinds of things specifically would I get to work on as part of the project? Do you have a specific vision in mind or is it more of seeing how the project goes and expanding? And for the CURIS program, what is the timeline for the summer? When would I start and end and what would the hours be like during the week? \n \n Thanks! \n Anika \n \n",
+         "replied_with_template_ids":[
+            1848
+         ]
+      },
+      {
+         "order":37,
+         "email_id":114768,
+         "timestamp":1456121641,
+         "body":"Nicolas,  \n I have deleted all other apps, let me know on the status!  \n \n I would love to meet this week. Do you have an office on campus? I could come by or we could get coffee somewhere on campus. \n \n Thanks, \n Anika \n \n",
+         "replied_with_template_ids":[
+            1849
+         ]
+      },
+      {
+         "order":38,
+         "email_id":114809,
+         "timestamp":1456132373,
+         "body":"Hi Nicolas and Chengdiao,  I just wanted to let you know that I updated the ratings on my end - so now Mail Merge is the only project on the CURIS website that I'm applying to. \n Best, \n -Tara  \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":39,
+         "email_id":114866,
+         "timestamp":1456199295,
+         "body":"Great! Does Thursday afternoon work for you? \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":40,
+         "email_id":116273,
+         "timestamp":1456796000,
+         "body":"Hi Chengdiao, \n Apologies for the confusion from my end, as well. I guess I didn't know that you all were communicating behind the scenes to decide on the pre-match. Regardless, I would love to meet with you and get to know you and your work a little better. Would you like to have lunch some time this week? I'm free from 12:30pm to 1:30pm Wednesday through Friday. If this doesn't work for you, please feel free to suggest alternate times!  \n \n Best, \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":41,
+         "email_id":116496,
+         "timestamp":1456906599,
+         "body":"Hi Aashna, \n Glad to hear from you. How about 12:30pm this Friday for lunch? \n \n Best, \n Chengdiao \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":42,
+         "email_id":116636,
+         "timestamp":1457049704,
+         "body":"Hi Chengdiao,  \n Tomorrow at 12:30pm sounds great! Where should we meet?  \n \n Best, ​Aashna Shroff  \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":43,
+         "email_id":116637,
+         "timestamp":1457049900,
+         "body":"We can either meet at the Arrillaga Family Dining Hall first floor or Nexus Cafe near Gates. I'm flexible in terms of location. \n Best, \n Chengdiao \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":44,
+         "email_id":116638,
+         "timestamp":1457050085,
+         "body":"\n Let's do Arrillaga Family Dining! Looking forward to it! \n \n \n",
+         "replied_with_template_ids":[
+
+         ]
+      },
+      {
+         "order":45,
+         "email_id":116639,
+         "timestamp":1457050343,
+         "body":"Awesome! See you tomorrow! :) \n",
+         "replied_with_template_ids":[
+
+         ]
+      }
+   ]
+}

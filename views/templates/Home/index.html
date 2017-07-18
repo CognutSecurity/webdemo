@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <!-- bokeh.js -->
+        <link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.css" rel="stylesheet" type="text/css">
+        <link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.css" rel="stylesheet" type="text/css">
+        <script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.js"></script>
+        <script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.js"></script>
+        <link href="/static/css/powerange.css" rel="stylesheet">
+        <script src="/static/js/powerange.js"></script>
+
+        <!-- my own resource -->
+        <link href="/static/css/style.css" rel="stylesheet">
+        <script src="/static/js/myscript.js"></script>
+    </head>
+        <!-- bokeh plot script -->
+        <!--{{ bokeh_script}}-->
+
+        <body>
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="/">
+                            <p>Cognuts - Home</p>
+                        </a>
+                    </div>
+                    <form class="navbar-form pull-right" role="search">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input id="watch_word_input" type="text" class="form-control" placeholder="search word...">
+                                <span class="input-group-btn">
+                                    <button id="search_similar_btn" class="btn btn-default">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </nav>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form role="acttype" method="post" action="checktype" enctype="multipart/form-data">
+                            <fieldset class="form-group">
+                                <label for="upload_input"><span class="glyphicon glyphicon-open"></span> Upload Your .csv File</label>
+                                <input type="file" accept=".json" class="btn btn-secondary" name="upload_input">
+                            </fieldset>
+                            <div class="btn-group">
+                                <button type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Upload </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <hr>
+            </div>
+        </body>
+</html>

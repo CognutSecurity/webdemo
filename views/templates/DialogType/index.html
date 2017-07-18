@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <!-- bokeh.js -->
+        <link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.css" rel="stylesheet" type="text/css">
+        <link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.css" rel="stylesheet" type="text/css">
+        <script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.js"></script>
+        <script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.js"></script>
+        <link href="/mails/static/css/powerange.css" rel="stylesheet">
+        <script src="/mails/static/js/powerange.js"></script>
+
+        <!-- my own resource -->
+        <link href="/mails/static/css/style.css" rel="stylesheet">
+        <script src="/mails/static/js/myscript.js"></script>
+    </head>
+        <!-- bokeh plot script -->
+        {{ bokeh_script}}
+
+        <div id="we_modal" class="modal fade bs-example-modal-lg" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Word Vector Space</h4>
+                    </div>
+                    <div class="modal-body">
+                        {{bokeh_div}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <body>
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="/">
+                            <p>Dialogue Act Types</p>
+                        </a>
+                    </div>
+                    <form class="navbar-form pull-right" role="search">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input id="watch_word_input" type="text" class="form-control" placeholder="search word...">
+                                <span class="input-group-btn">
+                                    <button id="search_similar_btn" class="btn btn-default">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </nav>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form role="acttype" method="post" action="checktype" enctype="multipart/form-data">
+                            <fieldset class="form-group">
+                                <label for="upload_input"><span class="glyphicon glyphicon-open"></span> Upload Your Campagion File</label>
+                                <input type="file" accept=".json" class="btn btn-secondary" name="upload_input">
+                            </fieldset>
+                            <div class="form-group">
+                                <textarea class="form-control" rows="3" placeholder="input sentences..." name="user_sents">{{userinputs}}</textarea>
+                            </div>
+                            <div class="btn-group">
+                                <button type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Check Act Types</button>
+                                <button type="button" id="we_modal_btn" class="btn btn-success btn-right">
+                                    <span class="glyphicon glyphicon-eye-open"></span>
+                                </button>
+                                <!-- <a id="info_btn" type="button" class="btn btn-info" href="google.com">Show Info</a> -->
+                            </div>
+
+                            {#
+                            <fieldset class="form-group form-inline" style="margin-bottom: 20px;">
+                                <label for="prob_thres_bar" style="margin-bottom: 20px;">Probability threshold</label>
+                                <input type="text" class="js-range" name="prob_thres_bar" value="0.0" min="0" max="1" step="0.02" onchange="updateTags(this.value)" data-orientation="horizontal">
+                            </fieldset>#}
+                        </form>
+                    </div>
+                </div>
+                <hr>
+                <!-- <div id="toolbar" class="row">
+                    <div class="col-md-2">
+                        <form class="form-inline">
+
+                            {#
+                            <fieldset class="form-group">
+                                <label for="mlw_select">Most Likely Word Count</label>
+                                <select class="form-control" name="mlw_select">
+                                    <option value="1"> 1 </option>
+                                    <option value="2"> 2 </option>
+                                    <option value="3"> 3 </option>
+                                    <option value="4"> 4 </option>
+                                    <option value="5"> 5 </option>
+                                </select>
+                            </fieldset>#}
+                        </form>
+                    </div>
+                </div> -->
+                <div class="row">
+                    <div id="#alert_div" class="col-md-12">
+                        <div class="alert alert-info alert-dismissiable fade in" style="display:none;">
+                            <button class="close" type="button" aria-hidden="true">
+                                <span>&times;</span>
+                            </button>
+                            <div id="alert_msg"></div>
+                        </div>
+                    </div>
+                </div>
+
+                {% for mail in mail_list %}
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-success">
+                            <div class="panel-heading">
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                                <b> Email-ID: {{ mail['mid'] }}</b>
+                            </div>
+                            <div class="panel-body">
+                                <div class="col-md-9">
+                                    {% for sent in mail['sents'] %}
+                                    <div class="panel panel-default sentence-panel">
+                                        <div class="panel-heading">
+                                            {% for j in sent['idlist'] %}
+                                            <button class="btn btn-default btn-sm" type="button">
+                                                {{ sent['labels'][j] }} <span class="badge"> {{ sent['probs'][j] }}</span>
+                                            </button>
+                                            {% endfor %}
+                                        </div>
+                                        <div class="panel-body">{{ sent['content'] }}</div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="well">
+                                        <p class="mail_body">{{ mail['message'] }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </body>
+
+</html>
