@@ -17,21 +17,7 @@
         <link href="/mails/static/css/style.css" rel="stylesheet">
         <script src="/mails/static/js/myscript.js"></script>
     </head>
-        <!-- bokeh plot script -->
-        {{ bokeh_script}}
 
-        <div id="we_modal" class="modal fade bs-example-modal-lg" role="dialog">
-            <div class="modal-dialog modal-lg" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title">Word Vector Space</h4>
-                    </div>
-                    <div class="modal-body">
-                        {{bokeh_div}}
-                    </div>
-                </div>
-            </div>
-        </div>
         <body>
             <nav class="navbar navbar-default navbar-fixed-top">
                 <div class="container-fluid">
@@ -66,18 +52,12 @@
                                 <textarea class="form-control" rows="3" placeholder="input sentences..." name="user_sents">{{userinputs}}</textarea>
                             </div>
                             <div class="btn-group">
-                                <button type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Check Act Types</button>
-                                <button type="button" id="we_modal_btn" class="btn btn-success btn-right">
-                                    <span class="glyphicon glyphicon-eye-open"></span>
+                                <button type="submit" class="btn btn-success btn-left">
+                                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                                    Check Act Types
                                 </button>
                                 <!-- <a id="info_btn" type="button" class="btn btn-info" href="google.com">Show Info</a> -->
                             </div>
-
-                            {#
-                            <fieldset class="form-group form-inline" style="margin-bottom: 20px;">
-                                <label for="prob_thres_bar" style="margin-bottom: 20px;">Probability threshold</label>
-                                <input type="text" class="js-range" name="prob_thres_bar" value="0.0" min="0" max="1" step="0.02" onchange="updateTags(this.value)" data-orientation="horizontal">
-                            </fieldset>#}
                         </form>
                     </div>
                 </div>

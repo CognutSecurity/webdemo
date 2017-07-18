@@ -1,13 +1,11 @@
-__author__ = 'morgan'
 import matplotlib.pyplot as plt
 from bokeh.plotting import figure, output_file, save, show
-from bokeh.charts import Scatter
 from bokeh.models import ColumnDataSource, LabelSet
 import numpy as np
 from sklearn.decomposition import PCA, KernelPCA
 from sklearn.manifold import MDS, TSNE
 import getopt, sys, os.path
-import mlcore.utils.plot_utils as pltool
+import plot_utils as pltool
 import importlib
 
 class DatasetViewer(object):

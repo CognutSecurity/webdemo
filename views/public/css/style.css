@@ -32,6 +32,10 @@ body {
    background-color: yellow;
 }
 
+.app_thumbnail {
+
+}
+
 #graph_canvas {
     width: 100%;
     height: 100%;

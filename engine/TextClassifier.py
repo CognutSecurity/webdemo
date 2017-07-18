@@ -170,7 +170,7 @@ if __name__ == '__main__':
    from sklearn.datasets import make_classification, load_digits, load_boston
    from sklearn.model_selection import train_test_split, learning_curve, validation_curve, ShuffleSplit
    from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
-   from mlcore.utils.DataViz import DataViz
+   from helpers.DataViz import DataViz
 
    # Load data
    # Normally we use Xtr denoting training feature set, and ytr denoting training labels

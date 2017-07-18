@@ -1,0 +1,32650 @@
+(dp0
+S'ytr'
+p1
+(lp2
+I1
+aI2
+aI3
+aI4
+aI1
+aI3
+aI5
+aI3
+aI2
+aI3
+aI4
+aI1
+aI3
+aI3
+aI1
+aI6
+aI6
+aI7
+aI3
+aI3
+aI1
+aI3
+aI8
+aI1
+aI9
+aI1
+aI3
+aI1
+aI3
+aI1
+aI2
+aI1
+aI2
+aI2
+aI3
+aI3
+aI1
+aI2
+aI1
+aI3
+aI2
+aI8
+aI3
+aI3
+aI5
+aI9
+aI3
+aI3
+aI1
+aI1
+aI5
+aI1
+aI2
+aI9
+aI1
+aI1
+aI1
+aI5
+aI1
+aI9
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI9
+aI4
+aI5
+aI9
+aI3
+aI4
+aI3
+aI3
+aI1
+aI8
+aI5
+aI10
+aI1
+aI9
+aI9
+aI3
+aI3
+aI1
+aI3
+aI4
+aI8
+aI9
+aI3
+aI3
+aI3
+aI1
+aI3
+aI2
+aI2
+aI11
+aI2
+aI3
+aI3
+aI12
+aI3
+aI9
+aI9
+aI3
+aI3
+aI3
+aI9
+aI4
+aI1
+aI4
+aI3
+aI1
+aI3
+aI1
+aI7
+aI10
+aI3
+aI7
+aI1
+aI2
+aI1
+aI3
+aI1
+aI4
+aI4
+aI5
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI3
+aI3
+aI4
+aI2
+aI1
+aI1
+aI5
+aI4
+aI1
+aI13
+aI4
+aI2
+aI1
+aI3
+aI4
+aI1
+aI3
+aI11
+aI1
+aI9
+aI3
+aI4
+aI11
+aI7
+aI5
+aI2
+aI6
+aI1
+aI1
+aI1
+aI13
+aI13
+aI3
+aI3
+aI5
+aI1
+aI1
+aI2
+aI4
+aI3
+aI13
+aI5
+aI1
+aI2
+aI7
+aI2
+aI1
+aI8
+aI7
+aI9
+aI9
+aI9
+aI7
+aI1
+aI1
+aI3
+aI4
+aI2
+aI1
+aI2
+aI1
+aI1
+aI1
+aI9
+aI2
+aI3
+aI13
+aI5
+aI6
+aI3
+aI3
+aI2
+aI2
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI8
+aI3
+aI9
+aI1
+aI1
+aI1
+aI7
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI13
+aI7
+aI3
+aI9
+aI9
+aI2
+aI12
+aI2
+aI3
+aI13
+aI3
+aI1
+aI3
+aI3
+aI7
+aI1
+aI1
+aI7
+aI1
+aI4
+aI1
+aI5
+aI2
+aI3
+aI2
+aI3
+aI9
+aI9
+aI7
+aI7
+aI3
+aI1
+aI13
+aI2
+aI7
+aI1
+aI1
+aI8
+aI1
+aI3
+aI7
+aI7
+aI7
+aI9
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI2
+aI7
+aI5
+aI3
+aI1
+aI2
+aI6
+aI9
+aI3
+aI6
+aI3
+aI6
+aI9
+aI3
+aI3
+aI13
+aI2
+aI1
+aI7
+aI2
+aI6
+aI7
+aI7
+aI1
+aI3
+aI1
+aI3
+aI6
+aI4
+aI2
+aI1
+aI1
+aI3
+aI11
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI7
+aI1
+aI3
+aI7
+aI7
+aI1
+aI3
+aI2
+aI1
+aI9
+aI1
+aI2
+aI1
+aI9
+aI3
+aI2
+aI9
+aI2
+aI1
+aI1
+aI3
+aI3
+aI3
+aI7
+aI4
+aI3
+aI1
+aI9
+aI9
+aI1
+aI4
+aI2
+aI13
+aI3
+aI3
+aI7
+aI3
+aI9
+aI9
+aI3
+aI1
+aI1
+aI3
+aI10
+aI8
+aI1
+aI2
+aI9
+aI3
+aI1
+aI1
+aI2
+aI5
+aI1
+aI9
+aI9
+aI1
+aI13
+aI7
+aI7
+aI1
+aI3
+aI9
+aI1
+aI2
+aI11
+aI3
+aI2
+aI2
+aI1
+aI2
+aI1
+aI1
+aI3
+aI1
+aI2
+aI3
+aI9
+aI1
+aI9
+aI3
+aI3
+aI9
+aI2
+aI2
+aI4
+aI1
+aI2
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI7
+aI1
+aI1
+aI2
+aI3
+aI3
+aI7
+aI7
+aI1
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI2
+aI2
+aI2
+aI3
+aI2
+aI1
+aI3
+aI3
+aI3
+aI3
+aI2
+aI9
+aI9
+aI1
+aI3
+aI3
+aI1
+aI1
+aI2
+aI3
+aI1
+aI3
+aI1
+aI3
+aI9
+aI2
+aI1
+aI9
+aI3
+aI14
+aI13
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI2
+aI2
+aI2
+aI5
+aI2
+aI6
+aI1
+aI13
+aI9
+aI8
+aI6
+aI8
+aI1
+aI2
+aI3
+aI3
+aI2
+aI2
+aI13
+aI1
+aI6
+aI1
+aI2
+aI2
+aI1
+aI7
+aI2
+aI1
+aI1
+aI13
+aI1
+aI2
+aI1
+aI9
+aI9
+aI3
+aI1
+aI2
+aI2
+aI1
+aI1
+aI1
+aI7
+aI5
+aI1
+aI8
+aI2
+aI1
+aI3
+aI9
+aI8
+aI7
+aI13
+aI1
+aI7
+aI2
+aI13
+aI5
+aI1
+aI5
+aI3
+aI9
+aI1
+aI6
+aI13
+aI3
+aI3
+aI5
+aI5
+aI2
+aI8
+aI1
+aI5
+aI4
+aI1
+aI5
+aI3
+aI1
+aI6
+aI2
+aI1
+aI1
+aI6
+aI1
+aI1
+aI3
+aI1
+aI2
+aI7
+aI3
+aI1
+aI9
+aI1
+aI1
+aI2
+aI1
+aI13
+aI1
+aI2
+aI5
+aI1
+aI1
+aI10
+aI3
+aI3
+aI13
+aI5
+aI3
+aI3
+aI1
+aI1
+aI1
+aI13
+aI1
+aI1
+aI9
+aI1
+aI1
+aI3
+aI1
+aI13
+aI7
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI2
+aI3
+aI2
+aI1
+aI2
+aI13
+aI7
+aI1
+aI3
+aI3
+aI3
+aI5
+aI5
+aI9
+aI2
+aI13
+aI11
+aI3
+aI2
+aI3
+aI2
+aI1
+aI2
+aI1
+aI2
+aI13
+aI2
+aI13
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI7
+aI2
+aI9
+aI1
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI3
+aI3
+aI13
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI4
+aI1
+aI3
+aI4
+aI3
+aI2
+aI4
+aI1
+aI1
+aI2
+aI3
+aI1
+aI2
+aI1
+aI4
+aI3
+aI1
+aI2
+aI3
+aI5
+aI4
+aI4
+aI3
+aI1
+aI3
+aI2
+aI7
+aI7
+aI1
+aI1
+aI4
+aI1
+aI3
+aI1
+aI3
+aI4
+aI1
+aI1
+aI2
+aI7
+aI2
+aI7
+aI1
+aI6
+aI3
+aI1
+aI7
+aI3
+aI3
+aI7
+aI3
+aI5
+aI1
+aI6
+aI1
+aI2
+aI2
+aI4
+aI1
+aI2
+aI1
+aI3
+aI3
+aI4
+aI3
+aI1
+aI7
+aI1
+aI1
+aI7
+aI1
+aI1
+aI7
+aI1
+aI1
+aI7
+aI1
+aI2
+aI1
+aI3
+aI7
+aI1
+aI1
+aI8
+aI9
+aI1
+aI2
+aI5
+aI1
+aI2
+aI2
+aI12
+aI3
+aI1
+aI1
+aI11
+aI4
+aI11
+aI4
+aI11
+aI4
+aI7
+aI1
+aI11
+aI7
+aI11
+aI11
+aI11
+aI1
+aI3
+aI1
+aI1
+aI9
+aI11
+aI2
+aI11
+aI1
+aI9
+aI1
+aI4
+aI9
+aI9
+aI1
+aI8
+aI3
+aI2
+aI1
+aI4
+aI4
+aI4
+aI1
+aI3
+aI1
+aI3
+aI7
+aI7
+aI4
+aI4
+aI1
+aI1
+aI13
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI5
+aI1
+aI1
+aI1
+aI1
+aI1
+aI7
+aI7
+aI1
+aI5
+aI3
+aI1
+aI7
+aI1
+aI1
+aI1
+aI11
+aI3
+aI1
+aI11
+aI1
+aI1
+aI2
+aI1
+aI1
+aI8
+aI7
+aI8
+aI2
+aI8
+aI12
+aI1
+aI7
+aI7
+aI3
+aI1
+aI1
+aI2
+aI9
+aI9
+aI2
+aI6
+aI1
+aI3
+aI2
+aI2
+aI1
+aI2
+aI1
+aI8
+aI1
+aI5
+aI1
+aI1
+aI9
+aI9
+aI9
+aI14
+aI14
+aI1
+aI4
+aI5
+aI1
+aI1
+aI1
+aI5
+aI3
+aI4
+aI1
+aI1
+aI4
+aI3
+aI1
+aI4
+aI4
+aI3
+aI4
+aI3
+aI1
+aI4
+aI4
+aI4
+aI4
+aI5
+aI1
+aI4
+aI7
+aI7
+aI4
+aI1
+aI1
+aI7
+aI9
+aI10
+aI1
+aI7
+aI8
+aI1
+aI1
+aI4
+aI13
+aI8
+aI7
+aI3
+aI4
+aI1
+aI9
+aI9
+aI1
+aI9
+aI3
+aI12
+aI7
+aI1
+aI1
+aI2
+aI1
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI2
+aI13
+aI9
+aI2
+aI2
+aI1
+aI2
+aI13
+aI3
+aI3
+aI8
+aI4
+aI2
+aI4
+aI4
+aI7
+aI4
+aI14
+aI11
+aI1
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI2
+aI13
+aI1
+aI3
+aI3
+aI2
+aI3
+aI2
+aI15
+aI1
+aI4
+aI1
+aI3
+aI11
+aI1
+aI1
+aI2
+aI2
+aI1
+aI3
+aI1
+aI3
+aI1
+aI3
+aI1
+aI13
+aI2
+aI1
+aI9
+aI9
+aI3
+aI4
+aI4
+aI3
+aI3
+aI7
+aI7
+aI1
+aI3
+aI1
+aI1
+aI4
+aI12
+aI2
+aI4
+aI9
+aI7
+aI1
+aI4
+aI10
+aI4
+aI1
+aI1
+aI5
+aI2
+aI1
+aI9
+aI2
+aI1
+aI2
+aI1
+aI1
+aI9
+aI3
+aI1
+aI1
+aI2
+aI1
+aI2
+aI3
+aI1
+aI4
+aI1
+aI4
+aI1
+aI7
+aI7
+aI9
+aI1
+aI1
+aI1
+aI4
+aI1
+aI3
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI9
+aI4
+aI2
+aI4
+aI3
+aI9
+aI4
+aI4
+aI4
+aI7
+aI1
+aI1
+aI2
+aI1
+aI1
+aI9
+aI1
+aI13
+aI1
+aI1
+aI14
+aI9
+aI9
+aI1
+aI3
+aI1
+aI3
+aI4
+aI4
+aI2
+aI3
+aI1
+aI13
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI9
+aI1
+aI4
+aI1
+aI9
+aI9
+aI2
+aI1
+aI14
+aI3
+aI3
+aI4
+aI1
+aI4
+aI1
+aI4
+aI7
+aI7
+aI4
+aI7
+aI9
+aI9
+aI1
+aI2
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI4
+aI12
+aI4
+aI3
+aI2
+aI1
+aI1
+aI4
+aI4
+aI3
+aI3
+aI1
+aI1
+aI1
+aI2
+aI2
+aI2
+aI8
+aI1
+aI7
+aI7
+aI3
+aI8
+aI3
+aI3
+aI1
+aI1
+aI1
+aI5
+aI1
+aI3
+aI1
+aI3
+aI1
+aI3
+aI1
+aI7
+aI1
+aI6
+aI2
+aI3
+aI1
+aI4
+aI12
+aI3
+aI1
+aI3
+aI3
+aI7
+aI7
+aI1
+aI1
+aI1
+aI2
+aI12
+aI3
+aI6
+aI3
+aI5
+aI3
+aI2
+aI8
+aI5
+aI2
+aI1
+aI9
+aI9
+aI4
+aI7
+aI1
+aI1
+aI8
+aI14
+aI9
+aI1
+aI2
+aI3
+aI1
+aI11
+aI2
+aI6
+aI1
+aI10
+aI2
+aI7
+aI1
+aI1
+aI8
+aI5
+aI1
+aI2
+aI7
+aI14
+aI1
+aI1
+aI1
+aI8
+aI3
+aI9
+aI9
+aI1
+aI1
+aI8
+aI2
+aI1
+aI1
+aI9
+aI10
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI1
+aI9
+aI9
+aI13
+aI5
+aI1
+aI1
+aI7
+aI9
+aI9
+aI3
+aI6
+aI3
+aI6
+aI1
+aI4
+aI3
+aI4
+aI1
+aI8
+aI2
+aI4
+aI2
+aI4
+aI1
+aI4
+aI13
+aI4
+aI1
+aI4
+aI5
+aI4
+aI4
+aI1
+aI3
+aI7
+aI7
+aI4
+aI1
+aI1
+aI1
+aI2
+aI1
+aI4
+aI1
+aI3
+aI1
+aI4
+aI9
+aI4
+aI4
+aI4
+aI1
+aI11
+aI11
+aI5
+aI1
+aI5
+aI8
+aI3
+aI9
+aI9
+aI9
+aI6
+aI1
+aI2
+aI14
+aI1
+aI9
+aI4
+aI1
+aI4
+aI6
+aI1
+aI2
+aI7
+aI4
+aI1
+aI1
+aI4
+aI1
+aI7
+aI2
+aI8
+aI4
+aI3
+aI6
+aI4
+aI1
+aI1
+aI3
+aI2
+aI2
+aI13
+aI7
+aI13
+aI3
+aI3
+aI4
+aI1
+aI4
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI13
+aI2
+aI1
+aI3
+aI1
+aI2
+aI7
+aI7
+aI1
+aI3
+aI3
+aI2
+aI9
+aI9
+aI14
+aI6
+aI9
+aI1
+aI1
+aI3
+aI8
+aI3
+aI8
+aI1
+aI1
+aI1
+aI9
+aI1
+aI13
+aI1
+aI6
+aI1
+aI6
+aI1
+aI3
+aI3
+aI12
+aI1
+aI10
+aI9
+aI9
+aI10
+aI1
+aI2
+aI14
+aI11
+aI11
+aI7
+aI7
+aI11
+aI11
+aI11
+aI1
+aI11
+aI1
+aI11
+aI11
+aI11
+aI11
+aI9
+aI9
+aI9
+aI11
+aI10
+aI3
+aI9
+aI1
+aI7
+aI1
+aI1
+aI6
+aI1
+aI1
+aI1
+aI1
+aI1
+aI9
+aI9
+aI1
+aI6
+aI8
+aI1
+aI1
+aI8
+aI1
+aI8
+aI4
+aI1
+aI4
+aI1
+aI8
+aI4
+aI5
+aI1
+aI9
+aI7
+aI7
+aI9
+aI1
+aI4
+aI1
+aI4
+aI1
+aI3
+aI2
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI3
+aI1
+aI3
+aI4
+aI1
+aI2
+aI4
+aI2
+aI5
+aI4
+aI1
+aI4
+aI1
+aI13
+aI2
+aI4
+aI5
+aI5
+aI1
+aI15
+aI1
+aI1
+aI2
+aI1
+aI1
+aI1
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI3
+aI1
+aI4
+aI1
+aI3
+aI1
+aI4
+aI1
+aI6
+aI4
+aI4
+aI4
+aI3
+aI1
+aI4
+aI1
+aI4
+aI4
+aI2
+aI4
+aI1
+aI4
+aI1
+aI7
+aI7
+aI4
+aI9
+aI2
+aI4
+aI4
+aI1
+aI2
+aI1
+aI4
+aI1
+aI3
+aI4
+aI1
+aI1
+aI3
+aI1
+aI5
+aI2
+aI9
+aI3
+aI4
+aI13
+aI14
+aI13
+aI7
+aI7
+aI1
+aI2
+aI3
+aI4
+aI3
+aI7
+aI15
+aI4
+aI2
+aI1
+aI12
+aI2
+aI4
+aI4
+aI1
+aI1
+aI4
+aI9
+aI4
+aI5
+aI3
+aI1
+aI1
+aI2
+aI1
+aI4
+aI9
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI13
+aI4
+aI4
+aI4
+aI4
+aI1
+aI13
+aI3
+aI3
+aI4
+aI3
+aI12
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI2
+aI4
+aI1
+aI1
+aI2
+aI4
+aI7
+aI7
+aI3
+aI1
+aI4
+aI6
+aI1
+aI3
+aI3
+aI4
+aI2
+aI3
+aI1
+aI9
+aI1
+aI1
+aI4
+aI5
+aI4
+aI1
+aI4
+aI7
+aI9
+aI9
+aI11
+aI1
+aI7
+aI1
+aI3
+aI1
+aI2
+aI10
+aI4
+aI1
+aI4
+aI2
+aI2
+aI2
+aI5
+aI4
+aI1
+aI7
+aI7
+aI5
+aI3
+aI5
+aI3
+aI2
+aI5
+aI1
+aI3
+aI2
+aI1
+aI1
+aI1
+aI7
+aI7
+aI4
+aI1
+aI1
+aI1
+aI1
+aI3
+aI4
+aI1
+aI1
+aI8
+aI1
+aI9
+aI12
+aI1
+aI3
+aI1
+aI1
+aI8
+aI4
+aI9
+aI4
+aI10
+aI9
+aI2
+aI13
+aI10
+aI2
+aI13
+aI1
+aI1
+aI1
+aI2
+aI4
+aI1
+aI9
+aI2
+aI2
+aI4
+aI7
+aI9
+aI3
+aI2
+aI1
+aI9
+aI8
+aI2
+aI2
+aI1
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI2
+aI5
+aI1
+aI5
+aI2
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI4
+aI3
+aI1
+aI4
+aI2
+aI9
+aI9
+aI1
+aI8
+aI3
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI9
+aI1
+aI9
+aI9
+aI2
+aI1
+aI10
+aI2
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI5
+aI3
+aI1
+aI1
+aI2
+aI1
+aI3
+aI3
+aI4
+aI1
+aI2
+aI4
+aI2
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI1
+aI4
+aI1
+aI8
+aI1
+aI8
+aI4
+aI2
+aI8
+aI3
+aI4
+aI4
+aI8
+aI4
+aI8
+aI11
+aI3
+aI8
+aI1
+aI2
+aI3
+aI1
+aI1
+aI1
+aI4
+aI1
+aI8
+aI1
+aI1
+aI7
+aI7
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI13
+aI4
+aI4
+aI1
+aI3
+aI1
+aI4
+aI1
+aI4
+aI1
+aI9
+aI2
+aI13
+aI2
+aI2
+aI3
+aI4
+aI4
+aI13
+aI1
+aI3
+aI3
+aI1
+aI4
+aI3
+aI4
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI1
+aI4
+aI4
+aI2
+aI4
+aI4
+aI1
+aI3
+aI4
+aI4
+aI7
+aI1
+aI1
+aI7
+aI13
+aI7
+aI4
+aI1
+aI1
+aI4
+aI3
+aI9
+aI1
+aI4
+aI4
+aI4
+aI7
+aI4
+aI4
+aI4
+aI1
+aI1
+aI1
+aI4
+aI4
+aI1
+aI9
+aI9
+aI7
+aI7
+aI2
+aI4
+aI4
+aI2
+aI4
+aI8
+aI8
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI14
+aI3
+aI4
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI2
+aI9
+aI2
+aI1
+aI1
+aI3
+aI2
+aI4
+aI9
+aI1
+aI9
+aI1
+aI4
+aI1
+aI1
+aI10
+aI5
+aI1
+aI4
+aI1
+aI5
+aI4
+aI3
+aI11
+aI11
+aI3
+aI11
+aI4
+aI5
+aI1
+aI3
+aI1
+aI9
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI4
+aI4
+aI9
+aI4
+aI12
+aI4
+aI1
+aI4
+aI4
+aI2
+aI1
+aI4
+aI5
+aI1
+aI4
+aI4
+aI2
+aI1
+aI4
+aI1
+aI3
+aI4
+aI1
+aI1
+aI4
+aI4
+aI1
+aI2
+aI1
+aI6
+aI2
+aI2
+aI1
+aI5
+aI1
+aI5
+aI1
+aI13
+aI1
+aI9
+aI9
+aI2
+aI1
+aI1
+aI7
+aI1
+aI11
+aI1
+aI1
+aI11
+aI1
+aI2
+aI3
+aI9
+aI9
+aI2
+aI10
+aI1
+aI1
+aI1
+aI2
+aI1
+aI14
+aI2
+aI1
+aI1
+aI9
+aI9
+aI1
+aI13
+aI1
+aI6
+aI1
+aI6
+aI4
+aI1
+aI3
+aI1
+aI13
+aI1
+aI8
+aI10
+aI1
+aI5
+aI4
+aI3
+aI1
+aI8
+aI4
+aI2
+aI3
+aI1
+aI1
+aI7
+aI1
+aI13
+aI1
+aI4
+aI4
+aI2
+aI1
+aI1
+aI1
+aI1
+aI13
+aI9
+aI9
+aI1
+aI2
+aI1
+aI10
+aI13
+aI3
+aI2
+aI3
+aI2
+aI4
+aI2
+aI4
+aI4
+aI1
+aI3
+aI3
+aI3
+aI1
+aI2
+aI7
+aI7
+aI4
+aI9
+aI3
+aI7
+aI7
+aI3
+aI1
+aI6
+aI3
+aI2
+aI1
+aI3
+aI7
+aI1
+aI4
+aI1
+aI11
+aI1
+aI3
+aI7
+aI7
+aI1
+aI7
+aI7
+aI7
+aI1
+aI9
+aI1
+aI4
+aI7
+aI7
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI5
+aI1
+aI3
+aI1
+aI9
+aI9
+aI1
+aI5
+aI2
+aI9
+aI1
+aI3
+aI2
+aI3
+aI3
+aI4
+aI5
+aI4
+aI1
+aI4
+aI3
+aI1
+aI3
+aI1
+aI1
+aI4
+aI2
+aI1
+aI8
+aI1
+aI1
+aI1
+aI1
+aI5
+aI1
+aI2
+aI2
+aI2
+aI1
+aI3
+aI3
+aI1
+aI7
+aI3
+aI2
+aI2
+aI4
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI2
+aI4
+aI3
+aI1
+aI3
+aI3
+aI2
+aI6
+aI9
+aI4
+aI15
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI3
+aI3
+aI7
+aI1
+aI3
+aI2
+aI9
+aI9
+aI1
+aI1
+aI4
+aI1
+aI2
+aI2
+aI1
+aI7
+aI7
+aI7
+aI1
+aI1
+aI1
+aI1
+aI4
+aI1
+aI1
+aI1
+aI1
+aI2
+aI7
+aI7
+aI1
+aI1
+aI7
+aI7
+aI9
+aI1
+aI1
+aI2
+aI1
+aI9
+aI6
+aI7
+aI9
+aI7
+aI2
+aI7
+aI7
+aI13
+aI1
+aI4
+aI1
+aI7
+aI7
+aI1
+aI1
+aI3
+aI1
+aI1
+aI7
+aI1
+aI1
+aI2
+aI1
+aI1
+aI9
+aI2
+aI10
+aI1
+aI1
+aI5
+aI2
+aI1
+aI13
+aI1
+aI1
+aI2
+aI1
+aI1
+aI5
+aI9
+aI9
+aI1
+aI5
+aI1
+aI2
+aI9
+aI9
+aI7
+aI7
+aI1
+aI1
+aI3
+aI1
+aI1
+aI2
+aI9
+aI9
+aI1
+aI11
+aI9
+aI9
+aI2
+aI1
+aI1
+aI5
+aI2
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI13
+aI1
+aI1
+aI5
+aI1
+aI2
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI2
+aI9
+aI9
+aI3
+aI4
+aI2
+aI3
+aI4
+aI1
+aI2
+aI4
+aI1
+aI2
+aI2
+aI3
+aI1
+aI1
+aI1
+aI3
+aI2
+aI9
+aI9
+aI2
+aI2
+aI2
+aI2
+aI1
+aI10
+aI9
+aI9
+aI9
+aI9
+aI3
+aI7
+aI2
+aI3
+aI3
+aI1
+aI2
+aI2
+aI1
+aI7
+aI14
+aI2
+aI2
+aI2
+aI5
+aI2
+aI1
+aI9
+aI2
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI4
+aI7
+aI3
+aI4
+aI3
+aI3
+aI1
+aI3
+aI2
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI4
+aI2
+aI3
+aI15
+aI3
+aI1
+aI1
+aI3
+aI2
+aI3
+aI4
+aI2
+aI4
+aI3
+aI3
+aI2
+aI1
+aI1
+aI3
+aI8
+aI1
+aI1
+aI7
+aI1
+aI3
+aI1
+aI9
+aI6
+aI1
+aI1
+aI1
+aI10
+aI1
+aI2
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI11
+aI1
+aI3
+aI3
+aI11
+aI3
+aI1
+aI1
+aI4
+aI3
+aI1
+aI2
+aI1
+aI9
+aI1
+aI2
+aI2
+aI3
+aI4
+aI2
+aI4
+aI7
+aI7
+aI4
+aI1
+aI11
+aI9
+aI10
+aI2
+aI11
+aI2
+aI11
+aI5
+aI1
+aI1
+aI2
+aI9
+aI1
+aI1
+aI3
+aI14
+aI10
+aI2
+aI1
+aI1
+aI1
+aI9
+aI5
+aI9
+aI9
+aI2
+aI9
+aI2
+aI1
+aI10
+aI2
+aI10
+aI2
+aI13
+aI1
+aI1
+aI9
+aI3
+aI2
+aI1
+aI1
+aI5
+aI1
+aI5
+aI1
+aI11
+aI4
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI3
+aI1
+aI9
+aI10
+aI3
+aI3
+aI7
+aI7
+aI2
+aI7
+aI3
+aI1
+aI1
+aI1
+aI6
+aI1
+aI2
+aI9
+aI4
+aI1
+aI3
+aI1
+aI11
+aI2
+aI1
+aI9
+aI9
+aI1
+aI5
+aI1
+aI1
+aI9
+aI9
+aI3
+aI3
+aI14
+aI9
+aI3
+aI3
+aI2
+aI1
+aI6
+aI8
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI7
+aI3
+aI2
+aI1
+aI2
+aI7
+aI7
+aI7
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI6
+aI3
+aI2
+aI9
+aI9
+aI3
+aI1
+aI1
+aI6
+aI1
+aI3
+aI4
+aI4
+aI6
+aI1
+aI4
+aI13
+aI2
+aI2
+aI9
+aI9
+aI4
+aI7
+aI2
+aI1
+aI2
+aI9
+aI1
+aI9
+aI6
+aI3
+aI4
+aI2
+aI1
+aI4
+aI9
+aI3
+aI2
+aI9
+aI9
+aI3
+aI2
+aI9
+aI9
+aI3
+aI6
+aI2
+aI3
+aI3
+aI9
+aI2
+aI2
+aI12
+aI3
+aI14
+aI4
+aI3
+aI2
+aI2
+aI3
+aI2
+aI1
+aI1
+aI1
+aI2
+aI3
+aI1
+aI2
+aI1
+aI2
+aI2
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI13
+aI4
+aI6
+aI6
+aI4
+aI1
+aI3
+aI2
+aI4
+aI3
+aI12
+aI2
+aI2
+aI2
+aI2
+aI3
+aI2
+aI1
+aI1
+aI15
+aI4
+aI3
+aI7
+aI7
+aI1
+aI2
+aI1
+aI4
+aI3
+aI8
+aI2
+aI3
+aI3
+aI1
+aI4
+aI1
+aI1
+aI2
+aI4
+aI2
+aI2
+aI1
+aI1
+aI9
+aI1
+aI1
+aI3
+aI2
+aI3
+aI2
+aI3
+aI3
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI3
+aI1
+aI9
+aI1
+aI1
+aI1
+aI1
+aI9
+aI9
+aI2
+aI7
+aI1
+aI2
+aI10
+aI9
+aI9
+aI3
+aI10
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI2
+aI5
+aI1
+aI2
+aI1
+aI3
+aI1
+aI3
+aI2
+aI3
+aI4
+aI1
+aI3
+aI2
+aI4
+aI4
+aI4
+aI1
+aI3
+aI4
+aI9
+aI3
+aI1
+aI3
+aI1
+aI3
+aI7
+aI1
+aI1
+aI1
+aI7
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI11
+aI3
+aI3
+aI1
+aI3
+aI4
+aI4
+aI3
+aI7
+aI3
+aI9
+aI3
+aI3
+aI6
+aI3
+aI1
+aI3
+aI6
+aI2
+aI6
+aI1
+aI7
+aI3
+aI6
+aI11
+aI1
+aI4
+aI13
+aI2
+aI4
+aI4
+aI1
+aI11
+aI1
+aI1
+aI3
+aI3
+aI4
+aI1
+aI5
+aI2
+aI1
+aI11
+aI1
+aI3
+aI3
+aI11
+aI4
+aI11
+aI11
+aI6
+aI1
+aI1
+aI4
+aI1
+aI13
+aI1
+aI3
+aI3
+aI2
+aI5
+aI11
+aI4
+aI3
+aI4
+aI3
+aI1
+aI4
+aI4
+aI1
+aI3
+aI1
+aI4
+aI3
+aI2
+aI4
+aI4
+aI4
+aI1
+aI4
+aI3
+aI4
+aI2
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI1
+aI4
+aI1
+aI2
+aI4
+aI4
+aI2
+aI5
+aI1
+aI2
+aI2
+aI4
+aI1
+aI2
+aI3
+aI4
+aI4
+aI3
+aI1
+aI1
+aI5
+aI9
+aI9
+aI3
+aI1
+aI4
+aI1
+aI4
+aI3
+aI2
+aI1
+aI1
+aI4
+aI1
+aI9
+aI4
+aI4
+aI4
+aI1
+aI9
+aI11
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI5
+aI3
+aI2
+aI9
+aI4
+aI4
+aI3
+aI4
+aI3
+aI4
+aI7
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI9
+aI4
+aI3
+aI1
+aI4
+aI4
+aI2
+aI1
+aI15
+aI4
+aI10
+aI3
+aI2
+aI4
+aI1
+aI4
+aI1
+aI9
+aI9
+aI4
+aI2
+aI2
+aI1
+aI3
+aI1
+aI4
+aI1
+aI4
+aI2
+aI4
+aI1
+aI1
+aI4
+aI4
+aI4
+aI4
+aI9
+aI9
+aI3
+aI1
+aI3
+aI3
+aI9
+aI9
+aI3
+aI4
+aI11
+aI4
+aI4
+aI5
+aI4
+aI3
+aI1
+aI3
+aI11
+aI11
+aI1
+aI11
+aI4
+aI11
+aI11
+aI13
+aI11
+aI4
+aI11
+aI4
+aI4
+aI11
+aI1
+aI11
+aI4
+aI4
+aI11
+aI6
+aI4
+aI5
+aI1
+aI1
+aI2
+aI1
+aI4
+aI11
+aI11
+aI4
+aI2
+aI11
+aI3
+aI1
+aI4
+aI1
+aI2
+aI11
+aI4
+aI1
+aI4
+aI1
+aI2
+aI3
+aI9
+aI7
+aI7
+aI4
+aI4
+aI7
+aI1
+aI1
+aI1
+aI1
+aI1
+aI2
+aI2
+aI2
+aI1
+aI3
+aI4
+aI4
+aI4
+aI4
+aI1
+aI7
+aI7
+aI4
+aI4
+aI2
+aI4
+aI3
+aI2
+aI1
+aI4
+aI1
+aI1
+aI4
+aI1
+aI4
+aI1
+aI1
+aI4
+aI9
+aI2
+aI4
+aI2
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI2
+aI7
+aI7
+aI10
+aI5
+aI9
+aI9
+aI1
+aI12
+aI10
+aI2
+aI2
+aI9
+aI9
+aI2
+aI2
+aI14
+aI7
+aI2
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI2
+aI1
+aI1
+aI2
+aI2
+aI2
+aI3
+aI3
+aI4
+aI1
+aI4
+aI4
+aI1
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI11
+aI1
+aI4
+aI2
+aI1
+aI1
+aI1
+aI12
+aI2
+aI1
+aI2
+aI1
+aI1
+aI3
+aI12
+aI1
+aI3
+aI7
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI1
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI11
+aI1
+aI9
+aI11
+aI3
+aI1
+aI3
+aI11
+aI4
+aI4
+aI7
+aI7
+aI7
+aI9
+aI9
+aI3
+aI4
+aI3
+aI4
+aI4
+aI2
+aI4
+aI14
+aI7
+aI4
+aI1
+aI2
+aI4
+aI1
+aI1
+aI1
+aI11
+aI1
+aI3
+aI1
+aI1
+aI1
+aI9
+aI1
+aI3
+aI3
+aI3
+aI1
+aI4
+aI4
+aI4
+aI3
+aI1
+aI3
+aI1
+aI9
+aI9
+aI3
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI1
+aI1
+aI9
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI1
+aI1
+aI9
+aI4
+aI1
+aI4
+aI3
+aI4
+aI2
+aI7
+aI4
+aI4
+aI9
+aI9
+aI1
+aI1
+aI1
+aI10
+aI2
+aI7
+aI3
+aI1
+aI3
+aI3
+aI2
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI2
+aI4
+aI1
+aI4
+aI4
+aI1
+aI1
+aI1
+aI2
+aI3
+aI2
+aI2
+aI9
+aI9
+aI9
+aI2
+aI7
+aI7
+aI14
+aI2
+aI3
+aI11
+aI3
+aI3
+aI1
+aI1
+aI2
+aI4
+aI1
+aI4
+aI4
+aI4
+aI3
+aI4
+aI2
+aI2
+aI1
+aI2
+aI4
+aI4
+aI7
+aI7
+aI1
+aI4
+aI4
+aI1
+aI1
+aI4
+aI1
+aI1
+aI7
+aI9
+aI1
+aI1
+aI2
+aI10
+aI1
+aI2
+aI4
+aI1
+aI9
+aI9
+aI3
+aI3
+aI3
+aI1
+aI1
+aI2
+aI4
+aI4
+aI4
+aI1
+aI4
+aI1
+aI1
+aI4
+aI4
+aI2
+aI1
+aI1
+aI4
+aI4
+aI4
+aI1
+aI9
+aI4
+aI2
+aI4
+aI9
+aI1
+aI2
+aI1
+aI1
+aI2
+aI7
+aI2
+aI2
+aI4
+aI3
+aI7
+aI9
+aI9
+aI1
+aI9
+aI4
+aI4
+aI9
+aI9
+aI9
+aI9
+aI1
+aI4
+aI4
+aI2
+aI10
+aI1
+aI3
+aI1
+aI4
+aI13
+aI4
+aI4
+aI2
+aI3
+aI6
+aI7
+aI7
+aI1
+aI1
+aI9
+aI9
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI14
+aI2
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI1
+aI7
+aI7
+aI2
+aI7
+aI7
+aI1
+aI1
+aI9
+aI4
+aI2
+aI1
+aI1
+aI11
+aI1
+aI1
+aI1
+aI4
+aI2
+aI2
+aI3
+aI1
+aI1
+aI2
+aI2
+aI4
+aI1
+aI3
+aI2
+aI9
+aI1
+aI15
+aI2
+aI1
+aI2
+aI1
+aI4
+aI1
+aI1
+aI1
+aI1
+aI7
+aI2
+aI1
+aI1
+aI1
+aI11
+aI3
+aI1
+aI3
+aI1
+aI3
+aI4
+aI1
+aI4
+aI1
+aI4
+aI2
+aI2
+aI4
+aI1
+aI4
+aI2
+aI4
+aI1
+aI4
+aI1
+aI3
+aI4
+aI1
+aI1
+aI9
+aI3
+aI1
+aI2
+aI4
+aI4
+aI3
+aI1
+aI1
+aI1
+aI4
+aI1
+aI4
+aI3
+aI4
+aI1
+aI2
+aI1
+aI1
+aI4
+aI7
+aI7
+aI1
+aI3
+aI1
+aI3
+aI1
+aI3
+aI7
+aI1
+aI1
+aI5
+aI4
+aI2
+aI3
+aI4
+aI2
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI2
+aI1
+aI4
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI9
+aI4
+aI3
+aI1
+aI3
+aI1
+aI2
+aI4
+aI1
+aI1
+aI3
+aI3
+aI4
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI1
+aI3
+aI1
+aI9
+aI5
+aI3
+aI3
+aI3
+aI7
+aI7
+aI4
+aI3
+aI3
+aI3
+aI7
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI2
+aI3
+aI1
+aI1
+aI1
+aI7
+aI7
+aI3
+aI3
+aI1
+aI9
+aI9
+aI3
+aI1
+aI9
+aI9
+aI9
+aI3
+aI1
+aI10
+aI1
+aI3
+aI3
+aI1
+aI3
+aI1
+aI9
+aI12
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI7
+aI1
+aI5
+aI3
+aI1
+aI3
+aI3
+aI13
+aI1
+aI3
+aI3
+aI13
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI5
+aI3
+aI9
+aI9
+aI3
+aI7
+aI13
+aI10
+aI1
+aI1
+aI1
+aI3
+aI5
+aI1
+aI1
+aI3
+aI1
+aI5
+aI5
+aI7
+aI1
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI5
+aI11
+aI1
+aI3
+aI1
+aI1
+aI3
+aI12
+aI1
+aI1
+aI1
+aI3
+aI1
+aI6
+aI3
+aI1
+aI5
+aI1
+aI9
+aI9
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI10
+aI1
+aI3
+aI1
+aI3
+aI3
+aI1
+aI7
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI1
+aI9
+aI3
+aI1
+aI8
+aI3
+aI1
+aI1
+aI2
+aI1
+aI3
+aI9
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI9
+aI9
+aI1
+aI1
+aI3
+aI1
+aI5
+aI7
+aI3
+aI2
+aI1
+aI1
+aI1
+aI1
+aI7
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI12
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI2
+aI1
+aI3
+aI3
+aI3
+aI6
+aI3
+aI1
+aI3
+aI3
+aI1
+aI9
+aI4
+aI1
+aI4
+aI3
+aI7
+aI8
+aI3
+aI14
+aI3
+aI1
+aI3
+aI3
+aI4
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI6
+aI3
+aI3
+aI4
+aI3
+aI3
+aI1
+aI3
+aI6
+aI2
+aI4
+aI3
+aI3
+aI6
+aI5
+aI1
+aI3
+aI3
+aI15
+aI3
+aI3
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI4
+aI9
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI6
+aI3
+aI3
+aI2
+aI3
+aI4
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI4
+aI3
+aI2
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI2
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI13
+aI2
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI6
+aI7
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI5
+aI4
+aI1
+aI7
+aI7
+aI2
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI5
+aI1
+aI2
+aI3
+aI7
+aI7
+aI3
+aI1
+aI2
+aI1
+aI3
+aI6
+aI2
+aI6
+aI1
+aI3
+aI2
+aI9
+aI1
+aI3
+aI3
+aI4
+aI6
+aI1
+aI3
+aI1
+aI3
+aI3
+aI9
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI5
+aI3
+aI3
+aI5
+aI3
+aI3
+aI7
+aI4
+aI1
+aI3
+aI3
+aI1
+aI4
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI5
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI3
+aI5
+aI3
+aI9
+aI3
+aI3
+aI1
+aI9
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI13
+aI3
+aI3
+aI3
+aI1
+aI3
+aI13
+aI1
+aI4
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI13
+aI7
+aI5
+aI4
+aI7
+aI7
+aI7
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI1
+aI2
+aI1
+aI1
+aI3
+aI9
+aI6
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI4
+aI1
+aI1
+aI4
+aI2
+aI6
+aI4
+aI7
+aI7
+aI4
+aI1
+aI3
+aI1
+aI7
+aI7
+aI2
+aI1
+aI3
+aI3
+aI3
+aI1
+aI5
+aI1
+aI3
+aI3
+aI3
+aI5
+aI4
+aI3
+aI9
+aI9
+aI3
+aI3
+aI1
+aI5
+aI3
+aI1
+aI4
+aI1
+aI1
+aI9
+aI7
+aI4
+aI1
+aI9
+aI1
+aI1
+aI1
+aI5
+aI1
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI1
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI6
+aI3
+aI3
+aI3
+aI7
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI8
+aI9
+aI3
+aI3
+aI1
+aI3
+aI2
+aI3
+aI9
+aI1
+aI1
+aI1
+aI1
+aI6
+aI1
+aI2
+aI1
+aI9
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI2
+aI7
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI3
+aI1
+aI11
+aI15
+aI4
+aI3
+aI13
+aI4
+aI3
+aI9
+aI9
+aI4
+aI7
+aI10
+aI4
+aI3
+aI4
+aI1
+aI1
+aI3
+aI3
+aI7
+aI11
+aI3
+aI3
+aI3
+aI7
+aI11
+aI11
+aI3
+aI4
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI7
+aI7
+aI9
+aI9
+aI1
+aI7
+aI3
+aI1
+aI6
+aI4
+aI2
+aI3
+aI1
+aI3
+aI6
+aI6
+aI3
+aI9
+aI9
+aI1
+aI1
+aI3
+aI3
+aI7
+aI7
+aI1
+aI3
+aI9
+aI3
+aI4
+aI4
+aI4
+aI9
+aI14
+aI3
+aI1
+aI1
+aI1
+aI9
+aI9
+aI3
+aI2
+aI2
+aI2
+aI2
+aI4
+aI3
+aI4
+aI3
+aI2
+aI1
+aI1
+aI3
+aI4
+aI7
+aI7
+aI7
+aI9
+aI9
+aI9
+aI1
+aI1
+aI7
+aI3
+aI3
+aI3
+aI2
+aI13
+aI13
+aI3
+aI7
+aI1
+aI2
+aI3
+aI3
+aI1
+aI3
+aI1
+aI4
+aI3
+aI3
+aI4
+aI4
+aI4
+aI3
+aI2
+aI4
+aI4
+aI2
+aI3
+aI4
+aI1
+aI3
+aI4
+aI2
+aI4
+aI3
+aI4
+aI2
+aI3
+aI4
+aI1
+aI4
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI7
+aI7
+aI7
+aI1
+aI6
+aI3
+aI1
+aI1
+aI1
+aI13
+aI1
+aI3
+aI2
+aI7
+aI4
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI2
+aI2
+aI3
+aI3
+aI1
+aI1
+aI1
+aI4
+aI4
+aI2
+aI1
+aI4
+aI3
+aI2
+aI3
+aI4
+aI1
+aI4
+aI4
+aI9
+aI9
+aI1
+aI3
+aI1
+aI1
+aI3
+aI3
+aI4
+aI14
+aI4
+aI3
+aI2
+aI1
+aI2
+aI9
+aI1
+aI1
+aI4
+aI1
+aI3
+aI2
+aI4
+aI2
+aI1
+aI3
+aI1
+aI1
+aI2
+aI12
+aI9
+aI3
+aI1
+aI2
+aI3
+aI3
+aI1
+aI7
+aI7
+aI2
+aI8
+aI3
+aI2
+aI1
+aI2
+aI14
+aI3
+aI2
+aI1
+aI5
+aI3
+aI2
+aI2
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI3
+aI3
+aI7
+aI3
+aI3
+aI2
+aI3
+aI3
+aI7
+aI4
+aI9
+aI9
+aI1
+aI9
+aI9
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI10
+aI9
+aI9
+aI7
+aI1
+aI7
+aI1
+aI3
+aI1
+aI2
+aI3
+aI1
+aI1
+aI9
+aI9
+aI1
+aI3
+aI1
+aI2
+aI9
+aI9
+aI10
+aI9
+aI2
+aI2
+aI7
+aI2
+aI1
+aI9
+aI7
+aI7
+aI1
+aI9
+aI9
+aI5
+aI9
+aI9
+aI2
+aI1
+aI1
+aI3
+aI3
+aI10
+aI1
+aI3
+aI7
+aI2
+aI10
+aI1
+aI1
+aI7
+aI1
+aI1
+aI4
+aI10
+aI3
+aI9
+aI1
+aI1
+aI7
+aI1
+aI2
+aI2
+aI1
+aI2
+aI9
+aI3
+aI1
+aI1
+aI2
+aI1
+aI13
+aI2
+aI3
+aI3
+aI1
+aI1
+aI5
+aI1
+aI3
+aI2
+aI9
+aI9
+aI1
+aI7
+aI7
+aI9
+aI9
+aI4
+aI3
+aI2
+aI12
+aI2
+aI5
+aI9
+aI1
+aI1
+aI4
+aI1
+aI3
+aI1
+aI9
+aI9
+aI1
+aI7
+aI7
+aI1
+aI1
+aI1
+aI3
+aI3
+aI2
+aI3
+aI9
+aI9
+aI1
+aI2
+aI3
+aI1
+aI4
+aI1
+aI2
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI3
+aI1
+aI1
+aI2
+aI1
+aI1
+aI1
+aI1
+aI2
+aI7
+aI3
+aI2
+aI3
+aI3
+aI7
+aI3
+aI2
+aI4
+aI3
+aI1
+aI13
+aI3
+aI1
+aI1
+aI13
+aI3
+aI2
+aI1
+aI1
+aI2
+aI4
+aI13
+aI2
+aI3
+aI1
+aI4
+aI9
+aI4
+aI1
+aI2
+aI2
+aI4
+aI6
+aI1
+aI4
+aI1
+aI1
+aI1
+aI1
+aI8
+aI2
+aI1
+aI9
+aI9
+aI9
+aI9
+aI4
+aI13
+aI1
+aI9
+aI1
+aI7
+aI3
+aI4
+aI1
+aI2
+aI2
+aI3
+aI3
+aI2
+aI4
+aI3
+aI4
+aI1
+aI1
+aI1
+aI1
+aI9
+aI15
+aI1
+aI1
+aI2
+aI4
+aI13
+aI3
+aI7
+aI2
+aI7
+aI13
+aI2
+aI9
+aI1
+aI9
+aI1
+aI1
+aI14
+aI5
+aI1
+aI1
+aI2
+aI2
+aI14
+aI3
+aI1
+aI9
+aI9
+aI3
+aI2
+aI1
+aI13
+aI3
+aI3
+aI2
+aI1
+aI3
+aI6
+aI3
+aI1
+aI3
+aI3
+aI7
+aI7
+aI9
+aI3
+aI9
+aI9
+aI1
+aI3
+aI1
+aI2
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI4
+aI1
+aI4
+aI2
+aI11
+aI3
+aI1
+aI1
+aI4
+aI3
+aI11
+aI11
+aI11
+aI1
+aI1
+aI1
+aI11
+aI3
+aI1
+aI1
+aI3
+aI11
+aI4
+aI3
+aI1
+aI3
+aI9
+aI9
+aI3
+aI3
+aI10
+aI3
+aI3
+aI7
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI1
+aI2
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI8
+aI4
+aI1
+aI3
+aI3
+aI3
+aI1
+aI1
+aI4
+aI1
+aI3
+aI3
+aI3
+aI4
+aI2
+aI2
+aI13
+aI2
+aI3
+aI2
+aI1
+aI3
+aI3
+aI3
+aI2
+aI1
+aI3
+aI1
+aI1
+aI3
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI1
+aI3
+aI4
+aI5
+aI3
+aI4
+aI1
+aI4
+aI4
+aI1
+aI1
+aI1
+aI3
+aI3
+aI9
+aI1
+aI7
+aI7
+aI4
+aI10
+aI1
+aI9
+aI9
+aI3
+aI9
+aI4
+aI4
+aI3
+aI8
+aI1
+aI4
+aI3
+aI4
+aI1
+aI4
+aI2
+aI4
+aI2
+aI3
+aI2
+aI3
+aI7
+aI13
+aI7
+aI7
+aI1
+aI9
+aI1
+aI3
+aI9
+aI3
+aI7
+aI7
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI2
+aI3
+aI2
+aI2
+aI3
+aI3
+aI4
+aI2
+aI3
+aI1
+aI3
+aI8
+aI3
+aI3
+aI3
+aI3
+aI2
+aI3
+aI9
+aI3
+aI3
+aI3
+aI3
+aI10
+aI2
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI2
+aI11
+aI11
+aI11
+aI11
+aI3
+aI11
+aI11
+aI11
+aI3
+aI3
+aI3
+aI3
+aI4
+aI2
+aI9
+aI4
+aI1
+aI3
+aI1
+aI4
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI11
+aI7
+aI2
+aI1
+aI6
+aI3
+aI4
+aI3
+aI3
+aI2
+aI4
+aI11
+aI1
+aI3
+aI1
+aI1
+aI3
+aI11
+aI3
+aI3
+aI1
+aI2
+aI3
+aI5
+aI3
+aI3
+aI6
+aI3
+aI1
+aI4
+aI1
+aI2
+aI3
+aI8
+aI4
+aI1
+aI1
+aI2
+aI3
+aI2
+aI5
+aI7
+aI2
+aI7
+aI4
+aI9
+aI1
+aI3
+aI4
+aI3
+aI3
+aI5
+aI9
+aI1
+aI1
+aI2
+aI13
+aI3
+aI3
+aI1
+aI8
+aI1
+aI2
+aI1
+aI3
+aI4
+aI1
+aI2
+aI1
+aI3
+aI2
+aI3
+aI2
+aI4
+aI1
+aI13
+aI3
+aI4
+aI3
+aI3
+aI4
+aI4
+aI4
+aI1
+aI2
+aI1
+aI3
+aI2
+aI3
+aI4
+aI1
+aI1
+aI2
+aI1
+aI3
+aI2
+aI3
+aI13
+aI3
+aI9
+aI3
+aI4
+aI2
+aI6
+aI9
+aI1
+aI7
+aI3
+aI1
+aI1
+aI8
+aI8
+aI1
+aI14
+aI6
+aI1
+aI2
+aI1
+aI2
+aI3
+aI3
+aI2
+aI8
+aI3
+aI2
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI1
+aI3
+aI9
+aI4
+aI3
+aI3
+aI1
+aI4
+aI9
+aI3
+aI3
+aI4
+aI12
+aI2
+aI3
+aI2
+aI2
+aI2
+aI2
+aI1
+aI1
+aI2
+aI2
+aI4
+aI2
+aI2
+aI3
+aI1
+aI2
+aI4
+aI3
+aI3
+aI4
+aI1
+aI9
+aI13
+aI1
+aI1
+aI13
+aI9
+aI1
+aI2
+aI2
+aI3
+aI7
+aI7
+aI15
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI2
+aI13
+aI3
+aI13
+aI1
+aI3
+aI1
+aI2
+aI14
+aI3
+aI2
+aI8
+aI2
+aI6
+aI8
+aI3
+aI2
+aI2
+aI4
+aI13
+aI4
+aI3
+aI3
+aI13
+aI7
+aI14
+aI3
+aI14
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI9
+aI3
+aI3
+aI6
+aI3
+aI8
+aI3
+aI3
+aI14
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI3
+aI13
+aI13
+aI3
+aI3
+aI3
+aI7
+aI3
+aI1
+aI2
+aI4
+aI3
+aI1
+aI5
+aI1
+aI1
+aI7
+aI3
+aI7
+aI2
+aI7
+aI2
+aI3
+aI2
+aI1
+aI1
+aI3
+aI3
+aI2
+aI7
+aI1
+aI3
+aI3
+aI1
+aI6
+aI10
+aI4
+aI2
+aI7
+aI1
+aI1
+aI1
+aI2
+aI2
+aI1
+aI5
+aI1
+aI1
+aI2
+aI2
+aI10
+aI7
+aI7
+aI9
+aI1
+aI2
+aI7
+aI2
+aI2
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI2
+aI3
+aI7
+aI7
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI7
+aI1
+aI9
+aI9
+aI6
+aI2
+aI3
+aI3
+aI3
+aI3
+aI2
+aI1
+aI1
+aI1
+aI8
+aI1
+aI1
+aI1
+aI7
+aI9
+aI1
+aI1
+aI8
+aI9
+aI10
+aI9
+aI1
+aI9
+aI10
+aI10
+aI2
+aI2
+aI7
+aI7
+aI1
+aI9
+aI9
+aI2
+aI1
+aI3
+aI13
+aI3
+aI1
+aI2
+aI2
+aI1
+aI1
+aI14
+aI2
+aI7
+aI4
+aI2
+aI8
+aI1
+aI9
+aI9
+aI7
+aI1
+aI1
+aI1
+aI4
+aI2
+aI1
+aI1
+aI1
+aI1
+aI1
+aI2
+aI2
+aI1
+aI2
+aI2
+aI1
+aI1
+aI2
+aI1
+aI1
+aI2
+aI4
+aI2
+aI2
+aI6
+aI1
+aI5
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI8
+aI1
+aI2
+aI1
+aI2
+aI14
+aI13
+aI3
+aI1
+aI3
+aI3
+aI3
+aI5
+aI1
+aI7
+aI1
+aI4
+aI1
+aI10
+aI2
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI2
+aI1
+aI4
+aI9
+aI9
+aI1
+aI4
+aI6
+aI2
+aI10
+aI4
+aI1
+aI2
+aI9
+aI9
+aI2
+aI2
+aI1
+aI2
+aI7
+aI12
+aI1
+aI1
+aI2
+aI1
+aI5
+aI2
+aI3
+aI1
+aI3
+aI9
+aI1
+aI14
+aI5
+aI1
+aI11
+aI2
+aI7
+aI9
+aI1
+aI2
+aI5
+aI3
+aI2
+aI10
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI2
+aI11
+aI1
+aI3
+aI3
+aI1
+aI2
+aI3
+aI3
+aI3
+aI3
+aI8
+aI3
+aI2
+aI9
+aI9
+aI7
+aI7
+aI2
+aI3
+aI3
+aI3
+aI7
+aI3
+aI1
+aI7
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI5
+aI1
+aI5
+aI1
+aI1
+aI1
+aI11
+aI1
+aI3
+aI3
+aI1
+aI2
+aI2
+aI2
+aI1
+aI1
+aI1
+aI8
+aI13
+aI2
+aI2
+aI1
+aI5
+aI2
+aI10
+aI1
+aI2
+aI3
+aI3
+aI1
+aI2
+aI5
+aI1
+aI7
+aI2
+aI1
+aI1
+aI7
+aI1
+aI3
+aI1
+aI2
+aI13
+aI3
+aI1
+aI2
+aI1
+aI1
+aI4
+aI1
+aI1
+aI1
+aI3
+aI3
+aI4
+aI3
+aI7
+aI1
+aI1
+aI6
+aI3
+aI5
+aI1
+aI1
+aI2
+aI6
+aI8
+aI4
+aI1
+aI1
+aI4
+aI4
+aI9
+aI9
+aI2
+aI4
+aI2
+aI2
+aI9
+aI10
+aI9
+aI9
+aI2
+aI4
+aI2
+aI2
+aI1
+aI7
+aI7
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI2
+aI3
+aI9
+aI2
+aI10
+aI1
+aI1
+aI13
+aI1
+aI2
+aI13
+aI1
+aI1
+aI1
+aI1
+aI2
+aI7
+aI7
+aI1
+aI3
+aI2
+aI2
+aI1
+aI3
+aI1
+aI2
+aI1
+aI14
+aI1
+aI6
+aI7
+aI7
+aI1
+aI2
+aI2
+aI1
+aI1
+aI7
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI2
+aI9
+aI8
+aI1
+aI6
+aI7
+aI1
+aI7
+aI3
+aI6
+aI3
+aI2
+aI11
+aI7
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI6
+aI1
+aI1
+aI1
+aI9
+aI14
+aI1
+aI1
+aI1
+aI4
+aI2
+aI6
+aI3
+aI2
+aI6
+aI4
+aI1
+aI4
+aI9
+aI3
+aI2
+aI1
+aI7
+aI3
+aI2
+aI3
+aI2
+aI4
+aI4
+aI3
+aI1
+aI9
+aI1
+aI13
+aI6
+aI4
+aI6
+aI2
+aI1
+aI4
+aI3
+aI3
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI1
+aI3
+aI2
+aI4
+aI4
+aI13
+aI4
+aI4
+aI4
+aI4
+aI9
+aI1
+aI7
+aI4
+aI3
+aI4
+aI1
+aI4
+aI1
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI13
+aI4
+aI1
+aI1
+aI4
+aI11
+aI1
+aI3
+aI4
+aI2
+aI1
+aI2
+aI3
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI1
+aI13
+aI4
+aI4
+aI13
+aI13
+aI13
+aI1
+aI4
+aI2
+aI1
+aI3
+aI1
+aI1
+aI7
+aI1
+aI1
+aI9
+aI9
+aI11
+aI14
+aI3
+aI9
+aI7
+aI7
+aI9
+aI9
+aI10
+aI7
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI4
+aI1
+aI7
+aI7
+aI1
+aI9
+aI7
+aI3
+aI1
+aI3
+aI1
+aI4
+aI1
+aI3
+aI11
+aI3
+aI7
+aI13
+aI1
+aI1
+aI3
+aI3
+aI4
+aI4
+aI4
+aI3
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI4
+aI3
+aI3
+aI1
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI7
+aI3
+aI1
+aI3
+aI3
+aI3
+aI7
+aI4
+aI4
+aI9
+aI1
+aI1
+aI3
+aI1
+aI3
+aI7
+aI7
+aI10
+aI4
+aI1
+aI3
+aI1
+aI3
+aI3
+aI1
+aI4
+aI3
+aI4
+aI3
+aI4
+aI4
+aI4
+aI1
+aI1
+aI12
+aI2
+aI4
+aI3
+aI7
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI4
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI3
+aI1
+aI7
+aI1
+aI1
+aI3
+aI4
+aI3
+aI1
+aI9
+aI9
+aI1
+aI5
+aI1
+aI10
+aI2
+aI2
+aI9
+aI3
+aI1
+aI1
+aI2
+aI10
+aI4
+aI2
+aI4
+aI3
+aI4
+aI1
+aI1
+aI4
+aI3
+aI4
+aI3
+aI11
+aI4
+aI1
+aI3
+aI4
+aI2
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI7
+aI3
+aI3
+aI3
+aI4
+aI2
+aI2
+aI3
+aI2
+aI7
+aI4
+aI3
+aI4
+aI3
+aI2
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI3
+aI1
+aI11
+aI4
+aI7
+aI3
+aI3
+aI3
+aI9
+aI2
+aI4
+aI3
+aI10
+aI1
+aI1
+aI2
+aI1
+aI5
+aI13
+aI1
+aI1
+aI2
+aI1
+aI9
+aI9
+aI1
+aI1
+aI3
+aI1
+aI4
+aI3
+aI3
+aI2
+aI1
+aI4
+aI1
+aI1
+aI1
+aI1
+aI7
+aI1
+aI2
+aI1
+aI1
+aI1
+aI9
+aI9
+aI1
+aI1
+aI1
+aI7
+aI9
+aI3
+aI3
+aI10
+aI9
+aI1
+aI3
+aI3
+aI3
+aI15
+aI1
+aI4
+aI9
+aI4
+aI8
+aI4
+aI1
+aI11
+aI11
+aI11
+aI3
+aI2
+aI3
+aI4
+aI4
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI4
+aI1
+aI3
+aI4
+aI3
+aI7
+aI7
+aI4
+aI2
+aI4
+aI1
+aI2
+aI3
+aI1
+aI3
+aI4
+aI2
+aI1
+aI1
+aI1
+aI1
+aI7
+aI2
+aI5
+aI7
+aI3
+aI4
+aI2
+aI1
+aI2
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI1
+aI1
+aI3
+aI11
+aI11
+aI4
+aI3
+aI7
+aI7
+aI7
+aI3
+aI9
+aI4
+aI4
+aI1
+aI1
+aI1
+aI3
+aI1
+aI4
+aI1
+aI4
+aI3
+aI7
+aI9
+aI7
+aI7
+aI5
+aI9
+aI9
+aI14
+aI1
+aI3
+aI3
+aI4
+aI4
+aI7
+aI1
+aI1
+aI1
+aI4
+aI3
+aI1
+aI3
+aI7
+aI4
+aI4
+aI1
+aI1
+aI4
+aI3
+aI3
+aI5
+aI1
+aI4
+aI5
+aI8
+aI4
+aI12
+aI4
+aI2
+aI3
+aI1
+aI7
+aI2
+aI3
+aI4
+aI3
+aI4
+aI3
+aI3
+aI4
+aI4
+aI8
+aI3
+aI1
+aI7
+aI8
+aI1
+aI1
+aI2
+aI1
+aI5
+aI1
+aI2
+aI7
+aI7
+aI1
+aI3
+aI2
+aI4
+aI4
+aI2
+aI4
+aI3
+aI4
+aI5
+aI2
+aI3
+aI4
+aI4
+aI4
+aI2
+aI4
+aI4
+aI1
+aI4
+aI3
+aI4
+aI4
+aI4
+aI1
+aI4
+aI7
+aI4
+aI3
+aI1
+aI3
+aI3
+aI1
+aI7
+aI4
+aI3
+aI3
+aI1
+aI7
+aI4
+aI9
+aI9
+aI1
+aI3
+aI2
+aI4
+aI1
+aI1
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI4
+aI7
+aI4
+aI4
+aI3
+aI3
+aI1
+aI1
+aI8
+aI5
+aI7
+aI1
+aI7
+aI3
+aI1
+aI1
+aI8
+aI1
+aI9
+aI9
+aI5
+aI3
+aI1
+aI9
+aI9
+aI1
+aI1
+aI7
+aI1
+aI9
+aI7
+aI1
+aI3
+aI3
+aI5
+aI1
+aI1
+aI2
+aI1
+aI1
+aI5
+aI2
+aI8
+aI3
+aI2
+aI2
+aI1
+aI1
+aI1
+aI2
+aI3
+aI7
+aI2
+aI4
+aI1
+aI1
+aI1
+aI4
+aI7
+aI4
+aI4
+aI1
+aI1
+aI5
+aI2
+aI3
+aI1
+aI4
+aI4
+aI1
+aI2
+aI5
+aI4
+aI4
+aI4
+aI1
+aI1
+aI4
+aI2
+aI4
+aI1
+aI11
+aI1
+aI3
+aI1
+aI11
+aI6
+aI1
+aI1
+aI11
+aI2
+aI11
+aI9
+aI2
+aI14
+aI7
+aI3
+aI1
+aI2
+aI1
+aI1
+aI5
+aI7
+aI1
+aI3
+aI11
+aI4
+aI1
+aI4
+aI4
+aI1
+aI6
+aI9
+aI9
+aI1
+aI1
+aI1
+aI3
+aI1
+aI4
+aI11
+aI6
+aI1
+aI4
+aI3
+aI4
+aI11
+aI4
+aI4
+aI11
+aI1
+aI11
+aI2
+aI7
+aI11
+aI3
+aI3
+aI3
+aI1
+aI3
+aI4
+aI1
+aI4
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI9
+aI1
+aI3
+aI2
+aI5
+aI1
+aI1
+aI5
+aI3
+aI10
+aI1
+aI5
+aI5
+aI5
+aI2
+aI1
+aI1
+aI1
+aI5
+aI7
+aI9
+aI9
+aI1
+aI1
+aI11
+aI1
+aI2
+aI1
+aI11
+aI14
+aI2
+aI1
+aI3
+aI1
+aI3
+aI4
+aI5
+aI1
+aI1
+aI3
+aI3
+aI3
+aI14
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI7
+aI9
+aI9
+aI1
+aI10
+aI6
+aI7
+aI7
+aI13
+aI1
+aI1
+aI13
+aI1
+aI5
+aI3
+aI3
+aI4
+aI3
+aI4
+aI4
+aI3
+aI1
+aI7
+aI3
+aI9
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI4
+aI4
+aI9
+aI9
+aI1
+aI3
+aI4
+aI3
+aI4
+aI5
+aI1
+aI3
+aI1
+aI5
+aI3
+aI1
+aI3
+aI3
+aI9
+aI1
+aI1
+aI3
+aI3
+aI14
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI2
+aI7
+aI7
+aI13
+aI1
+aI13
+aI3
+aI1
+aI6
+aI8
+aI3
+aI6
+aI6
+aI1
+aI6
+aI8
+aI1
+aI3
+aI2
+aI5
+aI5
+aI1
+aI7
+aI3
+aI1
+aI3
+aI1
+aI1
+aI7
+aI1
+aI3
+aI6
+aI7
+aI7
+aI3
+aI3
+aI11
+aI3
+aI7
+aI7
+aI1
+aI5
+aI7
+aI7
+aI2
+aI1
+aI1
+aI1
+aI3
+aI3
+aI5
+aI3
+aI7
+aI1
+aI13
+aI1
+aI2
+aI2
+aI1
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI5
+aI2
+aI4
+aI4
+aI1
+aI3
+aI9
+aI4
+aI3
+aI7
+aI7
+aI1
+aI9
+aI9
+aI9
+aI1
+aI14
+aI1
+aI3
+aI1
+aI1
+aI4
+aI6
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI4
+aI3
+aI12
+aI6
+aI1
+aI2
+aI2
+aI3
+aI1
+aI6
+aI2
+aI3
+aI2
+aI1
+aI2
+aI1
+aI4
+aI1
+aI4
+aI1
+aI1
+aI4
+aI5
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI2
+aI3
+aI1
+aI1
+aI3
+aI6
+aI1
+aI2
+aI1
+aI11
+aI11
+aI7
+aI1
+aI1
+aI3
+aI11
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI4
+aI4
+aI4
+aI1
+aI3
+aI3
+aI4
+aI3
+aI4
+aI1
+aI4
+aI4
+aI3
+aI7
+aI7
+aI3
+aI4
+aI2
+aI2
+aI1
+aI3
+aI2
+aI1
+aI3
+aI5
+aI3
+aI1
+aI1
+aI1
+aI2
+aI13
+aI4
+aI3
+aI1
+aI1
+aI4
+aI1
+aI3
+aI7
+aI1
+aI1
+aI9
+aI9
+aI8
+aI2
+aI4
+aI2
+aI4
+aI1
+aI1
+aI8
+aI1
+aI1
+aI3
+aI3
+aI1
+aI4
+aI2
+aI7
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI1
+aI8
+aI3
+aI4
+aI4
+aI5
+aI4
+aI4
+aI1
+aI4
+aI9
+aI2
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI4
+aI1
+aI3
+aI3
+aI7
+aI1
+aI7
+aI7
+aI4
+aI1
+aI1
+aI4
+aI3
+aI3
+aI9
+aI3
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI7
+aI1
+aI5
+aI1
+aI9
+aI2
+aI11
+aI3
+aI10
+aI1
+aI8
+aI3
+aI8
+aI3
+aI4
+aI3
+aI6
+aI8
+aI8
+aI3
+aI3
+aI3
+aI1
+aI2
+aI7
+aI3
+aI3
+aI2
+aI1
+aI1
+aI3
+aI1
+aI8
+aI1
+aI7
+aI4
+aI1
+aI3
+aI8
+aI4
+aI1
+aI9
+aI9
+aI3
+aI4
+aI9
+aI3
+aI1
+aI1
+aI3
+aI2
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI9
+aI9
+aI1
+aI8
+aI3
+aI3
+aI8
+aI2
+aI14
+aI1
+aI3
+aI8
+aI13
+aI7
+aI3
+aI8
+aI1
+aI5
+aI9
+aI13
+aI7
+aI7
+aI1
+aI1
+aI1
+aI9
+aI3
+aI3
+aI1
+aI10
+aI8
+aI3
+aI3
+aI5
+aI4
+aI1
+aI8
+aI1
+aI1
+aI8
+aI3
+aI1
+aI3
+aI11
+aI8
+aI8
+aI1
+aI8
+aI3
+aI3
+aI1
+aI3
+aI1
+aI4
+aI8
+aI4
+aI1
+aI1
+aI4
+aI3
+aI4
+aI4
+aI3
+aI3
+aI3
+aI8
+aI3
+aI4
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI4
+aI4
+aI4
+aI4
+aI2
+aI3
+aI1
+aI3
+aI3
+aI8
+aI1
+aI3
+aI2
+aI7
+aI3
+aI1
+aI1
+aI3
+aI6
+aI1
+aI1
+aI8
+aI3
+aI9
+aI8
+aI9
+aI8
+aI3
+aI9
+aI4
+aI3
+aI4
+aI4
+aI3
+aI3
+aI2
+aI4
+aI4
+aI4
+aI6
+aI1
+aI10
+aI1
+aI2
+aI3
+aI9
+aI4
+aI9
+aI3
+aI3
+aI4
+aI7
+aI3
+aI4
+aI4
+aI2
+aI1
+aI2
+aI1
+aI4
+aI7
+aI7
+aI3
+aI3
+aI2
+aI3
+aI2
+aI7
+aI7
+aI1
+aI9
+aI2
+aI3
+aI2
+aI12
+aI4
+aI7
+aI4
+aI1
+aI3
+aI1
+aI1
+aI8
+aI3
+aI1
+aI5
+aI2
+aI4
+aI9
+aI6
+aI4
+aI3
+aI2
+aI4
+aI2
+aI4
+aI1
+aI2
+aI15
+aI2
+aI1
+aI2
+aI13
+aI1
+aI4
+aI4
+aI1
+aI4
+aI3
+aI4
+aI1
+aI3
+aI4
+aI15
+aI1
+aI3
+aI3
+aI6
+aI3
+aI1
+aI1
+aI1
+aI2
+aI1
+aI6
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI5
+aI3
+aI6
+aI3
+aI1
+aI9
+aI8
+aI4
+aI3
+aI1
+aI4
+aI3
+aI3
+aI3
+aI5
+aI3
+aI8
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI7
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI5
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI3
+aI3
+aI8
+aI3
+aI3
+aI8
+aI1
+aI3
+aI4
+aI2
+aI8
+aI7
+aI4
+aI3
+aI4
+aI3
+aI1
+aI1
+aI4
+aI3
+aI2
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI8
+aI11
+aI9
+aI9
+aI1
+aI3
+aI1
+aI3
+aI3
+aI8
+aI11
+aI4
+aI3
+aI8
+aI3
+aI2
+aI3
+aI2
+aI1
+aI3
+aI11
+aI1
+aI5
+aI1
+aI3
+aI11
+aI4
+aI4
+aI3
+aI3
+aI6
+aI1
+aI1
+aI1
+aI3
+aI3
+aI5
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI4
+aI3
+aI8
+aI3
+aI4
+aI3
+aI7
+aI3
+aI3
+aI1
+aI1
+aI8
+aI3
+aI7
+aI7
+aI1
+aI1
+aI7
+aI7
+aI1
+aI3
+aI5
+aI1
+aI13
+aI1
+aI2
+aI3
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI11
+aI4
+aI7
+aI3
+aI3
+aI1
+aI13
+aI3
+aI2
+aI7
+aI13
+aI1
+aI3
+aI9
+aI9
+aI3
+aI2
+aI1
+aI3
+aI3
+aI3
+aI7
+aI7
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI2
+aI4
+aI1
+aI4
+aI13
+aI6
+aI3
+aI7
+aI7
+aI9
+aI2
+aI3
+aI3
+aI1
+aI2
+aI2
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI2
+aI5
+aI1
+aI3
+aI2
+aI3
+aI1
+aI3
+aI2
+aI7
+aI3
+aI3
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI4
+aI2
+aI7
+aI2
+aI1
+aI3
+aI13
+aI3
+aI5
+aI7
+aI3
+aI9
+aI9
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI5
+aI7
+aI9
+aI3
+aI9
+aI1
+aI9
+aI3
+aI7
+aI9
+aI1
+aI1
+aI2
+aI2
+aI4
+aI3
+aI1
+aI6
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI15
+aI1
+aI1
+aI4
+aI4
+aI3
+aI1
+aI7
+aI6
+aI3
+aI9
+aI5
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI6
+aI3
+aI4
+aI2
+aI7
+aI7
+aI3
+aI4
+aI6
+aI3
+aI3
+aI2
+aI1
+aI7
+aI3
+aI1
+aI7
+aI9
+aI9
+aI9
+aI9
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI4
+aI3
+aI7
+aI3
+aI3
+aI1
+aI1
+aI2
+aI7
+aI7
+aI1
+aI2
+aI2
+aI5
+aI9
+aI1
+aI3
+aI9
+aI1
+aI14
+aI6
+aI1
+aI8
+aI3
+aI3
+aI7
+aI13
+aI3
+aI1
+aI3
+aI3
+aI1
+aI15
+aI3
+aI3
+aI1
+aI7
+aI7
+aI7
+aI7
+aI3
+aI3
+aI9
+aI1
+aI9
+aI4
+aI4
+aI7
+aI1
+aI9
+aI7
+aI1
+aI1
+aI7
+aI1
+aI8
+aI13
+aI9
+aI3
+aI3
+aI1
+aI7
+aI1
+aI2
+aI7
+aI1
+aI1
+aI3
+aI2
+aI1
+aI6
+aI8
+aI1
+aI1
+aI2
+aI1
+aI3
+aI2
+aI2
+aI1
+aI2
+aI3
+aI1
+aI8
+aI2
+aI6
+aI1
+aI4
+aI1
+aI2
+aI6
+aI4
+aI3
+aI1
+aI3
+aI1
+aI1
+aI5
+aI1
+aI1
+aI1
+aI1
+aI15
+aI3
+aI4
+aI1
+aI9
+aI3
+aI3
+aI1
+aI3
+aI2
+aI3
+aI3
+aI6
+aI3
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI11
+aI15
+aI11
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI2
+aI4
+aI9
+aI1
+aI10
+aI7
+aI7
+aI1
+aI8
+aI1
+aI13
+aI1
+aI1
+aI1
+aI1
+aI1
+aI9
+aI1
+aI3
+aI1
+aI10
+aI8
+aI7
+aI6
+aI1
+aI3
+aI8
+aI5
+aI7
+aI1
+aI3
+aI1
+aI1
+aI9
+aI9
+aI7
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI9
+aI3
+aI3
+aI3
+aI7
+aI13
+aI4
+aI3
+aI3
+aI3
+aI1
+aI6
+aI8
+aI8
+aI3
+aI3
+aI1
+aI3
+aI2
+aI5
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI7
+aI3
+aI1
+aI2
+aI7
+aI7
+aI3
+aI1
+aI4
+aI9
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI10
+aI9
+aI3
+aI3
+aI7
+aI13
+aI10
+aI3
+aI2
+aI10
+aI3
+aI3
+aI1
+aI9
+aI1
+aI9
+aI3
+aI3
+aI9
+aI7
+aI10
+aI3
+aI1
+aI8
+aI1
+aI2
+aI8
+aI10
+aI2
+aI2
+aI3
+aI2
+aI1
+aI5
+aI1
+aI1
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI2
+aI6
+aI1
+aI1
+aI2
+aI3
+aI7
+aI1
+aI9
+aI1
+aI2
+aI1
+aI3
+aI1
+aI6
+aI7
+aI3
+aI1
+aI9
+aI6
+aI9
+aI5
+aI3
+aI3
+aI4
+aI7
+aI7
+aI10
+aI1
+aI7
+aI3
+aI3
+aI1
+aI3
+aI10
+aI4
+aI1
+aI3
+aI3
+aI7
+aI3
+aI1
+aI11
+aI1
+aI3
+aI9
+aI8
+aI10
+aI1
+aI13
+aI3
+aI1
+aI1
+aI1
+aI5
+aI3
+aI9
+aI9
+aI4
+aI4
+aI1
+aI3
+aI3
+aI4
+aI9
+aI9
+aI1
+aI9
+aI3
+aI7
+aI7
+aI9
+aI3
+aI1
+aI14
+aI1
+aI3
+aI7
+aI2
+aI2
+aI2
+aI2
+aI1
+aI3
+aI3
+aI1
+aI8
+aI3
+aI3
+aI1
+aI1
+aI8
+aI3
+aI1
+aI2
+aI4
+aI4
+aI4
+aI1
+aI9
+aI4
+aI1
+aI13
+aI3
+aI4
+aI12
+aI13
+aI9
+aI1
+aI3
+aI1
+aI1
+aI4
+aI1
+aI3
+aI2
+aI8
+aI2
+aI3
+aI13
+aI1
+aI7
+aI1
+aI8
+aI1
+aI9
+aI9
+aI1
+aI7
+aI6
+aI1
+aI13
+aI6
+aI2
+aI1
+aI7
+aI8
+aI3
+aI2
+aI8
+aI8
+aI13
+aI3
+aI8
+aI8
+aI3
+aI1
+aI9
+aI1
+aI3
+aI14
+aI3
+aI6
+aI2
+aI1
+aI4
+aI5
+aI1
+aI9
+aI1
+aI1
+aI1
+aI1
+aI1
+aI7
+aI3
+aI3
+aI11
+aI3
+aI9
+aI4
+aI4
+aI6
+aI1
+aI1
+aI3
+aI4
+aI3
+aI1
+aI7
+aI3
+aI9
+aI1
+aI9
+aI10
+aI14
+aI3
+aI4
+aI1
+aI9
+aI3
+aI9
+aI10
+aI9
+aI3
+aI3
+aI3
+aI3
+aI1
+aI2
+aI14
+aI9
+aI9
+aI4
+aI1
+aI2
+aI14
+aI4
+aI3
+aI3
+aI15
+aI7
+aI9
+aI1
+aI13
+aI1
+aI3
+aI13
+aI5
+aI3
+aI2
+aI2
+aI1
+aI9
+aI1
+aI1
+aI1
+aI2
+aI3
+aI3
+aI2
+aI2
+aI1
+aI15
+aI9
+aI1
+aI3
+aI1
+aI2
+aI1
+aI3
+aI5
+aI7
+aI1
+aI3
+aI1
+aI1
+aI3
+aI9
+aI3
+aI3
+aI9
+aI9
+aI9
+aI3
+aI3
+aI1
+aI1
+aI9
+aI3
+aI3
+aI3
+aI7
+aI7
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI9
+aI3
+aI3
+aI2
+aI5
+aI3
+aI1
+aI1
+aI4
+aI2
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI1
+aI9
+aI1
+aI3
+aI3
+aI8
+aI7
+aI2
+aI3
+aI6
+aI1
+aI2
+aI3
+aI1
+aI3
+aI1
+aI3
+aI1
+aI1
+aI9
+aI4
+aI3
+aI7
+aI3
+aI9
+aI3
+aI3
+aI2
+aI4
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI1
+aI4
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI7
+aI7
+aI1
+aI7
+aI7
+aI7
+aI2
+aI2
+aI3
+aI3
+aI3
+aI1
+aI4
+aI3
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI9
+aI3
+aI1
+aI3
+aI4
+aI14
+aI1
+aI3
+aI1
+aI1
+aI3
+aI5
+aI6
+aI3
+aI3
+aI3
+aI1
+aI1
+aI6
+aI1
+aI1
+aI8
+aI1
+aI3
+aI7
+aI3
+aI1
+aI1
+aI9
+aI14
+aI3
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI1
+aI2
+aI1
+aI13
+aI1
+aI11
+aI11
+aI1
+aI3
+aI4
+aI3
+aI1
+aI1
+aI2
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI1
+aI13
+aI4
+aI13
+aI1
+aI7
+aI5
+aI3
+aI4
+aI3
+aI3
+aI2
+aI6
+aI7
+aI3
+aI3
+aI9
+aI1
+aI10
+aI2
+aI5
+aI3
+aI4
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI9
+aI3
+aI9
+aI9
+aI5
+aI9
+aI3
+aI3
+aI7
+aI7
+aI1
+aI9
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI9
+aI9
+aI4
+aI1
+aI1
+aI13
+aI7
+aI1
+aI7
+aI1
+aI1
+aI1
+aI1
+aI7
+aI7
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI4
+aI4
+aI4
+aI1
+aI4
+aI11
+aI13
+aI1
+aI1
+aI2
+aI7
+aI11
+aI1
+aI4
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI3
+aI7
+aI11
+aI3
+aI11
+aI1
+aI1
+aI1
+aI4
+aI4
+aI3
+aI4
+aI7
+aI4
+aI3
+aI3
+aI1
+aI4
+aI3
+aI4
+aI1
+aI4
+aI3
+aI10
+aI4
+aI10
+aI1
+aI3
+aI7
+aI7
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI3
+aI1
+aI4
+aI1
+aI1
+aI3
+aI2
+aI3
+aI1
+aI3
+aI8
+aI1
+aI3
+aI3
+aI7
+aI7
+aI4
+aI3
+aI1
+aI1
+aI9
+aI1
+aI1
+aI9
+aI3
+aI3
+aI14
+aI1
+aI1
+aI2
+aI1
+aI1
+aI7
+aI1
+aI3
+aI3
+aI7
+aI3
+aI1
+aI3
+aI4
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI4
+aI3
+aI9
+aI9
+aI1
+aI1
+aI4
+aI4
+aI4
+aI14
+aI2
+aI1
+aI4
+aI1
+aI7
+aI3
+aI3
+aI4
+aI7
+aI7
+aI3
+aI9
+aI3
+aI4
+aI4
+aI1
+aI3
+aI7
+aI3
+aI4
+aI9
+aI4
+aI10
+aI1
+aI4
+aI1
+aI3
+aI1
+aI1
+aI4
+aI4
+aI7
+aI2
+aI3
+aI4
+aI9
+aI2
+aI4
+aI3
+aI12
+aI3
+aI3
+aI1
+aI4
+aI11
+aI1
+aI7
+aI4
+aI8
+aI1
+aI4
+aI1
+aI1
+aI4
+aI2
+aI1
+aI4
+aI1
+aI2
+aI9
+aI9
+aI4
+aI2
+aI13
+aI3
+aI7
+aI3
+aI1
+aI14
+aI5
+aI1
+aI13
+aI1
+aI1
+aI1
+aI9
+aI1
+aI4
+aI15
+aI9
+aI9
+aI1
+aI4
+aI3
+aI3
+aI2
+aI4
+aI1
+aI7
+aI7
+aI11
+aI1
+aI3
+aI1
+aI13
+aI1
+aI11
+aI1
+aI1
+aI1
+aI3
+aI4
+aI3
+aI13
+aI9
+aI9
+aI1
+aI4
+aI1
+aI1
+aI3
+aI1
+aI15
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI7
+aI2
+aI1
+aI1
+aI1
+aI15
+aI15
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI8
+aI1
+aI2
+aI1
+aI3
+aI7
+aI7
+aI1
+aI3
+aI1
+aI7
+aI4
+aI3
+aI3
+aI7
+aI7
+aI4
+aI1
+aI1
+aI7
+aI7
+aI1
+aI1
+aI1
+aI1
+aI1
+aI7
+aI1
+aI3
+aI3
+aI3
+aI1
+aI4
+aI3
+aI1
+aI1
+aI7
+aI7
+aI1
+aI3
+aI9
+aI1
+aI9
+aI3
+aI1
+aI7
+aI7
+aI3
+aI3
+aI1
+aI3
+aI3
+aI5
+aI1
+aI4
+aI3
+aI3
+aI1
+aI1
+aI3
+aI3
+aI1
+aI3
+aI4
+aI7
+aI3
+aI3
+aI3
+aI9
+aI7
+aI4
+aI7
+aI3
+aI1
+aI3
+aI1
+aI3
+aI1
+aI2
+aI7
+aI4
+aI1
+aI12
+aI6
+aI2
+aI4
+aI1
+aI13
+aI1
+aI5
+aI1
+aI3
+aI1
+aI5
+aI1
+aI4
+aI1
+aI3
+aI3
+aI1
+aI3
+aI2
+aI1
+aI9
+aI9
+aI3
+aI2
+aI3
+aI3
+aI1
+aI14
+aI3
+aI9
+aI1
+aI3
+aI1
+aI2
+aI3
+aI3
+aI1
+aI1
+aI7
+aI7
+aI9
+aI9
+aI1
+aI14
+aI2
+aI1
+aI2
+aI2
+aI2
+aI1
+aI3
+aI4
+aI1
+aI3
+aI3
+aI1
+aI9
+aI9
+aI1
+aI1
+aI3
+aI10
+aI4
+aI1
+aI3
+aI2
+aI2
+aI2
+aI4
+aI1
+aI3
+aI4
+aI7
+aI3
+aI4
+aI2
+aI4
+aI3
+aI4
+aI1
+aI5
+aI4
+aI4
+aI4
+aI4
+aI1
+aI6
+aI2
+aI2
+aI9
+aI1
+aI1
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI4
+aI1
+aI4
+aI1
+aI1
+aI4
+aI3
+aI1
+aI7
+aI3
+aI5
+aI3
+aI3
+aI3
+aI9
+aI2
+aI4
+aI9
+aI9
+aI1
+aI4
+aI1
+aI7
+aI2
+aI1
+aI1
+aI7
+aI7
+aI3
+aI4
+aI3
+aI1
+aI11
+aI4
+aI1
+aI1
+aI2
+aI3
+aI9
+aI9
+aI3
+aI13
+aI4
+aI4
+aI1
+aI1
+aI4
+aI4
+aI1
+aI4
+aI1
+aI1
+aI8
+aI8
+aI3
+aI13
+aI2
+aI1
+aI1
+aI2
+aI2
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI9
+aI3
+aI10
+aI2
+aI2
+aI3
+aI13
+aI1
+aI1
+aI2
+aI2
+aI2
+aI3
+aI3
+aI4
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI3
+aI4
+aI1
+aI4
+aI4
+aI11
+aI3
+aI1
+aI1
+aI4
+aI4
+aI2
+aI4
+aI4
+aI4
+aI1
+aI1
+aI4
+aI1
+aI1
+aI11
+aI7
+aI3
+aI11
+aI3
+aI1
+aI4
+aI1
+aI1
+aI4
+aI1
+aI4
+aI4
+aI3
+aI2
+aI7
+aI7
+aI4
+aI1
+aI4
+aI7
+aI7
+aI4
+aI1
+aI4
+aI1
+aI4
+aI4
+aI7
+aI1
+aI9
+aI9
+aI4
+aI10
+aI2
+aI2
+aI1
+aI7
+aI7
+aI1
+aI1
+aI9
+aI1
+aI4
+aI4
+aI1
+aI4
+aI1
+aI3
+aI4
+aI1
+aI2
+aI4
+aI4
+aI4
+aI1
+aI1
+aI3
+aI1
+aI4
+aI1
+aI9
+aI4
+aI4
+aI4
+aI2
+aI4
+aI1
+aI4
+aI4
+aI13
+aI4
+aI3
+aI9
+aI13
+aI4
+aI2
+aI1
+aI4
+aI3
+aI3
+aI1
+aI7
+aI10
+aI1
+aI3
+aI3
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI5
+aI1
+aI5
+aI7
+aI7
+aI4
+aI9
+aI9
+aI5
+aI4
+aI1
+aI7
+aI7
+aI1
+aI3
+aI3
+aI2
+aI1
+aI1
+aI9
+aI7
+aI3
+aI2
+aI1
+aI7
+aI1
+aI9
+aI2
+aI1
+aI2
+aI2
+aI1
+aI1
+aI1
+aI3
+aI1
+aI4
+aI4
+aI1
+aI1
+aI1
+aI1
+aI4
+aI12
+aI2
+aI4
+aI2
+aI4
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI9
+aI9
+aI9
+aI9
+aI1
+aI3
+aI1
+aI3
+aI14
+aI2
+aI2
+aI1
+aI10
+aI3
+aI1
+aI2
+aI1
+aI2
+aI1
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI2
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI9
+aI5
+aI4
+aI4
+aI9
+aI9
+aI4
+aI1
+aI1
+aI1
+aI7
+aI1
+aI3
+aI2
+aI1
+aI4
+aI9
+aI1
+aI1
+aI4
+aI1
+aI4
+aI1
+aI9
+aI1
+aI3
+aI10
+aI4
+aI1
+aI4
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI1
+aI9
+aI1
+aI2
+aI9
+aI9
+aI2
+aI2
+aI2
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI4
+aI9
+aI2
+aI1
+aI3
+aI4
+aI4
+aI9
+aI1
+aI4
+aI7
+aI7
+aI3
+aI1
+aI4
+aI4
+aI4
+aI2
+aI3
+aI1
+aI4
+aI1
+aI13
+aI11
+aI11
+aI11
+aI11
+aI3
+aI6
+aI9
+aI9
+aI13
+aI7
+aI7
+aI2
+aI1
+aI1
+aI3
+aI2
+aI4
+aI1
+aI4
+aI1
+aI4
+aI4
+aI6
+aI1
+aI1
+aI3
+aI7
+aI7
+aI11
+aI1
+aI7
+aI7
+aI4
+aI7
+aI7
+aI1
+aI2
+aI1
+aI1
+aI4
+aI7
+aI8
+aI1
+aI1
+aI1
+aI7
+aI7
+aI1
+aI13
+aI13
+aI7
+aI9
+aI9
+aI1
+aI1
+aI7
+aI3
+aI1
+aI2
+aI3
+aI1
+aI1
+aI3
+aI4
+aI1
+aI15
+aI4
+aI4
+aI1
+aI4
+aI4
+aI3
+aI1
+aI2
+aI3
+aI1
+aI4
+aI4
+aI4
+aI4
+aI7
+aI1
+aI4
+aI1
+aI7
+aI7
+aI1
+aI4
+aI4
+aI4
+aI1
+aI1
+aI1
+aI1
+aI1
+aI2
+aI1
+aI1
+aI1
+aI11
+aI2
+aI3
+aI3
+aI9
+aI3
+aI3
+aI3
+aI1
+aI9
+aI9
+aI1
+aI2
+aI3
+aI4
+aI2
+aI1
+aI1
+aI1
+aI4
+aI3
+aI1
+aI9
+aI9
+aI4
+aI4
+aI1
+aI3
+aI4
+aI4
+aI7
+aI7
+aI7
+aI2
+aI4
+aI4
+aI4
+aI4
+aI11
+aI4
+aI4
+aI1
+aI1
+aI1
+aI4
+aI1
+aI4
+aI2
+aI3
+aI1
+aI1
+aI11
+aI2
+aI1
+aI3
+aI4
+aI9
+aI3
+aI3
+aI4
+aI11
+aI4
+aI5
+aI1
+aI3
+aI3
+aI1
+aI4
+aI4
+aI1
+aI3
+aI4
+aI4
+aI4
+aI3
+aI4
+aI11
+aI4
+aI11
+aI4
+aI4
+aI4
+aI7
+aI4
+aI1
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI1
+aI4
+aI4
+aI4
+aI4
+aI3
+aI4
+aI4
+aI4
+aI2
+aI4
+aI4
+aI1
+aI7
+aI7
+aI1
+aI2
+aI3
+aI2
+aI2
+aI2
+aI1
+aI2
+aI2
+aI2
+aI1
+aI1
+aI7
+aI7
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI2
+aI1
+aI3
+aI2
+aI2
+aI1
+aI1
+aI1
+aI7
+aI7
+aI1
+aI2
+aI1
+aI1
+aI9
+aI1
+aI2
+aI3
+aI1
+aI1
+aI2
+aI2
+aI1
+aI1
+aI1
+aI1
+aI2
+aI3
+aI1
+aI3
+aI3
+aI9
+aI9
+aI1
+aI1
+aI10
+aI13
+aI1
+aI1
+aI1
+aI3
+aI2
+aI1
+aI9
+aI9
+aI2
+aI1
+aI9
+aI9
+aI1
+aI1
+aI10
+aI4
+aI2
+aI2
+aI2
+aI4
+aI1
+aI2
+aI1
+aI3
+aI4
+aI4
+aI4
+aI9
+aI9
+aI1
+aI4
+aI10
+aI1
+aI9
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI5
+aI1
+aI5
+aI3
+aI1
+aI4
+aI9
+aI12
+aI2
+aI2
+aI1
+aI2
+aI1
+aI1
+aI9
+aI9
+aI1
+aI1
+aI14
+aI2
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI1
+aI1
+aI15
+aI2
+aI4
+aI2
+aI4
+aI4
+aI4
+aI1
+aI2
+aI1
+aI2
+aI1
+aI1
+aI1
+aI9
+aI1
+aI2
+aI1
+aI1
+aI1
+aI6
+aI11
+aI9
+aI9
+aI1
+aI3
+aI11
+aI1
+aI1
+aI6
+aI2
+aI1
+aI13
+aI2
+aI1
+aI9
+aI1
+aI1
+aI4
+aI7
+aI1
+aI7
+aI7
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI7
+aI9
+aI3
+aI3
+aI13
+aI14
+aI3
+aI2
+aI1
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI2
+aI3
+aI4
+aI3
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI7
+aI9
+aI9
+aI1
+aI2
+aI1
+aI2
+aI1
+aI3
+aI1
+aI1
+aI5
+aI1
+aI6
+aI3
+aI3
+aI3
+aI7
+aI3
+aI7
+aI3
+aI1
+aI3
+aI9
+aI4
+aI4
+aI1
+aI4
+aI4
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI3
+aI4
+aI7
+aI11
+aI4
+aI7
+aI11
+aI3
+aI11
+aI3
+aI11
+aI1
+aI3
+aI7
+aI3
+aI1
+aI1
+aI3
+aI7
+aI1
+aI3
+aI2
+aI2
+aI7
+aI7
+aI3
+aI1
+aI7
+aI7
+aI1
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI1
+aI11
+aI3
+aI2
+aI3
+aI13
+aI1
+aI1
+aI1
+aI3
+aI5
+aI1
+aI1
+aI4
+aI3
+aI2
+aI4
+aI1
+aI1
+aI3
+aI3
+aI1
+aI7
+aI1
+aI1
+aI9
+aI7
+aI3
+aI1
+aI1
+aI1
+aI1
+aI2
+aI3
+aI3
+aI2
+aI6
+aI3
+aI1
+aI4
+aI4
+aI4
+aI4
+aI1
+aI2
+aI9
+aI3
+aI1
+aI14
+aI7
+aI7
+aI3
+aI3
+aI1
+aI1
+aI1
+aI7
+aI3
+aI3
+aI2
+aI1
+aI4
+aI3
+aI3
+aI1
+aI13
+aI9
+aI1
+aI6
+aI1
+aI1
+aI1
+aI11
+aI9
+aI3
+aI14
+aI3
+aI3
+aI3
+aI1
+aI13
+aI1
+aI1
+aI7
+aI7
+aI1
+aI2
+aI4
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI4
+aI1
+aI9
+aI1
+aI3
+aI9
+aI14
+aI11
+aI3
+aI1
+aI1
+aI1
+aI9
+aI3
+aI4
+aI5
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI3
+aI2
+aI7
+aI3
+aI10
+aI3
+aI4
+aI1
+aI1
+aI4
+aI3
+aI3
+aI1
+aI3
+aI7
+aI1
+aI1
+aI1
+aI3
+aI9
+aI9
+aI1
+aI4
+aI1
+aI3
+aI7
+aI1
+aI4
+aI1
+aI13
+aI2
+aI3
+aI2
+aI1
+aI9
+aI3
+aI1
+aI3
+aI3
+aI7
+aI9
+aI10
+aI3
+aI10
+aI13
+aI1
+aI1
+aI10
+aI1
+aI3
+aI4
+aI4
+aI1
+aI3
+aI9
+aI10
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI2
+aI3
+aI6
+aI1
+aI2
+aI1
+aI2
+aI11
+aI6
+aI1
+aI3
+aI3
+aI5
+aI2
+aI11
+aI4
+aI3
+aI3
+aI1
+aI2
+aI2
+aI1
+aI3
+aI12
+aI3
+aI1
+aI1
+aI3
+aI2
+aI2
+aI7
+aI7
+aI4
+aI4
+aI4
+aI3
+aI1
+aI9
+aI3
+aI11
+aI5
+aI3
+aI13
+aI4
+aI1
+aI3
+aI3
+aI1
+aI3
+aI11
+aI7
+aI11
+aI1
+aI4
+aI11
+aI3
+aI3
+aI3
+aI3
+aI1
+aI1
+aI4
+aI9
+aI1
+aI3
+aI3
+aI1
+aI2
+aI3
+aI5
+aI1
+aI1
+aI1
+aI3
+aI3
+aI9
+aI9
+aI2
+aI1
+aI14
+aI1
+aI7
+aI1
+aI2
+aI1
+aI4
+aI2
+aI12
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI2
+aI4
+aI3
+aI1
+aI4
+aI4
+aI1
+aI4
+aI1
+aI2
+aI3
+aI7
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI5
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI2
+aI3
+aI11
+aI1
+aI3
+aI8
+aI2
+aI1
+aI3
+aI3
+aI1
+aI2
+aI3
+aI3
+aI9
+aI9
+aI3
+aI1
+aI9
+aI1
+aI3
+aI1
+aI2
+aI3
+aI3
+aI4
+aI14
+aI5
+aI4
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI2
+aI3
+aI1
+aI1
+aI4
+aI1
+aI4
+aI5
+aI1
+aI5
+aI2
+aI9
+aI2
+aI3
+aI3
+aI3
+aI10
+aI1
+aI3
+aI1
+aI2
+aI1
+aI1
+aI3
+aI4
+aI4
+aI2
+aI9
+aI1
+aI1
+aI2
+aI1
+aI14
+aI7
+aI7
+aI2
+aI3
+aI1
+aI1
+aI3
+aI2
+aI2
+aI3
+aI3
+aI1
+aI2
+aI3
+aI1
+aI3
+aI3
+aI5
+aI3
+aI2
+aI1
+aI1
+aI11
+aI3
+aI3
+aI7
+aI3
+aI3
+aI2
+aI1
+aI2
+aI2
+aI2
+aI2
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI4
+aI9
+aI9
+aI4
+aI3
+aI3
+aI3
+aI10
+aI1
+aI1
+aI2
+aI3
+aI1
+aI3
+aI1
+aI3
+aI3
+aI13
+aI3
+aI7
+aI7
+aI3
+aI3
+aI1
+aI4
+aI13
+aI3
+aI7
+aI7
+aI3
+aI3
+aI3
+aI14
+aI3
+aI3
+aI2
+aI3
+aI4
+aI9
+aI3
+aI9
+aI9
+aI5
+aI13
+aI14
+aI13
+aI3
+aI3
+aI13
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI13
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI1
+aI1
+aI3
+aI1
+aI1
+aI2
+aI7
+aI7
+aI7
+aI5
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI11
+aI1
+aI2
+aI9
+aI11
+aI1
+aI13
+aI3
+aI5
+aI2
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI11
+aI3
+aI1
+aI1
+aI8
+aI2
+aI1
+aI2
+aI3
+aI1
+aI1
+aI1
+aI2
+aI1
+aI3
+aI3
+aI1
+aI4
+aI8
+aI11
+aI1
+aI1
+aI3
+aI3
+aI4
+aI1
+aI1
+aI1
+aI1
+aI4
+aI2
+aI1
+aI2
+aI2
+aI13
+aI3
+aI2
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI4
+aI3
+aI1
+aI1
+aI2
+aI4
+aI1
+aI2
+aI4
+aI3
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI4
+aI1
+aI1
+aI1
+aI2
+aI8
+aI1
+aI1
+aI8
+aI2
+aI1
+aI1
+aI3
+aI1
+aI3
+aI11
+aI1
+aI9
+aI10
+aI3
+aI2
+aI1
+aI4
+aI1
+aI2
+aI3
+aI3
+aI3
+aI7
+aI7
+aI1
+aI2
+aI3
+aI3
+aI3
+aI4
+aI3
+aI3
+aI3
+aI3
+aI4
+aI7
+aI1
+aI1
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI2
+aI3
+aI1
+aI2
+aI2
+aI9
+aI13
+aI2
+aI15
+aI3
+aI2
+aI2
+aI1
+aI4
+aI13
+aI4
+aI3
+aI4
+aI1
+aI1
+aI8
+aI9
+aI15
+aI15
+aI15
+aI15
+aI2
+aI1
+aI1
+aI7
+aI2
+aI3
+aI3
+aI3
+aI7
+aI1
+aI3
+aI3
+aI1
+aI2
+aI1
+aI3
+aI3
+aI5
+aI3
+aI3
+aI3
+aI2
+aI1
+aI3
+aI1
+aI3
+aI1
+aI2
+aI9
+aI1
+aI9
+aI3
+aI1
+aI1
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI7
+aI9
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI11
+aI3
+aI5
+aI1
+aI9
+aI3
+aI3
+aI11
+aI3
+aI3
+aI1
+aI3
+aI3
+aI9
+aI9
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI1
+aI1
+aI3
+aI3
+aI2
+aI9
+aI3
+aI3
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI13
+aI1
+aI13
+aI1
+aI1
+aI9
+aI9
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI3
+aI3
+aI9
+aI15
+aI1
+aI1
+aI1
+aI8
+aI9
+aI9
+aI3
+aI3
+aI13
+aI9
+aI1
+aI7
+aI1
+aI3
+aI3
+aI3
+aI11
+aI3
+aI9
+aI1
+aI10
+aI3
+aI7
+aI1
+aI1
+aI3
+aI3
+aI3
+aI3
+aI2
+aI4
+aI3
+aI1
+aI3
+aI9
+aI1
+aI3
+aI4
+aI3
+aI3
+aI4
+aI1
+aI3
+aI3
+aI9
+aI9
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI4
+aI3
+aI1
+aI1
+aI1
+aI3
+aI9
+aI4
+aI1
+aI3
+aI4
+aI3
+aI3
+aI5
+aI7
+aI3
+aI3
+aI3
+aI3
+aI4
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI4
+aI1
+aI4
+aI3
+aI4
+aI6
+aI2
+aI4
+aI1
+aI3
+aI7
+aI1
+aI4
+aI9
+aI3
+aI12
+aI3
+aI1
+aI2
+aI9
+aI3
+aI1
+aI1
+aI1
+aI3
+aI8
+aI3
+aI3
+aI3
+aI3
+aI11
+aI3
+aI4
+aI3
+aI4
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI7
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI9
+aI9
+aI1
+aI1
+aI3
+aI6
+aI9
+aI1
+aI2
+aI5
+aI1
+aI5
+aI4
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI1
+aI1
+aI3
+aI1
+aI7
+aI3
+aI5
+aI9
+aI3
+aI3
+aI3
+aI7
+aI7
+aI4
+aI5
+aI9
+aI3
+aI13
+aI9
+aI9
+aI14
+aI4
+aI5
+aI10
+aI3
+aI1
+aI3
+aI10
+aI3
+aI3
+aI1
+aI1
+aI7
+aI1
+aI1
+aI1
+aI6
+aI1
+aI6
+aI1
+aI1
+aI3
+aI1
+aI1
+aI3
+aI3
+aI2
+aI3
+aI1
+aI8
+aI9
+aI3
+aI6
+aI1
+aI7
+aI7
+aI1
+aI3
+aI1
+aI8
+aI3
+aI3
+aI3
+aI1
+aI3
+aI6
+aI7
+aI9
+aI3
+aI7
+aI10
+aI9
+aI1
+aI1
+aI9
+aI7
+aI7
+aI3
+aI3
+aI1
+aI3
+aI1
+aI4
+aI3
+aI1
+aI1
+aI6
+aI1
+aI3
+aI1
+aI1
+aI1
+aI1
+aI1
+aI3
+aI1
+aI3
+aI3
+aI15
+aI3
+aI6
+aI3
+aI1
+aI7
+aI3
+aI3
+aI9
+aI1
+aI9
+aI9
+aI7
+aI3
+aI3
+aI3
+aI9
+aI9
+aI2
+aI1
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI1
+aI4
+aI4
+aI1
+aI1
+aI3
+aI3
+aI4
+aI3
+aI3
+aI4
+aI2
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI7
+aI9
+aI3
+aI1
+aI10
+aI1
+aI4
+aI7
+aI3
+aI1
+aI1
+aI3
+aI4
+aI3
+aI1
+aI3
+aI3
+aI1
+aI7
+aI3
+aI1
+aI1
+aI3
+aI1
+aI13
+aI3
+aI1
+aI3
+aI7
+aI7
+aI9
+aI5
+aI3
+aI3
+aI9
+aI1
+aI3
+aI9
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI7
+aI2
+aI1
+aI2
+aI1
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI4
+aI3
+aI9
+aI9
+aI3
+aI10
+aI3
+aI7
+aI3
+aI9
+aI9
+aI1
+aI4
+aI3
+aI11
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI9
+aI4
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI1
+aI2
+aI2
+aI1
+aI2
+aI2
+aI2
+aI2
+aI1
+aI3
+aI9
+aI9
+aI7
+aI7
+aI3
+aI3
+aI1
+aI3
+aI8
+aI3
+aI1
+aI2
+aI8
+aI1
+aI2
+aI3
+aI2
+aI13
+aI1
+aI2
+aI7
+aI7
+aI7
+aI3
+aI9
+aI9
+aI9
+aI7
+aI7
+aI9
+aI1
+aI3
+aI11
+aI3
+aI2
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI9
+aI1
+aI1
+aI1
+aI3
+aI2
+aI2
+aI1
+aI2
+aI9
+aI1
+aI3
+aI3
+aI5
+aI1
+aI4
+aI3
+aI3
+aI2
+aI3
+aI4
+aI3
+aI3
+aI2
+aI3
+aI2
+aI1
+aI13
+aI3
+aI4
+aI4
+aI3
+aI13
+aI7
+aI13
+aI1
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI3
+aI3
+aI7
+aI3
+aI3
+aI1
+aI3
+aI4
+aI1
+aI4
+aI1
+aI2
+aI1
+aI2
+aI3
+aI2
+aI3
+aI3
+aI3
+aI1
+aI9
+aI3
+aI3
+aI1
+aI3
+aI4
+aI3
+aI2
+aI3
+aI3
+aI3
+aI2
+aI3
+aI3
+aI3
+aI3
+aI3
+aI3
+aI7
+aI3
+aI1
+aI3
+aI3
+aI1
+aI3
+aI3
+aI3
+aI5
+aI1
+aI1
+aI8
+aI3
+aI15
+aI3
+aI2
+aI13
+aI1
+aI4
+aI3
+aI9
+aI4
+aI9
+aI9
+aI4
+aI3
+aI4
+aI14
+aI1
+asS'Xtr'
+p3
+(lp4
+S'now im left with this gay name'
+p5
+aS':P'
+p6
+aS'PART'
+p7
+aS'hey everyone  '
+p8
+aS'ah well'
+p9
+aS'NICK :10-19-20sUser7'
+p10
+aS'10-19-20sUser7 is a gay name.'
+p11
+aS'.ACTION gives 10-19-20sUser121 a golf clap.'
+p12
+aS':)'
+p13
+aS'JOIN'
+p14
+aS'hi 10-19-20sUser59'
+p15
+aS'26/ m/ ky women that are nice please pm me'
+p16
+aS'JOIN'
+p17
+aS'PART'
+p18
+aS'there ya go 10-19-20sUser7'
+p19
+aS"don't golf clap me."
+p20
+aS'fuck you 10-19-20sUser121:@'
+p21
+aS'whats everyone up to?'
+p22
+aS'PART'
+p23
+aS'PART'
+p24
+aS"i'll thunder clap your ass."
+p25
+aS'PART'
+p26
+aS'and i dont even know what that means.'
+p27
+aS'that sounds painful'
+p28
+aS'any ladis wanna chat? 29 m'
+p29
+aS'26/m'
+p30
+aS'JOIN'
+p31
+aS'my cousin drew a messed up pic on my cast'
+p32
+aS'PART'
+p33
+aS'24/m'
+p34
+aS'boo.'
+p35
+aS'26/m and sexy'
+p36
+aS'lol 10-19-20sUser115'
+p37
+aS'boo.'
+p38
+aS'JOIN'
+p39
+aS'PART'
+p40
+aS'he drew a girl with legs spread'
+p41
+aS'boo.'
+p42
+aS'hope he didnt draw a penis'
+p43
+aS'PART'
+p44
+aS'ewwwww lol'
+p45
+aS'& a head between her legs'
+p46
+aS'JOIN'
+p47
+aS'JOIN'
+p48
+aS'sounds good to me.'
+p49
+aS'r u serious'
+p50
+aS'JOIN'
+p51
+aS'PART'
+p52
+aS"I'll take one, please."
+p53
+aS'& i have to go to the docs tomorrow'
+p54
+aS'ya man'
+p55
+aS'I am too.. Connected to... Slip away... Fade away... Days away I... Still feel you... Touching me... Changing me... Considerably killing me... '
+p56
+aS'heeeey!'
+p57
+aS"don't you have a sharpie?"
+p58
+aS'26/m'
+p59
+aS"you're back 10-19-20sUser115"
+p60
+aS'10-19-20sUser129'
+p61
+aS'yep'
+p62
+aS'10-19-20sUser115'
+p63
+aS'Any ladies wanna chat with 24/m'
+p64
+aS'hurry ladies'
+p65
+aS'PART'
+p66
+aS'JOIN'
+p67
+aS'JOIN'
+p68
+aS'not fast enough 10-19-20sUser116'
+p69
+aS'a bowl i got a blunt an a bong......lol'
+p70
+aS'JOIN'
+p71
+aS'well, glad it worked out'
+p72
+aS'my chair is too hard.'
+p73
+aS'Anyone from Tennessee in here?'
+p74
+aS'hey ladies'
+p75
+aS'as am i'
+p76
+aS'is 10-19-20sUser68 back yet'
+p77
+aS'PART'
+p78
+aS'hey '
+p79
+aS'PART'
+p80
+aS'JOIN'
+p81
+aS'10-19-20sUser121 is missing a B in her name'
+p82
+aS"and i don't complain about things being hard very often."
+p83
+aS'ok'
+p84
+aS'yes 10-19-20sUser30'
+p85
+aS'fire it up'
+p86
+aS'Any women from Nashville in here?'
+p87
+aS'Any women from Nashville in here.'
+p88
+aS'JOIN'
+p89
+aS'PART'
+p90
+aS'and an an "itch"'
+p91
+aS'JOIN'
+p92
+aS'yo, 10-19-20sUser133'
+p93
+aS'or a "ogan"'
+p94
+aS'are you a male?'
+p95
+aS'JOIN'
+p96
+aS'JOIN'
+p97
+aS'show will'
+p98
+aS"let's talk."
+p99
+aS'PART'
+p100
+aS':)'
+p101
+aS'haha'
+p102
+aS'brb'
+p103
+aS'opps'
+p104
+aS'JOIN'
+p105
+aS'PART'
+p106
+aS'sho*'
+p107
+aS'.ACTION keeps 10-19-20sUser115s place nice and warm.'
+p108
+aS'hey any guys with cams wanna play?'
+p109
+aS'hey any guys with cams wanna play.'
+p110
+aS".ACTION sits on 10-19-20sUser68's lap."
+p111
+aS'JOIN'
+p112
+aS'JOIN'
+p113
+aS'any guyz wanna chat '
+p114
+aS'hi there'
+p115
+aS"boo, it's a female."
+p116
+aS'hey 10-19-20sUser126'
+p117
+aS'PART'
+p118
+aS'i wonna chat'
+p119
+aS'PART'
+p120
+aS'24 f nc single mom'
+p121
+aS'where did everyone gooo?'
+p122
+aS'sure 10-19-20sUser126'
+p123
+aS'JOIN'
+p124
+aS'what did you but on e-bay'
+p125
+aS'i feel like im in the wrong room'
+p126
+aS'yeee haw 10-19-20sUser30'
+p127
+aS'im considering changing my nickname to "ihavehotnips"'
+p128
+aS'JOIN'
+p129
+aS"i don't want hot pics of a female, I can look in a mirror."
+p130
+aS'hi 10-19-20sUser64'
+p131
+aS'wb 10-19-20sUser139'
+p132
+aS'u should 10-19-20sUser44:)'
+p133
+aS'PART'
+p134
+aS'PART'
+p135
+aS'JOIN'
+p136
+aS'single dad here'
+p137
+aS'JOIN'
+p138
+aS'ty 10-19-20sUser68'
+p139
+aS'PART'
+p140
+aS'JOIN'
+p141
+aS'Hi 10-19-20sUser139'
+p142
+aS'PART'
+p143
+aS'JOIN'
+p144
+aS'hi 10-19-20sUser138'
+p145
+aS'HAHAHA'
+p146
+aS'yw 10-19-20sUser139'
+p147
+aS"you should make it 'iamahotnip', 10-19-20sUser44"
+p148
+aS'alright'
+p149
+aS'hi 10-19-20sUser139.'
+p150
+aS"you're fucking hot."
+p151
+aS'i thought of that!'
+p152
+aS'hi 10-19-20sUser126, its so late'
+p153
+aS'lmao'
+p154
+aS'ahah "iamahotniplickme"'
+p155
+aS'PART'
+p156
+aS'Hi 10-19-20sUser121'
+p157
+aS'in ny'
+p158
+aS'.ACTION would lol @ 10-19-20sUser121 . . . but appearently she does not like that.'
+p159
+aS'cya later guys'
+p160
+aS'single white male 26'
+p161
+aS"can't sleep huh?"
+p162
+aS'JOIN'
+p163
+aS'hi 10-19-20sUser139'
+p164
+aS'bye 10-19-20sUser20'
+p165
+aS'well 10-19-20sUser68 what did u buy'
+p166
+aS'yeah i know'
+p167
+aS':)'
+p168
+aS'10-19-20sUser136.. get the hell outta my freaking PM box.. Im with my fiance!!!!!!!!!!!!!!!!'
+p169
+aS'answers for 10-19-20sUser139 ... hi 10-19-20sUser101 ;)'
+p170
+aS'I like it when you do it, 10-19-20sUser83'
+p171
+aS'iamahotnipwithpics'
+p172
+aS'10-19-20sUser20 go plan the wedding! :P'
+p173
+aS'first warning !!!!!'
+p174
+aS'PART'
+p175
+aS'JOIN'
+p176
+aS'uh huh '
+p177
+aS'A gold jeep charm for my necklace 10-19-20sUser30'
+p178
+aS'make sure u buy a nice ring for 10-19-20sUser6'
+p179
+aS'lol 10-19-20sUser7'
+p180
+aS'Hi 10-19-20sUser115'
+p181
+aS'.ACTION isnt falling for that one again.'
+p182
+aS'10-19-20sUser136.. get the hell in my freaking PM box.. I have no fiance!!!!!!!'
+p183
+aS'right on'
+p184
+aS'i have one already 10-19-20sUser7... yayayayayyy!!'
+p185
+aS'OOooOO:)'
+p186
+aS'how you doin 10-19-20sUser139'
+p187
+aS'lmaoo 10-19-20sUser121'
+p188
+aS"'iamahotnipwithhotnippics"
+p189
+aS"'"
+p190
+aS'how many kts'
+p191
+aS'any single white females?'
+p192
+aS'off off?'
+p193
+aS'really?'
+p194
+aS'Just fine thanks, how are you?'
+p195
+aS'that sounds freakishly like dr seuss'
+p196
+aS"wow. twice, I'm impressed."
+p197
+aS'PART'
+p198
+aS'hiya room'
+p199
+aS'lmao!!!'
+p200
+aS'im doin alright thanks'
+p201
+aS'omg'
+p202
+aS'Finger.. Deep within the borderline.. Show me that you love me, and that we belong together... Relax.. Turn around.. And take my.. Hand.. '
+p203
+aS'I just laughed'
+p204
+aS'didnt even look hang on'
+p205
+aS'finger?'
+p206
+aS'yay!'
+p207
+aS'PART'
+p208
+aS"that's such a DIRTY word."
+p209
+aS'oh its 14k'
+p210
+aS'10-19-20sUser141... get outta my PM Box.. didnt ya hear!!!!'
+p211
+aS'PART'
+p212
+aS'JOIN'
+p213
+aS'geeshhh'
+p214
+aS'lol 10-19-20sUser6'
+p215
+aS'PART'
+p216
+aS'hes deaf'
+p217
+aS'ppl here dont get it'
+p218
+aS'10-19-20sUser6,'
+p219
+aS'!hug 10-19-20sUser115'
+p220
+aS".ACTION watches 10-19-20sUser6 hug the stuffin' outta 10-19-20sUser115...."
+p221
+aS'you can forward the pervs to me.'
+p222
+aS'.ACTION hugs 10-19-20sUser6.'
+p223
+aS'any girls wanna chat with 24/m'
+p224
+aS'please behave baby boy.. I gottsa go now'
+p225
+aS'Only for the dirty minded, 10-19-20sUser121.'
+p226
+aS'ima behave'
+p227
+aS'yes 10-19-20sUser121??'
+p228
+aS'PART'
+p229
+aS'aww 10-19-20sUser6 have fun'
+p230
+aS'forwads away from 10-19-20sUser121'
+p231
+aS'i already wrote what i wanted you to read.'
+p232
+aS'theres nobody here i wanna misbeahve with lol'
+p233
+aS'JOIN'
+p234
+aS'so read it.'
+p235
+aS'thanks 10-19-20sUser7.. Im happy to have my fiance here!!'
+p236
+aS'forwads?'
+p237
+aS'JOIN'
+p238
+aS'22/m/wa any ladies want to chat'
+p239
+aS'can i talk to him!!'
+p240
+aS'lol 10-19-20sUser121!!!'
+p241
+aS'forwards too'
+p242
+aS'lol'
+p243
+aS'JOIN'
+p244
+aS"ALL PErvs... redirect to 10-19-20sUser121's PM VBox!!!"
+p245
+aS'PART'
+p246
+aS"I'll take all that I can get."
+p247
+aS'JOIN'
+p248
+aS'PART'
+p249
+aS'who is he 10-19-20sUser6?'
+p250
+aS'i hate it when my devotion to christianity is questioned.'
+p251
+aS'10-19-20sUser121'
+p252
+aS'who honey??'
+p253
+aS'Depends'
+p254
+aS'Hi all 31/m/CA'
+p255
+aS'10-19-20sUser115 is having my babies 10-19-20sUser20'
+p256
+aS'yep'
+p257
+aS'lmao 10-19-20sUser7!!!'
+p258
+aS'.ACTION laughs.'
+p259
+aS':)'
+p260
+aS'PART'
+p261
+aS'your fiance, do you know his handle?'
+p262
+aS'your fiance, do you know his handle.'
+p263
+aS'On what kinda pervs your lookin for'
+p264
+aS'what, 10-19-20sUser92.'
+p265
+aS'JOIN'
+p266
+aS'little jerks & jerkettes'
+p267
+aS'i love jesus more than ANYONE ELSE'
+p268
+aS'lolololll serg!!!'
+p269
+aS'handle?'
+p270
+aS'oh well'
+p271
+aS'beeehave'
+p272
+aS'and he loves ME the most'
+p273
+aS'i love myself'
+p274
+aS'JOIN'
+p275
+aS'lol 10-19-20sUser44 how do u know that'
+p276
+aS'what?'
+p277
+aS'jerkettes?? lmao'
+p278
+aS'CO?'
+p279
+aS'well if we have girls'
+p280
+aS'i didnts say anithing wrong...'
+p281
+aS'i can see it in his eyes'
+p282
+aS'lol'
+p283
+aS'10-19-20sUser20=fiance'
+p284
+aS'Jerketts'
+p285
+aS'lmao'
+p286
+aS'wtf'
+p287
+aS'yah I know honey!'
+p288
+aS'JOIN'
+p289
+aS'girl jerk kids'
+p290
+aS'awwwwww'
+p291
+aS'you guys type too much. shut the fuck up.'
+p292
+aS'girl jerks??'
+p293
+aS'.ACTION gives 10-19-20sUser68 a nice massage.'
+p294
+aS'u shut the fuck up'
+p295
+aS'PART'
+p296
+aS'no i dont want daughters!!'
+p297
+aS'ur annoying'
+p298
+aS".ACTION Now Playing - Cradle of Filth - A Gothic Romance (Red Roses For The Devil's Whore)."
+p299
+aS'JOIN'
+p300
+aS'i want daughters 10-19-20sUser115!'
+p301
+aS':('
+p302
+aS'10-19-20sUser30 = gettign cooler by the minute'
+p303
+aS"what'd I miss?"
+p304
+aS'lol'
+p305
+aS'noo there too much work!'
+p306
+aS'why not?? girls are nice honey!!!'
+p307
+aS'why not.. girls are nice honey!!!'
+p308
+aS'10-19-20sUser116'
+p309
+aS'PART'
+p310
+aS'10-19-20sUser7'
+p311
+aS'PART'
+p312
+aS'there is not!'
+p313
+aS'heyy 10-19-20sUser148'
+p314
+aS'i hate you.'
+p315
+aS'boys are naughtier'
+p316
+aS'10-19-20sUser92.'
+p317
+aS'JOIN'
+p318
+aS'bye  10-19-20sUser148'
+p319
+aS'Hmm'
+p320
+aS'you I hate you say..'
+p321
+aS'Guess what'
+p322
+aS'PART'
+p323
+aS'i hate you 10-19-20sUser121 fuck your ugly'
+p324
+aS'JOIN'
+p325
+aS'if i had a daughter she would regret me bein her dad'
+p326
+aS'huh?'
+p327
+aS'Hmm'
+p328
+aS'PART'
+p329
+aS'What?'
+p330
+aS'aw 10-19-20sUser115 whys that'
+p331
+aS'deep inside 10-19-20sUser121 wants what she hates'
+p332
+aS'JOIN'
+p333
+aS'ahahah 10-19-20sUser7!!'
+p334
+aS'id put caution tape all around her'
+p335
+aS'Your phone sexs is the best'
+p336
+aS'---------> 27 M UK (pic in profile)'
+p337
+aS'Lmfao'
+p338
+aS'dr phil said so'
+p339
+aS'I am ugly?'
+p340
+aS'PART'
+p341
+aS'wouldnt let her date'
+p342
+aS"Isn't it? =-\\"
+p343
+aS'aww.'
+p344
+aS'i feel bad now.'
+p345
+aS'10-19-20sUser7, try to arrange your words so they form coherent thoughts'
+p346
+aS'PART'
+p347
+aS'.ACTION -sits in the corner-.'
+p348
+aS'JOIN'
+p349
+aS'phone 10-19-20sUser92?'
+p350
+aS'hello 10-19-20sUser84'
+p351
+aS'.ACTION sits with 10-19-20sUser92.'
+p352
+aS'hmph.'
+p353
+aS'i hate you 10-19-20sUser68. does that mean I want you?'
+p354
+aS'i hate you 10-19-20sUser68. does that mean I want you.'
+p355
+aS'10-19-20sUser6'
+p356
+aS'hello room'
+p357
+aS'lol 10-19-20sUser83'
+p358
+aS'and this.. has been the grammar lesson of the day courtesy of: 10-19-20sUser84!'
+p359
+aS'PART'
+p360
+aS'JOIN'
+p361
+aS'yes 10-19-20sUser115?'
+p362
+aS'.ACTION pokes 10-19-20sUser116.'
+p363
+aS'if your fiance is still here could i talk to him?'
+p364
+aS'if your fiance is still here could i talk to him.'
+p365
+aS'.ACTION counter pokes.'
+p366
+aS'wait i didnt me phone you . . .  sheesh now im that phone perv guy'
+p367
+aS'lets hope not 10-19-20sUser121'
+p368
+aS'PART'
+p369
+aS'yes 10-19-20sUser115!!!!'
+p370
+aS'of course'
+p371
+aS'lets'
+p372
+aS'woohoo!'
+p373
+aS'any girls wanna chat?  24/m'
+p374
+aS'JOIN'
+p375
+aS'I think I am the exception to the rule'
+p376
+aS"he's in PM land now though"
+p377
+aS'lol'
+p378
+aS'ah ok'
+p379
+aS'i wont bug em then'
+p380
+aS'someone wanna find me a cheap flight to spain?'
+p381
+aS'someone wanna find me a cheap flight to spain.'
+p382
+aS'i need to go this summer.'
+p383
+aS'im a HUGE phone perv'
+p384
+aS'ok seriously who was the dumbass that signed kev fetterline a rap deal????'
+p385
+aS'ok seriously who was the dumbass that signed kev fetterline a rap deal....'
+p386
+aS"it's an emergency."
+p387
+aS'JOIN'
+p388
+aS'Ug .. no shit?'
+p389
+aS'il get u a cheap flight to hell:)'
+p390
+aS'lmao'
+p391
+aS'bbl maybe'
+p392
+aS'PART'
+p393
+aS'LOL'
+p394
+aS'lol 10-19-20sUser7'
+p395
+aS'it was me, 10-19-20sUser83'
+p396
+aS'hahah 10-19-20sUser83!'
+p397
+aS'8082653953'
+p398
+aS'K-Fed got his ass kicked.. Lol'
+p399
+aS'.ACTION laughs.'
+p400
+aS'i got a first class ticket to hell'
+p401
+aS'lol 10-19-20sUser7'
+p402
+aS'JOIN'
+p403
+aS'any texas girls in here?'
+p404
+aS'anyone can be bought if theres enuff money 10-19-20sUser83:)'
+p405
+aS'any guys have webcams?'
+p406
+aS'.ACTION re-thinks liking 10-19-20sUser121.'
+p407
+aS'JOIN'
+p408
+aS'rethinks???'
+p409
+aS'lmaoooo'
+p410
+aS'Aw, man.'
+p411
+aS'whats up 10-19-20sUser155'
+p412
+aS'i was only kidding.'
+p413
+aS'lol'
+p414
+aS"he's a douchebag."
+p415
+aS'Poor 10-19-20sUser121'
+p416
+aS"i'm bored"
+p417
+aS'love me.'
+p418
+aS'pick me'
+p419
+aS'choose me.'
+p420
+aS'.ACTION is re-thinking the re-think .'
+p421
+aS'10-19-20sUser6'
+p422
+aS'nothing much u'
+p423
+aS'(that was my meredith impression)'
+p424
+aS'PART'
+p425
+aS'PART'
+p426
+aS'yes 10-19-20sUser92???'
+p427
+aS'sits with 10-19-20sUser30'
+p428
+aS'Cum to my shower.'
+p429
+aS'lol 10-19-20sUser121'
+p430
+aS'.ACTION 10-19-20sUser1370 watches his nads.'
+p431
+aS'JOIN'
+p432
+aS'asl'
+p433
+aS'not a lot, where u from'
+p434
+aS'choose me too funny'
+p435
+aS"You can pick your friends.. And you can pick your nose.. But you can't pick your friends nose."
+p436
+aS'JOIN'
+p437
+aS'.ACTION sticks his fingers in 10-19-20sUser7s face.'
+p438
+aS'lmaooo 10-19-20sUser92!!!!!!'
+p439
+aS'.ACTION 10-19-20sUser1370 watches ur nad with a stick.'
+p440
+aS'ca u 10-19-20sUser23'
+p441
+aS'ewwww'
+p442
+aS'lol *sniffs*'
+p443
+aS'ewwwwww'
+p444
+aS'PART'
+p445
+aS'10-19-20sUser115!'
+p446
+aS'owww splinter'
+p447
+aS'PART'
+p448
+aS'JOIN'
+p449
+aS".ACTION licks 10-19-20sUser116's ear."
+p450
+aS'PART'
+p451
+aS'ughhh'
+p452
+aS"does anyone want to talk to me on the phone?  I don't charge"
+p453
+aS"does anyone want to talk to me on the phone.  I don't charge"
+p454
+aS'IL'
+p455
+aS'.ACTION gagas.'
+p456
+aS'.ACTION hangs head.'
+p457
+aS'pm me for my phone number.'
+p458
+aS'gags even'
+p459
+aS'Lmfao 10-19-20sUser121'
+p460
+aS".ACTION licks 10-19-20sUser92's neck."
+p461
+aS'i do'
+p462
+aS'.ACTION bites her lip.'
+p463
+aS'Meep'
+p464
+aS'.ACTION is resisting.'
+p465
+aS'ur female right'
+p466
+aS'lol 10-19-20sUser115'
+p467
+aS'beeeeehave'
+p468
+aS'Remember the LAst time you did that'
+p469
+aS'.ACTION smirks innocently.'
+p470
+aS'no '
+p471
+aS'go wash your hands now!'
+p472
+aS'dude 10-19-20sUser92 gets around'
+p473
+aS'jk'
+p474
+aS'JOIN'
+p475
+aS"1-900-anal-sex is 10-19-20sUser121's number"
+p476
+aS"dang it. just as i predicted.  no one pm's me."
+p477
+aS'charge that is 1.99/min.'
+p478
+aS'lol @ innocent'
+p479
+aS'hahah'
+p480
+aS'lol....'
+p481
+aS'yeah'
+p482
+aS'LOLOLOLLL 10-19-20sUser12'
+p483
+aS'thats not nice'
+p484
+aS'my neck'
+p485
+aS'youasshole!'
+p486
+aS'10-19-20sUser115 can i pm you?'
+p487
+aS'is like'
+p488
+aS"no it's not 10-19-20sUser12, you shut yo mouth."
+p489
+aS'erm'
+p490
+aS'free for 10-19-20sUser68'
+p491
+aS'Lmfao'
+p492
+aS'JOIN'
+p493
+aS'.ACTION goes to wash his hands.'
+p494
+aS'lmao '
+p495
+aS':-o'
+p496
+aS'I am innocent!'
+p497
+aS'Lies.'
+p498
+aS'lmao no 10-19-20sUser115'
+p499
+aS'Check my record.'
+p500
+aS':)'
+p501
+aS'Lol'
+p502
+aS'lick em 10-19-20sUser7'
+p503
+aS'10-19-20sUser23 how old r u'
+p504
+aS'lol'
+p505
+aS'Way to lie'
+p506
+aS'mmhmm'
+p507
+aS'10-19-20sUser20 is very polite!'
+p508
+aS'calls 10-19-20sUser30'
+p509
+aS'lmao'
+p510
+aS'24  u'
+p511
+aS'yo 10-19-20sUser115, may i om y?'
+p512
+aS'yo 10-19-20sUser115, may i om y.'
+p513
+aS'.ACTION lix.'
+p514
+aS'ummm'
+p515
+aS'lol'
+p516
+aS'LOL'
+p517
+aS'22 '
+p518
+aS'10-19-20sUser109 i dont cyber darlin '
+p519
+aS'"youre dead to me"...'
+p520
+aS'why...'
+p521
+aS'he is 10-19-20sUser6!'
+p522
+aS"I'm more innocent than anyone on Death Row."
+p523
+aS"but i'll call you just in case youre not dead"
+p524
+aS'hahaha'
+p525
+aS'u got a good catch:)'
+p526
+aS'.ACTION covers her neck.'
+p527
+aS'are u mexican'
+p528
+aS'to talk'
+p529
+aS'what r u searching for?'
+p530
+aS'he is notme!'
+p531
+aS'ummm'
+p532
+aS'why else darling?'
+p533
+aS'lol'
+p534
+aS'he wont bite ya 10-19-20sUser115!'
+p535
+aS'yeah u '
+p536
+aS'ooo wait'
+p537
+aS'yeah'
+p538
+aS'PART'
+p539
+aS'is he your fiance??'
+p540
+aS"i'm going to bed now. iwant to have hot sexy dreams about 10-19-20sUser68"
+p541
+aS'i do bite 10-19-20sUser6...'
+p542
+aS"lmao@darling.. he's a guy!"
+p543
+aS'.ACTION wishes someone would call cause I have free incoming call mins..'
+p544
+aS'JOIN'
+p545
+aS'yes'
+p546
+aS'ditto 10-19-20sUser30 nite'
+p547
+aS'lool'
+p548
+aS'ya do.. i know that.. ;)'
+p549
+aS'10-19-20sUser23 kina give it away'
+p550
+aS'oo ooooook then'
+p551
+aS'hey room'
+p552
+aS'hey if he wants to call me darlin its ok'
+p553
+aS'yeah, so did 10-19-20sUser155'
+p554
+aS'PART'
+p555
+aS'and he bites 10-19-20sUser115'
+p556
+aS'not any more 10-19-20sUser115'
+p557
+aS'lol'
+p558
+aS'guys are idiots.'
+p559
+aS'go ahead pm me baby'
+p560
+aS'10-19-20sUser109 .. get the fuck outta my PM!'
+p561
+aS"in case you girls didn't know."
+p562
+aS'thought y were a girl'
+p563
+aS'JOIN'
+p564
+aS'for all the early20s.'
+p565
+aS'hahah@baby'
+p566
+aS'what do u do in CA'
+p567
+aS'.ACTION tears up the partial phone #.'
+p568
+aS'10-19-20sUser109s in my pm too 10-19-20sUser6'
+p569
+aS'any hot guys wanna chat 22-30'
+p570
+aS'u wanna have have hot sext dreams about urself 10-19-20sUser68'
+p571
+aS'piff so now you dont wanna talk to me'
+p572
+aS':-o'
+p573
+aS'shows i didnt read the profile'
+p574
+aS'thats so sexist'
+p575
+aS'am a student u'
+p576
+aS'dang 10-19-20sUser30'
+p577
+aS'thats right'
+p578
+aS'lazy ppl... dont read profiles'
+p579
+aS'sounds kinda conceited to me'
+p580
+aS'yes'
+p581
+aS'PART'
+p582
+aS'JOIN'
+p583
+aS'thats mean!'
+p584
+aS'fine'
+p585
+aS'!hug 10-19-20sUser20'
+p586
+aS".ACTION watches 10-19-20sUser6 hug the stuffin' outta 10-19-20sUser20...."
+p587
+aS'busy peolpe either'
+p588
+aS'I work in construction'
+p589
+aS"okay, I'm off for a bit."
+p590
+aS'i dont wanna talk to you either!'
+p591
+aS'to calm myself down.'
+p592
+aS'busy busy'
+p593
+aS'any one want to chat'
+p594
+aS'a bit.'
+p595
+aS'10-19-20sUser84.'
+p596
+aS'.ACTION crosses arms.'
+p597
+aS'later maybe...'
+p598
+aS'geeshh... two kids fighting!'
+p599
+aS'whats ur major'
+p600
+aS'i probably sucks in summer too hot'
+p601
+aS'I saw my name'
+p602
+aS'was gonna dream about 10-19-20sUser30'
+p603
+aS'PART'
+p604
+aS'.ACTION sits down and eats chococake.'
+p605
+aS'JOIN'
+p606
+aS'ok lol'
+p607
+aS'.ACTION hugs 10-19-20sUser20.'
+p608
+aS'aw yum'
+p609
+aS'child development'
+p610
+aS'lol'
+p611
+aS'i want cho-co-la-te.'
+p612
+aS'10-19-20sUser121 how near kc ?'
+p613
+aS'just cheaking '
+p614
+aS'PART'
+p615
+aS'JOIN'
+p616
+aS'PART'
+p617
+aS'hell yeah'
+p618
+aS'10-19-20sUser115 hes taken alright'
+p619
+aS'near near?'
+p620
+aS':P'
+p621
+aS'CHOCO CHOCO'
+p622
+aS'good night all'
+p623
+aS'.ACTION smax.'
+p624
+aS'lmaoo 10-19-20sUser7'
+p625
+aS'JOIN'
+p626
+aS'haha'
+p627
+aS"It's only three syllables"
+p628
+aS' >:-> '
+p629
+aS'wow thats near'
+p630
+aS'geeshh'
+p631
+aS'cho-co-late'
+p632
+aS'hehehe'
+p633
+aS'sowwy ppl!'
+p634
+aS'PART'
+p635
+aS'piff so'
+p636
+aS'sowwy VVil and 10-19-20sUser36!'
+p637
+aS'JOIN'
+p638
+aS'.ACTION kisses 10-19-20sUser68.'
+p639
+aS'so! Mmm'
+p640
+aS'PayPal has free credit alert to hep against identity theft now'
+p641
+aS'wont do it again.. '
+p642
+aS'too hot in the summer and too cold in the winter'
+p643
+aS'.ACTION hands 10-19-20sUser121 the new cell phone chocolate.'
+p644
+aS'!smooch 10-19-20sUser30'
+p645
+aS".ACTION walks up to 10-19-20sUser30, runs their fingers thru the back of 10-19-20sUser30's hair, closes their eyes, and gently kisses 10-19-20sUser30 on the neck, Compliments of 10-19-20sUser68!."
+p646
+aS'wat did u do 10-19-20sUser6?'
+p647
+aS'woohoo paypal'
+p648
+aS'yeah?'
+p649
+aS'i typed choco in caps..lol'
+p650
+aS'PART'
+p651
+aS'sowwy'
+p652
+aS'JOIN'
+p653
+aS'PART'
+p654
+aS'umm, 10-19-20sUser83)'
+p655
+aS'PART'
+p656
+aS'lol'
+p657
+aS'!pounce 10-19-20sUser165'
+p658
+aS'.ACTION watches 10-19-20sUser6 jump up and pounce 10-19-20sUser165... mmm I missed you baby!.'
+p659
+aS'*spank*'
+p660
+aS"you're not supposed to be here you're over your 20s."
+p661
+aS'good pay makes it better'
+p662
+aS'yes'
+p663
+aS'PART'
+p664
+aS'that red color bit my eye man...'
+p665
+aS'.ACTION video tapes.'
+p666
+aS'hey 10-19-20sUser20'
+p667
+aS'Im blind now'
+p668
+aS'.ACTION has left the room.'
+p669
+aS'hey este - 10-19-20sUser115- spank dat as -will'
+p670
+aS'PART'
+p671
+aS'hahah 10-19-20sUser121'
+p672
+aS'hey 10-19-20sUser165'
+p673
+aS'funny.'
+p674
+aS'Way to chase people out'
+p675
+aS'lmao 10-19-20sUser83'
+p676
+aS'PART'
+p677
+aS'watch him 10-19-20sUser6'
+p678
+aS':P'
+p679
+aS'ty 10-19-20sUser6'
+p680
+aS'hey 10-19-20sUser6'
+p681
+aS'PART'
+p682
+aS'very bored any guys wana chat to a chik from aussie (i mean chat aswell) '
+p683
+aS'lol 10-19-20sUser7'
+p684
+aS'PART'
+p685
+aS'u got that right, i dont do shit, im the supervisor'
+p686
+aS'Hello 10-19-20sUser165.'
+p687
+aS"hey 10-19-20sUser165 how's u?"
+p688
+aS'.ACTION has left the room with 10-19-20sUser83.'
+p689
+aS'your fiance is ignoring me 10-19-20sUser6'
+p690
+aS'JOIN'
+p691
+aS'lol 10-19-20sUser115...'
+p692
+aS'what list should i put him in??'
+p693
+aS'what list should i put him in..'
+p694
+aS'you wish'
+p695
+aS'honey.. cmon'
+p696
+aS'hi 10-19-20sUser128'
+p697
+aS'nice'
+p698
+aS'JOIN'
+p699
+aS'not the special list cuz he ignored you'
+p700
+aS'PART'
+p701
+aS'hey 10-19-20sUser64'
+p702
+aS'put him in the "untouchable" list 10-19-20sUser115'
+p703
+aS'im good 10-19-20sUser6'
+p704
+aS'lmao 10-19-20sUser7'
+p705
+aS'how r u 10-19-20sUser128'
+p706
+aS'hehe'
+p707
+aS'hows bout u'
+p708
+aS'good to hear 10-19-20sUser165'
+p709
+aS'no 10-19-20sUser6 knows i have 2 lists'
+p710
+aS'JOIN'
+p711
+aS'--------------------27 M London .. any girls who enjoys roleplay ..whisper me'
+p712
+aS'good and urself '
+p713
+aS'PART'
+p714
+aS'JOIN'
+p715
+aS'wats are they?'
+p716
+aS'PART'
+p717
+aS'yes.. 2 lists'
+p718
+aS'great ty'
+p719
+aS'piff i aint tellin you'
+p720
+aS'u know the u of I right fighting illin'
+p721
+aS'10-19-30sUser11 lol'
+p722
+aS'lol 10-19-30sUser11'
+p723
+aS'wb 10-19-30sUser9'
+p724
+aS'thank you vm'
+p725
+aS'lol'
+p726
+aS'i had to shut the tv off... too much noise about nothing but stupid political ads... good grief'
+p727
+aS'PART'
+p728
+aS'JOIN'
+p729
+aS'wb 10-19-30sUser15'
+p730
+aS'JOIN'
+p731
+aS'yeah i lost connection'
+p732
+aS'so 10-19-30sUser11 how was youer day'
+p733
+aS'its election season'
+p734
+aS'ooo a scorpion'
+p735
+aS'like always 10-19-30sUser7 and yours'
+p736
+aS'same'
+p737
+aS'well i was off of work today'
+p738
+aS'what did u do 10-19-30sUser11'
+p739
+aS'Uhh Ahh..............................Boyz II Men'
+p740
+aS'scorpions rock... lol'
+p741
+aS'what is ur job'
+p742
+aS'me too 10-19-30sUser11'
+p743
+aS'hehe'
+p744
+aS'went to manhattan and back, boght some stuff then came back home'
+p745
+aS'PART'
+p746
+aS'what stuff 10-19-30sUser11? '
+p747
+aS'they can be vindictive'
+p748
+aS'earrings and a coat'
+p749
+aS'but nice people'
+p750
+aS'seriously 10-19-30sUser2? lol'
+p751
+aS'you read too many horror scopes'
+p752
+aS'lol'
+p753
+aS'nice 10-19-30sUser11'
+p754
+aS'i am horrified'
+p755
+aS'hehe'
+p756
+aS'lmao 10-19-30sUser2'
+p757
+aS'10-19-30sUser2 even'
+p758
+aS'JOIN'
+p759
+aS'well i am going talk later'
+p760
+aS'byb'
+p761
+aS'bye'
+p762
+aS'Hey everyone!'
+p763
+aS'nite 10-19-30sUser15'
+p764
+aS'welcome 10-19-30sUser17'
+p765
+aS'bye 10-19-30sUser15'
+p766
+aS'Hey 10-19-30sUser9'
+p767
+aS"what's the flavour of the day 10-19-30sUser9"
+p768
+aS'i had a very intersting blueberry martini today... first time... liked it... '
+p769
+aS'see u all laterssss'
+p770
+aS"What kind of consultant are you....I'm a financial consultant"
+p771
+aS'byeeee'
+p772
+aS'nite 10-19-30sUser7'
+p773
+aS'bye 10-19-30sUser7'
+p774
+aS'gonna eat dinner'
+p775
+aS'PART'
+p776
+aS'biz 10-19-30sUser17... '
+p777
+aS'Looking Through Patient Eyes.....PM Dawn   (last song of the evening-LIVE)'
+p778
+aS'cool...is biz going good?'
+p779
+aS'nite 10-19-30sUser7'
+p780
+aS'mauh!!!!!!!!!!!!!!!!'
+p781
+aS'nite mike'
+p782
+aS"i keep makin' $$ for others so it must be 10-19-30sUser17... lol"
+p783
+aS'10-19-30sUser11 sup girl?'
+p784
+aS'me too...always seem to pick the right stocks for everyone else but me....lol'
+p785
+aS'Hi 10-19-30sUser4'
+p786
+aS"don't take your own advice? lol"
+p787
+aS"don't take your own advice. lol"
+p788
+aS"don't be your own client"
+p789
+aS"you'll suffer"
+p790
+aS'JOIN'
+p791
+aS'lmao'
+p792
+aS'I do...just always 2 days too late (after I finish meeting with all my clients)'
+p793
+aS'hi room'
+p794
+aS'hey 10-19-30sUser18.. welcome'
+p795
+aS'hi 10-19-30sUser9'
+p796
+aS'mango is my fav'
+p797
+aS'JOIN'
+p798
+aS'thank you'
+p799
+aS'PART'
+p800
+aS'shaken or stirred 10-19-30sUser18?'
+p801
+aS'shaken or stirred 10-19-30sUser18.'
+p802
+aS'hi 10-19-30sUser19'
+p803
+aS'hey 10-19-30sUser18'
+p804
+aS'good ques 10-19-30sUser17'
+p805
+aS"always shakin'... lol"
+p806
+aS'strong!'
+p807
+aS'lmao 10-19-30sUser18'
+p808
+aS'strait up'
+p809
+aS'lol'
+p810
+aS'JOIN'
+p811
+aS'shakin'
+p812
+aS"that's the way I like it "
+p813
+aS'oh ya'
+p814
+aS'<sorry dont drink'
+p815
+aS'its k'
+p816
+aS'<is a smoker'
+p817
+aS'me too'
+p818
+aS'trying to quit'
+p819
+aS"10-19-30sUser9...what's your preference?"
+p820
+aS"10-19-30sUser9...what's your preference."
+p821
+aS'<always 4.20 at my house'
+p822
+aS'ya'
+p823
+aS'PART'
+p824
+aS'i like mine shook over ice'
+p825
+aS'why so mad 10-19-30sUser19'
+p826
+aS'<cali farmer'
+p827
+aS'hmmmmmmm\\'
+p828
+aS'harvest good this year'
+p829
+aS'brb'
+p830
+aS'NICK :10-19-30sUser10'
+p831
+aS'whoa'
+p832
+aS'hb 10-19-30sUser2'
+p833
+aS'i have teenagers'
+p834
+aS'finally 10-19-30sUser10'
+p835
+aS'lol'
+p836
+aS'ha i have one'
+p837
+aS'i have 2'
+p838
+aS'18,   16'
+p839
+aS"what's the latest?"
+p840
+aS'boys'
+p841
+aS'oh ny gosh'
+p842
+aS'8,6 girls'
+p843
+aS'my'
+p844
+aS'that is ruff'
+p845
+aS"so what are we talkin' about tonight?"
+p846
+aS"so what are we talkin' about tonight."
+p847
+aS'PART'
+p848
+aS"you're choice 10-19-30sUser17"
+p849
+aS'mango martinis and teens'
+p850
+aS'lol 10-19-30sUser18'
+p851
+aS'hey 10-19-30sUser9...you married?'
+p852
+aS'hey 10-19-30sUser9...you married.'
+p853
+aS'lol'
+p854
+aS'hell no, u?'
+p855
+aS'sex, drugs and rock n roll'
+p856
+aS'PART'
+p857
+aS'lol 10-19-30sUser19'
+p858
+aS'wooooohoooo'
+p859
+aS'with an answer like that...nope....lol'
+p860
+aS'ha'
+p861
+aS'maybe not the drugs'
+p862
+aS'the rest i can do'
+p863
+aS'or the rock and roll....definitley the sex....lol'
+p864
+aS'yeppers'
+p865
+aS'ya drugs r bad'
+p866
+aS'i sing for the ladies'
+p867
+aS'oh no 10-19-30sUser19 are you from texas?'
+p868
+aS'oh no 10-19-30sUser19 are you from texas.'
+p869
+aS'any kids 10-19-30sUser9....'
+p870
+aS'no mame'
+p871
+aS'nada again 10-19-30sUser17, u?'
+p872
+aS'<cali guy here'
+p873
+aS'mikeeeeeeeeeeeeeeeeeeeeeeeeee'
+p874
+aS'ok'
+p875
+aS'see my nic'
+p876
+aS'little boy'
+p877
+aS'ya '
+p878
+aS"that's cool... kids are cool"
+p879
+aS'JOIN'
+p880
+aS'welcome 10-19-30sUser21'
+p881
+aS'adults are cooler.....lol'
+p882
+aS'i chatted with someone recently from texas who said yeppers alot'
+p883
+aS'hi'
+p884
+aS'JOIN'
+p885
+aS'yea my 18 year old plays in my band'
+p886
+aS'hi all'
+p887
+aS'hi 10-19-30sUser21'
+p888
+aS'JOIN'
+p889
+aS'hey u550436035'
+p890
+aS'NICK :10-19-30sUser10'
+p891
+aS'i c'
+p892
+aS'hi all '
+p893
+aS'hey 10-19-30sUser23 hun'
+p894
+aS'hi 10-19-30sUser9'
+p895
+aS'hi 10-19-30sUser23'
+p896
+aS'yea its pretty cool'
+p897
+aS'nice to see you here'
+p898
+aS'hey everyone'
+p899
+aS'so how do you unwind 10-19-30sUser9?'
+p900
+aS'so how do you unwind 10-19-30sUser9.'
+p901
+aS'hi '
+p902
+aS"i'm doin' it now 10-19-30sUser17"
+p903
+aS'the hair would suggest you party hard.....lol'
+p904
+aS'what type of music does your band play'
+p905
+aS'the hair?'
+p906
+aS'yep'
+p907
+aS"yeah I'm ready to party"
+p908
+aS'hey 10-19-30sUser9?'
+p909
+aS'what you do for fun'
+p910
+aS"she's doin it....lol"
+p911
+aS'not a loaded quistion'
+p912
+aS'10-19-30sUser23'
+p913
+aS"I'm flattered really!"
+p914
+aS'with one hand'
+p915
+aS'what 10-19-30sUser11'
+p916
+aS'JOIN'
+p917
+aS'hi 10-19-30sUser24'
+p918
+aS'gentlemen...let"s be nce...there are ladies in the room....'
+p919
+aS'really 10-19-30sUser17??? geeze'
+p920
+aS'really 10-19-30sUser17... geeze'
+p921
+aS'I meant nothing by my comments'
+p922
+aS'ae you sexy?'
+p923
+aS'PART'
+p924
+aS'are'
+p925
+aS'how are you 10-19-30sUser23'
+p926
+aS'no kidding if we be dumb asses they wont chat with ya'
+p927
+aS'ok i guess'
+p928
+aS'lmao 10-19-30sUser19'
+p929
+aS'go figure'
+p930
+aS' :-) '
+p931
+aS'Finally someone figured out women...thanks 10-19-30sUser19'
+p932
+aS'<tries to watch his manners'
+p933
+aS'damn 10-19-30sUser17... '
+p934
+aS'lol'
+p935
+aS'no problem'
+p936
+aS' ;-) '
+p937
+aS'what was I thinking...orgy all around!!!!....lol'
+p938
+aS'orgy?'
+p939
+aS'lol'
+p940
+aS'lmao... wow... '
+p941
+aS'what one word can do for some people...easy there 10-19-30sUser3...lol'
+p942
+aS'lol'
+p943
+aS'to funny'
+p944
+aS'PART'
+p945
+aS'JOIN'
+p946
+aS'but getting back to the orgy......'
+p947
+aS'10-19-30sUser25'
+p948
+aS'lmao 10-19-30sUser17'
+p949
+aS'10-19-30sUser3'
+p950
+aS'10-19-30sUser25'
+p951
+aS'whats up '
+p952
+aS'10-19-30sUser11'
+p953
+aS'no'
+p954
+aS'bye'
+p955
+aS'me too........10-19-30sUser9'
+p956
+aS'PART'
+p957
+aS'lets play naked twister'
+p958
+aS'.ACTION passes a drink to all in the room and a margarita for 10-19-30sUser11 .'
+p959
+aS'cyber twister... how novel'
+p960
+aS'ty 10-19-30sUser25 hun'
+p961
+aS'10-19-30sUser9 all around'
+p962
+aS'lol'
+p963
+aS'thanks 10-19-30sUser25... right on'
+p964
+aS'no cheating now'
+p965
+aS'PART'
+p966
+aS'JOIN'
+p967
+aS'oppsss lol '
+p968
+aS'JOIN'
+p969
+aS'lol 10-19-30sUser25... wb'
+p970
+aS'0'
+p971
+aS'10-19-30sUser25 if I were you I would ask for a better nickname'
+p972
+aS'hi 10-19-30sUser25'
+p973
+aS'wrong damn button again lol '
+p974
+aS'PART'
+p975
+aS'bye 10-19-30sUser21'
+p976
+aS'hey 10-19-30sUser26... out of the pm please'
+p977
+aS'it is all good 10-19-30sUser17 call me what u like just not late for date or dinner lol '
+p978
+aS'lol'
+p979
+aS'lol 10-19-30sUser25'
+p980
+aS'10-19-30sUser9 seems to know all the right buttons to push;-)'
+p981
+aS'PART'
+p982
+aS'lose the fantasy 10-19-30sUser17... lol'
+p983
+aS'.ACTION is 10-19-30sUser10'
+p984
+aS'i thought my name was shit head for a long time'
+p985
+aS'.ACTION WOW! You said shit.. .'
+p986
+aS'lost it years ago...'
+p987
+aS'oooooooooooooonnnnnnnnnnnneeeeeeeeeeeeeeesssssssss '
+p988
+aS'ooopppps'
+p989
+aS'did not see u there baby '
+p990
+aS'sucks being you then huh? j/k :)'
+p991
+aS'sucks being you then huh. j/k :)'
+p992
+aS'JOIN'
+p993
+aS'hey 10-19-30sUser27... welcome'
+p994
+aS'Hi!!'
+p995
+aS'PART'
+p996
+aS'JOIN'
+p997
+aS"What's happening?"
+p998
+aS"why'd 10-19-30sUser19 leave?"
+p999
+aS'not sure'
+p1000
+aS'JOIN'
+p1001
+aS'passing around 10-19-30sUser9'
+p1002
+aS"pissed at you i'm sure... lol"
+p1003
+aS' :-) hello '
+p1004
+aS"...oopps I meant martini's"
+p1005
+aS'lmao 10-19-30sUser17'
+p1006
+aS'hey 10-19-30sUser28'
+p1007
+aS'Anyone PM in this room?'
+p1008
+aS'how are ya ll '
+p1009
+aS"gotta watch my manners or she won't psh anymore buttons....lol"
+p1010
+aS'hello everyone'
+p1011
+aS'yes....'
+p1012
+aS'hey 10-19-30sUser29'
+p1013
+aS'oh you meant your other lover....lol'
+p1014
+aS"lmao 10-19-30sUser17... go figure you'd think that was about you"
+p1015
+aS'yeah... cuz i have so many... lmao'
+p1016
+aS' :-) '
+p1017
+aS"gotta try...so seriously it wasn't meant for me.....lol"
+p1018
+aS'<not sexy but can I stay?'
+p1019
+aS'lol'
+p1020
+aS"you keep passin' me around it's gotta stick sometime... lmao"
+p1021
+aS'lol '
+p1022
+aS'with party hair like that....knockin down the door I bet'
+p1023
+aS'no prob 10-19-30sUser29....'
+p1024
+aS'party hair??? seriously? lmao'
+p1025
+aS'JOIN'
+p1026
+aS'thanks :-) '
+p1027
+aS'sexy is just a bonus at this point in my life.....lol'
+p1028
+aS'lol 10-19-30sUser17'
+p1029
+aS'just kidding.....'
+p1030
+aS'LOL '
+p1031
+aS'PART'
+p1032
+aS'<anti-sexy'
+p1033
+aS'hey 10-19-30sUser30... welcome to the crazy room... lol'
+p1034
+aS'had a girlfriend with hair like you 10-19-30sUser9'
+p1035
+aS'howdy'
+p1036
+aS'doody'
+p1037
+aS'and what happened to her 10-19-30sUser17?'
+p1038
+aS'and what happened to her 10-19-30sUser17.'
+p1039
+aS'can I ask where ya all are from .....im here in kentucky '
+p1040
+aS'as I said...too wild....even for me'
+p1041
+aS'34 M Pa.'
+p1042
+aS'canadain ladies pm me'
+p1043
+aS"hey 10-19-30sUser9... i'm from CO"
+p1044
+aS'a fellow canadian...woohoo!'
+p1045
+aS'JOIN'
+p1046
+aS'hey 10-19-30sUser31... welcome'
+p1047
+aS'cool '
+p1048
+aS'10-19-30sUser31'
+p1049
+aS'hello 10-19-30sUser9 :)'
+p1050
+aS'hey 10-19-30sUser31'
+p1051
+aS'10-19-30sUser11 *hugs*'
+p1052
+aS'are you sexy?'
+p1053
+aS'Hi 10-19-30sUser17'
+p1054
+aS':)'
+p1055
+aS'yo 10-19-30sUser31 whats up '
+p1056
+aS'JOIN'
+p1057
+aS'am i?'
+p1058
+aS'Hi all '
+p1059
+aS'yo 10-19-30sUser25 '
+p1060
+aS'hey 10-19-30sUser32 welcome'
+p1061
+aS'is who sexy?'
+p1062
+aS'cause we only accept none sexy people...except for 10-19-30sUser9'
+p1063
+aS'thank you 10-19-30sUser9'
+p1064
+aS'whew '
+p1065
+aS"I think I'm sexy as hell"
+p1066
+aS"she's the exception"
+p1067
+aS'I have to leave?'
+p1068
+aS'shut up 10-19-30sUser17... everyone is sexy'
+p1069
+aS'damn straight '
+p1070
+aS'< sexy in the dark'
+p1071
+aS'i think i am too 10-19-30sUser31 :) lol '
+p1072
+aS"no 10-19-30sUser31... don't leave"
+p1073
+aS"haven't seen me at six in the morning have you?"
+p1074
+aS"haven't seen me at six in the morning have you."
+p1075
+aS'just kidding'
+p1076
+aS'JOIN'
+p1077
+aS'does not matter to me waht anyone else thinks about me :) lol '
+p1078
+aS'.ACTION settles in next to 10-19-30sUser11...not leaving ;).'
+p1079
+aS'hi ya 10-19-30sUser33'
+p1080
+aS'hey 10-19-30sUser33... welcome'
+p1081
+aS'lol 10-19-30sUser31 '
+p1082
+aS'JOIN'
+p1083
+aS'you passed the test'
+p1084
+aS'great self esteem!'
+p1085
+aS'Hi 10-19-30sUser9...'
+p1086
+aS'hi 10-19-30sUser31!'
+p1087
+aS'Hi 10-19-30sUser25...'
+p1088
+aS'JOIN'
+p1089
+aS'hi room'
+p1090
+aS'hey 10-19-30sUser35... welcome'
+p1091
+aS'hi ladies'
+p1092
+aS'hi 10-19-30sUser35'
+p1093
+aS'hey 10-19-30sUser34... welcome'
+p1094
+aS'any Pa people here'
+p1095
+aS"well, if that's what I needed to pass, I get a freaking A+"
+p1096
+aS'hi'
+p1097
+aS'I lived in PA once '
+p1098
+aS'10-19-30sUser35...is that italian?'
+p1099
+aS'10-19-30sUser35...is that italian.'
+p1100
+aS'lol 10-19-30sUser31... A++'
+p1101
+aS"I've been to PA"
+p1102
+aS'no'
+p1103
+aS'JOIN'
+p1104
+aS'PART'
+p1105
+aS'hey 10-19-30sUser36... welcome'
+p1106
+aS'i fly over it before...'
+p1107
+aS'hi 10-19-30sUser36 '
+p1108
+aS"I'm an over achiever"
+p1109
+aS'hello '
+p1110
+aS'whjat nationality are you 10-19-30sUser35?'
+p1111
+aS'whjat nationality are you 10-19-30sUser35.'
+p1112
+aS'hello 10-19-30sUser36'
+p1113
+aS"who's horny ?"
+p1114
+aS'Is 10-19-30sUser17 writing a book?'
+p1115
+aS'Is 10-19-30sUser17 writing a book.'
+p1116
+aS'whjat is not a word 10-19-30sUser17... lol'
+p1117
+aS'LOL '
+p1118
+aS'PART'
+p1119
+aS'under achiever front and center...yes I am.....lol'
+p1120
+aS'lol 10-19-30sUser31... he must be'
+p1121
+aS'PART'
+p1122
+aS'JOIN'
+p1123
+aS'getting the obbts off just got home from work great night LOL '
+p1124
+aS'It is in my world'
+p1125
+aS'hi 10-19-30sUser37'
+p1126
+aS'ooppsss BOOTS '
+p1127
+aS'Well, the handsome 10-19-30sUser37'
+p1128
+aS'.ACTION is a short bus rider .'
+p1129
+aS' :-) '
+p1130
+aS"i can't keep up"
+p1131
+aS'its my first time here'
+p1132
+aS'welcome '
+p1133
+aS'welcome 10-19-30sUser36... '
+p1134
+aS'.ACTION hands 10-19-30sUser17 her bio.'
+p1135
+aS'PART'
+p1136
+aS"we're not as stupid as we appear... lol"
+p1137
+aS'looking it over carefully....'
+p1138
+aS'He was mad no one was horny'
+p1139
+aS'LOL'
+p1140
+aS'oh my'
+p1141
+aS'lol 10-19-30sUser31... go figure'
+p1142
+aS'Or confessed to it I should say'
+p1143
+aS"We all know we're all horny"
+p1144
+aS'who was looking for someone horny?'
+p1145
+aS'who was looking for someone horny.'
+p1146
+aS'PART'
+p1147
+aS'right?'
+p1148
+aS'JOIN'
+p1149
+aS'PART'
+p1150
+aS'that perked ya right up 10-19-30sUser17... lmao'
+p1151
+aS'the 10-19-30sUser34 of Steel'
+p1152
+aS'OK i say if they cant be creative enough to come up with a better line then ya horny they can stay away from me lmao'
+p1153
+aS'ummm...yeah (sheepishly)'
+p1154
+aS'dang i didnt even get to shine my boots for that one lol '
+p1155
+aS'PART'
+p1156
+aS"I am not a bisexual man, but I am seeking some (equal opportunity) conversation with a male or female capable of sustaining an intelligent chat without any humor. A nyone interested? don't boot me either."
+p1157
+aS'JOIN'
+p1158
+aS"And you say I'm writing the book...."
+p1159
+aS'.ACTION looks away from 10-19-30sUser37.'
+p1160
+aS'wothough humor>'
+p1161
+aS'??'
+p1162
+aS'10-19-30sUser37....you freaked me out...nothing personal'
+p1163
+aS'Omg 10-19-30sUser37, stop that'
+p1164
+aS'LOL '
+p1165
+aS'JOIN'
+p1166
+aS'somebody slap hiom back to reality....'
+p1167
+aS'hey 10-19-30sUser28 and 10-19-30sUser39... welcome'
+p1168
+aS'him'
+p1169
+aS'PART'
+p1170
+aS'10-19-30sUser9, i used to live next door in Ut.'
+p1171
+aS'PART'
+p1172
+aS'PART'
+p1173
+aS'and you live where now 10-19-30sUser37?'
+p1174
+aS'and you live where now 10-19-30sUser37.'
+p1175
+aS'HAHA cute nic there 1 smallfry '
+p1176
+aS'please don"t say a prison....lol'
+p1177
+aS'I scare everyone. I am that pathetic. Kentucky'
+p1178
+aS'lmao 10-19-30sUser17... dman'
+p1179
+aS'damn even'
+p1180
+aS'PART'
+p1181
+aS'no one is pathetic, just human'
+p1182
+aS'PART'
+p1183
+aS"that's right"
+p1184
+aS'PART'
+p1185
+aS'LOL '
+p1186
+aS'and horny right 10-19-30sUser28'
+p1187
+aS'right ....'
+p1188
+aS'LOL'
+p1189
+aS'holy crap that took forever'
+p1190
+aS'What, no access to com in prison. If I was an ex prisoner would u hate me?'
+p1191
+aS'What, no access to com in prison. If I was an ex prisoner would u hate me.'
+p1192
+aS'wb 10-19-30sUser18'
+p1193
+aS'what took forever...the crap?'
+p1194
+aS'thanks'
+p1195
+aS' i added a pic '
+p1196
+aS'but had to resize and stuff'
+p1197
+aS'10-19-30sUser37 no im an equal oppertunity hater LOL '
+p1198
+aS'Hi, 10-19-30sUser3, do u ever sleep'
+p1199
+aS'man am I out in left field tonight...sorry 10-19-30sUser18'
+p1200
+aS'lol 10-19-30sUser28 '
+p1201
+aS'JOIN'
+p1202
+aS'O'
+p1203
+aS'brb'
+p1204
+aS' :-) '
+p1205
+aS"no 10-19-30sUser17... you're in the right field... lol"
+p1206
+aS'Well humanity is terrible these days'
+p1207
+aS'hi 10-19-30sUser37, yes i sleep'
+p1208
+aS'lol 10-19-30sUser3 .... :)'
+p1209
+aS'When'
+p1210
+aS'I don"t even know what that means 10-19-30sUser9....'
+p1211
+aS'oooooooooooo ghost hunters is on ya all talk to me if i get scared right '
+p1212
+aS'during the day'
+p1213
+aS"of course you don't babe"
+p1214
+aS'right field wrong park lol j/k '
+p1215
+aS'lmao 10-19-30sUser25'
+p1216
+aS"who's in prison?"
+p1217
+aS'not me i put them in the jail lol '
+p1218
+aS'<<<never even been arrested lmao'
+p1219
+aS'my soon to be ex husband'
+p1220
+aS'10-19-30sUser31, still waiting on the pic.'
+p1221
+aS'or at least tell the cops where to go to get the bad guys lol '
+p1222
+aS'PART'
+p1223
+aS"10-19-30sUser31...you're handing out pictures?"
+p1224
+aS"10-19-30sUser31...you're handing out pictures."
+p1225
+aS'been cuffed b4 though LOL '
+p1226
+aS'I was in prison once.'
+p1227
+aS'Or 5 times.'
+p1228
+aS'lol right there 10-19-30sUser28 lol '
+p1229
+aS'smile'
+p1230
+aS"stop doin' it then 10-19-30sUser37"
+p1231
+aS'Do u hate me now'
+p1232
+aS'yeah...'
+p1233
+aS'10-19-30sUser37 I put it up for you twice'
+p1234
+aS'JOIN'
+p1235
+aS'.ACTION hates no one.'
+p1236
+aS'Sure'
+p1237
+aS'ill hate ya if ya want me to lmao'
+p1238
+aS"I'm not good to look at 10-19-30sUser17"
+p1239
+aS'too much drama'
+p1240
+aS'JOIN'
+p1241
+aS'.ACTION love everyone cause everyone is special .'
+p1242
+aS'allow me to be the judge thank you very much....lol'
+p1243
+aS'.ACTION wanders over to the corner .'
+p1244
+aS'PART'
+p1245
+aS'Come on down 10-19-30sUser41 :)'
+p1246
+aS'.ACTION hogs the couch .'
+p1247
+aS'10-19-30sUser17 looks over to sneak a peek at 10-19-30sUser9'
+p1248
+aS'So is 10-19-30sUser25 girl gonna help me redraft my pro-se petition? I know, she despises ex prisoners?'
+p1249
+aS'So is 10-19-30sUser25 girl gonna help me redraft my pro-se petition. I know, she despises ex prisoners.'
+p1250
+aS"Ok I'm gonna put it up ONE MORE TIME 10-19-30sUser37, and this is it"
+p1251
+aS'O.K>'
+p1252
+aS"You're just going to be disappointed that I look like a soccer mom"
+p1253
+aS'music out here please'
+p1254
+aS'what about me 10-19-30sUser31'
+p1255
+aS'care to  me 10-19-30sUser17?'
+p1256
+aS'you inviting?'
+p1257
+aS'JOIN'
+p1258
+aS'No, I had a 220 lb spouse.'
+p1259
+aS'JOIN'
+p1260
+aS"don't play a dumbass"
+p1261
+aS'be gente....lol'
+p1262
+aS'hello'
+p1263
+aS'.ACTION hi .'
+p1264
+aS'hi all'
+p1265
+aS'LOL my pic would clear this room for real LMAO'
+p1266
+aS'And, I loved her from the heart, and soul.'
+p1267
+aS' :blush: '
+p1268
+aS'hi 10-19-30sUser12'
+p1269
+aS'lol 10-19-30sUser28'
+p1270
+aS'10-19-30sUser42: Hello there.'
+p1271
+aS'i despie no one i like to say if u have done ur time then that is that '
+p1272
+aS'10-19-30sUser42'
+p1273
+aS"Ok 10-19-30sUser37, it's there AGAIN"
+p1274
+aS'hey 10-19-30sUser42'
+p1275
+aS'i do not like to judge anyone 10-19-30sUser37'
+p1276
+aS'10-19-30sUser25 hey '
+p1277
+aS'O.k.'
+p1278
+aS'hey 10-19-30sUser3'
+p1279
+aS'hey 10-19-30sUser42 what up '
+p1280
+aS'10-19-30sUser41 i am fine'
+p1281
+aS'JOIN'
+p1282
+aS"10-19-30sUser9...where'd you go?"
+p1283
+aS"10-19-30sUser9...where'd you go."
+p1284
+aS'hi 10-19-30sUser11'
+p1285
+aS'you make it 10-19-30sUser43'
+p1286
+aS'i am here'
+p1287
+aS'there ya are'
+p1288
+aS'lol'
+p1289
+aS'Well, it is not destiny.'
+p1290
+aS'hey 10-19-30sUser43;'
+p1291
+aS"i'm in neverneverland 10-19-30sUser17"
+p1292
+aS'PART'
+p1293
+aS'No luck'
+p1294
+aS'hi 10-19-30sUser17'
+p1295
+aS'is the sky purple?'
+p1296
+aS'hello 10-19-30sUser17'
+p1297
+aS'Hi, 10-19-30sUser44'
+p1298
+aS'hey 10-19-30sUser42'
+p1299
+aS'it black here '
+p1300
+aS'brb'
+p1301
+aS'hb'
+p1302
+aS'k'
+p1303
+aS'10-19-30sUser28....you need help....lol'
+p1304
+aS'I do '
+p1305
+aS'sorry '
+p1306
+aS'PART'
+p1307
+aS'10-19-30sUser25 u an attorney?'
+p1308
+aS'10-19-30sUser37 did you see the pic?'
+p1309
+aS'10-19-30sUser37 did you see the pic.'
+p1310
+aS"don't be sorry"
+p1311
+aS'my therapist fired me '
+p1312
+aS' :blush: '
+p1313
+aS'no a dispatcher '
+p1314
+aS'10-19-30sUser28'
+p1315
+aS'depressed him too much?'
+p1316
+aS'hey 10-19-30sUser31'
+p1317
+aS"Anyone else want to see me, it's up there for a minute"
+p1318
+aS'Hey 10-19-30sUser42 hon :)'
+p1319
+aS'10-19-30sUser31, it is not up.'
+p1320
+aS'ok i am back'
+p1321
+aS'lol 10-19-30sUser31 '
+p1322
+aS"where's there 10-19-30sUser31"
+p1323
+aS'wb baby'
+p1324
+aS'ty 10-19-30sUser42'
+p1325
+aS'U deceived me'
+p1326
+aS'wb 10-19-30sUser43'
+p1327
+aS'ty'
+p1328
+aS'i did ?? hows that '
+p1329
+aS'oh for crying out loud'
+p1330
+aS'I keep putting it in my profile'
+p1331
+aS'10-19-30sUser31'
+p1332
+aS'PART'
+p1333
+aS'not there....'
+p1334
+aS'10-19-30sUser43'
+p1335
+aS'It is o.k., my computer is trash.'
+p1336
+aS"ok I'm gonna log out and in once"
+p1337
+aS'PART'
+p1338
+aS'oh joy'
+p1339
+aS' :tongue: '
+p1340
+aS"10-19-30sUser9....you're alive!"
+p1341
+aS'Ms 10-19-30sUser1, what u research.'
+p1342
+aS'hell yeah... of course'
+p1343
+aS'JOIN'
+p1344
+aS'JOIN'
+p1345
+aS'wb 10-19-30sUser31'
+p1346
+aS'still got the hair right'
+p1347
+aS'w/b 10-19-30sUser31 '
+p1348
+aS'PART'
+p1349
+aS'get over the hair 10-19-30sUser17... lol'
+p1350
+aS'Sexy, lets see'
+p1351
+aS'therapy.....I will I promise....lol'
+p1352
+aS'ty and ty'
+p1353
+aS".ACTION doesn't do therapy."
+p1354
+aS'She escaped quick.'
+p1355
+aS'the hair is forgotten then!'
+p1356
+aS'lmao 10-19-30sUser17'
+p1357
+aS'good job'
+p1358
+aS'would take an ex con to use words like escaped.....lol'
+p1359
+aS'10-19-30sUser37 look now'
+p1360
+aS'LOL'
+p1361
+aS'PRIVMSG 10-19-30sUser1 how are u?'
+p1362
+aS'PRIVMSG 10-19-30sUser1 how are u.'
+p1363
+aS"10-19-30sUser31....I think you're taking us for a ride"
+p1364
+aS'PART'
+p1365
+aS'JOIN'
+p1366
+aS'WEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!'
+p1367
+aS"think I amy have offended him?  I'm such a schlep sometimes....."
+p1368
+aS"think I amy have offended him.  I'm such a schlep sometimes....."
+p1369
+aS'no, everyone in the other room can see it'
+p1370
+aS'No luck'
+p1371
+aS'Amy?'
+p1372
+aS'wow revolving doors in her sure make me dizzy lol '
+p1373
+aS'try F5'
+p1374
+aS'PART'
+p1375
+aS'or Ctrl R'
+p1376
+aS'PART'
+p1377
+aS"or give up and realize I'm not worth the effort lol"
+p1378
+aS'Well, Iam immersed in a f.b.i. conspiracy.'
+p1379
+aS'Oh I thought 10-19-30sUser17 was talking to me'
+p1380
+aS'I was 10-19-30sUser31'
+p1381
+aS'You called me Amy?'
+p1382
+aS'O.k. I see it.'
+p1383
+aS"I'll take your word that you're a hot soccer mama!"
+p1384
+aS'Nice to see u'
+p1385
+aS'Oh no, I did NOT say hot'
+p1386
+aS'Thank u'
+p1387
+aS'nope nope nope'
+p1388
+aS"you're welcome"
+p1389
+aS'!20 '
+p1390
+aS'.Question:. A teacher that you had "the hots" for flirts outrageously with you at your class reunion. If single, would you hook up with them? Yes or No?'
+p1391
+aS'i meant to write the word may.....'
+p1392
+aS'I know, but it threw me'
+p1393
+aS'U areYes'
+p1394
+aS"the teacher would probably be 80 wouldn't she?"
+p1395
+aS"the teacher would probably be 80 wouldn't she."
+p1396
+aS'&^Yes i would 10-19-30sUser12'
+p1397
+aS'well let me get have another 12 hr day tomorrow at work '
+p1398
+aS'LMAO @ 80 '
+p1399
+aS'No iam young'
+p1400
+aS'night 10-19-30sUser25 *hugs*'
+p1401
+aS'10-19-30sUser11 have great night 10-19-30sUser31 hugs '
+p1402
+aS'where you going 10-19-30sUser25?'
+p1403
+aS'where you going 10-19-30sUser25.'
+p1404
+aS'awww see ya 10-19-30sUser25 have a good one '
+p1405
+aS'10-19-30sUser25 bye'
+p1406
+aS'10-19-30sUser25'
+p1407
+aS'have to work in the mornign 12 hr day '
+p1408
+aS'bye 10-19-30sUser25!'
+p1409
+aS'10-19-30sUser11 see u are still here lol '
+p1410
+aS'night 10-19-30sUser17 10-19-30sUser37 have good one '
+p1411
+aS'nite 10-19-30sUser25'
+p1412
+aS'nite!'
+p1413
+aS'nite niteeeeeeeeeeeeeeeeeee'
+p1414
+aS'Need me to cuddle '
+p1415
+aS'so 10-19-30sUser12...did you ask her out or what?'
+p1416
+aS'so 10-19-30sUser12...did you ask her out or what.'
+p1417
+aS'night 10-19-30sUser9'
+p1418
+aS'hold me.....lol'
+p1419
+aS'PART'
+p1420
+aS'is the lady with no hair still around.....lol'
+p1421
+aS'ok, brb, taking my pic off'
+p1422
+aS'10-19-30sUser11, how is brooklyn'
+p1423
+aS'it was never there to remove in the frst place.....'
+p1424
+aS'Thank u 10-19-30sUser31.'
+p1425
+aS'Oh yes, 10-19-30sUser37 saw it'
+p1426
+aS'it is raining 10-19-30sUser37'
+p1427
+aS'I saw it'
+p1428
+aS'I like n y'
+p1429
+aS'Only been there one time'
+p1430
+aS'I wanna live there someday'
+p1431
+aS'10-19-30sUser28...did you and 10-19-30sUser9 hook up and are now having a party of your own?'
+p1432
+aS'10-19-30sUser28...did you and 10-19-30sUser9 hook up and are now having a party of your own.'
+p1433
+aS'I like bedford street.'
+p1434
+aS'shut up 10-19-30sUser17'
+p1435
+aS'you wish'
+p1436
+aS'i here watchin ghost hunters lol '
+p1437
+aS'such harsh words......'
+p1438
+aS'But expensive.'
+p1439
+aS'tell em 10-19-30sUser9'
+p1440
+aS'1200 for a studio,'
+p1441
+aS'Hi 10-19-30sUser6'
+p1442
+aS'I liked louisianna the best though'
+p1443
+aS'hey 10-19-30sUser11'
+p1444
+aS'you love it 10-19-30sUser17'
+p1445
+aS'Too humid'
+p1446
+aS'hi 10-19-30sUser17'
+p1447
+aS'actually i do....never liked soft women....'
+p1448
+aS'no shortage of stron women in this room....lol'
+p1449
+aS'you like them rough?'
+p1450
+aS'10-19-30sUser3 whaaaaats up in ohio?'
+p1451
+aS'10-19-30sUser3 whaaaaats up in ohio.'
+p1452
+aS'Like whip and crop tough?'
+p1453
+aS'now now 10-19-30sUser31...we barely know each other....lol'
+p1454
+aS'hi 10-19-40sUser23'
+p1455
+aS'love me like a bomb baby come on get it on'
+p1456
+aS'hi 10-19-40sUser23'
+p1457
+aS'Pour some sugar on me babe n get see dentist'
+p1458
+aS'JOIN'
+p1459
+aS'lol'
+p1460
+aS'hiya 10-19-40sUser23'
+p1461
+aS'hey 10-19-40sUser23'
+p1462
+aS'bend me shape me any way ya want me'
+p1463
+aS'hi 10-19-40sUser27'
+p1464
+aS'Hi  10-19-40sUser23   welcome to room also  10-19-40sUser27 '
+p1465
+aS'hey there 10-19-40sUser27'
+p1466
+aS'hiya 10-19-40sUser27 '
+p1467
+aS".ACTION never judges a book by it's cover....likes to read and see whats on the inside.... same with people too."
+p1468
+aS'pour some splenda on me when you need a sugar subsitute'
+p1469
+aS'JOIN'
+p1470
+aS'wb 10-19-40sUser27'
+p1471
+aS'hello all this comp is freaing me out'
+p1472
+aS'lol'
+p1473
+aS'Greetings 10-19-40sUser27'
+p1474
+aS'lol 10-19-40sUser9'
+p1475
+aS'for sure 10-19-40sUser11'
+p1476
+aS'hi 10-19-40sUser28'
+p1477
+aS'10-19-40sUser11...some people have a lot of blank pages'
+p1478
+aS'Hi  10-19-40sUser28   welcome to room'
+p1479
+aS'free your mind'
+p1480
+aS'thanks 10-19-40sUser11!'
+p1481
+aS'lol'
+p1482
+aS'hey 10-19-40sUser18'
+p1483
+aS'totally agree with you 10-19-40sUser11'
+p1484
+aS'nice 10-19-40sUser11'
+p1485
+aS'free your bosom'
+p1486
+aS'<<<<<< blank pages'
+p1487
+aS'mines free'
+p1488
+aS'gets  10-19-40sUser27  some un-freeze  for her  puter'
+p1489
+aS'lol 10-19-40sUser4'
+p1490
+aS'free your bootay'
+p1491
+aS'they r free'
+p1492
+aS"well..... I don't like Splashing in a Puddle for too long... I would rather Swim in an Ocean :)"
+p1493
+aS'lol 10-19-40sUser18'
+p1494
+aS'Hard to read a book if you never  open the cover'
+p1495
+aS'weeeeeeeee thanks 10-19-40sUser19!'
+p1496
+aS'PART'
+p1497
+aS'im out in cal now 10-19-40sUser3 looking at some new bulls to by'
+p1498
+aS"it's an expression 10-19-40sUser22"
+p1499
+aS'just some categories in my book are blank, others are too full, lol'
+p1500
+aS'10-19-40sUser20 you really should wear a bra to work'
+p1501
+aS'euphamisms.....'
+p1502
+aS'JOIN'
+p1503
+aS'lol 10-19-40sUser9'
+p1504
+aS'u may have to much files u need rid  10-19-40sUser27  '
+p1505
+aS'JOIN'
+p1506
+aS'people will start calling your names'
+p1507
+aS'hi everyone'
+p1508
+aS'sometimes depending on the book...ya just wanna leave that chapter out and make it a mystery'
+p1509
+aS'PART'
+p1510
+aS'its my sons wireless laptop'
+p1511
+aS'hi 10-19-40sUser30'
+p1512
+aS'could be a Virius 10-19-40sUser27 lol'
+p1513
+aS'doubt that '
+p1514
+aS'hi 10-19-40sUser30'
+p1515
+aS'hi 10-19-40sUser26  '
+p1516
+aS'hi 10-19-40sUser30'
+p1517
+aS'.ACTION back to lurkin.'
+p1518
+aS'keeps losing connection'
+p1519
+aS'Hi 10-19-40sUser30'
+p1520
+aS'Oh  toss it  out window  10-19-40sUser27 '
+p1521
+aS'hiya 10-19-40sUser30'
+p1522
+aS'hi 10-19-40sUser11 , 10-19-40sUser29 '
+p1523
+aS'yawns....'
+p1524
+aS'hi 10-19-40sUser24, 10-19-40sUser3 '
+p1525
+aS"they'd just tell me that i left my headlights on"
+p1526
+aS'hi 10-19-40sUser30'
+p1527
+aS'<is watchin the screen'
+p1528
+aS'you tired 10-19-40sUser29? or bored?'
+p1529
+aS'you tired 10-19-40sUser29. or bored.'
+p1530
+aS'hi 10-19-40sUser16 '
+p1531
+aS'10-19-40sUser20...high beams?'
+p1532
+aS'ouch..10-19-40sUser20'
+p1533
+aS'hi 10-19-40sUser6'
+p1534
+aS'Hi  10-19-40sUser29  n 10-19-40sUser24 '
+p1535
+aS'bored....'
+p1536
+aS'lol'
+p1537
+aS'and theyd all wear sunglasses to work'
+p1538
+aS'Hi  10-19-40sUser30 '
+p1539
+aS'I see'
+p1540
+aS'PART'
+p1541
+aS'hi 10-19-40sUser19 '
+p1542
+aS'bored?    man the day is slipping away   do something'
+p1543
+aS'guess he crashed, lol'
+p1544
+aS'JOIN'
+p1545
+aS'well.....perhaps you should find something Unboring to do '
+p1546
+aS'yeah i should toss it'
+p1547
+aS'lol....'
+p1548
+aS'do you widdle?'
+p1549
+aS'PART'
+p1550
+aS'Hi  10-19-40sUser27   welcome all  2  of u'
+p1551
+aS'ty!'
+p1552
+aS'no but 10-19-40sUser13 fiddles, lol'
+p1553
+aS'*kicks back with coffee*'
+p1554
+aS'how many 10-19-40sUser27 is there today? lol'
+p1555
+aS'how many 10-19-40sUser27 is there today. lol'
+p1556
+aS'u evil  twin  left  10-19-40sUser27 '
+p1557
+aS'eeek'
+p1558
+aS'JOIN'
+p1559
+aS'hi 10-19-40sUser31 '
+p1560
+aS'JOIN'
+p1561
+aS'say what 10-19-40sUser20????'
+p1562
+aS'ysssssssss'
+p1563
+aS'hi 10-19-40sUser32'
+p1564
+aS'lol'
+p1565
+aS"chatting, but insome chats people just simply ...babble nonsense or are cyberin' thru the pm's.....lol"
+p1566
+aS'I said you look nice today 10-19-40sUser13.'
+p1567
+aS'lol'
+p1568
+aS'Hi  10-19-40sUser31  n  10-19-40sUser32   welcome to room'
+p1569
+aS'hi 10-19-40sUser31 & 10-19-40sUser32 '
+p1570
+aS'10-19-40sUser16 tjhe sun is fighting to get out'
+p1571
+aS'welll excuuuuuuse me'
+p1572
+aS'hi folks...ty'
+p1573
+aS'burp?'
+p1574
+aS'hi all'
+p1575
+aS'yep I can see that 10-19-40sUser9 :-) '
+p1576
+aS'JOIN'
+p1577
+aS',,,,,,, babblein nonsense i think'
+p1578
+aS'now my parrot is misbehaving'
+p1579
+aS'lol'
+p1580
+aS"Well....if you don't like the conversation...the solution is Simple....Change it :)"
+p1581
+aS'hey 10-19-40sUser33'
+p1582
+aS'fart?'
+p1583
+aS'hi 10-19-40sUser33'
+p1584
+aS'hi 10-19-40sUser33'
+p1585
+aS'hi 10-19-40sUser11 '
+p1586
+aS'10-19-40sUser33'
+p1587
+aS'JOIN'
+p1588
+aS'hi 10-19-40sUser26'
+p1589
+aS'hi 10-19-40sUser34'
+p1590
+aS'hi 10-19-40sUser16'
+p1591
+aS'10-19-40sUser34'
+p1592
+aS'hello 10-19-40sUser34'
+p1593
+aS'hi 10-19-40sUser9'
+p1594
+aS'true...lol i just did'
+p1595
+aS'Hi 10-19-40sUser20!!!!'
+p1596
+aS'hi 10-19-40sUser34'
+p1597
+aS'Hi  10-19-40sUser10   welcome  to room as u  go  shoppin at k-mart  for  new pants'
+p1598
+aS'helloooo 10-19-40sUser34'
+p1599
+aS"that's y i'm here.....lol"
+p1600
+aS'!!!!'
+p1601
+aS'PART'
+p1602
+aS'JOIN'
+p1603
+aS'hi 10-19-40sUser11!!! gm'
+p1604
+aS'PART'
+p1605
+aS'um 10-19-40sUser33   i mean'
+p1606
+aS'hi 10-19-40sUser8'
+p1607
+aS'hi 10-19-40sUser33!!!!'
+p1608
+aS'hi 10-19-40sUser33 m 10-19-40sUser34 10-19-40sUser8 '
+p1609
+aS'Hi  10-19-40sUser33   welcome  to room as u  go  shoppin at k-mart  for  new pants'
+p1610
+aS'lol hi 10-19-40sUser19'
+p1611
+aS'10-19-40sUser34 is on his 10th cup o coffee, lol'
+p1612
+aS'hi 10-19-40sUser30'
+p1613
+aS'heee'
+p1614
+aS'good day to you 10-19-40sUser16........ :-) '
+p1615
+aS'j/k'
+p1616
+aS'relax dont do it'
+p1617
+aS'lol 10-19-40sUser20'
+p1618
+aS'Hi  10-19-40sUser34   '
+p1619
+aS'so.. where from 10-19-40sUser11?'
+p1620
+aS'so.. where from 10-19-40sUser11.'
+p1621
+aS'PART'
+p1622
+aS'your gonna have to peel him off the Ceiling soon lol'
+p1623
+aS'hi 10-19-40sUser30!!!!!'
+p1624
+aS'no 10-19-40sUser9'
+p1625
+aS'say never never land'
+p1626
+aS'.ACTION is in Ontario...CanEhda .'
+p1627
+aS'PART'
+p1628
+aS'hi 10-19-40sUser19'
+p1629
+aS'fock'
+p1630
+aS'JOIN'
+p1631
+aS'beautiful day here '
+p1632
+aS'metallica?'
+p1633
+aS'kool'
+p1634
+aS'just got back from the doc 10-19-40sUser20'
+p1635
+aS'hiya 10-19-40sUser35'
+p1636
+aS'thats great 10-19-40sUser32'
+p1637
+aS'Hi  everyone come in  sit smoke are kiss'
+p1638
+aS'having my first cupo the dya'
+p1639
+aS'hi ya 10-19-40sUser3'
+p1640
+aS"oh, what'd he do?"
+p1641
+aS'kool...with a K?'
+p1642
+aS'is cold up there????'
+p1643
+aS"brb.... don't say you weren't warned...brb"
+p1644
+aS'messed up bad'
+p1645
+aS'how ya doin 10-19-40sUser34 '
+p1646
+aS"it's gonna be Kold soon ;)"
+p1647
+aS'JOIN'
+p1648
+aS'exit light, enter night, off to never never land'
+p1649
+aS'oh no 10-19-40sUser34'
+p1650
+aS'yep....cool...kool...'
+p1651
+aS'wb 10-19-40sUser35'
+p1652
+aS"that's right.......i forgot."
+p1653
+aS'hi 10-19-40sUser35 & 10-19-40sUser36 '
+p1654
+aS'lol'
+p1655
+aS'lol'
+p1656
+aS'kold....lol'
+p1657
+aS'Yes  10-19-40sUser11   spring is comin'
+p1658
+aS'hi 10-19-40sUser30'
+p1659
+aS"well....they've got me going to see a specialist this afternoon at 3:45 for MRIs"
+p1660
+aS'what about you .....what is your fascination with the Russion Space Ships?'
+p1661
+aS'what about you .....what is your fascination with the Russion Space Ships.'
+p1662
+aS';sunshine is always nice'
+p1663
+aS'JOIN'
+p1664
+aS'good'
+p1665
+aS'PART'
+p1666
+aS'lol 10-19-40sUser11'
+p1667
+aS'amen 10-19-40sUser32 :) '
+p1668
+aS'goody'
+p1669
+aS'PART'
+p1670
+aS'chuckle 10-19-40sUser20'
+p1671
+aS"lol....i'm a history buff......"
+p1672
+aS'thanx 10-19-40sUser9'
+p1673
+aS'ahhhh I see'
+p1674
+aS'what did you do to yourself 10-19-40sUser34 ?'
+p1675
+aS'what did you do to yourself 10-19-40sUser34 .'
+p1676
+aS'hi all'
+p1677
+aS'I like Biographys'
+p1678
+aS'well i am a  hickory  nut'
+p1679
+aS'we go from there i spose'
+p1680
+aS'mm buffalo wings'
+p1681
+aS'PART'
+p1682
+aS'hi 10-19-40sUser37'
+p1683
+aS'it means were getting older lol ... I figured it out'
+p1684
+aS'i love american hx'
+p1685
+aS'plus i wanted a unique nic....'
+p1686
+aS'hi 10-19-40sUser37'
+p1687
+aS'hix?'
+p1688
+aS'hx=history'
+p1689
+aS"wasn't interested in them when I was younger....because they were all strangers to me LOL"
+p1690
+aS'JOIN'
+p1691
+aS'oh'
+p1692
+aS"now I know these people ...and it's interesting lol"
+p1693
+aS"also i'm a teacher..."
+p1694
+aS'wb 10-19-40sUser27 who should change her nic to "fallout"'
+p1695
+aS'History?'
+p1696
+aS'Hi  10-19-40sUser27   who is  here n there'
+p1697
+aS'history'
+p1698
+aS'by any chance?'
+p1699
+aS'lol'
+p1700
+aS'his story'
+p1701
+aS'yep...'
+p1702
+aS'god this grrrrrrrrr'
+p1703
+aS'his tory'
+p1704
+aS'ahhhh............. What a Coincidence ;)'
+p1705
+aS"i blew out a knee and dislocated my left thumb (or worse) yesterday 10-19-40sUser30, i'm aok though, no worries"
+p1706
+aS'hertory'
+p1707
+aS'amazing lol'
+p1708
+aS'hi 10-19-40sUser27'
+p1709
+aS'"fight the powers that be"'
+p1710
+aS'hi story?'
+p1711
+aS'lol'
+p1712
+aS';-)'
+p1713
+aS'heya 10-19-40sUser35!'
+p1714
+aS'what grade do you teach?'
+p1715
+aS'r u a teacher 2?'
+p1716
+aS'JOIN'
+p1717
+aS'((((((((((10-19-40sUser34))))))))))'
+p1718
+aS'my damn comp is goofy so if I fall out'
+p1719
+aS'ever date a student?'
+p1720
+aS'and american literature'
+p1721
+aS'ouch 10-19-40sUser34'
+p1722
+aS'lol'
+p1723
+aS'there  a  story of  a man name brady who  had  12 kids out  of  wed-lock  the others  were  kidnaped'
+p1724
+aS'OOPS'
+p1725
+aS'h.s'
+p1726
+aS'I see'
+p1727
+aS".ACTION kisses 10-19-40sUser34's booboo and makes it all better."
+p1728
+aS'lol 10-19-40sUser35, 10-19-40sUser30'
+p1729
+aS'none of my teachers would sleep with me'
+p1730
+aS'lol'
+p1731
+aS'PART'
+p1732
+aS'oh that feels so much better already lol'
+p1733
+aS'gets  10-19-40sUser27  a  pillow'
+p1734
+aS'JOIN'
+p1735
+aS'i had this one art teacher   ms xxxxxx   oooh lala'
+p1736
+aS'some of these nicnames are very odd lol'
+p1737
+aS'awwwwwwwwww hugs 10-19-40sUser19'
+p1738
+aS'they are'
+p1739
+aS'I need fake ID so I can get into an eighth grade classroom with a hot teacher'
+p1740
+aS'yes  10-19-40sUser11  like  mind'
+p1741
+aS'rolls her eyes @ 10-19-40sUser9'
+p1742
+aS'lucky 10-19-40sUser9 none was like the gayoholic congressman Foley.....'
+p1743
+aS'JOIN'
+p1744
+aS'thows eyes back,, i have two'
+p1745
+aS'watches eyes roll by'
+p1746
+aS"10-19-40sUser30...i've got a brother in Naples"
+p1747
+aS"i know 10-19-40sUser11, bet you're thinking how did i ever come up with 10-19-40sUser30"
+p1748
+aS'hugs 10-19-40sUser27   dad is  bed bound  with  fractured compoud  vetrabrate'
+p1749
+aS'hi 10-19-40sUser39'
+p1750
+aS'JOIN'
+p1751
+aS'cool 10-19-40sUser34, thats 90 miles from me'
+p1752
+aS'hi 10-19-40sUser11'
+p1753
+aS'lol'
+p1754
+aS'r u a teacher 10-19-40sUser11 ?'
+p1755
+aS'r u a teacher 10-19-40sUser11 .'
+p1756
+aS'I still wait on ssi  ssid hearin none yer'
+p1757
+aS'or a nurse?'
+p1758
+aS'JOIN'
+p1759
+aS'PART'
+p1760
+aS'PART'
+p1761
+aS'10-19-40sUser30 your in the old country?'
+p1762
+aS"yeah, we're headed that way in april, do some fishin and such"
+p1763
+aS'I need 2  opr  on me  10-19-40sUser27  as her evil  twin  enters room'
+p1764
+aS'PART'
+p1765
+aS'Naples Florida?'
+p1766
+aS'am gonna shootthis pos thing'
+p1767
+aS'not italy?'
+p1768
+aS'old country 10-19-40sUser9?'
+p1769
+aS'lol'
+p1770
+aS'smart gal 10-19-40sUser27..backup'
+p1771
+aS'yeah 10-19-40sUser16'
+p1772
+aS'lol'
+p1773
+aS'beautiful there'
+p1774
+aS'oh'
+p1775
+aS"it's raining"
+p1776
+aS'i was thinking sicily'
+p1777
+aS'a nice change from teh rockies too 10-19-40sUser16'
+p1778
+aS'Florida'
+p1779
+aS'rained here this morning'
+p1780
+aS'yep'
+p1781
+aS'JOIN'
+p1782
+aS'still think it  may  need have some  temp files  remove  10-19-40sUser27   work better'
+p1783
+aS'florida is old country too i guess'
+p1784
+aS'lol'
+p1785
+aS"10-19-40sUser27 has a nice pic...but it won't be current if she keeps getting booted"
+p1786
+aS'JOIN'
+p1787
+aS'PART'
+p1788
+aS'hi 10-19-40sUser42'
+p1789
+aS"blue hairs'"
+p1790
+aS'((((((((((10-19-40sUser42))))))))))'
+p1791
+aS'hi 10-19-40sUser43'
+p1792
+aS'lol 10-19-40sUser3'
+p1793
+aS'hi 10-19-40sUser35'
+p1794
+aS'hi 10-19-40sUser43 '
+p1795
+aS'hi 10-19-40sUser16m'
+p1796
+aS'PART'
+p1797
+aS'Hi  10-19-40sUser43   welcome to room'
+p1798
+aS'hi 10-19-40sUser30'
+p1799
+aS'JOIN'
+p1800
+aS'hi 10-19-40sUser43'
+p1801
+aS'hi 10-19-40sUser19 and ty '
+p1802
+aS'hi 10-19-40sUser30  '
+p1803
+aS'hi 10-19-40sUser34'
+p1804
+aS'hello all'
+p1805
+aS'hi 10-19-40sUser44'
+p1806
+aS'nebraska is where its at'
+p1807
+aS'corn'
+p1808
+aS'hi 10-19-40sUser43'
+p1809
+aS'poot  poop'
+p1810
+aS'and'
+p1811
+aS'get in line for the early bird specials'
+p1812
+aS'huskers'
+p1813
+aS'hi 10-19-40sUser44'
+p1814
+aS'lol 10-19-40sUser9'
+p1815
+aS'and'
+p1816
+aS'JOIN'
+p1817
+aS'hi 10-19-40sUser35 '
+p1818
+aS'hello 10-19-40sUser44'
+p1819
+aS'corn'
+p1820
+aS'hi 10-19-40sUser45 '
+p1821
+aS'and'
+p1822
+aS'well i off now see u all'
+p1823
+aS'PART'
+p1824
+aS'huskers'
+p1825
+aS'soybeans'
+p1826
+aS'lol'
+p1827
+aS'PART'
+p1828
+aS'10-19-40sUser3 has an awesome pic'
+p1829
+aS'hope all is doing great'
+p1830
+aS'lets go huskers'
+p1831
+aS'Hiya 10-19-40sUser43 how have you been'
+p1832
+aS'rain on the scarecrow'
+p1833
+aS'blood on the plow'
+p1834
+aS'backatchya 10-19-40sUser20 cutie'
+p1835
+aS'hey 10-19-40sUser6....no pm....'
+p1836
+aS'ok here 10-19-40sUser45 . thank you for asking ....... how are you ?'
+p1837
+aS'ok here 10-19-40sUser45 . thank you for asking ....... how are you .'
+p1838
+aS'!problem'
+p1839
+aS".ACTION If you have a problem with another chatter, please don't take it to the main room, see one of your friendly neighborhood ops and they'll handle it for ya...Thanks.."
+p1840
+aS'freak....'
+p1841
+aS'!solved'
+p1842
+aS'!op'
+p1843
+aS'MODE #40sPlus +o 10-19-40sUser16'
+p1844
+aS'thanks 10-19-40sUser16'
+p1845
+aS'fine here ty'
+p1846
+aS'JOIN'
+p1847
+aS'JOIN'
+p1848
+aS'10-19-40sUser20 has an awesome pic too :)'
+p1849
+aS"Doing great 10-19-40sUser43 -- thanks for asking -- can you believe this weather -- Yeah it's fall !!!"
+p1850
+aS'hi 10-19-40sUser46'
+p1851
+aS'good afternoon'
+p1852
+aS'oh 10-19-40sUser3 is so so   (snort, fingers crossed behind my back)'
+p1853
+aS'PART'
+p1854
+aS'ty 10-19-40sUser39'
+p1855
+aS'hi 10-19-40sUser34'
+p1856
+aS'i think she photshopped it'
+p1857
+aS'hi 10-19-40sUser46 and 10-19-40sUser47'
+p1858
+aS'yw'
+p1859
+aS'too hot huh 10-19-40sUser45 ?'
+p1860
+aS'lol 10-19-40sUser9'
+p1861
+aS'10-19-40sUser34 has an awesome pick!'
+p1862
+aS'lol 10-19-40sUser25'
+p1863
+aS'lol '
+p1864
+aS'JOIN'
+p1865
+aS'hi 10-19-40sUser43'
+p1866
+aS'10-19-40sUser48'
+p1867
+aS'LOL 10-19-40sUser43 typing from the pool !!!'
+p1868
+aS'its rather nice out today .. but yesterday was terrible'
+p1869
+aS'JOIN'
+p1870
+aS'JOIN'
+p1871
+aS'10-19-40sUser20.....speaking of those nice px'
+p1872
+aS'gm all'
+p1873
+aS'PART'
+p1874
+aS'10-19-40sUser49'
+p1875
+aS'JOIN'
+p1876
+aS'hi 10-19-40sUser46 , 10-19-40sUser47 , 10-19-40sUser48 , 10-19-40sUser49 , 10-19-40sUser50 '
+p1877
+aS'hiya 10-19-40sUser49'
+p1878
+aS'just czeching in before czeching out lol'
+p1879
+aS'hi 10-19-40sUser49'
+p1880
+aS'hiya 10-19-40sUser48'
+p1881
+aS'hio 10-19-40sUser9'
+p1882
+aS'hi everyone'
+p1883
+aS'hi 10-19-40sUser49!!'
+p1884
+aS'hi 10-19-40sUser9'
+p1885
+aS'ryaon so sexy'
+p1886
+aS'hey 10-19-40sUser49'
+p1887
+aS'hiya 10-19-40sUser43'
+p1888
+aS'10-19-40sUser9'
+p1889
+aS'hi 10-19-40sUser43'
+p1890
+aS'hi 10-19-40sUser49'
+p1891
+aS'hi 10-19-40sUser34'
+p1892
+aS'hiya 10-19-40sUser48'
+p1893
+aS'hey 10-19-40sUser16'
+p1894
+aS'hi 10-19-40sUser43'
+p1895
+aS'JOIN'
+p1896
+aS'hiya 10-19-40sUser49'
+p1897
+aS'!deop'
+p1898
+aS'hi 10-19-40sUser20'
+p1899
+aS'hi 10-19-40sUser3'
+p1900
+aS'MODE #40sPlus -o 10-19-40sUser16'
+p1901
+aS'hey 10-19-40sUser49'
+p1902
+aS'hi 10-19-40sUser52'
+p1903
+aS'JOIN'
+p1904
+aS'hi 10-19-40sUser52 hugs'
+p1905
+aS'hi 10-19-40sUser13'
+p1906
+aS'wb 10-19-40sUser52'
+p1907
+aS'hi 10-19-40sUser52 '
+p1908
+aS'hi 10-19-40sUser53 '
+p1909
+aS'hiya 10-19-40sUser20'
+p1910
+aS' hi 10-19-40sUser3'
+p1911
+aS'!de-tubetop'
+p1912
+aS'helloooo  10-19-40sUser52'
+p1913
+aS'hiya 10-19-40sUser53'
+p1914
+aS'hiya 10-19-40sUser43 hug'
+p1915
+aS'10-19-40sUser26'
+p1916
+aS'hi 10-19-40sUser53 '
+p1917
+aS'hi 10-19-40sUser53'
+p1918
+aS'hiya.. 10-19-40sUser13'
+p1919
+aS'10-19-40sUser52'
+p1920
+aS'wow must be lunch time '
+p1921
+aS'hiya 10-19-40sUser30'
+p1922
+aS'hi 10-19-40sUser53'
+p1923
+aS"I love 10-19-40sUser52's pic"
+p1924
+aS'hey 10-19-40sUser53'
+p1925
+aS'Hi Everyone..:)    '
+p1926
+aS'10-19-40sUser18 hugsssss :)'
+p1927
+aS'hiy 10-19-40sUser16'
+p1928
+aS'hi 10-19-40sUser53'
+p1929
+aS'10-19-40sUser9'
+p1930
+aS'PART'
+p1931
+aS'10-19-40sUser53'
+p1932
+aS'hi 10-19-40sUser53'
+p1933
+aS'hows everyone'
+p1934
+aS'just finished lunch '
+p1935
+aS'oh 10-19-40sUser26 left lol'
+p1936
+aS'hiya 10-19-40sUser46 how are you today'
+p1937
+aS'Wow.. full house here on a Friday afternoon! *VBS*'
+p1938
+aS'fine here and u 10-19-40sUser50'
+p1939
+aS'hi 10-19-40sUser46'
+p1940
+aS'i have to go to work :('
+p1941
+aS"i'm fine thnx 10-19-40sUser45"
+p1942
+aS'hey 10-19-40sUser52?'
+p1943
+aS'JOIN'
+p1944
+aS'already?'
+p1945
+aS'good ty'
+p1946
+aS'hi 10-19-40sUser16'
+p1947
+aS'Hi 10-19-40sUser54..:)'
+p1948
+aS'hi 10-19-40sUser53'
+p1949
+aS'yes 10-19-40sUser34?'
+p1950
+aS'hiya 10-19-40sUser53'
+p1951
+aS'hi 10-19-40sUser52'
+p1952
+aS'hi 10-19-40sUser54'
+p1953
+aS'i just started a new job'
+p1954
+aS'new pic, I see, 10-19-40sUser11'
+p1955
+aS'the roof the roof the roof is on fire'
+p1956
+aS'Hello 10-19-40sUser44..:)   and 10-19-40sUser3!   :)'
+p1957
+aS'hi 10-19-40sUser54 '
+p1958
+aS'congrat... 10-19-40sUser46'
+p1959
+aS'did you attend that Kansas TC get together?'
+p1960
+aS'did you attend that Kansas TC get together.'
+p1961
+aS'awesome 10-19-40sUser46, whatcha doin?'
+p1962
+aS'awesome 10-19-40sUser46, whatcha doin.'
+p1963
+aS'lol'
+p1964
+aS'Hi all'
+p1965
+aS'hey 10-19-40sUser43'
+p1966
+aS'l'
+p1967
+aS'hi 10-19-40sUser54'
+p1968
+aS'o'
+p1969
+ag1967
+aS'hi 10-19-40sUser11'
+p1970
+aS'hey 10-19-40sUser54'
+p1971
+aS'hi 10-19-40sUser49'
+p1972
+aS'sales'
+p1973
+aS'hi 10-19-40sUser54'
+p1974
+aS'hi 10-19-40sUser54'
+p1975
+aS'PART'
+p1976
+aS"no 10-19-40sUser34 I didn't get to go...death in the family "
+p1977
+aS'PART'
+p1978
+aS'hey 10-19-40sUser11 good to see you '
+p1979
+aS'you too :)'
+p1980
+aS'10-19-40sUser7 u beachhhh hehehe'
+p1981
+aS'Sorry to hear that, 10-19-40sUser52....  My sympathies to you and your family..'
+p1982
+aS'really 10-19-40sUser52?   so sorry'
+p1983
+aS'oh sorry tohear that 10-19-40sUser52, was just wondering, my sympathies'
+p1984
+aS'credit card proocessing/ software, hardware...'
+p1985
+aS'ty'
+p1986
+aS'welll'
+p1987
+aS'sorry to hear that 10-19-40sUser52 .... hugs hon'
+p1988
+aS"I haven't been in here in quite a while"
+p1989
+aS'JOIN'
+p1990
+aS'was my oldest sons dad.....'
+p1991
+aS'Hugs for you 10-19-40sUser52'
+p1992
+aS'10-19-40sUser47 get lost?'
+p1993
+aS'wb ((((10-19-40sUser24))))'
+p1994
+aS'ty 10-19-40sUser11'
+p1995
+aS'an X ...wowsa'
+p1996
+aS'PART'
+p1997
+aS'oh Lord'
+p1998
+aS'wb 10-19-40sUser24'
+p1999
+aS'uyes?'
+p2000
+aS'thanks 10-19-40sUser25...oh you do give a damn.'
+p2001
+aS"won't you buy me a mercedes benz"
+p2002
+aS'10-19-40sUser52 I just had a death in the family as well.. bad week'
+p2003
+aS'hi 10-19-40sUser47'
+p2004
+aS'ty'
+p2005
+aS'lost, maybe, forgotten, sure'
+p2006
+aS'why yes I do 10-19-40sUser24, lol'
+p2007
+aS'i knw how u feel'
+p2008
+aS'i just saw Death of a Salesman'
+p2009
+aS'hey 10-19-40sUser16'
+p2010
+aS'if i had the cash i would 10-19-40sUser20'
+p2011
+aS'yes it sucks 10-19-40sUser46'
+p2012
+aS'hey 10-19-40sUser47'
+p2013
+aS'PART'
+p2014
+aS'phone brb'
+p2015
+aS'bye everyone'
+p2016
+aS'PART'
+p2017
+aS'hb 10-19-40sUser34'
+p2018
+aS'hi 10-19-40sUser11 '
+p2019
+aS'yes it does'
+p2020
+aS'i was singing...lol'
+p2021
+aS'PART'
+p2022
+aS'off key'
+p2023
+aS"didn'tja hear me?"
+p2024
+aS'sing away 10-19-40sUser20 lol'
+p2025
+aS'lol'
+p2026
+aS'hmmmmm'
+p2027
+aS'JOIN'
+p2028
+aS'PART'
+p2029
+aS'hey 10-19-40sUser25....someone said he was coming up for thanksgiving....you should come with him '
+p2030
+aS'hi 10-19-40sUser55'
+p2031
+aS'10-19-40sUser55'
+p2032
+aS'hmmmm was she singing Dixie lol'
+p2033
+aS'Hiya 10-19-40sUser49'
+p2034
+aS'oh wait........thats a Whistlin ;)'
+p2035
+aS'Hello 10-19-40sUser9'
+p2036
+aS'thank god you were singing!  was gonna call animal welfare...thought someone was torturing a cat'
+p2037
+aS'hi 10-19-40sUser55'
+p2038
+aS'hi 10-19-40sUser55'
+p2039
+aS'lol '
+p2040
+aS'whisling dixie'
+p2041
+aS'Hiya 10-19-40sUser43'
+p2042
+aS'yep'
+p2043
+aS'that was singing?          thought I had tuned into Martian swamp music...'
+p2044
+aS'hey 10-19-40sUser55, good to c u'
+p2045
+aS'Hello 10-19-40sUser11'
+p2046
+aS'lol 10-19-40sUser3'
+p2047
+aS'be nice 10-19-40sUser3 lol'
+p2048
+aS'Hey there 10-19-40sUser25!'
+p2049
+aS'lol, cripes no mercy here'
+p2050
+aS'JOIN'
+p2051
+aS'hey there 10-19-40sUser55'
+p2052
+aS'<~~~will play nice                 grrr.'
+p2053
+aS'I see new updated pics from 10-19-40sUser11 and 10-19-40sUser52'
+p2054
+aS'Hiya 10-19-40sUser16'
+p2055
+aS'hi 10-19-40sUser56'
+p2056
+aS'aww miss 10-19-40sUser20 it was muzak to my ears'
+p2057
+aS'lol 10-19-40sUser3'
+p2058
+aS'wait til they beg for Mercy Huh 10-19-40sUser20 lol'
+p2059
+aS"can't 10-19-40sUser52, have a family reunion that Saturday"
+p2060
+aS'lol 10-19-40sUser3'
+p2061
+aS'lol 10-19-40sUser9'
+p2062
+aS'ty 10-19-40sUser9........'
+p2063
+aS'thats right 10-19-40sUser11!'
+p2064
+aS"ahhhhhh ok...who knows if he's really coming up...10-19-40sUser25 lol"
+p2065
+aS'yepper'
+p2066
+aS'nice thought tho'
+p2067
+aS'<- defragging my disc drive.. how LONG does this take?  Been over an hour now!'
+p2068
+aS"10-19-40sUser35...I'm a nice guy in real life...             I wanna be a bandito in chatland...but I gotta play nice...  :tongue: "
+p2069
+aS"Wowsa.... big Sneeze I didn't get anybody did I? lol"
+p2070
+aS"Wowsa.... big Sneeze I didn't get anybody did I. lol"
+p2071
+aS'Yikes'
+p2072
+aS'takes a long time 10-19-40sUser53'
+p2073
+aS'depends how many frags you got'
+p2074
+aS'where did that come From?'
+p2075
+aS"long time 10-19-40sUser53...if ya don't do it regularly"
+p2076
+aS'later all  :):):)'
+p2077
+aS'u never know with him 10-19-40sUser52'
+p2078
+aS'depends on how long its been since you did it last 10-19-40sUser53 '
+p2079
+aS'bye 10-19-40sUser49'
+p2080
+aS'depends on how fragged up ya are 10-19-40sUser53'
+p2081
+aS'lol 10-19-40sUser3'
+p2082
+aS'PART'
+p2083
+aS'10-19-40sUser13:   My computer has been sluggish.. Will this speed it up?'
+p2084
+aS'10-19-40sUser13:   My computer has been sluggish.. Will this speed it up.'
+p2085
+aS' ;-) '
+p2086
+aS'it should'
+p2087
+aS'prolly'
+p2088
+aS'lol how well I know already 10-19-40sUser25 lol'
+p2089
+aS'removing the porn should'
+p2090
+aS'lol'
+p2091
+aS"you're talking to the right guy about sluggish 10-19-40sUser53"
+p2092
+aS'no 10-19-40sUser11, bless you though'
+p2093
+aS'lol 10-19-40sUser9'
+p2094
+aS'OK.. thanks, Everyone.. carry on... sorry for the interruption.;)'
+p2095
+aS'well thank you lol'
+p2096
+aS"yeah, he is sorta like that isn't he?"
+p2097
+aS"yeah, he is sorta like that isn't he."
+p2098
+aS'worked for someone i know '
+p2099
+aS':-o 10-19-40sUser20, you are cut off!'
+p2100
+aS'good luck 10-19-40sUser53'
+p2101
+aS'LOL am not!'
+p2102
+aS'ok back'
+p2103
+aS'are too!'
+p2104
+aS'wb 10-19-40sUser7'
+p2105
+aS'it will work faster if you have other extensions turned off'
+p2106
+aS'PART'
+p2107
+aS'ty ty'
+p2108
+aS'TY 10-19-40sUser11..  At least I can still CHAT while it defrags! ;)'
+p2109
+aS'heeee'
+p2110
+aS'I would think'
+p2111
+aS'yea he is...he sat and talked to my daughter the other night 10-19-40sUser25 lol...'
+p2112
+aS'just playin'
+p2113
+aS'yepper'
+p2114
+aS'hiya 10-19-40sUser7'
+p2115
+aS'JOIN'
+p2116
+aS'I just call the computer Guy '
+p2117
+aS'Fix it Plssss'
+p2118
+aS'heya 10-19-40sUser13'
+p2119
+aS'cripos'
+p2120
+aS'.ACTION is not a handyMan or a technical one either lol.'
+p2121
+aS'son = computer guy'
+p2122
+aS"yeah he told me, he finally called me last night, haven't talked to him in almost a week"
+p2123
+aS'hows your day goin 10-19-40sUser13'
+p2124
+aS'lol 10-19-40sUser52, lucky.'
+p2125
+aS'back....arggghhh.....my boss from Denver!!'
+p2126
+aS"well, thank god there's still time before last call 10-19-40sUser7"
+p2127
+aS'wb 10-19-40sUser34'
+p2128
+aS'wb 10-19-40sUser34'
+p2129
+aS'lol'
+p2130
+aS'ty 10-19-40sUser52'
+p2131
+aS'yw'
+p2132
+aS'i dont wanna be at work'
+p2133
+aS'i say leave 10-19-40sUser7'
+p2134
+aS'10-19-40sUser11..heal me girl!!'
+p2135
+aS'10-19-40sUser7...me needer...wanna run away?'
+p2136
+aS'10-19-40sUser7...me needer...wanna run away.'
+p2137
+aS'i will in an hour'
+p2138
+aS'lol'
+p2139
+aS'did you talk to him like you were in a lot of pain 10-19-40sUser34'
+p2140
+aS'ok 10-19-40sUser3'
+p2141
+aS'get your priorities straight 10-19-40sUser7!  quit work'
+p2142
+aS'JOIN'
+p2143
+aS'lol'
+p2144
+aS'JOIN'
+p2145
+aS'+*+*+*+* ...for you 10-19-40sUser34 :)'
+p2146
+aS'hi 10-19-40sUser58'
+p2147
+aS'lol'
+p2148
+aS'wb 10-19-40sUser29'
+p2149
+aS'hi 10-19-40sUser29'
+p2150
+aS'10-19-40sUser13....im down to time now'
+p2151
+aS'PART'
+p2152
+aS'Hello 10-19-adultsUser24 , welcome to #talkcity_adults ! .4Please ask in the main room before Private Messaging others!. You can find our rules at http://forums.talkcity.com/tc-adults/start Thanks for joining us!'
+p2153
+aS'Welcome to #talkcity_adults, To get your own game/control bot see Dawnstar! Visit http://www.shadowbots.com'
+p2154
+aS"OOH DAamn man i'm, such a sucka"
+p2155
+aS' :)'
+p2156
+aS'whats not to like 10-19-adultsUser15?'
+p2157
+aS'whats not to like 10-19-adultsUser15.'
+p2158
+aS'lol 10-19-adultsUser16  hiYas '
+p2159
+aS'everything?'
+p2160
+aS'.ACTION licks 10-19-adultsUser32.'
+p2161
+aS'what kinda of sucker bloe pop or a dum dum ????'
+p2162
+aS'what kinda of sucker bloe pop or a dum dum ....'
+p2163
+aS'PART'
+p2164
+aS'blow^^^'
+p2165
+aS'10-19-adultsUser5 - out here'
+p2166
+aS'.4 Reminder: Do NOT PM others without first asking permission.'
+p2167
+aS'whooo hooo'
+p2168
+aS'Dang ppl'
+p2169
+aS'PART'
+p2170
+aS'hey there asl please?'
+p2171
+aS'i jus wanna know sumfin really important ....'
+p2172
+aS'hiya 10-19-adultsUser32 :) how r u babe? '
+p2173
+aS'damnit, this game is pissing me off'
+p2174
+aS'ciao'
+p2175
+aS'they cant read'
+p2176
+aS'PART'
+p2177
+aS'10-19-adultsUser32 guess who was here the other night?'
+p2178
+aS'10-19-adultsUser32 guess who was here the other night.'
+p2179
+aS"I'm sorry 10-19-adultsUser35, I forgot"
+p2180
+aS'how many LIX      DOES it take to get to the middle ????'
+p2181
+aS'how many LIX      DOES it take to get to the middle ....'
+p2182
+aS'who 10-19-adultsUser23???'
+p2183
+aS'10-19-adultsUser520'
+p2184
+aS'one big lick?'
+p2185
+aS"LoL 10-19-adultsUser32, I'd never kick you outta my box"
+p2186
+aS'hi'
+p2187
+aS'im good thanks 10-19-adultsUser16   yerself??'
+p2188
+aS'im good thanks 10-19-adultsUser16   yerself..'
+p2189
+aS'PART'
+p2190
+aS'interesting question.. funny iwas thinkin thje same thing'
+p2191
+aS'Oh yeah. .10-19-adultsUser520. .'
+p2192
+aS'oh hell yah, thats alwys good to know'
+p2193
+aS'10-19-adultsUser520...good ole 10-19-adultsUser520..lol'
+p2194
+aS'10-19-adultsUser32. . aka 10-19-adultsUser520. .I think those were the last numbers'
+p2195
+aS'yes'
+p2196
+aS"i'm great 10-19-adultsUser32 ;)"
+p2197
+aS'.ACTION winks @ 10-19-adultsUser28.'
+p2198
+aS'seriously?  i didnt think he would ever come back to TC'
+p2199
+aS'You remember Jess, 10-19-adultsUser32?'
+p2200
+aS'You remember Jess, 10-19-adultsUser32.'
+p2201
+aS'he came back..lol'
+p2202
+aS"Yeah, he's back"
+p2203
+aS'great to hear 10-19-adultsUser16 '
+p2204
+aS'10-19-adultsUser35 who??'
+p2205
+aS"He's nick is afe(numbers) or something like that."
+p2206
+aS'PART'
+p2207
+aS'10-19-adultsUser520, 10-19-adultsUser32. .LoL'
+p2208
+aS'JOIN'
+p2209
+aS'JOIN'
+p2210
+aS'hi 10-19-adultsUser36'
+p2211
+aS'oh LOL   yeah typo there LOL   ummm yeah i remembah him ...  i remembah'
+p2212
+aS'hey pp'
+p2213
+aS'It was a typo =)'
+p2214
+aS'wb 10-19-adultsUser36'
+p2215
+aS'NICK :10-19-adultsUser23'
+p2216
+aS'what a ride'
+p2217
+aS'JOIN'
+p2218
+aS'ty ty'
+p2219
+aS'cheers babes.. ur the first to follow up with the pseudo concern ;0'
+p2220
+aS'wb 10-19-adultsUser38'
+p2221
+aS':)'
+p2222
+aS'I was shocked when he came in and called me by my name. .I was like wth. .who are you'
+p2223
+aS' even'
+p2224
+aS'ty 10-19-adultsUser34'
+p2225
+aS'yw'
+p2226
+aS"Im glad he's back."
+p2227
+aS'awwww 10-19-adultsUser16  i like pseudo concernin  ~smirkZ~'
+p2228
+aS'lmao i was too 10-19-adultsUser35..i was like wtf r you?'
+p2229
+aS'ahhh 10-19-adultsUser23.....now i know you...lol'
+p2230
+aS'LoL'
+p2231
+aS'lol 10-19-adultsUser36'
+p2232
+aS':)'
+p2233
+aS'lol 10-19-adultsUser35    yeah i still have him on messenger '
+p2234
+aS'JOIN'
+p2235
+aS'JOIN'
+p2236
+aS'he said i used to op with u in FF i was like  huh who r you'
+p2237
+aS'omg 10-19-adultsUser23 which color of lipstick do you think would look better on me the "do me red" or the "pussy pink" '
+p2238
+aS'JOIN'
+p2239
+aS'lol'
+p2240
+aS'lmao 10-19-adultsUser23'
+p2241
+aS'hello all'
+p2242
+aS'pussy pink'
+p2243
+aS'Really? Wow. .I took him off a long time ago.'
+p2244
+aS'JOIN'
+p2245
+aS'PART'
+p2246
+aS'JOIN'
+p2247
+aS'I didnt think he would come back'
+p2248
+aS'i just broke up with my gf.(long term)..i started experimenting with myspace.com. i met this local girl. She brought her cousin over last night..they sucked me boned dry. all i had to provide was 49 dollars worth beer'
+p2249
+aS'PART'
+p2250
+aS'JOIN'
+p2251
+aS'rotflmao '
+p2252
+aS'hiya 10-19-adultsUser40'
+p2253
+aS'JOIN'
+p2254
+aS'10-19-adultsUser19'
+p2255
+aS'PART'
+p2256
+aS'JOIN'
+p2257
+aS'lmao'
+p2258
+aS'10-19-adultsUser37 - Stop flooding the room hon'
+p2259
+aS'can i get an amen for myspace'
+p2260
+aS'Hello lovelies'
+p2261
+aS'a'
+p2262
+aS'alo'
+p2263
+aS'10-19-adultsUser36'
+p2264
+aS'.ACTION peeks in.'
+p2265
+aS'PART'
+p2266
+aS'JOIN'
+p2267
+aS'.ACTION pokes 10-19-adultsUser1.'
+p2268
+aS'JOIN'
+p2269
+aS'PART'
+p2270
+aS'what are you talking about 10-19-adultsUser35'
+p2271
+aS'JOIN'
+p2272
+aS'.ACTION pokes 10-19-adultsUser1.'
+p2273
+aS'PART'
+p2274
+aS'whoopZ  slipped'
+p2275
+aS'well then get Tina in here 10-19-adultsUser23'
+p2276
+aS".ACTION be's poked."
+p2277
+aS'ha ha ha 10-19-adultsUser23!!!'
+p2278
+aS'wow...are you the 10-19-adultsUser39?'
+p2279
+aS'wow...are you the 10-19-adultsUser39.'
+p2280
+aS'Im talkin about all yer typin. .'
+p2281
+aS"It's me....in the flesh"
+p2282
+aS'hey everyone'
+p2283
+aS"pokes 10-19-adultsUser1 didn't want to b left out"
+p2284
+aS'lol'
+p2285
+aS'lol'
+p2286
+aS'I love your flesh'
+p2287
+aS"How cool are ya' 10-19-adultsUser41?"
+p2288
+aS"How cool are ya' 10-19-adultsUser41."
+p2289
+aS'19/f/ca...asl??'
+p2290
+aS'why 10-19-adultsUser35...there r plently  ladies in here with pink pussies'
+p2291
+aS"it's nice....soft "
+p2292
+aS'long time no see/type 10-19-adultsUser19....lmao'
+p2293
+aS'Break it up in sentences (single posts) instead of typin a paragraph =)'
+p2294
+aS'sup 10-19-adultsUser42'
+p2295
+aS'put the dildo down 10-19-adultsUser23 & stop pokin ppl with it'
+p2296
+aS'It scrolls the room hon'
+p2297
+aS'about as cool as Pat Boone singing Metallica'
+p2298
+aS'too bad you are so far away'
+p2299
+aS'lmao 10-19-adultsUser35'
+p2300
+aS'ooer 10-19-adultsUser1.. how r you darlin?'
+p2301
+aS'ooer 10-19-adultsUser1.. how r you darlin.'
+p2302
+aS"damn...10-19-adultsUser41....that's cool"
+p2303
+aS'i hate paragraphs'
+p2304
+aS"10-19-adultsUser16.. I'm ok, how are you babe?"
+p2305
+aS"10-19-adultsUser16.. I'm ok, how are you babe."
+p2306
+aS'white shoes and all?'
+p2307
+aS'they seem so long LOL'
+p2308
+aS'ahem'
+p2309
+aS'lol'
+p2310
+aS"tired... I didn't sleep much last night"
+p2311
+aS'10-19-adultsUser28?'
+p2312
+aS'not white shoes...bucks'
+p2313
+aS'HALO 10-19-adultsUser35..WTF ARE YOU TALKING ABOUT'
+p2314
+aS'10-19-adultsUser35?'
+p2315
+aS'hows u 10-19-adultsUser36 ???'
+p2316
+aS'Awww @ 10-19-adultsUser1'
+p2317
+aS'how r you 10-19-adultsUser32 dear?'
+p2318
+aS'how r you 10-19-adultsUser32 dear.'
+p2319
+aS'10-19-adultsUser28 !!!!'
+p2320
+aS'oh, sorry'
+p2321
+aS'hola 10-19-adultsUser1'
+p2322
+aS"guess you're not so cool"
+p2323
+aS'What are you doin, 10-19-adultsUser28? Dang, yer so quiet.'
+p2324
+aS'What are you doin, 10-19-adultsUser28. Dang, yer so quiet.'
+p2325
+aS'well tell the bf to stop calling at 5am too 10-19-adultsUser1'
+p2326
+aS'you are so anal'
+p2327
+aS'PART'
+p2328
+aS"i'm good ....busy..very busy but good...you???"
+p2329
+aS"Apparently, I'm not 10-19-adultsUser41"
+p2330
+aS'im good 10-19-adultsUser23 dear.   How are you 10-19-adultsUser23 ~winkZ~'
+p2331
+aS'10-19-adultsUser35... I love that 5 am phone call'
+p2332
+aS'im good...me and eric r back together'
+p2333
+aS'sry 10-19-adultsUser1 lol'
+p2334
+aS'10-19-adultsUser37 - Drop yer caps. And if you didnt get what I was talking about, dont worry about it =)'
+p2335
+aS"I'll take big barks over cool any day"
+p2336
+aS'oOo  congrats?? '
+p2337
+aS'LOL 10-19-adultsUser34'
+p2338
+aS'yes!!!'
+p2339
+aS'diggin out the battery charger'
+p2340
+aS'\\ty'
+p2341
+aS'LoL yeah'
+p2342
+aS' ;-) '
+p2343
+aS"well i hope ur doing ok.. i'm dojn fine babe. .gonna rock up soojn and rob u of all ur 'candy' :)"
+p2344
+aS'as long as you are happy, I am happy.  You know i LuverZ YOU'
+p2345
+aS'im the same busy busy'
+p2346
+aS'oh ok then 10-19-adultsUser1 nm'
+p2347
+aS'lol'
+p2348
+aS"obviously i didn't get it"
+p2349
+aS'aww i wubs you too'
+p2350
+aS'Ahh mkay.'
+p2351
+aS'is this moving too fast for ya?'
+p2352
+aS'is this moving too fast for ya.'
+p2353
+aS'just loosen up babe'
+p2354
+aS'Yes, 10-19-adultsUser37 - Obviously =)'
+p2355
+aS'10-19-adultsUser16... just get your butt out here and get it then :P'
+p2356
+aS';)'
+p2357
+aS'any word from the doctor regarding the sores on your lip 10-19-adultsUser39?'
+p2358
+aS'any word from the doctor regarding the sores on your lip 10-19-adultsUser39.'
+p2359
+aS'what do you need a battery charger for 10-19-adultsUser28?'
+p2360
+aS'what do you need a battery charger for 10-19-adultsUser28.'
+p2361
+aS"looks like it might be an ok day, I'm going to take the moped out for a ride"
+p2362
+aS'I am, 10-19-adultsUser37.'
+p2363
+aS'JOIN'
+p2364
+aS'i kicked his ass last night 10-19-adultsUser32...  we had a spat now he love4s me.>LOL'
+p2365
+aS'Oh, he said to use the cream.'
+p2366
+aS'LOL @ moped   '
+p2367
+aS'is that what you call your harley?'
+p2368
+aS'is that what you call your harley.'
+p2369
+aS"as soon as i'm no longer a poor mf'er i will :)"
+p2370
+aS"ok..i'm gone...again...cya later 10-19-adultsUser19 *waves*"
+p2371
+aS'the same cream you have for the genital warts?'
+p2372
+aS'the same cream you have for the genital warts.'
+p2373
+aS'LoL'
+p2374
+aS'moped 10-19-adultsUser28?..ohh ur a real  man'
+p2375
+aS'i had a moped once'
+p2376
+aS'yup'
+p2377
+aS'hehe 10-19-adultsUser16 :)'
+p2378
+aS'thats my moped'
+p2379
+aS'herpes is herpes babe'
+p2380
+aS'imma make fun of his moped now'
+p2381
+aS'you are a total fuddahnut 10-19-adultsUser28'
+p2382
+aS'u kicked his ass 10-19-adultsUser23 gees'
+p2383
+aS'JOIN'
+p2384
+aS'I know...I watch Dr. Drew'
+p2385
+aS'lol 10-19-adultsUser23... yer bedroom stories are hawT !!!    '
+p2386
+aS'how many of you tried myspace for dating..i hate to promoter other sites..i hate yahoo but now there is alternatives..'
+p2387
+aS'Dr. Drew rocks'
+p2388
+aS'yup i kicked his ass'
+p2389
+aS"I have the only 10' long moped in town"
+p2390
+aS'lol'
+p2391
+aS'I hit that'
+p2392
+aS'PART'
+p2393
+aS"I'd even"
+p2394
+aS'.ACTION has not tried myspace for dating.'
+p2395
+aS'JOIN'
+p2396
+aS'JOIN'
+p2397
+aS'damn'
+p2398
+aS'10-19-adultsUser15..mopeds r for old men and gay  men right?'
+p2399
+aS'10-19-adultsUser15..mopeds r for old men and gay  men right.'
+p2400
+aS'.ACTION doesnt even have a myspace.'
+p2401
+aS'Wb 10-19-adultsUser46'
+p2402
+aS'((((((((((((((((((((( 10-19-adultsUser47 sis )))))))))))))))))))))'
+p2403
+aS'.9(((((..13 10-19-adultsUser47 ..9)))))'
+p2404
+aS'hola 10-19-adultsUser47'
+p2405
+aS"you'd hit Screach"
+p2406
+aS'10-19-adultsUser19 hugs'
+p2407
+aS'hiya 10-19-adultsUser47 muahhhhh'
+p2408
+aS'yes 10-19-adultsUser27  imhave a fan on'
+p2409
+aS'10-19-adultsUser47 huuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugZ'
+p2410
+aS'(((((((((( 10-19-adultsUser1 sis ))))))))))))))'
+p2411
+aS'.ACTION stretches.'
+p2412
+aS'ty 10-19-adultsUser19'
+p2413
+aS'Ugh, Im so sore!'
+p2414
+aS'Repeatedly, with a big stick 10-19-adultsUser41'
+p2415
+aS'.ACTION smacks 10-19-adultsUser28 back online in msn.'
+p2416
+aS'(((((((((( 10-19-adultsUser35 )))))))))))))'
+p2417
+aS'QQ at 10-19-adultsUser35 hm ya cold?'
+p2418
+aS'QQ at 10-19-adultsUser35 hm ya cold.'
+p2419
+aS'lol'
+p2420
+aS'lol'
+p2421
+aS'(((((((((( 10-19-adultsUser28 )))))))))))))'
+p2422
+aS'(((((((((( 10-19-adultsUser47 )))))))))))))))'
+p2423
+aS'*pushes 10-19-adultsUser47..and runs..'
+p2424
+aS'I am cold, yes. .Why?'
+p2425
+aS'big stick?   Is that a euphemism?'
+p2426
+aS'big stick.   Is that a euphemism.'
+p2427
+aS'10-19-adultsUser32 u cheating on me with 10-19-adultsUser28?..like OMG'
+p2428
+aS'10-19-adultsUser32 u cheating on me with 10-19-adultsUser28...like OMG'
+p2429
+aS'.ACTION puts 10-19-adultsUser35 in his "leave alone" book.'
+p2430
+aS'where are you from 10-19-adultsUser35'
+p2431
+aS'((((((((((( 10-19-adultsUser23 ))))))))))))))'
+p2432
+aS'.ACTION pounces 10-19-adultsUser47 and grabs the fish *wooooooooooooohoooooooooooooooo I got it I got it!!!!!*drops it* son of a .......'
+p2433
+aS'JOIN'
+p2434
+aS'when u streched i could tell'
+p2435
+aS'LOL 10-19-adultsUser36 !!!!!'
+p2436
+aS'lol'
+p2437
+aS"Well, you know I'm a size queen 10-19-adultsUser41"
+p2438
+aS'Why 10-19-adultsUser45?'
+p2439
+aS'naw 10-19-adultsUser23 im cheating on you with Jayse '
+p2440
+aS'hes hawt too'
+p2441
+aS'lol'
+p2442
+aS'LMAO Randy'
+p2443
+aS'Uh huh'
+p2444
+aS'*hugs everyone...lol'
+p2445
+aS'a queen anyway'
+p2446
+aS'anyone from TX'
+p2447
+aS'wahoooooooski'
+p2448
+aS'.wz 95953'
+p2449
+aS'.ACTION goes to look out the window to check the weather...'
+p2450
+aS'haha'
+p2451
+aS'www.Wunderground.com : .Live Oak, California (95953).  .(.39.3?N 121.7?W.).'
+p2452
+aS'.Observed at53 AM PDT on October 20, 2006 .Elev:. 59ft/18m'
+p2453
+aS' .Current. 57?F/14?C .Wind. 55%'
+p2454
+aS'.ACTION is back.'
+p2455
+aS'(((((((( 10-19-adultsUser35 )))))))))))'
+p2456
+aS' .Dew Point. 30.00.in/1016.hPa  .Ceiling:. Unlimited'
+p2457
+aS' .Record High. 41?F/5?C (1980)'
+p2458
+aS'Wb 10-19-adultsUser30'
+p2459
+aS'why are you back'
+p2460
+aS' .Sunrise21 AM PDT .Set20 PM PDT .Length. 2m 26s shorter'
+p2461
+aS'wb 10-19-adultsUser30 muahhh'
+p2462
+aS'.wz 99701'
+p2463
+aS'.ACTION goes to look out the window to check the weather...'
+p2464
+aS'thanks!!!'
+p2465
+aS' .Advisory//www.wunderground.com/cgi-bin/findweather/getForecast?query=95953#FIR'
+p2466
+aS'(((((((( 10-19-adultsUser16 ))))))))))'
+p2467
+aS'its in your profile, i respec that'
+p2468
+aS'(end Live Oak, California (95953) weather)'
+p2469
+aS'www.Wunderground.com : .Fairbanks, Alaska (99701).  .(.64.8?N 147.7?W.).'
+p2470
+aS'bc you want me Joshy'
+p2471
+aS'.ACTION says " That\'.'
+p2472
+aS'.Observed at55 AM AKDT on October 20, 2006 .Elev:. 453ft/138m'
+p2473
+aS'hiYas 10-19-adultsUser30'
+p2474
+aS'((((((((( 10-19-adultsUser32 )))))))))))'
+p2475
+aS' .Current. 27?F/-3?C .Wind. 93%'
+p2476
+aS'^t'
+p2477
+aS'.ACTION sighs.'
+p2478
+aS's nice'
+p2479
+aS'I dropped it again 10-19-adultsUser47'
+p2480
+aS' .Dew Point. 29.88.in/1012.hPa  .Ceiling:. Unlimited'
+p2481
+aS':P'
+p2482
+aS' .Sunrise59 AM AKDT .Set10 PM AKDT .Length. 6m 43s shorter'
+p2483
+aS'hi'
+p2484
+aS'pfft'
+p2485
+aS'all'
+p2486
+aS'PART'
+p2487
+aS'(end Fairbanks, Alaska (99701) weather)'
+p2488
+aS'sigh'
+p2489
+aS'i am 20'
+p2490
+aS'boy'
+p2491
+aS'PART'
+p2492
+aS'from azerbaijan'
+p2493
+aS'dang thats cold'
+p2494
+aS'man i syck'
+p2495
+aS'who wanna chatr'
+p2496
+aS'(((((((( neone i missed *10-19-adultsUser36 pushed me* )))))))))))'
+p2497
+aS'JOIN'
+p2498
+aS'10-19-adultsUser45'
+p2499
+aS'are you tere'
+p2500
+aS'I didnt say in my profile to leave me alone. I said not to PM me. You can talk to me out here, 10-19-adultsUser45'
+p2501
+aS'suck even :)'
+p2502
+aS'yup , gonna be a good riding day'
+p2503
+aS"omg it's horrible"
+p2504
+aS'yes i am here'
+p2505
+aS'ohhh 10-19-adultsUser542 sent me a comment'
+p2506
+aS'lol'
+p2507
+aS'PART'
+p2508
+aS'I only talk the ppl I know already in my PM'
+p2509
+aS'like me'
+p2510
+aS'.wz 57401'
+p2511
+aS'.ACTION goes to look out the window to check the weather...'
+p2512
+aS'www.Wunderground.com : .Aberdeen, South Dakota (57401).  .(.45.5?N 98.5?W.).'
+p2513
+aS'.Observed at27 AM CDT on October 20, 2006 .Elev:. 1299ft/396m'
+p2514
+aS'.ACTION smirkz and hits 10-19-adultsUser35 up in her pm .'
+p2515
+aS' .Current. 36?F/2?C .Wind. 75%'
+p2516
+aS'maybe Bible chat would be better'
+p2517
+aS' .Dew Point. 29?F/-2?C .Barometer. 1900ft/579m'
+p2518
+aS'brb..afk'
+p2519
+aS'no shit'
+p2520
+aS' .Record High. 12?F/-11?C (1930)'
+p2521
+aS' .Sunrise56 AM CDT .Set39 PM CDT .Length. 3m 1s shorter'
+p2522
+aS'hb 10-19-adultsUser34'
+p2523
+aS'JOIN'
+p2524
+aS'LoL 10-19-adultsUser32. .You know yer on the list of ppl that I let PM me =)'
+p2525
+aS'I only talk to da KoOL ppl - bahahahaa'
+p2526
+aS'Wb 10-19-adultsUser50 =)'
+p2527
+aS'(end Aberdeen, South Dakota (57401) weather)'
+p2528
+aS"i'd never leave you alone 10-19-adultsUser35.. if i had a choice :)"
+p2529
+aS'LMAO 10-19-adultsUser47'
+p2530
+aS'i can tell by the moaning '
+p2531
+aS'?'
+p2532
+aS'Werd'
+p2533
+aS'lol'
+p2534
+aS':)'
+p2535
+aS'PART'
+p2536
+aS'hiYas 10-19-adultsUser50'
+p2537
+aS'Rofl 10-19-adultsUser32'
+p2538
+aS'hey 10-19-adultsUser35'
+p2539
+aS'sup  10-19-adultsUser37 ???????'
+p2540
+aS'sup  10-19-adultsUser37 .......'
+p2541
+aS'hiya 10-19-adultsUser32'
+p2542
+aS"maybe we're too old"
+p2543
+aS'cya all....'
+p2544
+aS'or too smart?'
+p2545
+aS'or too smart'
+p2546
+aS'lol'
+p2547
+aS'tc 10-19-adultsUser36'
+p2548
+aS'lmao'
+p2549
+aS'sea ya 10-19-adultsUser36!'
+p2550
+aS'yeah'
+p2551
+aS"well then 10-19-adultsUser47 wont talk to me if she only talks to the kool ppl cus I'm a retared moron"
+p2552
+aS'No such thing as being too smart =)'
+p2553
+aS'lol'
+p2554
+aS'i have a question for you...i am totaly straight but i have a strong attraction toward the lead singer of depeche mode..i want to do him..does that make me gay..he is gay'
+p2555
+aS'chat rooms always make me feel superior'
+p2556
+aS'Ugh, my b-day is in 5 days =('
+p2557
+aS'PART'
+p2558
+aS'LOL 10-19-adultsUser35 no ur nawt'
+p2559
+aS'yup your gay'
+p2560
+aS'lmao 10-19-adultsUser37     dang   '
+p2561
+aS'come on back on tuesday'
+p2562
+aS'I would think that coexistence makes you feel superior'
+p2563
+aS'10-19-adultsUser37 - umm prolly'
+p2564
+aS'30 right 10-19-adultsUser35?'
+p2565
+aS'LoL yeah'
+p2566
+aS'awww 10-19-adultsUser35  yer gonna be what?    57 right?'
+p2567
+aS'awww 10-19-adultsUser35  yer gonna be what.    57 right.'
+p2568
+aS'lol'
+p2569
+aS'your a guy too ?????'
+p2570
+aS'omg lol 10-19-adultsUser50'
+p2571
+aS'You know I was royalty in a past life'
+p2572
+aS'Yes, 10-19-adultsUser32. .'
+p2573
+aS'LoL'
+p2574
+aS'oh yea definitely'
+p2575
+aS'hah'
+p2576
+aS'DING DING DING    imma winner'
+p2577
+aS'i want to make love to him'
+p2578
+aS'Ima be 27 on Wednesday, 10-19-adultsUser32'
+p2579
+aS'coexistence?'
+p2580
+aS'JOIN'
+p2581
+aS'LoL 10-19-adultsUser32'
+p2582
+aS'then there is your asnwer'
+p2583
+aS"I've had enough"
+p2584
+aS'okay'
+p2585
+aS'we are the same age until muh birfday then =)'
+p2586
+aS'mmmmk'
+p2587
+aS'its 30 10-19-adultsUser32 trust me lol'
+p2588
+aS'talk to you later...love you'
+p2589
+aS'hi all'
+p2590
+aS"let's get kicked"
+p2591
+aS'kiddin 10-19-adultsUser35 baby'
+p2592
+aS'lol i cant trust you  yet   i dunno you '
+p2593
+aS'be offensive'
+p2594
+aS'lol'
+p2595
+aS'Love you'
+p2596
+aS"it's weird thing.."
+p2597
+aS'JOIN'
+p2598
+aS'good policy'
+p2599
+aS'are you capab;e?'
+p2600
+aS'Oh, #### yeah'
+p2601
+aS'10-19-adultsUser3 op'
+p2602
+aS':10-19-adultsUser3!10-19-adultsUser3@10-19-adultsUser3 MODE #talkcity_adults +o 10-19-adultsUser15'
+p2603
+aS"10-19-adultsUser15: What's your sign?"
+p2604
+aS"10-19-adultsUser15: What's your sign."
+p2605
+aS'woof'
+p2606
+aS'how many of you were attracted to the same sex'
+p2607
+aS'JOIN'
+p2608
+aS'oh man, they just xxxed it'
+p2609
+aS'muh nose is cold'
+p2610
+aS'I love it when you take charge 10-19-adultsUser15'
+p2611
+aS'not me, ever'
+p2612
+aS'smiles'
+p2613
+aS'sheesh'
+p2614
+aS'were attracted or ARE attracted'
+p2615
+aS'Hello'
+p2616
+aS"can't even get kicked "
+p2617
+aS'.ACTION is hungry.'
+p2618
+aS'gets me all tingly n stuff'
+p2619
+aS'bye honey bunny'
+p2620
+aS'damn'
+p2621
+aS'19/F/Wisconsin'
+p2622
+aS'ooeer is sum1 gonna ghet fuked up? :)'
+p2623
+aS'ooeer is sum1 gonna ghet fuked up. :)'
+p2624
+aS'im always hungry'
+p2625
+aS'yeah 10-19-adultsUser45..i believe it ;)'
+p2626
+aS'get^'
+p2627
+aS'lol 10-19-adultsUser16   keep up here'
+p2628
+aS'anyone wanna chat pvt me'
+p2629
+aS'not even to brad pit 10-19-adultsUser45'
+p2630
+aS'PART'
+p2631
+aS'.ACTION gives 10-19-adultsUser16 a skateboard to keep up wif us.'
+p2632
+aS'o no way he is a jerk'
+p2633
+aS'up in this biyatch? :)'
+p2634
+aS'PART'
+p2635
+aS'PART'
+p2636
+aS'lol'
+p2637
+aS'tom cruise,denzel..'
+p2638
+aS'10-19-adultsUser52 - Out here'
+p2639
+ag2532
+aS'.4 Reminder: Do NOT PM others without first asking permission.'
+p2640
+aS'10-19-adultsUser35'
+p2641
+aS'im sorry 10-19-adultsUser35'
+p2642
+aS'i tried to refrain'
+p2643
+aS'me too 10-19-adultsUser35'
+p2644
+aS'takes note, 10-19-adultsUser35'
+p2645
+aS'but your moanin just got to me'
+p2646
+aS"my dog did a no-no and he's hiding at the top of the stairs...lmao"
+p2647
+aS'i dunno.. my lingo is like 5 yrs behind'
+p2648
+aS'I thought you wanted to be the meat in a 10-19-adultsUser28 sammich'
+p2649
+aS'Yes, 10-19-adultsUser53?'
+p2650
+aS'.ACTION fallz offa her chair laffin     hard!!.'
+p2651
+aS':)'
+p2652
+aS"i really like ladies but some guys are to hot to pass by..it's about control i guess...and it doesn't help that i m european"
+p2653
+aS'omg 10-19-adultsUser28 !!!   whoaaaaaaaaaaaa'
+p2654
+aS'who was that reminder to'
+p2655
+aS'You too what, 10-19-adultsUser28? Hungry?'
+p2656
+aS'You too what, 10-19-adultsUser28. Hungry.'
+p2657
+aS'most of us cris-cross'
+p2658
+aS'Everyone, 10-19-adultsUser53'
+p2659
+aS'Ask before you PM anyone.'
+p2660
+aS'*tosses 10-19-adultsUser16 a tootsie roll*'
+p2661
+aS"oh c'mon 10-19-adultsUser32, tell me you weren't thinking the same thing"
+p2662
+aS"It's a room rule"
+p2663
+aS'most of us do NOT criss-cross'
+p2664
+aS'JOIN'
+p2665
+aS'well ....    ~blusherZ~'
+p2666
+aS'is gonna make u jump jump? oh old school'
+p2667
+aS'is gonna make u jump jump. oh old school'
+p2668
+aS'PART'
+p2669
+aS'10-19-adultsUser35; is freakin out'
+p2670
+aS'Ridin is not worth talkin to'
+p2671
+aS'no shes not'
+p2672
+aS'10-19-adultsUser37 - Dood, yer gay, face it. .And if yer not gay then yer bi. You should be old enough to tell the difference already.'
+p2673
+aS'JOIN'
+p2674
+aS'hiYas 10-19-adultsUser55'
+p2675
+aS'.2******Welcome to all who just joined us!!!******.'
+p2676
+aS'I never freak out. .BUt I can if you want me to =)'
+p2677
+aS'lol 10-19-adultsUser35   tell it like it is'
+p2678
+aS'hello'
+p2679
+aS'reallly'
+p2680
+aS'brrrrrrr'
+p2681
+aS'LOL 10-19-adultsUser35'
+p2682
+aS'wanna bet he likes Jeter and Rothlisburger?'
+p2683
+aS'wanna bet he likes Jeter and Rothlisburger.'
+p2684
+aS'wb 10-19-adultsUser34'
+p2685
+aS'how do you know 10-19-adultsUser35'
+p2686
+aS'tell him how u really feel 10-19-adultsUser35 ;)'
+p2687
+aS'ty 10-19-adultsUser32 muahhh'
+p2688
+aS'hahah 10-19-adultsUser28'
+p2689
+aS'may I??'
+p2690
+aS'every day is tuesday in his world'
+p2691
+aS'anyone wanna chat'
+p2692
+aS'i dont like you 10-19-adultsUser28, go play with your meat'
+p2693
+aS'.ACTION huh?....someone dissing my Ben agaibn....haters!!!.'
+p2694
+aS'hi'
+p2695
+aS'Oh my 10-19-adultsUser15. .LoL'
+p2696
+aS'too late 10-19-adultsUser15'
+p2697
+aS'hello 10-19-adultsUser53'
+p2698
+aS'agaibn?'
+p2699
+aS'.ACTION listenin to Evanescence - Lithium.'
+p2700
+aS'lmao'
+p2701
+aS'may I??'
+p2702
+aS'lol your done with it?'
+p2703
+aS'.ACTION pounces on 10-19-adultsUser23 ans wiggleZ all around.'
+p2704
+aS';-)'
+p2705
+aS'not quite, wanna call me a few more names?'
+p2706
+aS'not quite, wanna call me a few more names.'
+p2707
+aS'.ACTION touches 10-19-adultsUser32s weenis.'
+p2708
+aS'dam dont sexcite me like that 10-19-adultsUser32'
+p2709
+aS'lmao'
+p2710
+aS'.ACTION moanz LOUD.'
+p2711
+aS'.ACTION is listening to .Nickelback - Figured You Out. ...'
+p2712
+aS'u need paper twoel?'
+p2713
+aS'LOL 10-19-adultsUser23 '
+p2714
+aS'lol'
+p2715
+aS'lol towel even'
+p2716
+aS'JOIN'
+p2717
+aS'no I can hit the sink from here'
+p2718
+aS'hiya 10-19-adultsUser56 '
+p2719
+aS'PART'
+p2720
+aS'dang'
+p2721
+aS'LOL 10-19-adultsUser28'
+p2722
+aS'.ACTION calls 10-19-adultsUser28 some names. .Spank me!.'
+p2723
+aS'o_0'
+p2724
+aS'you know 10-19-adultsUser23   you should look at my msn myspace there and check out the weenis board I put up'
+p2725
+aS'ok, make that the wall'
+p2726
+aS'ty 10-19-adultsUser35'
+p2727
+aS'LOL'
+p2728
+aS'PART'
+p2729
+aS'ohhh 10-19-adultsUser32..imma go look'
+p2730
+aS'LoL yep!'
+p2731
+aS'just bend over 10-19-adultsUser35 i will'
+p2732
+aS'lol '
+p2733
+aS'lmao'
+p2734
+aS'your poor wall'
+p2735
+aS'JOIN'
+p2736
+aS'JOIN'
+p2737
+aS'JOIN'
+p2738
+aS'nickelback......... gay :)'
+p2739
+aS'.2******Welcome to all who just joined us!!!******.'
+p2740
+aS'yeah check out schmoopies butt too while your at it    its FINE!!'
+p2741
+aS'hiYas 10-19-adultsUser58'
+p2742
+aS'10-19-adultsUser16  they r not gay'
+p2743
+aS'they are not'
+p2744
+aS'hiYas 10-19-adultsUser57'
+p2745
+aS'10-19-adultsUser16!'
+p2746
+aS'PART'
+p2747
+aS'argh'
+p2748
+aS'hi everyone'
+p2749
+aS'.ACTION sings fart away.'
+p2750
+aS' oops far'
+p2751
+aS'omg'
+p2752
+aS'lmao'
+p2753
+aS'lol'
+p2754
+aS'lol'
+p2755
+aS'JOIN'
+p2756
+aS'gawd'
+p2757
+aS'*shakes head*'
+p2758
+aS"i'm just kidding top keep popular opinion :)"
+p2759
+aS'<empty>'
+p2760
+aS'hiya 10-19-adultsUser51 '
+p2761
+aS'.ACTION is contemplating a nap.'
+p2762
+aS"nickleback? gay? ok if they aren't they sure as hell are thinking about it"
+p2763
+aS"nickleback. gay. ok if they aren't they sure as hell are thinking about it"
+p2764
+aS'to^'
+p2765
+aS']:)'
+p2766
+aS'you hafta eat first 10-19-adultsUser35'
+p2767
+aS'heyyyy'
+p2768
+aS'PART'
+p2769
+aS'and 10-19-adultsUser28 suggested a sammich'
+p2770
+aS'haha'
+p2771
+aS'JOIN'
+p2772
+aS'PART'
+p2773
+aS'sings... i loved you all along'
+p2774
+aS'hiYas 10-19-adultsUser59'
+p2775
+aS"pfft i dun care if they are gay or not..i'd do the lead singer :P"
+p2776
+aS'oh yeah, 10-19-adultsUser32 the sammich'
+p2777
+aS'lol 10-19-adultsUser47'
+p2778
+aS'hey'
+p2779
+aS'lol'
+p2780
+aS'lol 10-19-adultsUser47'
+p2781
+aS"c'mear 10-19-adultsUser35"
+p2782
+aS'far away is my and erics song'
+p2783
+aS'anyone seen sweetshybbw??'
+p2784
+aS'lol 10-19-adultsUser47   stand yer ground woman!!!'
+p2785
+aS'i just saw shaun of the dead.. so = gaaaaaaay = quite funny'
+p2786
+aS'.ACTION cums to 10-19-adultsUser28. .LMAO.'
+p2787
+aS'LOL'
+p2788
+aS'PART'
+p2789
+aS':)'
+p2790
+aS'PART'
+p2791
+aS'.ACTION faints.'
+p2792
+aS'LoL'
+p2793
+aS'lol 10-19-adultsUser16 thats a good movie'
+p2794
+aS'whoa, now that was some blood loss'
+p2795
+aS'  yawns......'
+p2796
+aS'funny :)'
+p2797
+aS'i saw the break up....awesome movie'
+p2798
+aS'.ACTION sits on 10-19-adultsUser28. .You needed me?.'
+p2799
+aS'I still need to see that, 10-19-adultsUser23'
+p2800
+aS'You liked it?'
+p2801
+aS'geeZe a 10-19-adultsUser28 sammich with one limp piece of bread'
+p2802
+aS'i wanna rent over the hedge lol'
+p2803
+aS'i liked it..soo funny'
+p2804
+aS'thats officer limp piece of bread 10-19-adultsUser28'
+p2805
+aS'Have you seen 10-19-adultsUser30, 10-19-adultsUser23?'
+p2806
+aS'Have you seen 10-19-adultsUser30, 10-19-adultsUser23.'
+p2807
+aS'lol 10-19-adultsUser47'
+p2808
+aS'whats up everybody?????'
+p2809
+aS'whoopZ   sowwy '
+p2810
+aS'lol'
+p2811
+aS'yes 10-19-adultsUser35..at the drive in'
+p2812
+aS'is 10-19-adultsUser30 any good?????'
+p2813
+aS'is 10-19-adultsUser30 any good.....'
+p2814
+aS'.ACTION loves men in uniform.'
+p2815
+aS'yes 10-19-adultsUser59 it is'
+p2816
+aS'Drive in? I havent been to one of those since I was a kid'
+p2817
+aS'omg i cant wait til cars come out..im gonna buy it..aqwesome movie'
+p2818
+aS'NICK :10-19-adultsUser32'
+p2819
+aS'.ACTION loves men out of uniform.'
+p2820
+aS'i never saw cars'
+p2821
+aS'im out of uniform 10-19-adultsUser15'
+p2822
+aS'lol'
+p2823
+aS'LoL 10-19-adultsUser15. .Yeah, that too.'
+p2824
+aS'nick 10-19-adultsUser28'
+p2825
+aS'lol 10-19-adultsUser28'
+p2826
+aS'i  love ben  in and out of his uniform'
+p2827
+aS'NICK :10-19-adultsUser28'
+p2828
+aS'you just love Ben   IN AND OUT'
+p2829
+aS'JOIN'
+p2830
+aS'lmao'
+p2831
+aS'.ACTION is listening to .Rascal Flatts - Life Is a Highway. ...'
+p2832
+aS'hiya 10-19-adultsUser60 '
+p2833
+aS'i love me in my hubbys uniform hehehee'
+p2834
+aS'JOIN'
+p2835
+aS'lol 10-19-adultsUser47'
+p2836
+aS'hiya 10-19-adultsUser61 '
+p2837
+aS'hiYas 10-19-adultsUser61'
+p2838
+aS'wb 10-19-adultsUser61'
+p2839
+aS'teehee'
+p2840
+aS'PART'
+p2841
+aS'Hi all'
+p2842
+aS'any ladies wanna chat?'
+p2843
+aS'NICK :10-19-adultsUser32'
+p2844
+aS'pm me'
+p2845
+aS'PART'
+p2846
+aS'im so nodda lady'
+p2847
+aS'NICK :10-19-adultsUser28'
+p2848
+aS' How are is everything'
+p2849
+aS'i like wearin his boots :)'
+p2850
+aS'that leaves me out'
+p2851
+aS'oOo'
+p2852
+aS'who 10-19-adultsUser59 Me?'
+p2853
+aS'.ACTION is bored. Damn..'
+p2854
+aS'anybody'
+p2855
+aS'.ACTION stretches.'
+p2856
+aS'pm me'
+p2857
+aS'me too 10-19-adultsUser35'
+p2858
+aS'me 3'
+p2859
+aS'!hug 10-19-adultsUser35'
+p2860
+aS".ACTION watches 10-19-adultsUser28 wrap there arm around 10-19-adultsUser35 and give them a big ol' hug.."
+p2861
+aS'NICK :10-19-adultsUser32'
+p2862
+aS'i need coffee bbl'
+p2863
+aS'you should be othah halfa'
+p2864
+aS'PART'
+p2865
+aS'bye 10-19-adultsUser47'
+p2866
+aS'PART'
+p2867
+aS'PART'
+p2868
+aS'she left real fast'
+p2869
+aS'JOIN'
+p2870
+aS'hiYas 10-19-adultsUser62'
+p2871
+aS'hey there 10-19-adultsUser32'
+p2872
+aS'JOIN'
+p2873
+aS'how are you'
+p2874
+aS'NICK :10-19-adultsUser35'
+p2875
+aS'im good thanks and yerself?'
+p2876
+aS'JOIN'
+p2877
+aS'NICK :10-19-adultsUser28'
+p2878
+aS'no no no 10-19-adultsUser35  you were tha fillin'
+p2879
+aS'NICK :10-19-adultsUser32'
+p2880
+aS'not so bad thanks'
+p2881
+aS'PART'
+p2882
+aS'I cant be the fillin'
+p2883
+aS'yawnssss......'
+p2884
+aS'You have to be it'
+p2885
+aS'good to hear  and yer welcome'
+p2886
+aS'how do you change your name?'
+p2887
+aS'PART'
+p2888
+aS'nut uh    you were tha fillin in the 10-19-adultsUser28 sammich'
+p2889
+aS'tc 10-24-40sUser9'
+p2890
+aS'Tell me why after all this time ,do you hide ,,do I see you as a sweet surprise ,,,'
+p2891
+aS'hi 10-24-40sUser8'
+p2892
+aS'omg!   I bet u were upset 10-24-40sUser28!'
+p2893
+aS'yikes 10-24-40sUser28'
+p2894
+aS'howdy 10-24-40sUser8'
+p2895
+aS'hi 10-24-40sUser8'
+p2896
+aS"his PM's............. 10-24-40sUser10.....>LOL"
+p2897
+aS'brb, phone again, where is 10-24-40sUser26, he is supposed to answer it'
+p2898
+aS'oh okikes'
+p2899
+aS'just kidding'
+p2900
+aS'JOIN'
+p2901
+aS'PART'
+p2902
+aS'hi 10-24-40sUser30'
+p2903
+aS'my kids had a party once, one kid almost went into my china closet'
+p2904
+aS'ok 10-24-40sUser12'
+p2905
+aS' ;-) '
+p2906
+aS'Talk to me ,tell me true ,what do you want to do ,,Do we go on, one by one ,,,'
+p2907
+aS'gtg...lunch break is over'
+p2908
+aS'okey dokey back to worl'
+p2909
+aS'PART'
+p2910
+aS'JOIN'
+p2911
+aS'bye 10-24-40sUser11'
+p2912
+aS'howdy 10-24-40sUser31'
+p2913
+aS'bye 10-24-40sUser11'
+p2914
+aS'see yah 10-24-40sUser11 ..have a good day '
+p2915
+aS'no   the police were fantastic and all injureis  either in full casts or half casts'
+p2916
+aS'awrighty 10-24-40sUser19  , lets get the next rumour started'
+p2917
+aS'ohh 10-24-40sUser24 is romantic today'
+p2918
+aS'hi 10-24-40sUser31'
+p2919
+aS'huggs 10-24-40sUser16; 10-24-40sUser21; everyone'
+p2920
+aS"I'm out now, got costumes to shop for!"
+p2921
+aS'I am hanging on to your words, your love ,,,so cmon ,make me like water to your tongue ,,,'
+p2922
+aS'JOIN'
+p2923
+aS'JOIN'
+p2924
+aS'(((10-24-40sUser11)))'
+p2925
+aS'ok 10-24-40sUser12, I not worry for the rumours'
+p2926
+aS"Don't drink and drive!  Smoochies everyone!!"
+p2927
+aS'howdy 10-24-40sUser32'
+p2928
+aS'PART'
+p2929
+aS'howdy 10-24-40sUser33'
+p2930
+aS'JOIN'
+p2931
+aS'me either '
+p2932
+aS'hiya 10-24-40sUser33'
+p2933
+aS'back'
+p2934
+aS'I need you to heal my soul ,Hold me now ,see by me ,,'
+p2935
+aS'PART'
+p2936
+aS'wow, i come in and everyone leaves, is it me ?? *grins* '
+p2937
+aS'howdy 10-24-40sUser34'
+p2938
+aS'PART'
+p2939
+aS'((((((((((((((((((((10-24-40sUser34)))))))))))))))))))'
+p2940
+aS'Hi 10-24-40sUser33'
+p2941
+aS'hi 10-24-40sUser16'
+p2942
+aS'hiiii 10-24-40sUser34'
+p2943
+aS'10-24-40sUser26, answer the phone'
+p2944
+aS'hiya 10-24-40sUser34'
+p2945
+aS'.ACTION waves hi to room.'
+p2946
+aS'hi 10-24-40sUser19'
+p2947
+aS'((((((((((((((((((10-24-40sUser33)))))))))))))))))))'
+p2948
+aS'.ACTION  smiles .'
+p2949
+aS'hi 10-24-40sUser34'
+p2950
+aS'hi 10-24-40sUser14 hugss'
+p2951
+aS'hey 10-24-40sUser34!'
+p2952
+aS'hi 10-24-40sUser20'
+p2953
+aS'Hiya 10-24-40sUser12'
+p2954
+aS'hiya 10-24-40sUser33 !!!'
+p2955
+aS'hi 10-24-40sUser33 hugs '
+p2956
+aS'JOIN'
+p2957
+aS'10-24-40sUser33 hiiii'
+p2958
+aS'10-24-40sUser26 10-24-40sUser26 man, where has the 10-24-40sUser26 man gone?'
+p2959
+aS'hi 10-24-40sUser35'
+p2960
+aS'hi 10-24-40sUser16, hi 10-24-40sUser14'
+p2961
+aS'howdy 10-24-40sUser35'
+p2962
+aS'hiiii 10-24-40sUser35'
+p2963
+aS'hi 10-24-40sUser34'
+p2964
+aS'PART'
+p2965
+aS'cant help but bug him, lol'
+p2966
+aS'hey 10-24-40sUser19'
+p2967
+aS'lol i think of macho man i think of the village people lol '
+p2968
+aS'(((((((((((((((((10-24-40sUser35)))))))))))))))))))))'
+p2969
+aS'Hi 10-24-40sUser35'
+p2970
+aS':) Hi 10-24-40sUser20'
+p2971
+aS'lmao, 10-24-40sUser21'
+p2972
+aS'lol 10-24-40sUser21  me too'
+p2973
+aS'((((((((((10-24-40sUser12))))))))))))) bar fighter '
+p2974
+aS'hehehehe 10-24-40sUser21'
+p2975
+aS'lol'
+p2976
+aS'hi 10-24-40sUser20'
+p2977
+aS'10-24-40sUser24, good to see ya'
+p2978
+aS'lol '
+p2979
+aS'.ACTION dont thank of men.....magine that lol.'
+p2980
+aS'Hey Daveeee coonarsee'
+p2981
+aS'hi 10-24-40sUser16'
+p2982
+aS'PART'
+p2983
+aS'Heyyy ((((((( 10-24-40sUser33 )))))))) ty ty and hugs ,,'
+p2984
+aS'rainbow'
+p2985
+aS'ditto (((10-24-40sUser21))))'
+p2986
+aS'but can you tell if a man is good looking or not 10-24-40sUser16 ?'
+p2987
+aS'but can you tell if a man is good looking or not 10-24-40sUser16 .'
+p2988
+aS'.ACTION peeks in and says some hellos.'
+p2989
+aS'got da pics 10-24-40sUser12 ..awesome'
+p2990
+aS'hey 10-24-40sUser27'
+p2991
+aS'sure 10-24-40sUser21.........aint no such a thang as a good lookin man lol'
+p2992
+aS'hi 10-24-40sUser27'
+p2993
+aS'JOIN'
+p2994
+aS'lmao '
+p2995
+aS'well....cepn fir me of course ;)'
+p2996
+aS'ty  10-24-40sUser35 '
+p2997
+aS'hi 10-24-40sUser36'
+p2998
+aS'well i would disagree with that ..but hey, your entitled lol '
+p2999
+aS'lookin good fella?'
+p3000
+aS'howdy 10-24-40sUser36'
+p3001
+aS'hi 10-24-40sUser36'
+p3002
+aS'Hi 10-24-40sUser36'
+p3003
+aS'yw '
+p3004
+aS'me ??'
+p3005
+aS'AFK'
+p3006
+aS"let's ask george clooney"
+p3007
+aS'well maybe lmao '
+p3008
+aS'ouch '
+p3009
+aS'of course gomer'
+p3010
+aS'george clooney ohhhhhhhhhhhhhhhh'
+p3011
+aS'shore is lots a purty wimmins tho lol'
+p3012
+aS'yes dear '
+p3013
+aS'JOIN'
+p3014
+aS'haha'
+p3015
+aS'have u seen Mary '
+p3016
+aS'hii 10-24-40sUser37'
+p3017
+aS'hiya 10-24-40sUser37'
+p3018
+aS'PART'
+p3019
+aS'hi 10-24-40sUser37'
+p3020
+aS'JOIN'
+p3021
+aS'wb 10-24-40sUser37 ,,'
+p3022
+aS'mary? '
+p3023
+aS'hi 10-24-40sUser19'
+p3024
+aS'hi 10-24-40sUser37'
+p3025
+aS'hiya 10-24-40sUser37'
+p3026
+aS'hi 10-24-40sUser37'
+p3027
+aS'hi 10-24-40sUser37'
+p3028
+aS'hi 10-24-40sUser13'
+p3029
+aS':) hi 10-24-40sUser6'
+p3030
+aS'10-24-40sUser12?'
+p3031
+aS'hiya 10-24-40sUser37!'
+p3032
+aS'.ACTION  blinks .'
+p3033
+aS'the other female that was there beside 10-24-40sUser172 and kissy '
+p3034
+aS'hiya 10-24-40sUser33'
+p3035
+aS'howdy 10-24-40sUser37'
+p3036
+aS'lol'
+p3037
+aS'ty 10-24-40sUser24'
+p3038
+aS'2'
+p3039
+aS'welcome '
+p3040
+aS'yes 10-24-40sUser19 '
+p3041
+aS'JOIN'
+p3042
+aS'oh okies nawp aint seen her lol'
+p3043
+aS'hi 10-24-40sUser34'
+p3044
+aS'oops'
+p3045
+aS'howdy 10-24-40sUser38'
+p3046
+aS'nothing only cheking'
+p3047
+aS'da gal in da green shirt mary???'
+p3048
+aS'da gal in da green shirt mary...'
+p3049
+aS'hey 10-24-40sUser16'
+p3050
+aS'hehehehe'
+p3051
+aS'lmao'
+p3052
+aS'hahahaha more like 7 '
+p3053
+aS'PART'
+p3054
+aS'if u see her get her addy and fwd dem pics plz'
+p3055
+aS"hiya 10-24-40sUser34 didn't see ya...hugggs"
+p3056
+aS'sho will '
+p3057
+aS'hi 10-24-40sUser35'
+p3058
+aS'((((((((((((((((((((10-24-40sUser34_)))))))))))))))))))))))))))))))'
+p3059
+aS'hey 10-24-40sUser27'
+p3060
+aS'The sun is shining across long lake and I have come to be with you ,,'
+p3061
+aS'ol green gal been askin bout yas 10-24-40sUser12 hahaha'
+p3062
+aS'hi 10-24-40sUser6 huggss '
+p3063
+aS'hi 10-24-40sUser12 hugss'
+p3064
+aS'hi 10-24-40sUser14'
+p3065
+aS'hi 10-24-40sUser10'
+p3066
+aS'10-24-40sUser24 are you romantic today?'
+p3067
+aS'10-24-40sUser24 are you romantic today.'
+p3068
+aS'JOIN'
+p3069
+aS'10-24-40sUser6 ... 10-24-40sUser37 is hurting today if you know what I mean '
+p3070
+aS'.ACTION shups an watches.....kinda.'
+p3071
+aS'JOIN'
+p3072
+aS"isn't everyone romantic everyday?"
+p3073
+aS"isn't everyone romantic everyday."
+p3074
+aS'.ACTION looks at the guest lists and realises there must be a back room in here.'
+p3075
+aS'howdy 10-24-40sUser39'
+p3076
+aS'<---------- waves bye to the room ((((((((( ROOM )))))))))))) '
+p3077
+aS'hi 10-24-40sUser40 '
+p3078
+aS'hi 10-24-40sUser16'
+p3079
+aS'yep 10-24-40sUser19 ,,sigh sigh lol '
+p3080
+aS'hi 10-24-40sUser39 and 10-24-40sUser40'
+p3081
+aS'JOIN'
+p3082
+aS'im so sweet LOL'
+p3083
+aS'.ACTION checks sumpin.'
+p3084
+aS'bye 10-24-40sUser26'
+p3085
+aS'bye 10-24-40sUser26'
+p3086
+aS'10-24-40sUser41 '
+p3087
+aS'byeeeeeeee bye'
+p3088
+aS'hi 10-24-40sUser40'
+p3089
+aS'bye 10-24-40sUser10'
+p3090
+aS'tc 10-24-40sUser26 '
+p3091
+aS"lmao 10-24-40sUser34.....good!!!!...shhhh don't tell him I said that lol"
+p3092
+aS'tc 10-24-40sUser26'
+p3093
+aS'hi 10-24-40sUser19'
+p3094
+aS'bye 10-24-40sUser33'
+p3095
+aS'hi 10-24-40sUser41'
+p3096
+aS'ello'
+p3097
+aS'bye 10-24-40sUser26'
+p3098
+aS'i think everyone is in the backroom 10-24-40sUser33'
+p3099
+aS'bye 10-24-40sUser21'
+p3100
+aS'wb 10-24-40sUser41'
+p3101
+aS'hi 10-24-40sUser41'
+p3102
+aS'bye 10-24-40sUser14'
+p3103
+aS"I'm not in the back room!"
+p3104
+aS'hey 10-24-40sUser39 hugs'
+p3105
+aS'that is good 10-24-40sUser24'
+p3106
+aS'ty'
+p3107
+aS'grrrrrrrr...phone.....'
+p3108
+aS'lol 10-24-40sUser6'
+p3109
+aS'10-24-40sUser1 I thought u were'
+p3110
+aS'heyy 10-24-40sUser37  hiya '
+p3111
+aS'bye 10-24-40sUser13'
+p3112
+aS'bye 10-24-40sUser28'
+p3113
+aS'hii 10-24-40sUser41'
+p3114
+aS'((((((((((((((((((((((((((10-24-40sUser39)))))))))))))))))))))'
+p3115
+aS'bye 10-24-40sUser26'
+p3116
+aS'.ACTION caint find a back room, or attic.....or nuttin lmao.'
+p3117
+aS'secret room'
+p3118
+aS'Hi 10-24-40sUser37'
+p3119
+aS'<is right here'
+p3120
+aS'hugsssssssss'
+p3121
+aS'byeee 10-24-40sUser26 hugs'
+p3122
+aS'hi 10-24-40sUser34'
+p3123
+aS'Everytime I try to tell you ,,,seems the words slip my mind and I fall deeper and deeper ,,,'
+p3124
+aS'hi 10-24-40sUser12'
+p3125
+aS'pssst 10-24-40sUser16 open your eyes and you might '
+p3126
+aS'hello10-24-40sUser20'
+p3127
+aS'PART'
+p3128
+aS'alzheimers?'
+p3129
+aS'10-24-40sUser34...how is 10-24-40sUser37?'
+p3130
+aS'10-24-40sUser34...how is 10-24-40sUser37.'
+p3131
+aS'hi 10-24-40sUser28'
+p3132
+aS'Hi 10-24-40sUser41'
+p3133
+aS'who has alzheimers?'
+p3134
+aS'lmao 10-24-40sUser6....was waitin fir ya to lead me lol'
+p3135
+aS'10-24-40sUser24'
+p3136
+aS'10-24-40sUser16 mite could'
+p3137
+aS"i don't recall - lmao"
+p3138
+aS'busy busy busy ... out in the woods today'
+p3139
+aS'hahaha'
+p3140
+aS'lol lol '
+p3141
+aS'lol, 10-24-40sUser33'
+p3142
+aS'10-24-40sUser41 ,,,,'
+p3143
+aS'JOIN'
+p3144
+aS'ello'
+p3145
+aS'hi 10-24-40sUser42'
+p3146
+aS'wb 10-24-40sUser42'
+p3147
+aS'hiya 10-24-40sUser42'
+p3148
+aS'he might not neither 10-24-40sUser35 lol'
+p3149
+aS"what's he doing in the woods 10-24-40sUser34 ?"
+p3150
+aS"what's he doing in the woods 10-24-40sUser34 ."
+p3151
+aS'wb 10-24-40sUser42'
+p3152
+aS'hi 10-24-40sUser42'
+p3153
+aS'out in the woods, i hear dueling banjoes lol'
+p3154
+aS"wb 10-24-40sUser42 if you're really back lol "
+p3155
+aS'JOIN'
+p3156
+aS'lmao 10-24-40sUser16'
+p3157
+aS'pleased to meet you, hope you guess my name'
+p3158
+aS'howdy 10-24-40sUser43'
+p3159
+aS'ty everyone'
+p3160
+aS'deliverance'
+p3161
+aS'hi'
+p3162
+aS'10-24-40sUser37 is prolly out there crying cause the Tigers lost lastnight lol'
+p3163
+aS'hi 10-24-40sUser43'
+p3164
+aS'sympathy'
+p3165
+aS'cutting  wood to build his new outhouse lol '
+p3166
+aS'hi'
+p3167
+aS'10-24-40sUser21 may i pm yu'
+p3168
+aS'lol 10-24-40sUser41'
+p3169
+aS'hi 10-24-40sUser43'
+p3170
+aS'lol'
+p3171
+aS'lmao '
+p3172
+aS"10-24-40sUser24, 10-24-40sUser41 don't like to be romantic because the other day was romantic and at the end he knew was romantic with a man"
+p3173
+aS'say no'
+p3174
+aS'lol 10-24-40sUser34'
+p3175
+aS'lol'
+p3176
+aS'go Cardinals!!'
+p3177
+aS'yay'
+p3178
+aS'good lord 10-24-40sUser42, how long have you known me ? lol '
+p3179
+aS'good lord 10-24-40sUser42, how long have you known me . lol '
+p3180
+aS'of course you can '
+p3181
+aS'you got it 10-24-40sUser35'
+p3182
+aS'really 10-24-40sUser19? hahahahaaa '
+p3183
+aS'really 10-24-40sUser19. hahahahaaa '
+p3184
+aS'lol 10-24-40sUser6 he said this morning he is going to stay away till this painful  experience is over '
+p3185
+aS'10-24-40sUser35 even gezzz'
+p3186
+aS'yep 10-24-40sUser33'
+p3187
+aS'lol'
+p3188
+aS'lol 10-24-40sUser6'
+p3189
+aS'did 10-24-40sUser19 just call me gay?'
+p3190
+aS'did 10-24-40sUser19 just call me gay.'
+p3191
+aS'lmao 10-24-40sUser41'
+p3192
+aS'10-24-40sUser19 hahhahahaha'
+p3193
+aS'noooooooooo 10-24-40sUser41'
+p3194
+aS'who is gay?'
+p3195
+aS'eeeek'
+p3196
+aS'gay as in happy 10-24-40sUser41 lol lol '
+p3197
+aS'actually she called u a gay cat 10-24-40sUser41'
+p3198
+aS'lmao 10-24-40sUser34....tell him they are gonna lose again '
+p3199
+aS"was a mistake, that's all"
+p3200
+aS'PART'
+p3201
+aS'<---not gay, not even happy today'
+p3202
+aS'he is hoping they win tonight '
+p3203
+aS'im gay.......im happy as hell......jus aint #### lol'
+p3204
+aS'10-24-40sUser42, make it quick though, i have to go pick robbie up in about five minutes '
+p3205
+aS'lol 10-24-40sUser16'
+p3206
+aS'a gay p  u s s y yikes '
+p3207
+aS'Cards gonna win....'
+p3208
+aS'lol'
+p3209
+aS'u bet 10-24-40sUser6'
+p3210
+aS'omg, that is just wrong'
+p3211
+aS'lmao '
+p3212
+aS'lol'
+p3213
+aS'omg'
+p3214
+aS'.ACTION dont thank them weird folks orta git the good names like gay.'
+p3215
+aS'JOIN'
+p3216
+aS'howdy 10-24-40sUser44'
+p3217
+aS'I figured I will cheer for whoever wins .. its a win win situation for me'
+p3218
+aS'wb 10-24-40sUser44'
+p3219
+aS'hiya 10-24-40sUser44'
+p3220
+aS'pours 10-24-40sUser44 some coffee'
+p3221
+aS'hi 10-24-40sUser44'
+p3222
+aS'hi 10-24-40sUser44'
+p3223
+aS'sell  your   soul'
+p3224
+aS'hi 10-24-40sUser44'
+p3225
+aS'hiiii my favorite 10-24-40sUser25 (10-24-40sUser44)'
+p3226
+aS'hi 10-24-40sUser44!'
+p3227
+aS'brb'
+p3228
+aS'tried 10-24-40sUser41, no one will buy it'
+p3229
+aS'lol hi everyone'
+p3230
+aS'has to go for my homeboys 10-24-40sUser34 lol'
+p3231
+aS'10-24-40sUser13 try ebay'
+p3232
+aS'always so nice to coem in'
+p3233
+aS'ol albert pujols iz a hottie like 10-24-40sUser12 '
+p3234
+aS'or come'
+p3235
+aS'haha'
+p3236
+aS'did, no takers'
+p3237
+aS'damn'
+p3238
+aS'knows what everyone gets 10-24-40sUser44 for x-mas'
+p3239
+aS'lol well they were only adoted homeboys for me 10-24-40sUser6 only lived near st louis for 5 years .... '
+p3240
+aS'.ACTION goes to find an empty pot .... and where is my cup again .'
+p3241
+aS'adopted'
+p3242
+aS"i'll giva ya 1.98"
+p3243
+aS'JOIN'
+p3244
+aS'why didnt ya say so 10-24-40sUser27, here ya go'
+p3245
+aS'cups in da alley 10-24-40sUser27'
+p3246
+aS'hi'
+p3247
+aS'hi 10-24-40sUser45'
+p3248
+aS'hi 10-24-40sUser45'
+p3249
+aS'hi 10-24-40sUser45'
+p3250
+aS'Hi 10-24-40sUser45'
+p3251
+aS'hi 10-24-40sUser45'
+p3252
+aS'JOIN'
+p3253
+aS'lived in st louis for a year....but Mo all my life until this last year'
+p3254
+aS'best offer in a while'
+p3255
+aS'hi 10-24-40sUser45'
+p3256
+aS'howdy 10-24-40sUser46'
+p3257
+aS'hi 10-24-40sUser46 '
+p3258
+aS'hi 10-24-40sUser46'
+p3259
+aS'hi 10-24-40sUser46'
+p3260
+aS'hiya 10-24-40sUser45'
+p3261
+aS'hiya 10-24-40sUser46'
+p3262
+aS'gotta go pick up hubby, bbs '
+p3263
+aS'no profile no pm, thats my rule'
+p3264
+aS'does that make you a redneck?'
+p3265
+aS'tc 10-24-40sUser21'
+p3266
+aS'PART'
+p3267
+aS'good rule'
+p3268
+aS'JOIN'
+p3269
+aS'gonna fly here . hugss all '
+p3270
+aS'Hi Everyone !!!   How is everyone today !!!!'
+p3271
+aS'hi 10-24-40sUser46'
+p3272
+aS'what if its Tim mcgraw 10-24-40sUser13??'
+p3273
+aS'what if its Tim mcgraw 10-24-40sUser13..'
+p3274
+aS'who is albert pujols , 10-24-40sUser35'
+p3275
+aS'10-24-40sUser41 you calling me a redneck?'
+p3276
+aS'10-24-40sUser41 you calling me a redneck.'
+p3277
+aS'.ACTION goes to the corner an plays wif himself......er....by himself.'
+p3278
+aS'hi 10-24-40sUser46'
+p3279
+aS'PART'
+p3280
+aS'howdy 10-24-40sUser47'
+p3281
+aS'hi 10-24-40sUser47'
+p3282
+aS'(((10-24-40sUser34))))'
+p3283
+aS'hi 10-24-40sUser46'
+p3284
+aS'no,, i was errrrr askin'
+p3285
+aS'who is a redneck?'
+p3286
+aS'hi 10-24-40sUser16'
+p3287
+aS'ball player fer da st louis cardinals '
+p3288
+aS'lol 10-24-40sUser41'
+p3289
+aS'hi 10-24-40sUser19'
+p3290
+aS'no topless pic, no pm'
+p3291
+aS'i see'
+p3292
+aS'<<<<redneck country hick'
+p3293
+aS'brb'
+p3294
+aS'redneck city hick '
+p3295
+aS'PART'
+p3296
+aS'oh good, 10-24-40sUser41, I don;t hafta worry about you then'
+p3297
+aS'looks like we got the bases covered 10-24-40sUser12 lol'
+p3298
+aS'gets called a hick everyday by a special person...so its ok lol'
+p3299
+aS'oh?'
+p3300
+aS'queen of da doublewide redneck'
+p3301
+aS'.ACTION comes back from the ally with 1/2 drunk bottle of cheep wine.'
+p3302
+aS".ACTION:. swats 10-24-40sUser27's big toe with a razor sharp mouse pad!"
+p3303
+aS'JOIN'
+p3304
+aS"you know you're a redneck when...."
+p3305
+aS'howdy 10-24-40sUser48'
+p3306
+aS'hi 10-24-40sUser48'
+p3307
+aS'hi 10-24-40sUser48'
+p3308
+aS'JOIN'
+p3309
+aS'eeewww 10-24-40sUser27, you got smacked'
+p3310
+aS'PART'
+p3311
+aS'10-24-40sUser49'
+p3312
+aS'ya find a truck in the yard when ya mowin?'
+p3313
+aS'ya find a truck in the yard when ya mowin.'
+p3314
+aS'JOIN'
+p3315
+aS':10-24-40sUser50!10-24-40sUser50@10-24-40sUser50 MODE #40sPlus +o 10-24-40sUser50'
+p3316
+aS'hi all'
+p3317
+aS'hi 10-24-40sUser48 and 10-24-40sUser49'
+p3318
+aS'wb 10-24-40sUser50'
+p3319
+aS'hi 10-24-40sUser48'
+p3320
+aS'hi 10-24-40sUser48'
+p3321
+aS'Hi 10-24-40sUser49'
+p3322
+aS'10-24-40sUser50 hiii'
+p3323
+aS'thanks 10-24-40sUser16'
+p3324
+aS'10-24-40sUser50'
+p3325
+aS'yw'
+p3326
+aS'lol do know how er why lol'
+p3327
+aS'hi 10-24-40sUser50'
+p3328
+aS'<<<<<<<<<<<<<< bar fighter lol'
+p3329
+aS'hi 10-24-40sUser19:-)'
+p3330
+aS'wb 10-24-40sUser50'
+p3331
+aS'hey 10-24-40sUser50'
+p3332
+aS'hi 10-24-40sUser14'
+p3333
+aS'Hi 10-24-40sUser50'
+p3334
+aS'thanks 10-24-40sUser6'
+p3335
+aS'hahah 10-24-40sUser12 ..true story'
+p3336
+aS'you are 10-24-40sUser12??'
+p3337
+aS'hi 10-24-40sUser35'
+p3338
+aS'ask 10-24-40sUser35 '
+p3339
+aS'hi 10-24-40sUser20'
+p3340
+aS'.ACTION just thinks his # was up.'
+p3341
+aS':) hi 10-24-40sUser50'
+p3342
+aS' ;-) '
+p3343
+aS'who is 10-24-40sUser12?'
+p3344
+aS'hi 10-24-40sUser49...?'
+p3345
+aS'hi 10-24-40sUser33:-)'
+p3346
+aS'you got in on that fight here in kansas?'
+p3347
+aS'you got in on that fight here in kansas.'
+p3348
+aS'is 10-24-40sUser12 '
+p3349
+aS'not me'
+p3350
+aS'sho enuff iz'
+p3351
+aS'sure did '
+p3352
+aS'lol, god so confused'
+p3353
+aS'who is Judy'
+p3354
+aS'!deop'
+p3355
+aS'biggest bar fight I ever did see'
+p3356
+aS':10-24-40sUser0!10-24-40sUser0@10-24-40sUser0 MODE #40sPlus -o 10-24-40sUser50'
+p3357
+aS'JOIN'
+p3358
+aS'lol 10-24-40sUser41'
+p3359
+aS'hi 10-24-40sUser51'
+p3360
+aS'howdy 10-24-40sUser51'
+p3361
+aS'hi 10-24-40sUser51'
+p3362
+aS'hii 10-24-40sUser51'
+p3363
+aS'cleared the bar lol'
+p3364
+aS'hi 10-24-40sUser51'
+p3365
+aS'hi 10-24-40sUser50 one'
+p3366
+aS'hi everyone'
+p3367
+aS'lmao'
+p3368
+aS'hiya 10-24-40sUser41'
+p3369
+aS'tries to stay out of barfights lol'
+p3370
+aS'hi 10-24-40sUser51'
+p3371
+aS'Hi 10-24-40sUser51'
+p3372
+aS'it came to me '
+p3373
+aS'dang it.......yall quit movin so much.......ima tryin ta perv here'
+p3374
+aS'had to call national guard in'
+p3375
+aS'lol '
+p3376
+aS'PART'
+p3377
+aS'lol'
+p3378
+aS'sheesh'
+p3379
+aS'not that bad , 10-24-40sUser35 '
+p3380
+aS"didn't they have a good bouncer???"
+p3381
+aS"didn't they have a good bouncer..."
+p3382
+aS'lol 10-24-40sUser16'
+p3383
+aS'10-24-40sUser16, who you sheesin?'
+p3384
+aS'10-24-40sUser16, who you sheesin.'
+p3385
+aS'close but no not dat bad'
+p3386
+aS';) 10-24-40sUser19'
+p3387
+aS'PART'
+p3388
+aS'bbl cyas yall'
+p3389
+aS'PART'
+p3390
+aS'JOIN'
+p3391
+aS'took care of the bouncers '
+p3392
+aS'me prolly 10-24-40sUser13.....dont git in much trouble that way lol'
+p3393
+aS'lol'
+p3394
+aS'they n ever seen it com ing '
+p3395
+aS'ok, didnt know you were pervin, will pay attention 10-24-40sUser16'
+p3396
+aS'hi 10-24-40sUser52'
+p3397
+aS'10-24-40sUser52 - hey grrl'
+p3398
+aS'wb 10-24-40sUser52'
+p3399
+aS'PART'
+p3400
+aS'hii 10-24-40sUser52'
+p3401
+aS'lmao 10-24-40sUser13'
+p3402
+aS'heya 10-24-40sUser14!'
+p3403
+aS'10-24-40sUser52'
+p3404
+aS'(((((((((((((((10-24-40sUser52)))))))))))))))))))'
+p3405
+aS'10-24-40sUser33 heyyyyy!'
+p3406
+aS'wb 10-24-40sUser52'
+p3407
+aS"who's pervin and who they pervin?"
+p3408
+aS"who's pervin and who they pervin."
+p3409
+aS'thanks 10-24-40sUser3!'
+p3410
+aS'Hi 10-24-40sUser52'
+p3411
+aS'hi 10-24-40sUser52'
+p3412
+aS'never pervs...'
+p3413
+aS'is sorta lost'
+p3414
+aS'hello 10-24-40sUser19!'
+p3415
+aS'i is......an you 10-24-40sUser50....of course'
+p3416
+aS'cough cough 10-24-40sUser6 '
+p3417
+aS'a perv? where? when? the name'
+p3418
+aS'ME??'
+p3419
+aS'shup 10-24-40sUser12'
+p3420
+aS'thanks 10-24-40sUser6!'
+p3421
+aS'lol'
+p3422
+aS'why shore'
+p3423
+aS"can't keep up to perv"
+p3424
+aS'lol 10-24-40sUser19'
+p3425
+aS'heya 10-24-40sUser20!'
+p3426
+aS'for say hello'
+p3427
+aS'did I fall asleep or something?'
+p3428
+aS'did I fall asleep or something.'
+p3429
+aS'JOIN'
+p3430
+aS'PART'
+p3431
+aS'JOIN'
+p3432
+aS'I mean'
+p3433
+aS'wishes 10-24-40sUser16 would perv in the main room, cause I cant read it and a pm tooo'
+p3434
+aS'lol'
+p3435
+aS'wb 10-24-40sUser53'
+p3436
+aS'heya 10-24-40sUser50:)'
+p3437
+aS'wb 10-24-40sUser53'
+p3438
+aS'i was gonna pm me tho.......an the nic kep a jumpin around'
+p3439
+aS'welcome back 10-24-40sUser53'
+p3440
+aS'look what the cat dragged in'
+p3441
+aS'ty 10-24-40sUser6'
+p3442
+aS'hi 10-24-40sUser54'
+p3443
+aS'wb 10-24-40sUser53'
+p3444
+aS'lmao 10-24-40sUser13'
+p3445
+aS'yw'
+p3446
+aS'ty 10-24-40sUser20'
+p3447
+aS'hi 10-24-40sUser53  >:-> '
+p3448
+aS'wb 10-24-40sUser53'
+p3449
+aS'hi everyone'
+p3450
+aS'ty 10-24-40sUser50 one'
+p3451
+aS'can you hear me now?'
+p3452
+aS'hi 10-24-40sUser54'
+p3453
+aS' :-) '
+p3454
+aS'hiya 10-24-40sUser33'
+p3455
+aS'10-24-40sUser53?'
+p3456
+aS'yw'
+p3457
+aS'hehehehe 10-24-40sUser3'
+p3458
+aS'ty 10-24-40sUser16'
+p3459
+aS'10-24-40sUser41'
+p3460
+aS':)'
+p3461
+aS'10-24-40sUser16?'
+p3462
+aS':) 10-24-40sUser19'
+p3463
+aS'lol'
+p3464
+aS'hiya 10-24-40sUser52'
+p3465
+aS'JOIN'
+p3466
+aS'wtf is a 10-24-40sUser16 ??'
+p3467
+aS"will you take over the room pervin fir a minute so's i can try ta git in trouble fir pm'n?"
+p3468
+aS"will you take over the room pervin fir a minute so's i can try ta git in trouble fir pm'n."
+p3469
+aS'ok, 10-24-40sUser16, Im ready, goooooo'
+p3470
+aS'can you hear me now"?'
+p3471
+aS'wb 10-24-40sUser37'
+p3472
+aS'heya 10-24-40sUser53 1'
+p3473
+aS'lmao 10-24-40sUser13.......ya shore?'
+p3474
+aS'lmao 10-24-40sUser13.......ya shore.'
+p3475
+aS'ok Im home sick so I baked cookies..........anyone want a choc/chip/butterscotch chip oatmeal cookie?'
+p3476
+aS'ok Im home sick so I baked cookies..........anyone want a choc/chip/butterscotch chip oatmeal cookie.'
+p3477
+aS'ohh poorrr 10-24-40sUser41, nobody pay attention to him'
+p3478
+aS'wb 10-24-40sUser37 :-)'
+p3479
+aS'wb 10-24-40sUser37'
+p3480
+aS'lol'
+p3481
+aS'lol, yup'
+p3482
+aS'go'
+p3483
+aS'PART'
+p3484
+aS'sure, put your crap on my shoulders to bear...or bare as the case may be'
+p3485
+aS'hi 10-24-40sUser28'
+p3486
+aS'mmmm oatmel here!!'
+p3487
+aS'hi 10-24-40sUser41'
+p3488
+aS'hi 10-24-40sUser44'
+p3489
+aS' :-) '
+p3490
+aS'PART'
+p3491
+aS'nooooo they are all mixed together'
+p3492
+aS'10-24-40sUser53, wher you been?'
+p3493
+aS'10-24-40sUser53, wher you been.'
+p3494
+aS'you jus hopin fir bare handy.......but i aint that lucky lol'
+p3495
+aS'and I made peanut butter ones too'
+p3496
+aS'good lord 10-24-40sUser50 - did ya thrown in some coconuts and a bag of jujubees too?'
+p3497
+aS'good lord 10-24-40sUser50 - did ya thrown in some coconuts and a bag of jujubees too.'
+p3498
+aS'awww, 10-24-40sUser41 dont be mad?'
+p3499
+aS'PART'
+p3500
+aS'yummy'
+p3501
+aS'doing 10-24-40sUser16 from another room 10-24-40sUser13'
+p3502
+aS'still here 10-24-40sUser50'
+p3503
+aS'JOIN'
+p3504
+aS'hahahhahah nope not this time 10-24-40sUser33'
+p3505
+aS'grrrrrrrrrrrrrrrrr'
+p3506
+aS'waiting for 10-24-40sUser16 to start, tapping her foot'
+p3507
+aS'hahah 10-24-40sUser37 hold on to something lol'
+p3508
+aS'.ACTION looks at 10-24-40sUser13.'
+p3509
+aS'hands 10-24-40sUser3 a cookie'
+p3510
+aS'PART'
+p3511
+aS'PART'
+p3512
+aS'shivers'
+p3513
+aS'10-24-40sUser52, where ya been all my life for the last hour?'
+p3514
+aS'10-24-40sUser52, where ya been all my life for the last hour.'
+p3515
+aS'whoo hooooo'
+p3516
+aS'why is 10-24-40sUser37 grrrrrring?'
+p3517
+aS'why is 10-24-40sUser37 grrrrrring.'
+p3518
+aS'ya dint send me that nakie pic yet 10-24-40sUser13 lol'
+p3519
+aS"t'anks tableof10-24-40sUser50"
+p3520
+aS'you need naked?'
+p3521
+aS'hiya 10-24-40sUser53'
+p3522
+aS' :-) '
+p3523
+aS'man'
+p3524
+aS'10-24-40sUser37, one hour ago I said Hello to you'
+p3525
+aS'nap time cya'
+p3526
+aS'damn puter'
+p3527
+aS'i think he bounced'
+p3528
+aS'well..........i like it lmao'
+p3529
+aS'hey there 10-24-40sUser28'
+p3530
+aS'lol'
+p3531
+aS'yikesssss'
+p3532
+aS'PART'
+p3533
+aS'kicks 10-24-40sUser37s computer'
+p3534
+aS'10-24-40sUser28! nice to see u at a decent hour'
+p3535
+aS'lmao@10-24-40sUser53'
+p3536
+aS'lol'
+p3537
+aS'hi 10-24-40sUser19    for the 2nd time ;)'
+p3538
+aS'well just make something up, pretend Im naked'
+p3539
+aS'PART'
+p3540
+aS' ;-) '
+p3541
+aS'omg, did I say that?'
+p3542
+aS'alreadyhave 10-24-40sUser13...lol'
+p3543
+aS'<empty>'
+p3544
+aS'lmao'
+p3545
+aS'with that apron thingy'
+p3546
+aS'wow 10-24-40sUser3'
+p3547
+aS'oh yeah, forgot about that'
+p3548
+aS'hello 10-24-40sUser8'
+p3549
+aS'I was a contented homosexual till I met 10-24-40sUser52, now I doubt my sexuality'
+p3550
+aS'hahah 10-24-40sUser33 thank you,  have taken the comp over to stop the kids getting in touch with friends for the night'
+p3551
+aS'oh shoot - got to run'
+p3552
+aS'already did that 10-24-40sUser50'
+p3553
+aS'naked? who is naked? where?'
+p3554
+aS'lol'
+p3555
+aS'ohhhhhh '
+p3556
+aS'lol 10-24-40sUser28 good for you'
+p3557
+aS'lol (all the time lost)'
+p3558
+aS'bye'
+p3559
+aS'PART'
+p3560
+aS'that is for to be in the office'
+p3561
+aS'PART'
+p3562
+aS'wonders if 10-24-40sUser16 is full of hot air, perv, huh'
+p3563
+aS'JOIN'
+p3564
+aS'hi 10-24-40sUser55'
+p3565
+aS'office chatting...yes tend to get lost 10-24-40sUser19...or a lil lost...or something'
+p3566
+aS'hi 10-24-40sUser55'
+p3567
+aS'would vote for full of hot air'
+p3568
+aS'hi 10-24-40sUser55'
+p3569
+aS'lol pay'
+p3570
+aS'lol, 10-24-40sUser50'
+p3571
+aS'hi 10-24-40sUser28'
+p3572
+aS'10-24-40sUser3'
+p3573
+aS'hi 10-24-40sUser19'
+p3574
+aS'lol'
+p3575
+aS'hi 10-24-40sUser14'
+p3576
+aS'lol no need to pay'
+p3577
+aS'hiya 10-24-40sUser55'
+p3578
+aS'I was full  of hot air,  then I passed it...ewwwwwww'
+p3579
+aS'PART'
+p3580
+aS"g'day 10-24-40sUser6"
+p3581
+aS'sits down and waits for the perving to begin, la la la la la'
+p3582
+aS'sprays the lysol'
+p3583
+aS'the perv is here again?'
+p3584
+aS'JOIN'
+p3585
+aS'gotta stand up with the apron on, 10-24-40sUser13'
+p3586
+aS'uffff'
+p3587
+aS'hiya 10-24-40sUser56'
+p3588
+aS'hiii 10-24-40sUser56'
+p3589
+aS'PART'
+p3590
+aS'lol, no mystery then 10-24-40sUser3'
+p3591
+aS'quiet in here'
+p3592
+aS'lol a bit...but not much 10-24-40sUser13...lol'
+p3593
+aS'hi there everyone'
+p3594
+aS'crosses her legs, paints her toenails, la la la'
+p3595
+aS'hi 10-24-40sUser1'
+p3596
+aS'.ACTION watches 10-24-40sUser13.'
+p3597
+aS'10-24-40sUser56 hi there'
+p3598
+aS'if anyone ever uses frozen veg to help with bruises and swelling DONT they become great weapons too'
+p3599
+aS'lol 10-24-40sUser13'
+p3600
+aS'10-24-40sUser19 , will be there next weekend'
+p3601
+aS'thinks......wow great legs'
+p3602
+aS'hi 10-24-40sUser50'
+p3603
+aS"i'm on lunch, whats on the menu today?"
+p3604
+aS"i'm on lunch, whats on the menu today."
+p3605
+aS'winks at 10-24-40sUser1'
+p3606
+aS'.ACTION winks at 10-24-40sUser13.'
+p3607
+aS'ok 10-24-40sUser12 tell the the time'
+p3608
+aS'PART'
+p3609
+aS'will send the infor '
+p3610
+aS'JOIN'
+p3611
+aS'at what time'
+p3612
+aS'10-24-40sUser50, as an elected official of this room, that means ya gotta work for your constituents....demand 10-24-40sUser52 to accept my hand in lust'
+p3613
+aS'shivers, ooooooo'
+p3614
+aS'ok'
+p3615
+aS'hiya 10-24-40sUser57 hugggs'
+p3616
+aS'hugs 10-24-40sUser6'
+p3617
+aS'.ACTION nods.'
+p3618
+aS'10-24-40sUser57 hiiii'
+p3619
+aS'(((((((((((((((((10-24-40sUser57))))))))))))))))))))))'
+p3620
+aS'I have a problem with people PMing me to lol'
+p3621
+aS'JOIN'
+p3622
+aS'JOIN'
+p3623
+aS'JOIN'
+p3624
+aS'PART'
+p3625
+aS'JOIN'
+p3626
+aS'JOIN'
+p3627
+aS'who comes here really just to ask someone where they live and wont stop when i say maybe later'
+p3628
+aS'not me'
+p3629
+aS'PART'
+p3630
+aS'JOIN'
+p3631
+aS'PART'
+p3632
+aS'PART'
+p3633
+aS'JOIN'
+p3634
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..As I Lay Dying - The Truth of My Perception..."
+p3635
+aS".ACTION this song has been played .13 1 times.. .this song lasts06. minutes/seconds. it's my Music."
+p3636
+aS'hi'
+p3637
+aS'JOIN'
+p3638
+aS'PART'
+p3639
+aS'JOIN'
+p3640
+aS'lol'
+p3641
+aS'maybe he was a gay rapest'
+p3642
+aS'hello room whats up'
+p3643
+aS'no offence against the gay'
+p3644
+aS'JOIN'
+p3645
+aS'19 m canada ladies pm if interested...'
+p3646
+aS'I heart gay people'
+p3647
+aS'well i guess ill leave'
+p3648
+aS'PART'
+p3649
+aS'JOIN'
+p3650
+aS"But I'm not gay lol"
+p3651
+aS'gay people are cool'
+p3652
+aS'homophobic?'
+p3653
+aS'HEY 10-26-teensUser86. INTERESTING NAME'
+p3654
+aS'PART'
+p3655
+aS'thank you'
+p3656
+aS'PART'
+p3657
+aS'i have nothing against them ether. this person kept saying he was male and wanted to know where i lived'
+p3658
+aS'lol'
+p3659
+aS'hey ladies'
+p3660
+aS'I get that alot'
+p3661
+aS'like that guy'
+p3662
+aS'PART'
+p3663
+aS'JOIN'
+p3664
+aS'hey 10-26-teensUser86. interesting name'
+p3665
+aS'bout once a day someone thinks im female by name'
+p3666
+aS'somebody go and chat with me'
+p3667
+aS'JOIN'
+p3668
+aS'PART'
+p3669
+aS'JOIN'
+p3670
+aS'PART'
+p3671
+aS'JOIN'
+p3672
+aS'PART'
+p3673
+aS'PART'
+p3674
+aS'PART'
+p3675
+aS'thank you once more 10-26-teensUser85'
+p3676
+aS'Your name looks male to me'
+p3677
+aS'My friend had a horse name 10-26-teensUser86'
+p3678
+aS'lol'
+p3679
+aS'donno why people think im female'
+p3680
+aS'JOIN'
+p3681
+aS'*dreaming'
+p3682
+aS'.ACTION shrugs.'
+p3683
+aS'i like it'
+p3684
+aS'anybody in michigan or toledo'
+p3685
+aS'I do too'
+p3686
+aS'JOIN'
+p3687
+aS'PART'
+p3688
+aS'JOIN'
+p3689
+aS'what do you like, 10-26-teensUser86?'
+p3690
+aS'what do you like, 10-26-teensUser86.'
+p3691
+aS'Hey everyone'
+p3692
+aS'PART'
+p3693
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..The Offspring - Come Out Swinging..."
+p3694
+aS".ACTION this song has been played .13 0 times.. .this song lasts47. minutes/seconds. it's my Music."
+p3695
+aS'Whats going on in this room?'
+p3696
+aS'.ACTION sits on the couch but completly misses it and hits the floor.'
+p3697
+aS'reading writing and music'
+p3698
+aS'specalily love the music'
+p3699
+aS'JOIN'
+p3700
+aS'......man my spelling sucks today'
+p3701
+aS'PART'
+p3702
+aS'mine too'
+p3703
+aS"music's good. dancing's even better"
+p3704
+aS'My spelling sucks everyday'
+p3705
+aS'PART'
+p3706
+aS'Same here'
+p3707
+aS'PART'
+p3708
+aS'so dont feel too bad dreaming'
+p3709
+aS'i cant dance. im horriable at it'
+p3710
+aS'lol me too'
+p3711
+aS'two left feet? what kinda music you into?'
+p3712
+aS'two left feet. what kinda music you into.'
+p3713
+aS'PART'
+p3714
+aS'PART'
+p3715
+aS"rock mostly but i'll listen to anything if its good"
+p3716
+aS'Hey has anybody in here seen how Kellogs is giving away free xbox 360 minigames with their cereals?'
+p3717
+aS'Hey has anybody in here seen how Kellogs is giving away free xbox 360 minigames with their cereals.'
+p3718
+aS'PART'
+p3719
+aS'my splelnig scuk yet you can raed it aynawy'
+p3720
+aS'heard of sevendust before?'
+p3721
+aS'and has anybody actually played them?'
+p3722
+aS'and has anybody actually played them.'
+p3723
+aS'JOIN'
+p3724
+aS"I've never had an xbox lol"
+p3725
+aS'i think so actually'
+p3726
+aS'.*sigur ros - The Nothing Song.mp3 .(..(.vMp3 v1.7.4.).)'
+p3727
+aS'JOIN'
+p3728
+aS'JOIN'
+p3729
+aS'i dont like xbox. their huge controll make my hand cramp up'
+p3730
+aS'PART'
+p3731
+aS'10-26-teensUser66 you dont need to own an xbox they are handheld games'
+p3732
+aS'any girls wanna chat? pm me'
+p3733
+aS'controllers*'
+p3734
+aS'PART'
+p3735
+aS'PART'
+p3736
+aS'PART'
+p3737
+aS'JOIN'
+p3738
+aS'JOIN'
+p3739
+aS'JOIN'
+p3740
+aS':10-26-teensUser96!10-26-teensUser86@10-26-teensUser86 MODE #14-19teens +o 10-26-teensUser96'
+p3741
+aS'Then what do you like 10-26-teensUser86?'
+p3742
+aS'Then what do you like 10-26-teensUser86.'
+p3743
+aS'I have no handheld games '
+p3744
+aS'so true'
+p3745
+aS'JOIN'
+p3746
+aS'yall wack'
+p3747
+aS'JOIN'
+p3748
+aS'JOIN'
+p3749
+aS'Playstation!!'
+p3750
+aS'I like to watch people play games though'
+p3751
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Soilwork - Like The Average Stalker..."
+p3752
+aS".ACTION this song has been played .13 1 times.. .this song lasts30. minutes/seconds. it's my Music."
+p3753
+aS'love the playstation!'
+p3754
+aS'no way. pc games graphics rule'
+p3755
+aS'woot for the PS series'
+p3756
+aS'pc is lacking as a gaming platform.'
+p3757
+aS'JOIN'
+p3758
+aS'JOIN'
+p3759
+aS'but there are some good games for it.'
+p3760
+aS'JOIN'
+p3761
+aS'very true'
+p3762
+aS'PART'
+p3763
+aS'Have any of you guys heard of gamefly?'
+p3764
+aS'Have any of you guys heard of gamefly.'
+p3765
+aS'PART'
+p3766
+aS'what up doe'
+p3767
+aS'i have!'
+p3768
+aS'yeah'
+p3769
+aS'dont know much about it though'
+p3770
+aS'there are always bugs and glitches, it might not work on your hardware.. blah blah blah'
+p3771
+aS"pc just wasn't made for gaming."
+p3772
+aS'JOIN'
+p3773
+aS'thats true '
+p3774
+aS'nothing like just turning your ps2 on and playing.'
+p3775
+aS'its sort of like netflix but for video games'
+p3776
+aS'PART'
+p3777
+aS'oh yea i member now'
+p3778
+aS'i second that 10-26-teensUser98'
+p3779
+aS'i third it'
+p3780
+aS'remember what?'
+p3781
+aS'game fly'
+p3782
+aS"I have no idea what you're talking about"
+p3783
+aS'JOIN'
+p3784
+aS'PART'
+p3785
+aS'haha'
+p3786
+aS'JOIN'
+p3787
+aS'its ok 10-26-teensUser66'
+p3788
+aS"i fourth even though i don't know what your talking about"
+p3789
+aS'hey that dude  i was just talking to that said that he bet i had a nice accent im me ok i got to ask you something'
+p3790
+aS'PART'
+p3791
+aS'PART'
+p3792
+aS"I'm technologically impared"
+p3793
+aS'You guys should definately check it out because ontop of the video games kellogs is giving out free 30 day gamefly subscriptions'
+p3794
+aS'JOIN'
+p3795
+aS"I can't even work the DVD player, too complicated"
+p3796
+aS'PART'
+p3797
+aS'PART'
+p3798
+aS"I just got Ico, it's kickass."
+p3799
+aS'great puzzles.'
+p3800
+aS'so basically for 30 days you can rent out as many games as you want for free and for any console'
+p3801
+aS'you sound like my mom 10-26-teensUser66'
+p3802
+aS'wow that sucks for you'
+p3803
+aS'shes the same way'
+p3804
+aS"I'm a huge video game nerd."
+p3805
+aS"It's sad I know"
+p3806
+aS'no doubt.'
+p3807
+aS'hey people who talk to me. i shall return in a bit'
+p3808
+aS'I make girls watch as I play video games.'
+p3809
+aS'PART'
+p3810
+aS'At least I can used computers'
+p3811
+aS'could be worse'
+p3812
+aS'JOIN'
+p3813
+aS'*use'
+p3814
+aS'always gets them worked up.'
+p3815
+aS'I like video games to but i have a really hard time finding good games'
+p3816
+aS"it's like foreplay, making a girl watch you own in a video game."
+p3817
+aS'JOIN'
+p3818
+aS'I love watching people play games '
+p3819
+aS'oh but not really'
+p3820
+aS'JOIN'
+p3821
+aS'i hate it. its so boring'
+p3822
+aS'.. exactly.'
+p3823
+aS'id rather be playing'
+p3824
+aS'10-26-teensUser66 are you a girl?'
+p3825
+aS'10-26-teensUser66 are you a girl.'
+p3826
+aS'like Silent Hill, Clock Tower and Resident Evil'
+p3827
+aS'well co-op is the best.'
+p3828
+aS"It's like watching a movie for me"
+p3829
+aS'10-26-teensUser86 thats why something like gamefly is so good because you can actually play a full game without buying it'
+p3830
+aS'JOIN'
+p3831
+aS'PART'
+p3832
+aS'JOIN'
+p3833
+aS"Yeah, I'm a girl 10-26-teensUser98 n.n"
+p3834
+aS"to play an atmospheric adventure together, it's great.  I love co op."
+p3835
+aS'PART'
+p3836
+aS'nice 10-26-teensUser66 '
+p3837
+aS'JOIN'
+p3838
+aS'PART'
+p3839
+aS'10-26-teensUser98, i could ask you the saME QUESTION'
+p3840
+aS'Nice what?'
+p3841
+aS'JOIN'
+p3842
+aS'.ACTION .Mp3. ..(..2Pac - Until The End Of Time .-...)... - S.M.R.<3.'
+p3843
+aS'not enough good co-op games around too.'
+p3844
+aS'.ACTION slaps 10-26-teensUser110 around a bit with a large .A.n.a.c.?.n.?.a.'
+p3845
+aS'I really must check out game fly then'
+p3846
+aS'nice your a girl'
+p3847
+aS'you could, 10-26-teensUser85. '
+p3848
+aS'PART'
+p3849
+aS'JOIN'
+p3850
+aS'PART'
+p3851
+aS'.ACTION pimp slaps 10-26-teensUser108.'
+p3852
+aS'JOIN'
+p3853
+aS'Niceeeee.'
+p3854
+aS"I hope I'm a girl or people have been lying to me"
+p3855
+aS'like in that South park ep.'
+p3856
+aS'o are you'
+p3857
+aS'PART'
+p3858
+aS'Niceeee.'
+p3859
+aS'And lyings wrong'
+p3860
+aS'PART'
+p3861
+aS'that would suck'
+p3862
+aS'girls pm me please'
+p3863
+aS'lol'
+p3864
+aS'18 m nyc'
+p3865
+aS'.ACTION hehehe hahaha hehehe snort snort hahahaha .'
+p3866
+aS'The whole world? lol'
+p3867
+aS'I really recomend getting the free subscription if you eat cereals just get a kellogs marked box'
+p3868
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Parkway Drive - the cruise..."
+p3869
+aS".ACTION this song has been played .13 0 times.. .this song lasts56. minutes/seconds. it's my Music."
+p3870
+aS'Lies can be sweet and little.'
+p3871
+aS'JOIN'
+p3872
+aS'JOIN'
+p3873
+aS'its worth a shot i guess.'
+p3874
+aS'white lies.'
+p3875
+aS'ask no questions, hear no lies, huh?'
+p3876
+aS'ask no questions, hear no lies, huh.'
+p3877
+aS'snow white :)'
+p3878
+aS'or huge and catastrophic'
+p3879
+aS'JOIN'
+p3880
+aS"what she doesn't know about, can't hurt her."
+p3881
+aS'right.'
+p3882
+aS'What'
+p3883
+aS'PART'
+p3884
+aS'haaa.'
+p3885
+aS'I believe in discretion.'
+p3886
+aS'never mind'
+p3887
+aS'Stop confusting the sick girl'
+p3888
+aS"i don't"
+p3889
+aS'whose the sick girl'
+p3890
+aS'JOIN'
+p3891
+aS'Me'
+p3892
+aS'JOIN'
+p3893
+aS'10-26-teensUser66'
+p3894
+aS'thats what i though'
+p3895
+aS'I have a temp of 102.6 go me lol'
+p3896
+aS'thought*'
+p3897
+aS'JOIN'
+p3898
+aS"you're so hot 10-26-teensUser66."
+p3899
+aS'10-26-teensUser119.'
+p3900
+aS'JOIN'
+p3901
+aS'JOIN'
+p3902
+aS'oh man wish i was you. then i wouldnt have to go to work today'
+p3903
+aS'lol'
+p3904
+aS'sucks for you im a good 98.6'
+p3905
+aS'PART'
+p3906
+aS'JOIN'
+p3907
+aS'JOIN'
+p3908
+aS"No it's sucks "
+p3909
+aS'JOIN'
+p3910
+aS'I caught Mono from a friends drink lol'
+p3911
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Zebrahead - Bonus Track..."
+p3912
+aS".ACTION this song has been played .13 0 times.. .this song lasts43. minutes/seconds. it's my Music."
+p3913
+aS'Oh well I have to go'
+p3914
+aS'oh is that how you caught it'
+p3915
+aS'wut up everyone'
+p3916
+aS'it was nice talking to all of you'
+p3917
+aS'wut up 10-26-teensUser45'
+p3918
+aS'PART'
+p3919
+aS'mono? what the heck is that'
+p3920
+aS'and best of luck!'
+p3921
+aS'JOIN'
+p3922
+aS'No, I made out with the football team'
+p3923
+aS'PART'
+p3924
+aS'not much 10-26-teensUser119'
+p3925
+aS'PART'
+p3926
+aS'JOIN'
+p3927
+aS'whud up room'
+p3928
+aS'ahhh ok'
+p3929
+aS'PART'
+p3930
+aS'PART'
+p3931
+aS'I was kidding'
+p3932
+aS"i'm on the football team"
+p3933
+aS'Go you'
+p3934
+aS'no you werent 10-26-teensUser66'
+p3935
+aS'PART'
+p3936
+aS'PART'
+p3937
+aS'whud up room'
+p3938
+aS'JOIN'
+p3939
+aS':10-26-teensUser15!10-26-teensUser15@10-26-teensUser15 MODE #14-19teens +o 10-26-teensUser15'
+p3940
+aS'u were serious'
+p3941
+aS'JOIN'
+p3942
+aS'No'
+p3943
+aS'lol'
+p3944
+aS'hi'
+p3945
+aS'PART'
+p3946
+aS'.ACTION .Mp3. ..(..Bone Thugs N Harmony - Days Of Our Lives .-...)... - S.M.R.<3.'
+p3947
+aS'uh ya.'
+p3948
+aS'i agree'
+p3949
+aS'i saw the whole thing'
+p3950
+aS'JOIN'
+p3951
+aS'PART'
+p3952
+aS'<empty>'
+p3953
+aS'JOIN'
+p3954
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens +o 10-26-teensUser122'
+p3955
+aS'PART'
+p3956
+aS'JOIN'
+p3957
+aS'JOIN'
+p3958
+aS' ;-) '
+p3959
+aS'JOIN'
+p3960
+aS'JOIN'
+p3961
+aS'JOIN'
+p3962
+aS'Hi'
+p3963
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser7'
+p3964
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser54'
+p3965
+aS'PART'
+p3966
+aS'JOIN'
+p3967
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3968
+aS'PART'
+p3969
+aS'ah im back'
+p3970
+aS'PART'
+p3971
+aS'JOIN'
+p3972
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3973
+aS'PART'
+p3974
+aS'PART'
+p3975
+aS'lol opps'
+p3976
+aS'JOIN'
+p3977
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3978
+aS'wb'
+p3979
+aS'Anyone wanna Whisper'
+p3980
+aS'PART'
+p3981
+aS'PART'
+p3982
+aS'JOIN'
+p3983
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3984
+aS"The chick I caught it from made out with the football team, I didn't realise that by sharing her drink I was sharing the football team"
+p3985
+aS'JOIN'
+p3986
+aS'PART'
+p3987
+aS'no'
+p3988
+aS'JOIN'
+p3989
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3990
+aS'lol'
+p3991
+aS'PART'
+p3992
+aS'hi'
+p3993
+aS'JOIN'
+p3994
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p3995
+aS'room'
+p3996
+aS'that was you 10-26-teensUser66'
+p3997
+aS'PART'
+p3998
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser59'
+p3999
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser15'
+p4000
+aS'beleive me'
+p4001
+aS'JOIN'
+p4002
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p4003
+aS'10-26-teensUser122 adduser 10-26-teensUser54 chanop'
+p4004
+aS'hiya 10-26-teensUser66'
+p4005
+aS'PART'
+p4006
+aS';]'
+p4007
+aS'PART'
+p4008
+aS'JOIN'
+p4009
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p4010
+aS'JOIN'
+p4011
+aS'JOIN'
+p4012
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser96'
+p4013
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser72'
+p4014
+aS"i knew why didn't you"
+p4015
+aS'PART'
+p4016
+aS'Bwhaha'
+p4017
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser79'
+p4018
+aS':10-26-teensUser122!10-26-teensUser122@10-26-teensUser122 MODE #14-19teens -o 10-26-teensUser54'
+p4019
+aS'PART'
+p4020
+aS'JOIN'
+p4021
+aS'JOIN'
+p4022
+aS':10-26-teensUser54!10-26-teensUser54@10-26-teensUser54 MODE #14-19teens +o 10-26-teensUser54'
+p4023
+aS'JOIN'
+p4024
+aS'thats awesome 10-26-teensUser66, nothing to be ashamed off'
+p4025
+aS'!!'
+p4026
+aS'heh'
+p4027
+aS'PART'
+p4028
+aS"You're retarded "
+p4029
+aS'JOIN'
+p4030
+aS'but seriously'
+p4031
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..And the Hero Fails - They Came Covered..."
+p4032
+aS".ACTION this song has been played .13 1 times.. .this song lasts16. minutes/seconds. it's my Music."
+p4033
+aS'Added 10-26-teensUser54 (*!10-26-teensUser54@10-26-teensUser54) as an .op. for #14-19teens. (10-26-teensUser96)'
+p4034
+aS'nah'
+p4035
+aS'ehh, why dont people talk to me anymore'
+p4036
+aS'oh'
+p4037
+aS'because ur gay.'
+p4038
+aS'PART'
+p4039
+aS'PART'
+p4040
+aS'.ACTION = 10-26-teensUser58.'
+p4041
+aS'Man shouldnt have walked away from the computer. now im lost'
+p4042
+aS'i agree'
+p4043
+aS'hello'
+p4044
+aS'too bad'
+p4045
+aS'What in the hell is 10-26-teensUser122 doing here?  Lol.'
+p4046
+aS'What in the hell is 10-26-teensUser122 doing here.  Lol.'
+p4047
+aS'That happens alot'
+p4048
+aS':10-26-teensUser74!10-26-teensUser74@10-26-teensUser74 MODE #14-19teens +o 10-26-teensUser79'
+p4049
+aS'PART'
+p4050
+aS'you happen alot 10-26-teensUser66'
+p4051
+aS'you.'
+p4052
+aS'PART'
+p4053
+aS'PART'
+p4054
+aS'10-26-teensUser122 adduser 10-26-teensUser74 chanowner'
+p4055
+aS'JOIN'
+p4056
+aS'i agree'
+p4057
+aS'bi or lez gurls pm me'
+p4058
+aS'lol'
+p4059
+aS'Added 10-26-teensUser74 (*!10-26-teensUser74@*) as an .owner. for #14-19teens. (10-26-teensUser96)'
+p4060
+aS'Who are you 10-26-teensUser119? lol'
+p4061
+aS'Who are you 10-26-teensUser119. lol'
+p4062
+aS'10-26-teensUser122 adduser 10-26-teensUser74 chanowner'
+p4063
+aS'sick '
+p4064
+aS'lol'
+p4065
+aS'i am the one guy here thats hott'
+p4066
+aS'PART'
+p4067
+aS'I doupt it'
+p4068
+aS'lol'
+p4069
+aS'but not really'
+p4070
+aS'besides 10-26-teensUser45 who is my friend'
+p4071
+aS'PART'
+p4072
+aS'hes cool too'
+p4073
+aS'Anyone wanna Cyber'
+p4074
+aS'10-26-teensUser66'
+p4075
+aS'PART'
+p4076
+aS'PART'
+p4077
+aS'hiya ^'
+p4078
+aS'No asking for cyber.'
+p4079
+aS'hfglhs'
+p4080
+aS'PART'
+p4081
+aS"Usually the screen names that have Hott or something mean I'm really ugly"
+p4082
+aS'JOIN'
+p4083
+aS':10-26-teensUser15!10-26-teensUser15@10-26-teensUser15 MODE #14-19teens +o 10-26-teensUser15'
+p4084
+aS'Anyone wanna Cyber'
+p4085
+aS'PART'
+p4086
+aS'bi or lez gurls pm me'
+p4087
+aS'PART'
+p4088
+aS'JOIN'
+p4089
+aS':10-26-teensUser7!10-26-teensUser7@10-26-teensUser7 MODE #14-19teens +o 10-26-teensUser7'
+p4090
+aS'PART'
+p4091
+aS'whats the obsession with people wanting to freaking cyber'
+p4092
+aS"They're idiots."
+p4093
+aS'PART'
+p4094
+aS'JOIN'
+p4095
+aS'i seriously freaking agree'
+p4096
+aS'JOIN'
+p4097
+aS'PART'
+p4098
+aS'Same here'
+p4099
+aS'PART'
+p4100
+aS'JOIN'
+p4101
+aS'how come he wasnt booted'
+p4102
+aS'Hallo!!!'
+p4103
+aS'cause he left one his own'
+p4104
+aS'PART'
+p4105
+aS'PART'
+p4106
+aS'ohh'
+p4107
+aS'Hallo.'
+p4108
+aS'Salut.'
+p4109
+aS'bi or lez gurls pm me'
+p4110
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Roadrunner United - Constitution Down (Joey Jordison Sessions)..."
+p4111
+aS".ACTION this song has been played .13 0 times.. .this song lasts05. minutes/seconds. it's my Music."
+p4112
+aS'PART'
+p4113
+aS'PART'
+p4114
+aS"Now I'm confused again"
+p4115
+aS'JOIN'
+p4116
+aS'.ACTION .Mp3. ..(..Breaking Benjamin - The Diary of Jane .-...)... - S.M.R.<3.'
+p4117
+aS'JOIN'
+p4118
+aS'JOIN'
+p4119
+aS'PART'
+p4120
+aS'Man im bored. My short attention span has long since reached its limits'
+p4121
+aS'JOIN'
+p4122
+aS'I feel your pain'
+p4123
+aS'im bored'
+p4124
+aS'JOIN'
+p4125
+aS'JOIN'
+p4126
+aS'JOIN'
+p4127
+aS"I think I'm hungry again."
+p4128
+aS'.ACTION sorry your hungry, i just ate a tv dinner mmmmm.. .'
+p4129
+aS'I want some chicken tonight.'
+p4130
+aS'They should have a chat for just bored people'
+p4131
+aS'18/m/tx pic in pro, PM me if you like what you see'
+p4132
+aS'Chickens are evil'
+p4133
+aS'JOIN'
+p4134
+aS'PART'
+p4135
+aS'PART'
+p4136
+aS'Wow, no one talks'
+p4137
+aS'PART'
+p4138
+aS'yeah that way there will just be contast people typing "im bored"'
+p4139
+aS'PART'
+p4140
+aS'PART'
+p4141
+aS'PART'
+p4142
+aS'hi'
+p4143
+aS'JOIN'
+p4144
+aS'People are having trouble deciding whether or not they want to stay in this room'
+p4145
+aS'PART'
+p4146
+aS'lol, true'
+p4147
+aS'JOIN'
+p4148
+aS'anybody wanna chat with the sexiest girl in south carolina'
+p4149
+aS'PART'
+p4150
+aS'PART'
+p4151
+aS'like 10-26-teensUser58 lol'
+p4152
+aS'15 f perth bi any bi girls wanna chat'
+p4153
+aS'but you see right. in, out , in . out'
+p4154
+aS'PART'
+p4155
+aS'PART'
+p4156
+aS'I see it'
+p4157
+aS"It's sort of annoying"
+p4158
+aS'JOIN'
+p4159
+aS'ive never seen so much red!!'
+p4160
+aS'JOIN'
+p4161
+aS'PART'
+p4162
+aS'JOIN'
+p4163
+aS'lol, the place where I used to work had everything Painted red'
+p4164
+aS'JOIN'
+p4165
+aS'EVERYTHING was red'
+p4166
+aS'talk about an eye sore'
+p4167
+aS'hii room'
+p4168
+aS'It was really annoying'
+p4169
+aS'JOIN'
+p4170
+aS'i can imagine'
+p4171
+aS'PART'
+p4172
+aS'PART'
+p4173
+aS'PART'
+p4174
+aS'PART'
+p4175
+aS'PART'
+p4176
+aS'JOIN'
+p4177
+aS'woot im back and original'
+p4178
+aS'And my boss wore red all the time'
+p4179
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..In Flames - Leeches..."
+p4180
+aS".ACTION this song has been played .13 0 times.. .this song lasts55. minutes/seconds. it's my Music."
+p4181
+aS'JOIN'
+p4182
+aS'PART'
+p4183
+aS'JOIN'
+p4184
+aS'JOIN'
+p4185
+aS'JOIN'
+p4186
+aS'and on another note: PERVS QUIT PMING ME!'
+p4187
+aS'hey que pasa'
+p4188
+aS'Same here'
+p4189
+aS'hi ppl'
+p4190
+aS"why'd your boss always where red?"
+p4191
+aS"why'd your boss always where red."
+p4192
+aS'Nadda, y tu?'
+p4193
+aS'It was her barn colors'
+p4194
+aS'JOIN'
+p4195
+aS'She was a bitch too '
+p4196
+aS'my moms old boss was a bitch'
+p4197
+aS'i was going to play a joke 10-26-teensUser86, but i dont know what you think of me so i didnt'
+p4198
+aS'JOIN'
+p4199
+aS"10-26-teensUser86 let's cyb3r"
+p4200
+aS'lol'
+p4201
+aS'Kick him 10-26-teensUser86'
+p4202
+aS"that'd be hot."
+p4203
+aS'.ACTION .Mp3. ..(..Chingy feat. Tyrese - Pullin Me Back .-...)... - S.M.R.<3.'
+p4204
+aS'any f wanna chat'
+p4205
+aS"Don't kick him"
+p4206
+aS'PART'
+p4207
+aS'I feel like even more coffee.'
+p4208
+aS'Lets not. thats disgusting and weird'
+p4209
+aS'PART'
+p4210
+aS'JOIN'
+p4211
+aS"I swear.. I'm the best cyb3r-lover you'll ever have baby.."
+p4212
+aS'coffee addict'
+p4213
+aS'I give it to you good.'
+p4214
+aS'PART'
+p4215
+aS'hey'
+p4216
+aS'I need coffee bad'
+p4217
+aS'18 m nyc here'
+p4218
+aS'heyyy 10-26-teensUser15.'
+p4219
+aS'lol'
+p4220
+aS'ahem not.'
+p4221
+aS'heyyy'
+p4222
+aS"what's up dork?"
+p4223
+aS'heyy sweet girl how r  u '
+p4224
+aS'hey 10-26-teensUser86'
+p4225
+aS'girls guys pm me'
+p4226
+aS'JOIN'
+p4227
+aS'nm really'
+p4228
+aS'how can you give it to someone good when all you do is type and the other just reads?'
+p4229
+aS'how can you give it to someone good when all you do is type and the other just reads.'
+p4230
+aS'lol'
+p4231
+aS"I can't wait to get home, seriously."
+p4232
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Silverstein - When Broken Is Easily Fixed..."
+p4233
+aS".ACTION this song has been played .13 3 times.. .this song lasts20. minutes/seconds. it's my Music."
+p4234
+aS'JOIN'
+p4235
+aS'thats why i dont cyber. whats the point unless you cant get any in person?'
+p4236
+aS'exactly'
+p4237
+aS'bi or lez gurls pm me plz'
+p4238
+aS'PART'
+p4239
+aS'JOIN'
+p4240
+aS'JOIN'
+p4241
+aS'yea ?'
+p4242
+aS'hey'
+p4243
+aS'JOIN'
+p4244
+aS'are u a guy?'
+p4245
+aS'any hot girls wanna chat w/a college guy'
+p4246
+aS'JOIN'
+p4247
+aS'PART'
+p4248
+aS'frankly i can, but im a decent person and i only do with people im really close with'
+p4249
+aS'for suree home is the best place to be '
+p4250
+aS'PART'
+p4251
+aS'10-26-teensUser58 you rule bro :)'
+p4252
+aS'hey'
+p4253
+aS"I'm saving myself for marriage"
+p4254
+aS"there's no place like hom."
+p4255
+aS'any hot girls wanan chat w/a hot college guy'
+p4256
+aS'???'
+p4257
+aS'hi '
+p4258
+aS'didnt expect that'
+p4259
+aS'me?'
+p4260
+aS"I'm telling you bro.. you can like, get laid?  that's awesome."
+p4261
+aS'10-26-teensUser122, is back so ppl can ban.'
+p4262
+aS'props.'
+p4263
+aS'Im with 10-26-teensUser66 on that one'
+p4264
+aS'We should have a club'
+p4265
+aS"I'm saving myself for marriage as well."
+p4266
+aS'awesomee'
+p4267
+aS'there are clubs for that 10-26-teensUser66.'
+p4268
+aS'JOIN'
+p4269
+aS'lol'
+p4270
+aS"It's called Christianity."
+p4271
+aS'i missed 10-26-teensUser122'
+p4272
+aS'JOIN'
+p4273
+aS"I'm a born-again virgin."
+p4274
+aS'im out. i lost mine'
+p4275
+aS'JOIN'
+p4276
+aS'you can become a born-again virgin 10-26-teensUser58.'
+p4277
+aS'PART'
+p4278
+aS'rather not'
+p4279
+aS'.ACTION .Mp3. ..(..Craig Morgan - Almost Home .-...)... - S.M.R.<3.'
+p4280
+aS'JOIN'
+p4281
+aS'PART'
+p4282
+aS'how can you manage that 10-26-teensUser98'
+p4283
+aS'bi or lez gurls pm me'
+p4284
+aS'the ways i have herd have something to do with religion, and im not part of any religion'
+p4285
+aS'PART'
+p4286
+aS'JOIN'
+p4287
+aS'PART'
+p4288
+aS'noting against religion, im just a phylosipher (sp)'
+p4289
+aS'Born Again virginity is impossible lol'
+p4290
+aS'PART'
+p4291
+aS'PART'
+p4292
+aS'at least not physically'
+p4293
+aS'any bi or gay guys here'
+p4294
+aS".ACTION .Liam's .13cute.-ass MP3 player. This is what I'm listening to; ..Trivium - Washing Away In The Tide..."
+p4295
+aS".ACTION this song has been played .13 5 times.. .this song lasts46. minutes/seconds. it's my Music."
+p4296
+aS'Man i hate pop up adds. they keep blocking the room'
+p4297
+aS'JOIN'
+p4298
+aS'lol'
+p4299
+aS'PART'
+p4300
+aS'any hot guys frm 14-16 wana chat'
+p4301
+aS"don't take away my last hope 10-26-teensUser66."
+p4302
+aS'Im not lying'
+p4303
+aS'17 m here jush 4 Cute GrlZ'
+p4304
+aS"just because I boinked someone doesn't mean I can't have my innocense."
+p4305
+aS'You are so not innocent lol'
+p4306
+aS'my soul is still untouched.'
+p4307
+aS':)'
+p4308
+aS'God told me.'
+p4309
+aS'you sure bout that'
+p4310
+aS'JOIN'
+p4311
+aS'and now you hear voices'
+p4312
+aS"He's a perv, I can tell"
+p4313
+aS'hi 18 f co here all males wanna chat with me pm me'
+p4314
+aS'.ACTION cougs .'
+p4315
+aS'PART'
+p4316
+aS'haha.'
+p4317
+aS'asl all'
+p4318
+aS'JOIN'
+p4319
+aS'PART'
+p4320
+aS'awwww'
+p4321
+aS'PART'
+p4322
+aS'PART'
+p4323
+aS'.ACTION finished his orange juice.'
+p4324
+aS'JOIN'
+p4325
+aS"Ugh, I'm so suprised I haven't coughed up my lung yet"
+p4326
+aS"brb, I'm getting juice"
+p4327
+aS'...'
+p4328
+aS'hi all'
+p4329
+aS'JOIN'
+p4330
+aS'get ME SOME !!!!!'
+p4331
+aS'hello 10-26-teensUser156'
+p4332
+aS'PART'
+p4333
+aS'dont mind i call you 10-26-teensUser156 do you?'
+p4334
+aS'dont mind i call you 10-26-teensUser156 do you.'
+p4335
+aS'hi'
+p4336
+aS'how are you?'
+p4337
+aS'nah its all good'
+p4338
+aS'hey'
+p4339
+aS'Hello 11-06-adultsUser57 , welcome to #talkcity_adults ! .4Please ask in the main room before Private Messaging others!. You can find our rules at http://forums.talkcity.com/tc-adults/start Thanks for joining us!'
+p4340
+aS'hoi there'
+p4341
+aS'blah'
+p4342
+aS'bbs'
+p4343
+aS'.ACTION is listening to .Whitesnake - Slide It In. ...'
+p4344
+aS'Welcome to #talkcity_adults, JTo get your own game bot for your chat room please contact Dawnstar Visit http://www.shadowbots.com'
+p4345
+aS'who wants to chat?'
+p4346
+aS'tc not'
+p4347
+aS'PART'
+p4348
+aS'JOIN'
+p4349
+aS'JOIN'
+p4350
+aS'how are u 11-06-adultsUser35?'
+p4351
+aS'tc other 11-06-adultsUser5'
+p4352
+aS'bye 11-06-adultsUser26 '
+p4353
+aS'JOIN'
+p4354
+aS'hi 11-06-adultsUser49'
+p4355
+aS'.ACTION is listening to .White Snake - Here I Go Again On My Own. ...'
+p4356
+aS'Poor girls almost 30'
+p4357
+aS'there there'
+p4358
+aS'JOIN'
+p4359
+aS'.ACTION is listening to .White Lion - When The Children Cry. ...'
+p4360
+aS'.ACTION is listening to .Whitesnake - Here I Go Again. ...'
+p4361
+aS'JOIN'
+p4362
+aS'but oO 11-06-adultsUser19 is hawt.. lets make out'
+p4363
+aS'wtf is wrong with being 30? lol'
+p4364
+aS'wtf is wrong with being 30. lol'
+p4365
+aS"hey! you aren't making fun of me are you?"
+p4366
+aS"hey! you aren't making fun of me are you."
+p4367
+aS'Me>'
+p4368
+ag2532
+aS'.ACTION slaps 11-06-adultsUser5 around a bit with a large trout.'
+p4369
+aS'brat'
+p4370
+aS'Nooooooooooooooo'
+p4371
+aS'hi'
+p4372
+aS'Lol'
+p4373
+aS'PART'
+p4374
+aS'aww - thanks'
+p4375
+aS'JOIN'
+p4376
+aS'hell yeah'
+p4377
+aS'Nu huh'
+p4378
+aS".ACTION takes 11-06-adultsUser60's trout away from him......takes the trout he just happens to have in his back pocket.....and stick one up each of 11-06-adultsUser60's nostrils !!!!!!."
+p4379
+aS'you want to chat 11-06-adultsUser49?'
+p4380
+aS'you want to chat 11-06-adultsUser49.'
+p4381
+aS'Older ladies can move their bodies still'
+p4382
+aS'come on'
+p4383
+aS".ACTION singing o/~ Down the only road I've never known.  As a drifter I was born to walk alone.  o/~."
+p4384
+aS'PART'
+p4385
+aS'you are a hottie too, but who is the chick in the pic?'
+p4386
+aS'you are a hottie too, but who is the chick in the pic.'
+p4387
+aS'my girl ^_^'
+p4388
+aS'JOIN'
+p4389
+aS"Isn't she cutes"
+p4390
+aS'PART'
+p4391
+aS'hey all'
+p4392
+aS'hi 11-06-adultsUser95'
+p4393
+aS'hey hey'
+p4394
+aS'anyone from NC?'
+p4395
+aS'No'
+p4396
+aS'PART'
+p4397
+aS'you guys are cute together'
+p4398
+aS'hey b/m 32 here'
+p4399
+aS"I'm from home"
+p4400
+aS'11-06-adultsUser53 has a gf?! :p'
+p4401
+aS'11-06-adultsUser53 has a gf.! :p'
+p4402
+aS'.ACTION waves to 11-06-adultsUser42.'
+p4403
+aS':o *'
+p4404
+aS'=O'
+p4405
+aS'lol'
+p4406
+aS' :-o '
+p4407
+aS'hey'
+p4408
+aS'PART'
+p4409
+aS'hi 11-06-adultsUser43'
+p4410
+aS'.ACTION waves bak.'
+p4411
+aS'lol'
+p4412
+aS'He broke my heart :/'
+p4413
+aS"It's the blowjob face  :-o "
+p4414
+aS'JOIN'
+p4415
+aS'hey whats up'
+p4416
+aS'what you up to sassy?'
+p4417
+aS"lol....who's 11-06-adultsUser45?"
+p4418
+aS"lol....who's 11-06-adultsUser45."
+p4419
+aS'any ladies from va?'
+p4420
+aS'did we lose 11-06-adultsUser88?'
+p4421
+aS'did we lose 11-06-adultsUser88.'
+p4422
+aS'You broke my heart when I found out you had a bf, 11-06-adultsUser60'
+p4423
+aS'so pfft you'
+p4424
+aS'who r u 11-06-adultsUser37?'
+p4425
+aS'JOIN'
+p4426
+aS'PART'
+p4427
+aS'PART'
+p4428
+aS'aww'
+p4429
+aS'I did NOT'
+p4430
+aS'YOU did so'
+p4431
+aS'JOIN'
+p4432
+aS'HOW?!'
+p4433
+aS"i'm 11-06-adultsUser37 :P"
+p4434
+aS'pffft'
+p4435
+aS'JOIN'
+p4436
+aS':11-06-adultsUser99!hbtHeather@hbtHeather MODE #talkcity_adults +o 11-06-adultsUser99'
+p4437
+aS'anyway'
+p4438
+aS':11-06-adultsUser99!hbtHeather@hbtHeather MODE #talkcity_adults -o 11-06-adultsUser99'
+p4439
+aS"I'm land"
+p4440
+aS'11-06-adultsUser99!!!'
+p4441
+aS'.ACTION sits and watches.'
+p4442
+aS'PART'
+p4443
+aS'11-06-adultsUser53!!'
+p4444
+aS'11-06-adultsUser99!!!!!'
+p4445
+aS'11-06-adultsUser99!!'
+p4446
+aS'JOIN'
+p4447
+aS'haha ;)'
+p4448
+aS'11-06-adultsUser99!!!!!'
+p4449
+aS'11-06-adultsUser99!!!!!'
+p4450
+aS'(((((((((( 11-06-adultsUser99 )))))))))))'
+p4451
+aS'JOIN'
+p4452
+aS'hi 11-06-adultsUser99'
+p4453
+aS'11-06-adultsUser60 babes muahzzzz'
+p4454
+aS'PART'
+p4455
+aS'hey there 11-06-adultsUser99'
+p4456
+aS'MUAH!!!!!'
+p4457
+aS'heya 11-06-adultsUser25'
+p4458
+aS'JOIN'
+p4459
+aS'heya 11-06-adultsUser37'
+p4460
+aS'oops '
+p4461
+aS'JOIN'
+p4462
+aS'sup 11-06-adultsUser5'
+p4463
+aS'got bumped out somehow'
+p4464
+aS'wb 11-06-adultsUser19'
+p4465
+aS'.ACTION kicks 11-06-adultsUser42.'
+p4466
+aS'PART'
+p4467
+aS'JOIN'
+p4468
+aS'JOIN'
+p4469
+aS'PART'
+p4470
+aS'11-06-adultsUser99 nice bum'
+p4471
+aS'what did I miss in the 2.3 seconds I was out?'
+p4472
+aS'what did I miss in the 2.3 seconds I was out.'
+p4473
+aS'so what the fawk is goin on tonight'
+p4474
+aS'u missed me'
+p4475
+aS'hmm - not much'
+p4476
+aS'PART'
+p4477
+aS'ima get 11-06-adultsUser26 naked, 11-06-adultsUser99'
+p4478
+aS'nothing much...lol'
+p4479
+aS'11-06-adultsUser19 u missed me farting a green cloud of burito dust'
+p4480
+aS'first time one chat!'
+p4481
+aS'a whole lotta nothing lol'
+p4482
+aS'.ACTION burps.'
+p4483
+aS'eww'
+p4484
+aS'LOL why did you kick me?'
+p4485
+aS'Welcome  back 11-06-adultsUser19'
+p4486
+aS'u burpin fool'
+p4487
+aS'ohhhh 11-06-adultsUser60 i wanna Help.....pweeze'
+p4488
+aS'PART'
+p4489
+aS'JOIN'
+p4490
+aS'cause I felt like it dangit'
+p4491
+aS'hmm...seth? lol'
+p4492
+aS'wow - actually glad I missed that one'
+p4493
+aS'.3(((((..6 11-06-adultsUser99 ..3)))))'
+p4494
+aS'I have good timing I guess'
+p4495
+aS'PART'
+p4496
+aS'no one ever gets me naked'
+p4497
+aS'11-06-adultsUser42 babes Muahz'
+p4498
+aS'I dont think he can handle two red heads'
+p4499
+aS'thanks 11-06-adultsUser53;-)'
+p4500
+aS'PART'
+p4501
+aS'JOIN'
+p4502
+aS'me either 11-06-adultsUser29 lol'
+p4503
+aS'haha 11-06-adultsUser60'
+p4504
+aS'haha'
+p4505
+aS'PART'
+p4506
+aS'JOIN'
+p4507
+aS'lmao........ not many can'
+p4508
+aS'no one wants to see me neked'
+p4509
+aS'11-06-adultsUser105'
+p4510
+aS'hello'
+p4511
+aS'Heya 11-06-adultsUser105'
+p4512
+aS'lolol'
+p4513
+aS'11-06-adultsUser99'
+p4514
+aS'hi 11-06-adultsUser105'
+p4515
+aS'JOIN'
+p4516
+aS'(((((((((( 11-06-adultsUser105 ))))))))))'
+p4517
+aS'JOIN'
+p4518
+aS'hey 11-06-adultsUser25 '
+p4519
+aS'11-06-adultsUser105'
+p4520
+aS'hi 11-06-adultsUser82'
+p4521
+aS'wb 11-06-adultsUser16'
+p4522
+aS'So 11-06-adultsUser53 - does your gf hang out in here too?'
+p4523
+aS'So 11-06-adultsUser53 - does your gf hang out in here too.'
+p4524
+aS'11-06-adultsUser37'
+p4525
+aS'.ACTION tackles 11-06-adultsUser105 and lix her.'
+p4526
+aS'Shaneeeeeeeee'
+p4527
+aS'last time i got naked sheep started running and killing 14 ppl'
+p4528
+aS'JOIN'
+p4529
+aS'.ACTION rolls 11-06-adultsUser99 over and lixxx her back.'
+p4530
+aS'hey 11-06-adultsUser107'
+p4531
+aS'No'
+p4532
+aS'hi 11-06-adultsUser107'
+p4533
+aS'.ACTION wants to see 11-06-adultsUser45 naked.'
+p4534
+aS'lol'
+p4535
+aS'i wanna piece a that'
+p4536
+aS'wOOt wOOt!!!'
+p4537
+aS'anyone wanna chat 33 m pic in profile'
+p4538
+aS'jw'
+p4539
+aS"She's smarter then me, 11-06-adultsUser19, lol"
+p4540
+aS'hey 11-06-adultsUser37'
+p4541
+aS'11-06-adultsUser42 my new phone bone buddyyyyyy'
+p4542
+aS'.ACTION is listening to .Dokken - In My Dreams. ...'
+p4543
+aS'lol'
+p4544
+aS'hi 11-06-adultsUser82'
+p4545
+aS'lol'
+p4546
+aS'wel lthen come fine me'
+p4547
+aS'.3(((((..6 11-06-adultsUser19 ..3)))))'
+p4548
+aS'alotta ppl are 11-06-adultsUser53 :P'
+p4549
+aS'hey wait a minute....'
+p4550
+aS'ck'
+p4551
+aS'Ack'
+p4552
+aS'did i lose 11-06-adultsUser19?'
+p4553
+aS'PART'
+p4554
+aS'j/p'
+p4555
+aS'LOL 11-06-adultsUser105.... wahoooooooo'
+p4556
+aS'JOIN'
+p4557
+aS'PART'
+p4558
+aS'Like 11-06-adultsUser107 over there... all she does is wack me'
+p4559
+aS'what is that saying abou tthe rest of us?'
+p4560
+aS'what is that saying abou tthe rest of us.'
+p4561
+aS'teehee'
+p4562
+aS'or hit me over the head'
+p4563
+aS'.3(((((..6 11-06-adultsUser105 ..3)))))'
+p4564
+aS'ha'
+p4565
+aS"I'm saying we're all fawked already"
+p4566
+aS'^_^'
+p4567
+aS'nope 11-06-adultsUser88'
+p4568
+aS'JOIN'
+p4569
+aS'LOL'
+p4570
+aS'<11-06-adultsUser53 your easy to beat up'
+p4571
+aS'true true'
+p4572
+aS'PART'
+p4573
+aS"yawn'"
+p4574
+aS'lol'
+p4575
+aS'.ACTION stays in the lost corner all quiet and stuff.'
+p4576
+aS"11-06-adultsUser42's voice is hawt mmmmm :-o"
+p4577
+aS'PART'
+p4578
+aS'JOIN'
+p4579
+aS'my comp is having issues'
+p4580
+aS'.ACTION waves to 11-06-adultsUser5.'
+p4581
+aS'damn'
+p4582
+aS'PART'
+p4583
+aS'JOIN'
+p4584
+aS'so 11-06-adultsUser88 - why no pic'
+p4585
+aS'.ACTION finds 11-06-adultsUser5 in the corner.'
+p4586
+aS'PART'
+p4587
+aS' :-) '
+p4588
+aS'.ACTION waves to 11-06-adultsUser105.'
+p4589
+aS'PART'
+p4590
+aS'where is the fun in that?'
+p4591
+aS'hi 11-06-adultsUser67'
+p4592
+aS'any cam?'
+p4593
+aS'hello is there anyone in the maryland area'
+p4594
+aS'i just got here'
+p4595
+aS'is the hearthechatters still up?'
+p4596
+aS'is the hearthechatters still up.'
+p4597
+aS'PART'
+p4598
+aS'no ads for cam'
+p4599
+aS'JOIN'
+p4600
+aS'JOIN'
+p4601
+aS'careful 11-06-adultsUser25 im nakey here in the corner'
+p4602
+aS'oh i see'
+p4603
+aS'PART'
+p4604
+aS'should be shells'
+p4605
+aS'11-06-adultsUser5 is nakey?!?! :-o'
+p4606
+aS'11-06-adultsUser5 is nakey.!.! :-o'
+p4607
+aS'where is everyone from?'
+p4608
+aS'i should put a new one up lol'
+p4609
+aS'so where is everyone from?'
+p4610
+aS'tennessee here'
+p4611
+aS'PART'
+p4612
+aS'maryland'
+p4613
+aS'pa here 11-06-adultsUser103'
+p4614
+aS'JOIN'
+p4615
+aS"LOL 11-06-adultsUser105 you ain't heard nothing yet:p"
+p4616
+aS'well e1 needed a laugh 11-06-adultsUser105........lol'
+p4617
+aS'well ya already said ya saw me nakey, so can we be nakey together?'
+p4618
+aS'well ya already said ya saw me nakey, so can we be nakey together.'
+p4619
+aS'Even you people that sit there and never say anything'
+p4620
+aS'.ACTION lost here.'
+p4621
+aS'Ohio'
+p4622
+aS'nj here 11-06-adultsUser35'
+p4623
+aS'Ooo promise 11-06-adultsUser42?!?!'
+p4624
+aS'Ooo promise 11-06-adultsUser42.!.!'
+p4625
+aS'sue......why not......lol'
+p4626
+aS'nakey?'
+p4627
+aS'lol 11-06-adultsUser5'
+p4628
+aS'lol'
+p4629
+aS'who says that?'
+p4630
+aS'lol'
+p4631
+aS'11-06-adultsUser105, 11-06-adultsUser42 tried to tell us she was innocent'
+p4632
+aS'promise?'
+p4633
+aS'where in ohio 11-06-adultsUser19?'
+p4634
+aS'where in ohio 11-06-adultsUser19.'
+p4635
+aS"I'm not easy to beat up.. you just have a wicked right hook, 11-06-adultsUser107"
+p4636
+aS'no cam?'
+p4637
+aS'innocent?'
+p4638
+aS'lol ok 11-06-adultsUser5'
+p4639
+aS'is there any single parents in herE?'
+p4640
+aS'is there any single parents in herE.'
+p4641
+aS'bwahahahahahahahahahaha'
+p4642
+aS'near Cleveland'
+p4643
+aS'i use to live there'
+p4644
+aS'.ACTION starting a chant:  o/~ Hail to the victors valiant, hail to the concrete heroes .. hail .. hail .. to Michigan the leaders and best! o/~.'
+p4645
+aS'.ACTION chokes.'
+p4646
+aS'no cam 11-06-adultsUser35'
+p4647
+aS'KoOL'
+p4648
+aS'JOIN'
+p4649
+aS'where you from?'
+p4650
+aS'lmao 11-06-adultsUser105'
+p4651
+aS"yeah i'm a single parent"
+p4652
+aS'LOL I am 11-06-adultsUser25'
+p4653
+aS"I'm from Earth"
+p4654
+aS'whats up'
+p4655
+aS'i live in san diego now'
+p4656
+aS"lmao im watching canada's worst drivers...its hilarious"
+p4657
+aS'hi 11-06-adultsUser112'
+p4658
+aS'<< single parent too ..'
+p4659
+aS'.ACTION looks at 11-06-adultsUser105.'
+p4660
+aS'11-06-adultsUser85 me too? '
+p4661
+aS"she's as innocent as I am virginal."
+p4662
+aS'11-06-adultsUser15'
+p4663
+aS'wha?'
+p4664
+aS'I could see 11-06-adultsUser107 on that show'
+p4665
+aS'Lol'
+p4666
+aS'lmao'
+p4667
+aS"don't expect me to lie! lol"
+p4668
+aS'lol 11-06-adultsUser105'
+p4669
+aS'im a single parent '
+p4670
+aS'PART'
+p4671
+aS'it can be rough'
+p4672
+aS'27 male maryland'
+p4673
+aS':O'
+p4674
+aS'<--- adjusts her halo'
+p4675
+aS'its very rough'
+p4676
+aS'11-06-adultsUser29!!! :-@ '
+p4677
+aS'.ACTION wants a lil grrl.'
+p4678
+aS'PART'
+p4679
+aS'11-06-adultsUser15'
+p4680
+aS'I watched a second or two of that show.. and I so pictured my mother on that'
+p4681
+aS'yeah it can be '
+p4682
+aS'lil ####'
+p4683
+aS'.ACTION sits in the innocent virginal corner all alone and by himself.'
+p4684
+aS'LMAO damn it 11-06-adultsUser105! '
+p4685
+aS'11-06-adultsUser64 are you male or female? I always wondered?'
+p4686
+aS'11-06-adultsUser64 are you male or female. I always wondered.'
+p4687
+aS'Im a single parent to..i seem to date boys and im the mama'
+p4688
+aS'11-06-adultsUser85 where are you from?'
+p4689
+aS'11-06-adultsUser85 where are you from.'
+p4690
+aS'11-06-adultsUser88 - did we lose ya?'
+p4691
+aS'11-06-adultsUser88 - did we lose ya.'
+p4692
+aS':-) hello all'
+p4693
+aS'.ACTION sits with 11-06-adultsUser5.'
+p4694
+aS'lmao 11-06-adultsUser42'
+p4695
+aS'girl lol'
+p4696
+aS'o.O'
+p4697
+aS'true'
+p4698
+aS'11-06-adultsUser107?'
+p4699
+aS'Ok 11-06-adultsUser64 lol'
+p4700
+aS"yup.  I got a 4 1/2 year old daughter.  she's my world .. "
+p4701
+aS'Hi 11-06-adultsUser19 '
+p4702
+aS'11-06-adultsUser58!'
+p4703
+aS'JOIN'
+p4704
+aS'<---11-06-adultsUser64'
+p4705
+aS'may i talk to you 11-06-adultsUser35?'
+p4706
+aS'may i talk to you 11-06-adultsUser35.'
+p4707
+aS'You make a good mother ^_^'
+p4708
+aS"how can ya be in the innocent corner alone if we're in the corner naked? lol"
+p4709
+aS"how can ya be in the innocent corner alone if we're in the corner naked. lol"
+p4710
+aS'Lets make babiess!!!'
+p4711
+aS'ok nice to meet you 11-06-adultsUser64'
+p4712
+aS'11-06-adultsUser107!!!!'
+p4713
+aS'PART'
+p4714
+aS'JOIN'
+p4715
+aS'(((((((((((( 11-06-adultsUser58 ))))))))))))) <3'
+p4716
+aS'PART'
+p4717
+aS'11-06-adultsUser1 male or female?'
+p4718
+aS'11-06-adultsUser1 male or female.'
+p4719
+aS'<---- 11-06-adultsUser105'
+p4720
+aS'lol'
+p4721
+aS'PART'
+p4722
+aS'hey wait until their teenagers'
+p4723
+aS'hi kit'
+p4724
+aS'awwwwwww thanks.... ya i know i would '
+p4725
+aS'[[[[[[[[[[[[[[[[[[ 11-06-adultsUser37 ]]]]]]]]]]]]]]]]]]]]]'
+p4726
+aS'11-06-adultsUser58'
+p4727
+aS'JOIN'
+p4728
+aS'<--not surprised lol'
+p4729
+aS'PART'
+p4730
+aS'.ACTION wonderin who 11-06-adultsUser105 is?  :) lol.'
+p4731
+aS'hi 11-06-adultsUser115'
+p4732
+aS".ACTION pinches 11-06-adultsUser53's bum."
+p4733
+aS'muahz hun ltnsea'
+p4734
+aS'11-06-adultsUser105!!'
+p4735
+aS'omg'
+p4736
+aS'dude'
+p4737
+aS'girl'
+p4738
+aS'I'
+p4739
+aS'11-06-adultsUser105'
+p4740
+aS'lmao'
+p4741
+aS'how are ya 11-06-adultsUser58?'
+p4742
+aS'PART'
+p4743
+aS'lol'
+p4744
+aS'JOIN'
+p4745
+aS'JOIN'
+p4746
+aS"how's you 11-06-adultsUser58"
+p4747
+aS'PART'
+p4748
+aS'grrr'
+p4749
+aS'wb 11-06-adultsUser19'
+p4750
+aS'JOIN'
+p4751
+aS"I'm ok .... been busy"
+p4752
+aS'eeekk..frozen screen!'
+p4753
+aS'PART'
+p4754
+aS'hmmmmmmmm thinks about this'
+p4755
+aS"lol 11-06-adultsUser64 ...you'd be surprised how many m/f questions I get in whisper :"
+p4756
+aS'my comp!!!'
+p4757
+aS'JOIN'
+p4758
+aS'grrr'
+p4759
+aS"I'd of wanted to pork 11-06-adultsUser105 if she always wasn't proked"
+p4760
+aS'ya me too... busy .. '
+p4761
+aS'=('
+p4762
+aS'hey 11-06-adultsUser82:)'
+p4763
+aS'11-06-adultsUser24 I DONT WHISPER'
+p4764
+aS'lmao 11-06-adultsUser53'
+p4765
+aS'JOIN'
+p4766
+aS'you can knock me up next time k?'
+p4767
+aS'hey 11-06-adultsUser115'
+p4768
+aS'anyone in or near maryland?'
+p4769
+aS'hey 11-06-adultsUser37'
+p4770
+aS'Ink even 11-06-adultsUser105'
+p4771
+aS'=('
+p4772
+aS'lol'
+p4773
+aS'hey kent whered u go'
+p4774
+aS'No!'
+p4775
+aS'prrty nic'
+p4776
+aS' :-) oi oi hiya all'
+p4777
+aS'I wanted to be the first popper'
+p4778
+aS'well I had no choice but to let the kid out!'
+p4779
+aS'11-06-adultsUser24 I do ;-)'
+p4780
+aS'but'
+p4781
+aS'noooooooooooooo'
+p4782
+aS'lmao 11-06-adultsUser53'
+p4783
+aS'ty :)'
+p4784
+aS'any ladies care to chat? hit 8 or im me thanks'
+p4785
+aS'any ladies care to chat. hit 8 or im me thanks'
+p4786
+aS'hmm - bored - gonna go look at profiles - anyone have one worth looking at?'
+p4787
+aS'hmm - bored - gonna go look at profiles - anyone have one worth looking at.'
+p4788
+aS'hey 11-06-adultsUser51'
+p4789
+aS"well I told you phone boning me once wouldn't do it!"
+p4790
+aS'urs is cute too :)'
+p4791
+aS'Can I just pop your ass?'
+p4792
+aS'aw thanksss'
+p4793
+aS'1cos age loc?'
+p4794
+aS'aTerry I DON WHISPre'
+p4795
+aS'11-06-adultsUser115 hello'
+p4796
+aS"yw's"
+p4797
+aS':-o'
+p4798
+aS'Lol'
+p4799
+aS'JOIN'
+p4800
+aS'.ACTION sings ass up face downnnnnn.'
+p4801
+aS'lol'
+p4802
+aS'hi 11-06-adultsUser51'
+p4803
+aS'PART'
+p4804
+aS'hi 11-06-adultsUser119'
+p4805
+aS' :-o  <-- the ready face'
+p4806
+aS'my hands are freeezinggggg'
+p4807
+aS'29/:-(/Oh'
+p4808
+aS'thats the way i like to'
+p4809
+aS'hey 11-06-adultsUser107???????'
+p4810
+aS'(*&(^'
+p4811
+aS'On your mark'
+p4812
+aS'Get set'
+p4813
+aS'11-06-adultsUser115 omg'
+p4814
+aS'11-06-adultsUser82 hello '
+p4815
+aS'get set!'
+p4816
+aS'PART'
+p4817
+aS'why a blue frown?'
+p4818
+aS'11-06-adultsUser105 omggg'
+p4819
+aS'11-06-adultsUser5?'
+p4820
+aS'Stick em if you got em!!!!!'
+p4821
+aS'lol'
+p4822
+aS'do you like to whisper...........lmao'
+p4823
+aS'*hands 11-06-adultsUser115 sum mittens*'
+p4824
+aS"LOL you don't know me do you?"
+p4825
+aS"<< can't wait for these elections to get over with ... sick of seeing them on tv"
+p4826
+aS'humm forgot i was here'
+p4827
+aS'lmao um i dotn thinkso'
+p4828
+aS'me too 11-06-adultsUser1'
+p4829
+aS'<---- 11-06-adultsUser105'
+p4830
+aS'27'
+p4831
+aS'gaspppp'
+p4832
+aS'LOL'
+p4833
+aS'newp i hate whispers'
+p4834
+aS'.ACTION sits back and watches.'
+p4835
+aS'coggieeee'
+p4836
+aS'11-06-adultsUser1 are you a voter?'
+p4837
+aS'11-06-adultsUser1 are you a voter.'
+p4838
+aS'JOIN'
+p4839
+aS' -( '
+p4840
+aS'i missedyouuu'
+p4841
+aS'yer in muh new room!!!'
+p4842
+aS'.ACTION hugs 11-06-adultsUser115.'
+p4843
+aS'JOIN'
+p4844
+aS'hugsss:)'
+p4845
+aS'gee i couldnt tell 11-06-adultsUser107'
+p4846
+aS'PART'
+p4847
+aS'11-06-adultsUser53.....no whispers'
+p4848
+aS'JOIN'
+p4849
+aS'This 11-06-adultsUser19 is sure trigger happy'
+p4850
+aS'JOIN'
+p4851
+aS'PART'
+p4852
+aS'Hi 11-06-adultsUser57 - where you from?'
+p4853
+aS'Hi 11-06-adultsUser57 - where you from.'
+p4854
+aS'still here 11-06-adultsUser35?'
+p4855
+aS'PART'
+p4856
+aS'Anyone wanna talk on the phone?'
+p4857
+aS'Anyone wanna talk on the phone.'
+p4858
+aS'ha ha ha very funny'
+p4859
+aS'JOIN'
+p4860
+aS'<< never does vote ... I know .. I know.. ya can slap me'
+p4861
+aS'heh'
+p4862
+aS"That'll show 11-06-adultsUser107"
+p4863
+aS"I don't know what my issue is tonight - or that of my comps"
+p4864
+aS'.ACTION is listening to .Eddie Money - Shakin. ...'
+p4865
+aS'JOIN'
+p4866
+aS"there ain't no goodlooking ones to even vote for"
+p4867
+aS'PART'
+p4868
+aS'Anyway'
+p4869
+aS'Ok i have someone in my whisper who is repeating themselvs... i think  his name is Raymond.....ya definately Raymond'
+p4870
+aS'hello from illinois'
+p4871
+aS'I want to ensure the rights of gays to have abortions'
+p4872
+aS'hi 11-06-adultsUser120'
+p4873
+aS'lol'
+p4874
+aS"okies I'm off"
+p4875
+aS'JOIN'
+p4876
+aS'*looks around*'
+p4877
+aS'*picks nose*'
+p4878
+aS'hi 11-06-adultsUser82'
+p4879
+aS".ACTION repeats moans in 11-06-adultsUser107's whisper."
+p4880
+aS'NIght 11-06-adultsUser53'
+p4881
+aS'*waves n stuff*'
+p4882
+aS'Laters all'
+p4883
+aS'11-06-adultsUser53 has a big nose'
+p4884
+aS'<<<<not raymond'
+p4885
+aS'gays needed to be abourted'
+p4886
+aS'tc 11-06-adultsUser53'
+p4887
+aS':11-06-adultsUser25!Sissy_76@Sissy_76 MODE #talkcity_adults +o 11-06-adultsUser25'
+p4888
+aS'(weird topic)'
+p4889
+aS'11-06-adultsUser112'
+p4890
+aS'PART'
+p4891
+aS'night 11-06-adultsUser53'
+p4892
+aS'hello'
+p4893
+aS':11-06-adultsUser25!Sissy_76@Sissy_76 MODE #talkcity_adults -o 11-06-adultsUser25'
+p4894
+aS'11-06-adultsUser17'
+p4895
+aS'PART'
+p4896
+aS'11-06-adultsUser25 getting all bossy again?'
+p4897
+aS'11-06-adultsUser25 getting all bossy again.'
+p4898
+aS'JOIN'
+p4899
+aS'JOIN'
+p4900
+aS'yea 11-06-adultsUser5'
+p4901
+aS'PART'
+p4902
+aS'PART'
+p4903
+aS'pmsl?'
+p4904
+aS'JOIN'
+p4905
+aS'PART'
+p4906
+aS'they pissed their pants laughin'
+p4907
+aS'PART'
+p4908
+aS'PART'
+p4909
+aS'JOIN'
+p4910
+aS'ohhh sorry'
+p4911
+aS'lol'
+p4912
+aS'PART'
+p4913
+aS'JOIN'
+p4914
+aS'JOIN'
+p4915
+aS'JOIN'
+p4916
+aS'.ACTION builds afire.'
+p4917
+aS'the few....the proud...the 11-06-adultsUser26'
+p4918
+aS'in out in out in out in out'
+p4919
+aS'JOIN'
+p4920
+aS'cuz im freeeezinggg'
+p4921
+aS'wb 11-06-adultsUser26'
+p4922
+aS'in 11-06-adultsUser26'
+p4923
+aS'PART'
+p4924
+aS'JOIN'
+p4925
+aS'PART'
+p4926
+aS'ty 11-06-adultsUser82'
+p4927
+aS'the few..the proud..the retarded'
+p4928
+aS'hi all'
+p4929
+aS'yw'
+p4930
+aS'.ACTION gives 11-06-adultsUser41 a gift!.'
+p4931
+aS'PART'
+p4932
+aS'.ACTION gives 11-06-adultsUser115 a blankie.'
+p4933
+aS'hey 11-06-adultsUser41'
+p4934
+aS'aw thanks11-06-adultsUser105:)'
+p4935
+aS'YaY!'
+p4936
+aS'11-06-adultsUser26!!!'
+p4937
+aS'o.O'
+p4938
+aS'PART'
+p4939
+aS'11-06-adultsUser60 <3333333333333333'
+p4940
+aS'the strange the weird and the driveby pmers'
+p4941
+aS'PART'
+p4942
+aS'PART'
+p4943
+aS'.ACTION pouts.'
+p4944
+aS'11-06-adultsUser105 <33333333333333333'
+p4945
+aS'the few the proud...the tongue oot'
+p4946
+aS'PART'
+p4947
+aS'lmao 11-06-adultsUser5 i hate u'
+p4948
+aS'this is a no pouting zone...all violators will be spanked'
+p4949
+aS'JOIN'
+p4950
+aS'haha'
+p4951
+aS'I am fulfilling in bed.'
+p4952
+aS':P'
+p4953
+aS'.ACTION curls up in my blankie.'
+p4954
+aS'hello 11-06-adultsUser103..when i didnt answer you in whisper that should have given you the hint'
+p4955
+aS'11-06-adultsUser69'
+p4956
+aS':( 11-06-adultsUser29 left me all maddish'
+p4957
+aS'PART'
+p4958
+aS'hi 11-06-adultsUser129'
+p4959
+aS'ok im sorry '
+p4960
+aS'JOIN'
+p4961
+aS'hi 11-06-adultsUser69'
+p4962
+aS'hmmm'
+p4963
+aS'Hi 11-06-adultsUser105'
+p4964
+aS'hello'
+p4965
+aS'im new here i wanted to see if it worked'
+p4966
+aS'lol @ someone actually taking a hint'
+p4967
+aS'11-06-adultsUser82'
+p4968
+aS'PART'
+p4969
+aS'JOIN'
+p4970
+aS'11-06-adultsUser69, marry me?'
+p4971
+aS'i apoligize'
+p4972
+aS'how are you 11-06-adultsUser129?'
+p4973
+aS'how are you 11-06-adultsUser129.'
+p4974
+aS'hi 11-06-adultsUser129'
+p4975
+aS'11-06-adultsUser60, sure.'
+p4976
+aS'im well ty'
+p4977
+aS'Ooo can I be the flower girl 11-06-adultsUser60?!?!?'
+p4978
+aS'Ooo can I be the flower girl 11-06-adultsUser60.!.!.'
+p4979
+aS'.ACTION kicks the hell outs the comp.'
+p4980
+aS'anyone in maryland?'
+p4981
+aS'hiii 11-06-adultsUser105 btw'
+p4982
+aS'hi 11-06-adultsUser128'
+p4983
+aS'JOIN'
+p4984
+aS'or at least the stripper at the bachelorette party?'
+p4985
+aS'11-06-adultsUser130'
+p4986
+aS'hey 11-06-adultsUser130'
+p4987
+aS'.ACTION just wansta get drunkat the receprion!!!.'
+p4988
+aS'oi oi oi'
+p4989
+aS'11-06-adultsUser105'
+p4990
+aS'hi 11-06-adultsUser82'
+p4991
+aS':)'
+p4992
+aS'sup'
+p4993
+aS'lol 11-06-adultsUser115'
+p4994
+aS'PART'
+p4995
+aS':)'
+p4996
+aS'JOIN'
+p4997
+aS"how's you 11-06-adultsUser130?"
+p4998
+aS'open bar!!!'
+p4999
+aS'eh good hows things 11-06-adultsUser105?'
+p5000
+aS'eh good hows things 11-06-adultsUser105.'
+p5001
+aS'busy busy but good'
+p5002
+aS'hello does anyone wanna chat?'
+p5003
+aS'quiet in here'
+p5004
+aS'JOIN'
+p5005
+aS'any lady like to talk'
+p5006
+aS'JOIN'
+p5007
+aS'11-06-adultsUser129...where you from?'
+p5008
+aS'11-06-adultsUser129...where you from.'
+p5009
+aS'PART'
+p5010
+aS'PART'
+p5011
+aS'busy busy is good good'
+p5012
+aS'lol quiet for all the people that are in here'
+p5013
+aS"It pisses me off, I can't find my cam so I can be entertaining"
+p5014
+aS'JOIN'
+p5015
+aS'ugh'
+p5016
+aS'PART'
+p5017
+aS'lmao 11-06-adultsUser69'
+p5018
+aS'(((( Paul ))))'
+p5019
+aS'PART'
+p5020
+aS'JOIN'
+p5021
+aS'wb 11-06-adultsUser37'
+p5022
+aS'lol 11-06-adultsUser69'
+p5023
+aS'PART'
+p5024
+aS'27 male maryland'
+p5025
+aS'PART'
+p5026
+aS'11-06-adultsUser69 too'
+p5027
+aS'JOIN'
+p5028
+aS'PART'
+p5029
+aS'JOIN'
+p5030
+aS'PART'
+p5031
+aS'(((((11-06-adultsUser25))))'
+p5032
+aS'PART'
+p5033
+aS'11-06-adultsUser69?'
+p5034
+aS'JOIN'
+p5035
+aS'.ACTION falls outa da attic.'
+p5036
+aS'PART'
+p5037
+aS'JOIN'
+p5038
+aS'11-06-adultsUser69 too'
+p5039
+aS':O'
+p5040
+aS"just send me those nekkies you have and I'll entertain myself 11-06-adultsUser69 :P"
+p5041
+aS'PART'
+p5042
+aS'PART'
+p5043
+aS'11-06-adultsUser105, as soon as you send me yours'
+p5044
+aS'PART'
+p5045
+aS'lol'
+p5046
+aS'lol'
+p5047
+aS"i'm outta here all"
+p5048
+aS'see ya'
+p5049
+aS'bye 11-06-adultsUser1'
+p5050
+aS'tc 11-06-adultsUser1'
+p5051
+aS'PART'
+p5052
+aS'tc 11-06-adultsUser1'
+p5053
+aS'buh bye'
+p5054
+aS'bye 11-06-adultsUser1 '
+p5055
+aS'PART'
+p5056
+aS'JOIN'
+p5057
+aS'.ACTION feels retahhhhded typing 11-06-adultsUser1.'
+p5058
+aS'JOIN'
+p5059
+aS'wb 11-06-adultsUser37'
+p5060
+aS'lol'
+p5061
+aS'29/m/nc anyone want to chat?'
+p5062
+aS'wb 11-06-adultsUser37'
+p5063
+aS'ty 11-06-adultsUser105'
+p5064
+aS'JOIN'
+p5065
+aS'ty 11-06-adultsUser25'
+p5066
+aS'hey wb 11-06-adultsUser37'
+p5067
+aS'PART'
+p5068
+aS'19 f ny'
+p5069
+aS'ty 11-06-adultsUser115'
+p5070
+aS'yw'
+p5071
+aS'yw'
+p5072
+aS'PART'
+p5073
+aS'JOIN'
+p5074
+aS'PART'
+p5075
+aS'.ACTION is eating her dinner then goin to bed so she can get up for work in the morning.'
+p5076
+aS"11-08-20sUser110, i'll stalk to ya soon also"
+p5077
+aS'have a good night'
+p5078
+aS'good u 11-08-20sUser52?'
+p5079
+aS'lmao 11-08-20sUser18'
+p5080
+aS'i got fired from dunkin donuts'
+p5081
+aS'me? a good nite? pssssh'
+p5082
+aS'JOIN'
+p5083
+aS'hello'
+p5084
+aS'.ACTION cries .'
+p5085
+aS'JOIN'
+p5086
+aS'lol'
+p5087
+aS'hello 11-08-20sUser121'
+p5088
+aS'that involves havin a good day. later'
+p5089
+aS'do it'
+p5090
+aS'PART'
+p5091
+aS'I just finished my shower '
+p5092
+aS'any ladies want chat/single/man/35/New York can pm me'
+p5093
+aS'JOIN'
+p5094
+aS'brb'
+p5095
+aS'JOIN'
+p5096
+aS'PART'
+p5097
+aS'hey 11-08-20sUser21 you cry baby'
+p5098
+aS'lol'
+p5099
+aS'PART'
+p5100
+aS'k nana'
+p5101
+aS'PART'
+p5102
+aS'PART'
+p5103
+aS'shut up yooou'
+p5104
+aS'JOIN'
+p5105
+aS'I am 29 From tonawanda ny '
+p5106
+aS'11-08-20sUser20'
+p5107
+aS'eat me'
+p5108
+aS'lol'
+p5109
+aS'JOIN'
+p5110
+aS'and a female '
+p5111
+aS'ello 11-08-20sUser121'
+p5112
+aS'i got fired from dunkin donuts'
+p5113
+aS'spread em'
+p5114
+aS'LOL'
+p5115
+aS'PART'
+p5116
+aS' :tongue: '
+p5117
+aS'nice'
+p5118
+aS'how are ya sweetie'
+p5119
+aS'muhaha'
+p5120
+aS'im well and yourself'
+p5121
+aS'hey 11-08-20sUser121'
+p5122
+aS'anyone want to pm me tonight '
+p5123
+aS'ima call you 11-08-20sUser121'
+p5124
+aS'JOIN'
+p5125
+aS'hi 11-08-20sUser21'
+p5126
+aS'11-08-20sUser91'
+p5127
+aS'JOIN'
+p5128
+aS'that is ok'
+p5129
+aS'any ladies wanna chat with a 21 year old virgin male'
+p5130
+aS'some call me 11-08-20sUser121'
+p5131
+aS'it better be'
+p5132
+aS'lol'
+p5133
+aS'i will call you 11-08-20sUser121@!'
+p5134
+aS'JOIN'
+p5135
+aS'PART'
+p5136
+aS'ok fine fine'
+p5137
+aS'without the @'
+p5138
+aS"yeah that's what im looking for a virgin ;-) "
+p5139
+aS'lol'
+p5140
+aS'11-08-20sUser21 i want a nick name too'
+p5141
+aS'JOIN'
+p5142
+aS'heyyyyy 11-08-20sUser54'
+p5143
+aS'back'
+p5144
+aS'lol'
+p5145
+aS'humm'
+p5146
+aS'PART'
+p5147
+aS'lol 11-08-20sUser90'
+p5148
+aS'PART'
+p5149
+aS':p'
+p5150
+aS'wb 11-08-20sUser110'
+p5151
+aS'11-08-20sUser20 ill call yoooou...........'
+p5152
+aS'fenks baby!'
+p5153
+aS'JOIN'
+p5154
+aS'hi 11-08-20sUser104'
+p5155
+aS'JOIN'
+p5156
+aS'PART'
+p5157
+aS'hello  room'
+p5158
+aS'hey'
+p5159
+aS'hi guys!'
+p5160
+aS'ya i donno'
+p5161
+aS' :-) '
+p5162
+aS'i am a virgin'
+p5163
+aS'PART'
+p5164
+aS'lol'
+p5165
+aS'JOIN'
+p5166
+aS'Hey 11-08-20sUser130'
+p5167
+aS'i cant think of anythin'
+p5168
+aS'tdr'
+p5169
+aS'lol'
+p5170
+aS'aww its ok'
+p5171
+aS'!td'
+p5172
+aS'lmaoo 11-08-20sUser54!!!'
+p5173
+aS'.411-08-20sUser121:. TRUTH!  if you had to kill one person, who would it be?'
+p5174
+aS'riiiiight!'
+p5175
+aS'PART'
+p5176
+aS'11-08-20sUser20?'
+p5177
+aS'JOIN'
+p5178
+aS'hi 11-08-20sUser40'
+p5179
+aS'lol'
+p5180
+aS'dude stop saying that'
+p5181
+aS'wanna fuck 11-08-20sUser104'
+p5182
+aS'too many names cant think lol'
+p5183
+aS'whats that'
+p5184
+aS'PART'
+p5185
+aS'11-08-20sUser20'
+p5186
+aS'Chris.. so I wouldnt love him anymore... :love:'
+p5187
+aS'11-08-20sUser20'
+p5188
+aS'i donno ok'
+p5189
+aS'la la la'
+p5190
+aS'nah'
+p5191
+aS'leave me alone!'
+p5192
+aS'fuck a virgin..hmmm'
+p5193
+aS'lol 11-08-20sUser110 youre crazy'
+p5194
+aS'just call me 11-08-20sUser20'
+p5195
+aS'lol'
+p5196
+aS'!hug 11-08-20sUser21'
+p5197
+aS'.ACTION watches 11-08-20sUser110 tell everyone in #talkcity-20s that they had a dream hugging 11-08-20sUser21 all night long...'
+p5198
+aS'lmao'
+p5199
+aS'yes I am'
+p5200
+aS'PART'
+p5201
+aS'lmao'
+p5202
+aS'JOIN'
+p5203
+aS'!hug 11-08-20sUser110'
+p5204
+aS'heheh'
+p5205
+aS'.ACTION watches as 11-08-20sUser21 runs over and hugs 11-08-20sUser110 so tightly that a roaring column of flame streaks out of the heavens... *WOW*.'
+p5206
+aS'PART'
+p5207
+aS'!seen 11-08-20sUser196'
+p5208
+aS'come on give me a chance 11-08-20sUser104'
+p5209
+aS'11-08-20sUser196 (11-08-20sUser196@11-08-20sUser196) Last seen: 47 minutes ago.'
+p5210
+aS'lol wha? you talkin bout me?'
+p5211
+aS'hello ladies'
+p5212
+aS'!hug baby boy'
+p5213
+aS'.ACTION watches 11-08-20sUser110 hug baby boy and cop a double feel...'
+p5214
+aS'11-08-20sUser104 kinda likes that idea'
+p5215
+aS'wussups'
+p5216
+aS'any ladies care to chat'
+p5217
+aS'!hug my sexy nana'
+p5218
+aS'.ACTION watches as 11-08-20sUser21 runs over and hugs my sexy nana so tightly that a roaring column of flame streaks out of the heavens... *WOW*.'
+p5219
+aS'heyyy'
+p5220
+aS'i mean.......sesky'
+p5221
+aS'oooOOOOoooo'
+p5222
+aS'JOIN'
+p5223
+aS'lol'
+p5224
+aS'lol@sesky'
+p5225
+aS' ;-) '
+p5226
+aS'lol'
+p5227
+aS'Im not stop it dont start'
+p5228
+aS"i was wondering that's all"
+p5229
+aS'lmao'
+p5230
+aS' :tongue: '
+p5231
+aS'hey (((((11-08-20sUser132)))))'
+p5232
+aS'awwwwwwwwww'
+p5233
+aS'AHAHH'
+p5234
+aS'JOIN'
+p5235
+aS"could well at least he'll remember his first fuck"
+p5236
+aS'lol'
+p5237
+aS'11-08-20sUser110'
+p5238
+aS'.ACTION sits in her corner reading her book.'
+p5239
+aS'JOIN'
+p5240
+aS'11-08-20sUser21'
+p5241
+aS"I'm there"
+p5242
+aS'Any Midwest Ladies Care To Chat'
+p5243
+aS'scream it biiiatch!!'
+p5244
+aS'ok'
+p5245
+aS'no one forgets that honey'
+p5246
+aS'LOUDER!'
+p5247
+aS'XXXXXXXXXX can I pm you'
+p5248
+aS'i got fired from dunkin donuts because i was jacking off in the kitchen'
+p5249
+aS'lmao 11-08-20sUser104!!!'
+p5250
+aS'lol'
+p5251
+aS'!spin'
+p5252
+aS'whats black and whitte and red all over?????'
+p5253
+aS'whats black and whitte and red all over.....'
+p5254
+aS',l'
+p5255
+aS'11-08-20sUser121 spins the bottle .....'
+p5256
+aS'Where it will point nobody knows ....'
+p5257
+aS'PART'
+p5258
+aS'Round and round it goes .....'
+p5259
+aS'PART'
+p5260
+aS'11-08-20sUser21'
+p5261
+aS'lmaoo'
+p5262
+aS'slowly comes to a stop... pointing at 11-08-20sUser106!!!'
+p5263
+aS'JOIN'
+p5264
+aS'Now 11-08-20sUser121 you must get on webcam for --> 11-08-20sUser106!!'
+p5265
+aS'an old lady whos been beaten up for her pension'
+p5266
+aS'.ACTION plays with his doodle rapidly.'
+p5267
+aS'newspaper'
+p5268
+aS'webcam.. woot woot'
+p5269
+aS'no ty'
+p5270
+aS'JOIN'
+p5271
+aS'OMG'
+p5272
+aS'11-08-20sUser21.. ewww'
+p5273
+aS'lol 11-08-20sUser21'
+p5274
+aS'stop'
+p5275
+aS'lmao'
+p5276
+aS'PART'
+p5277
+aS'heeheeheeheeheehee'
+p5278
+aS' :tongue: '
+p5279
+aS'hey 11-08-20sUser42!!!!!!'
+p5280
+aS'the tongue!!!'
+p5281
+aS'11-08-20sUser42!'
+p5282
+aS'!20'
+p5283
+aS'.Question:. Have you ever been skydiving? Yes or No?'
+p5284
+aS'my tounge!'
+p5285
+aS'whats pink, siver and red?'
+p5286
+aS'nope'
+p5287
+aS'!hug 11-08-20sUser110'
+p5288
+aS'no'
+p5289
+aS'.ACTION watches 11-08-20sUser42 give 11-08-20sUser110 a BIG hug and cop a feel!.'
+p5290
+aS'!td'
+p5291
+aS".411-08-20sUser91:. TRUTH! What's your worst fear?"
+p5292
+aS'PART'
+p5293
+aS'a baby with a razor blade'
+p5294
+aS'being alone'
+p5295
+aS'JOIN'
+p5296
+aS'11-08-20sUser104 wanna fuck a virgin'
+p5297
+aS'!hug 11-08-20sUser42'
+p5298
+aS'.ACTION watches 11-08-20sUser110 tell everyone in #talkcity-20s that they had a dream hugging 11-08-20sUser42 all night long...'
+p5299
+aS'geessh 11-08-20sUser54'
+p5300
+aS'JOIN'
+p5301
+aS'be .. dunno.. nicer'
+p5302
+aS'PART'
+p5303
+aS'JOIN'
+p5304
+aS"i'll pass "
+p5305
+aS"don't worry babe i'm not leaving you"
+p5306
+aS".ACTION jumps on 11-08-20sUser65's back."
+p5307
+aS'JOIN'
+p5308
+aS'HAHAHA'
+p5309
+aS'PART'
+p5310
+aS'awww 11-08-20sUser91'
+p5311
+aS'JOIN'
+p5312
+aS'Im always here!'
+p5313
+aS'piggy back!'
+p5314
+aS'PART'
+p5315
+aS'JOIN'
+p5316
+aS'.ACTION is still sleepy.'
+p5317
+aS'whats green and silver?'
+p5318
+aS'.ACTION dies.'
+p5319
+aS'I know 11-08-20sUser110 :-) cus your my wife'
+p5320
+aS'LOL'
+p5321
+aS'hey people'
+p5322
+aS'.ACTION cries.'
+p5323
+aS'same baby three monthes later'
+p5324
+aS'lol yes!!'
+p5325
+aS'sup room 20 m nc lookin for a lady freind'
+p5326
+aS'26/f/ny/arizona/single/white/non-smoker/38 B chest'
+p5327
+aS'dont cry baby.. why??'
+p5328
+aS'.ACTION givs 11-08-20sUser65 cpr.'
+p5329
+aS"who's your wife?"
+p5330
+aS'hahahahahaha'
+p5331
+aS'who?'
+p5332
+aS':-@'
+p5333
+aS'.ACTION falls.'
+p5334
+aS'haha'
+p5335
+aS'come on give a chance please'
+p5336
+aS'i killeded 11-08-20sUser65'
+p5337
+aS'PART'
+p5338
+aS'JOIN'
+p5339
+aS' :-( '
+p5340
+aS'what goes round and round and burns'
+p5341
+aS'11-08-20sUser110 is my wife 11-08-20sUser70'
+p5342
+aS'!seen 11-08-20sUser219'
+p5343
+aS'11-08-20sUser219 (11-08-20sUser219@11-08-20sUser219) Last seen: 23 hours, 33 minutes ago.'
+p5344
+aS'a baby in a microwave'
+p5345
+aS"i don't believe it"
+p5346
+aS'yes I am'
+p5347
+aS'hey room..anyone wanna chat>>>pm me'
+p5348
+aS'lol ask her'
+p5349
+aS'when did that happen?'
+p5350
+aS'see'
+p5351
+aS'dum dum du dummmm'
+p5352
+aS'pm me if u want to chat'
+p5353
+aS'lol'
+p5354
+aS'LOL'
+p5355
+aS'i need a e-husband.....lol'
+p5356
+aS'o ya'
+p5357
+aS'that is horrible 11-08-20sUser133'
+p5358
+aS' 11-08-20sUser65 is my wife'
+p5359
+aS'hohohohhohhoo'
+p5360
+aS'ha!'
+p5361
+aS'yes i am'
+p5362
+aS'umm what 1 month ago 11-08-20sUser110?'
+p5363
+aS'umm what 1 month ago 11-08-20sUser110.'
+p5364
+aS'really?'
+p5365
+aS'cool'
+p5366
+aS':-o'
+p5367
+aS'i agree wtf is they talking about'
+p5368
+aS'lol'
+p5369
+aS'lol'
+p5370
+aS'kawing i am 21 years old and still a virgin male wanna fuck'
+p5371
+aS'!seen agirl with a nice bust'
+p5372
+aS"I've never seen: agirl."
+p5373
+aS'you didnt invite me to the ewedding you fucks'
+p5374
+aS'PART'
+p5375
+aS'lol @ cool'
+p5376
+aS'lol'
+p5377
+aS'JOIN'
+p5378
+aS'what does the blind deaf retarded kid get for xmas?'
+p5379
+aS'what does the blind deaf retarded kid get for xmas.'
+p5380
+aS'PART'
+p5381
+aS'sweeeeeeeeet'
+p5382
+aS'i am not happy about that marriage though'
+p5383
+aS'JOIN'
+p5384
+aS'cancer'
+p5385
+aS'i dont need my wall no more'
+p5386
+aS'why not!!'
+p5387
+aS'sorry 11-08-20sUser70'
+p5388
+aS'am I not good enuf for 11-08-20sUser91??!?!??!'
+p5389
+aS'am I not good enuf for 11-08-20sUser91..!.!..!'
+p5390
+aS'haha nope you dont'
+p5391
+aS':-@'
+p5392
+aS'!roses wall'
+p5393
+aS'PART'
+p5394
+aS"I LoVe YoU .4@..3-,'~. wall .3~<-..4@. Love, 11-08-20sUser21 @-,'~"
+p5395
+aS'JOIN'
+p5396
+aS'lmao 11-08-20sUser21'
+p5397
+aS'oh hell yes you are'
+p5398
+aS'its been fun'
+p5399
+aS'some one kick him out'
+p5400
+aS'and then some'
+p5401
+aS'this is betrayal'
+p5402
+aS'((((((((((((((No more PmS ))))))))))))))))))))))))))))'
+p5403
+aS"i'm well funny"
+p5404
+aS'why?'
+p5405
+aS'your off your rag??'
+p5406
+aS'cause'
+p5407
+aS'i wont get married'
+p5408
+aS"if that's how they spell it"
+p5409
+aS'who, me?'
+p5410
+aS'yes you'
+p5411
+aS'no more pms?'
+p5412
+aS'11-08-20sUser121'
+p5413
+aS'any one got any better jokes?'
+p5414
+aS'yes'
+p5415
+aS'yes'
+p5416
+aS'lol'
+p5417
+aS'haha 11-08-20sUser21'
+p5418
+aS'11-08-20sUser70 why do you feel that way?'
+p5419
+aS'11-08-20sUser70 why do you feel that way.'
+p5420
+aS'come on then'
+p5421
+aS'you mean your cooter isnt leakin fruit punch?'
+p5422
+aS'you mean your cooter isnt leakin fruit punch.'
+p5423
+aS'wow.. LOL'
+p5424
+aS'i am a virgin that is a joke'
+p5425
+aS'!seen agurlwithbigguns'
+p5426
+aS'11-08-20sUser91 settle your love affairs hun!'
+p5427
+aS"I've never seen: agurlwithbigguns."
+p5428
+aS'ewwwwwww fruit punch'
+p5429
+aS'hahahaHA'
+p5430
+aS'lol'
+p5431
+aS'your profile pics, thats the joke'
+p5432
+aS'well i thought you and I will end up together  :-( '
+p5433
+aS'not that I was aware of'
+p5434
+aS'eww eeww eeewwwwww'
+p5435
+aS'HUH?'
+p5436
+aS'hi 11-08-20sUser121'
+p5437
+aS'mmmm'
+p5438
+aS'yum'
+p5439
+aS'hell'
+p5440
+aS"theminute i turn my back you're a lesbo????"
+p5441
+aS"theminute i turn my back you're a lesbo...."
+p5442
+aS'who ate all the pies, who ate all the pies'
+p5443
+aS'im thristy'
+p5444
+aS'oh boy'
+p5445
+aS'nasty'
+p5446
+aS'hello'
+p5447
+aS'LOL'
+p5448
+aS'i am shocked'
+p5449
+aS'how horrible'
+p5450
+aS"i'm outta here"
+p5451
+aS'what can I say I like pussy'
+p5452
+aS'i stuck my dick in a pie '
+p5453
+aS'haha'
+p5454
+aS'lmaooo 11-08-20sUser70!!!!!!!!!'
+p5455
+aS'nothing ever shocks me in this room'
+p5456
+aS'LOL'
+p5457
+aS'haha'
+p5458
+aS"damn that's fair enough"
+p5459
+aS'i cant get pussy'
+p5460
+aS'LOL'
+p5461
+aS'crazy stuff'
+p5462
+aS'a kid with downs syndrome walks up to an ice cream van.......'
+p5463
+aS'LOL 11-08-20sUser91.. ;)'
+p5464
+aS'11-08-20sUser65'
+p5465
+aS'lmaooo'
+p5466
+aS';-)'
+p5467
+aS'stop lyin doll'
+p5468
+aS'then buy one'
+p5469
+aS'yessum'
+p5470
+aS'YOu love my chocha'
+p5471
+aS'im thirsty go get me a beer'
+p5472
+aS'yeah i just found some superman stuff on myspace even'
+p5473
+aS'he orders an ice cream........'
+p5474
+aS'lol'
+p5475
+aS'i am broke'
+p5476
+aS'come on now guys'
+p5477
+aS'LOL'
+p5478
+aS'you can friend him, lex, and lois'
+p5479
+aS'!buy 11-08-20sUser54 a pussy'
+p5480
+aS'.ACTION gives 11-08-20sUser54 a a pussy, "Compliments of 11-08-20sUser121!".'
+p5481
+aS'cold Bud'
+p5482
+aS'21 F'
+p5483
+aS'.ACTION brings 11-08-20sUser21 a beer.'
+p5484
+aS'ok i forgive you 11-08-20sUser91'
+p5485
+aS'geesh there is enough lovin for us all'
+p5486
+aS"the ice cream guys says, 'what flavour??@"
+p5487
+aS'awww you actualy did'
+p5488
+aS'under one condition'
+p5489
+aS'im tryina get 11-08-20sUser110 11-08-20sUser54'
+p5490
+aS'lol'
+p5491
+aS'i was waitin for you to cuss me'
+p5492
+aS'lol'
+p5493
+aS'nope'
+p5494
+aS"the downs kid says, 'it don't matter cause i'm gonna drop it anyway'!"
+p5495
+aS'!smooch 11-08-20sUser65'
+p5496
+aS'i have my hand to satisfie me ok'
+p5497
+aS".ACTION walks up to 11-08-20sUser65, runs their fingers thru the back of 11-08-20sUser65's hair, closes their eyes, and gently kisses 11-08-20sUser65 on the neck, Compliments of 11-08-20sUser21!."
+p5498
+aS'.ACTION sits down to eat chococake.'
+p5499
+aS'.ACTION is going to get something to munch on.'
+p5500
+aS'me too 11-08-20sUser54'
+p5501
+aS'anyyyyyyyyyyyyyyyyy guys IN LATE 20S PM ME IF THERE A STALLION AND IF THEY CAN BE A GOOD BOY PM ME'
+p5502
+aS'why were you standing in the first place'
+p5503
+aS'!rape 11-08-20sUser21'
+p5504
+aS'11-08-20sUser114'
+p5505
+aS'fuckin bot'
+p5506
+aS'yes'
+p5507
+aS'raarrrrrr'
+p5508
+aS'lol'
+p5509
+aS'im listening to barbie girl'
+p5510
+aS'its the thought that counts 11-08-20sUser31'
+p5511
+aS'lol 11-08-20sUser65. '
+p5512
+aS'LMAO'
+p5513
+aS'awww thanks'
+p5514
+aS'o geez'
+p5515
+aS'DOWNS SYNDORME'
+p5516
+aS'hey 11-08-20sUser31!!!!!!!'
+p5517
+aS'hey 11-08-20sUser110 recovering well frm last night?'
+p5518
+aS'hey 11-08-20sUser110 recovering well frm last night.'
+p5519
+aS'11-08-20sUser69,'
+p5520
+aS'hey 11-08-20sUser31'
+p5521
+aS'shut up'
+p5522
+aS'jajajaaa'
+p5523
+aS'yes!'
+p5524
+aS'hey 11-08-20sUser91'
+p5525
+aS'you tart'
+p5526
+aS'lol'
+p5527
+aS'You dont like my bot 11-08-20sUser31?'
+p5528
+aS'You dont like my bot 11-08-20sUser31.'
+p5529
+aS'lol'
+p5530
+aS'hahaha'
+p5531
+aS'hgey doesnt fuck 11-08-20sUser69...'
+p5532
+aS'mwahhs 11-08-20sUser69'
+p5533
+aS'what happened last night?'
+p5534
+aS'11-08-20sUser69 I mean.. lol'
+p5535
+aS'he needs to do !hump'
+p5536
+aS'20 min to go'
+p5537
+aS'lol'
+p5538
+aS'11-08-20sUser69 is a gimp'
+p5539
+aS'yea.. and !sex'
+p5540
+aS'lol'
+p5541
+aS'!lick 11-08-20sUser65'
+p5542
+aS'youuu can touch you caan play'
+p5543
+aS'.ACTION watches 11-08-20sUser21 lick 11-08-20sUser65.... *drools*.'
+p5544
+aS'anything else 11-08-20sUser133'
+p5545
+aS' :-@  :beer: '
+p5546
+aS'no'
+p5547
+aS'good'
+p5548
+aS'me and 11-08-20sUser110 exchanged fliuds 11-08-20sUser70'
+p5549
+aS'bye'
+p5550
+aS'lol 11-08-20sUser65!!!!'
+p5551
+aS'11-08-20sUser54 what did you want'
+p5552
+aS'bye?'
+p5553
+aS'lovely'
+p5554
+aS'lol'
+p5555
+aS'lol love it 11-08-20sUser69'
+p5556
+aS'.ACTION remembers the days i used to call 11-08-20sUser65 11-08-20sUser65 11-08-20sUser65.'
+p5557
+aS'lmaooo 11-08-20sUser69!!!!!!!!!!!!!'
+p5558
+aS'yeah ifr im gimp, your banned'
+p5559
+aS'lmao'
+p5560
+aS'ahhhh memories'
+p5561
+aS'what a dumb nic 11-08-20sUser54'
+p5562
+aS'lol 11-08-20sUser21 '
+p5563
+aS'OMG'
+p5564
+aS'you act like were 80'
+p5565
+aS'lol'
+p5566
+aS'so bye'
+p5567
+aS'i appologise'
+p5568
+aS'PART'
+p5569
+aS'JOIN'
+p5570
+aS'well'
+p5571
+aS'omg'
+p5572
+aS'PART'
+p5573
+aS'PART'
+p5574
+aS'JOIN'
+p5575
+aS'JOIN'
+p5576
+aS'1 day we will be......'
+p5577
+aS'PART'
+p5578
+aS'awww sad'
+p5579
+aS'11-08-20sUser69 are you gonna make the bot ! hump?'
+p5580
+aS'11-08-20sUser69 are you gonna make the bot ! hump.'
+p5581
+aS'how are you feeling 11-08-20sUser69?'
+p5582
+aS'how are you feeling 11-08-20sUser69.'
+p5583
+aS'lol 11-08-20sUser69!!!!!!!!!!'
+p5584
+aS'JOIN'
+p5585
+aS'PART'
+p5586
+aS'PART'
+p5587
+aS'how are ya 11-08-20sUser31?'
+p5588
+aS'JOIN'
+p5589
+aS'hahaha...this room is goofy'
+p5590
+aS'good how are you'
+p5591
+aS'JOIN'
+p5592
+aS'Maybe 11-08-20sUser31'
+p5593
+aS'!hug 11-08-20sUser69..'
+p5594
+aS'.ACTION watches 11-08-20sUser110 try to hug 11-08-20sUser69..... but 11-08-20sUser69.. starts kissing 11-08-20sUser110 right away...'
+p5595
+aS'11-08-20sUser104'
+p5596
+aS'sweet '
+p5597
+aS'yeah 11-08-20sUser69 you have to make a !sex or at least !molest one'
+p5598
+aS'good'
+p5599
+aS'yeah'
+p5600
+aS"I'm alive 11-08-20sUser91"
+p5601
+aS'!hump 11-08-20sUser69'
+p5602
+aS'i guess'
+p5603
+aS'bye everyone!!!'
+p5604
+aS'your face is goofy'
+p5605
+aS'PART'
+p5606
+aS'JOIN'
+p5607
+aS'you never stay and chat 11-08-20sUser69'
+p5608
+aS'damn'
+p5609
+aS'lol'
+p5610
+aS'aww '
+p5611
+aS'looks for D :beer: '
+p5612
+aS'chatting sucks'
+p5613
+aS'11-08-20sUser69 usually lurks'
+p5614
+aS'if you didnt know yet'
+p5615
+aS'fenks 11-08-20sUser69!!'
+p5616
+aS':)'
+p5617
+aS';)'
+p5618
+aS'yw.'
+p5619
+aS'yes 11-08-20sUser69 i agree lets all just exchange fluids'
+p5620
+aS':)'
+p5621
+aS'yes I know'
+p5622
+aS'hmmm...cyber sex sucks'
+p5623
+aS'lol'
+p5624
+aS'!grope 11-08-20sUser31'
+p5625
+aS'.ACTION watches 11-08-20sUser21 grope 11-08-20sUser31.. mmmmm....'
+p5626
+aS'see.. he smiles'
+p5627
+aS'mwahhss'
+p5628
+aS'oh yeah'
+p5629
+aS'mmmmm thats the spot'
+p5630
+aS'where is elle?'
+p5631
+aS' :tongue: '
+p5632
+aS'11-08-20sUser21.. stick to at least 3 girls per day please'
+p5633
+aS'come on barbie lets go party'
+p5634
+aS'why is everyone askin me!!!'
+p5635
+aS'ok "exchange fluids" kinda like a car thing'
+p5636
+aS'PART'
+p5637
+aS'yada yada... yada..boring nd lame folks suck..lol'
+p5638
+aS'lol'
+p5639
+aS'lol. the tongue!!!'
+p5640
+aS'JOIN'
+p5641
+aS"i'm not exchanging fluids with no one"
+p5642
+aS'hahaaa'
+p5643
+aS'she is good on her elbows i miss her'
+p5644
+aS'11-08-20sUser65'
+p5645
+aS'hey babe'
+p5646
+aS'i havent seen u in ages'
+p5647
+aS'no one here is good enough for my superior fluids'
+p5648
+aS'Elle went out with her fruity friend to a bar'
+p5649
+aS'PART'
+p5650
+aS'JOIN'
+p5651
+aS'11-08-20sUser50'
+p5652
+aS'PART'
+p5653
+aS'how you been 11-08-20sUser50'
+p5654
+aS'and  is nd..lol'
+p5655
+aS'oh boy'
+p5656
+aS'stop shpwing me your nude pics'
+p5657
+aS'JOIN'
+p5658
+aS'yeah...he may have e-herpes'
+p5659
+aS'15 min to go'
+p5660
+aS'good good'
+p5661
+aS'lmao 11-08-20sUser21'
+p5662
+aS'i dont have nudes'
+p5663
+aS'you wish'
+p5664
+aS'hello'
+p5665
+aS'leave her alone'
+p5666
+aS"i'm sure there is a troll out there for you 11-08-20sUser21"
+p5667
+aS'hey 11-08-20sUser50 you whore whats up?'
+p5668
+aS'11-08-20sUser50!!'
+p5669
+aS'11-08-20sUser110 are you good on your elbows like elle?'
+p5670
+aS'11-08-20sUser110 are you good on your elbows like elle.'
+p5671
+aS'lol 11-08-20sUser91!!!'
+p5672
+aS'allo 11-08-20sUser91'
+p5673
+aS'lmaooooo'
+p5674
+aS'LOL'
+p5675
+aS'Troll??'
+p5676
+aS'yes!'
+p5677
+aS'elbows? its not knees anymore??'
+p5678
+aS'elbows. its not knees anymore..'
+p5679
+aS';)'
+p5680
+aS'hello hun'
+p5681
+aS'AHAHHA'
+p5682
+aS'stop it lol'
+p5683
+aS'11-08-20sUser91'
+p5684
+aS'what?'
+p5685
+aS'who'
+p5686
+aS'shit...im missing everything'
+p5687
+aS'and 11-08-20sUser31 is a good on her kneez.. i guess..lol'
+p5688
+aS'im a girl im if im on my kness she has to be on her elbows.. '
+p5689
+aS'.ACTION looks for some trout.'
+p5690
+aS'PART'
+p5691
+aS'yeah someone ugly enough for your fluids hahaha'
+p5692
+aS"ask 11-08-20sUser91.. she knows.. she's ma wife"
+p5693
+aS'lol'
+p5694
+aS'JOIN'
+p5695
+aS'elbowS??'
+p5696
+aS'uh o'
+p5697
+aS'yesh I am '
+p5698
+aS'ive never been on my elbows'
+p5699
+aS'any nice guyz wanna chat'
+p5700
+aS'on yer knees!'
+p5701
+aS'11-08-20sUser70 be nice to 11-08-20sUser21'
+p5702
+aS'lol 11-08-20sUser65'
+p5703
+aS'OK im really fuckin confused!!'
+p5704
+aS'any females want to chat? 25 m canada pm me'
+p5705
+aS'kneess... lol'
+p5706
+aS'i am 21 years old and still a virgin male do u wanna fuck  11-08-20sUser91'
+p5707
+aS'i am being nice'
+p5708
+aS'AHHAH 11-08-20sUser21'
+p5709
+aS'lmao im serious when did you start using elbows?'
+p5710
+aS'lmao im serious when did you start using elbows.'
+p5711
+aS"11-08-20sUser104..like a clue..u miss'n alot of that..lol"
+p5712
+aS'PART'
+p5713
+aS'lol'
+p5714
+aS'lol 11-08-20sUser54'
+p5715
+aS'damn wind - we must have a cyclone coming or something'
+p5716
+aS'JOIN'
+p5717
+aS'poor doll'
+p5718
+aS'LOL'
+p5719
+aS'21 and a virgin. thats sad'
+p5720
+aS'no'
+p5721
+aS'go boy'
+p5722
+aS'no Reub.. for real'
+p5723
+aS'wtf is this talk about elbows & knees!???'
+p5724
+aS'wtf is this talk about elbows & knees!...'
+p5725
+aS'i just want to be included'
+p5726
+aS'hahaha'
+p5727
+aS'lol'
+p5728
+aS'im so lost'
+p5729
+aS'thats good to be a virgin'
+p5730
+aS"who's a virgin?"
+p5731
+aS'possibly'
+p5732
+aS'there is a 3 people involved here 11-08-20sUser65.. let me help you .. 11-08-20sUser21 is standing im on my knees and 11-08-20sUser110 or elle is on elbows???? get it'
+p5733
+aS'Not to worry ladies, I have arrived.'
+p5734
+aS'OMG I am not sure how to react its so pathetic'
+p5735
+aS'me'
+p5736
+aS'not enough rain for it though'
+p5737
+aS'the girls here are on heat man'
+p5738
+aS'im a virgin'
+p5739
+aS'I am laughing so hard'
+p5740
+aS'elbows??'
+p5741
+aS'but winds seem to be hitting about 50-60kmph'
+p5742
+aS'11-08-20sUser114..the pope..is ..lol'
+p5743
+aS'i have never used elbows'
+p5744
+aS'im standin where?'
+p5745
+aS'riiiight 11-08-20sUser31'
+p5746
+aS'who'
+p5747
+aS'PART'
+p5748
+aS'in mass orgies they dont even use elbows i swear'
+p5749
+aS'.ACTION is a virgin.'
+p5750
+aS'lol'
+p5751
+aS'brb'
+p5752
+aS'wtf is goin on!!!'
+p5753
+aS'nm'
+p5754
+aS'11-08-20sUser91 give me a chance'
+p5755
+aS'ima cry'
+p5756
+aS'11-08-20sUser50 is needy today'
+p5757
+aS'lol'
+p5758
+aS'i swear to god ima cry'
+p5759
+aS'dont cry babe'
+p5760
+aS"i'm a born again virgin"
+p5761
+aS'carpet burns'
+p5762
+aS'you cant dis a tryer'
+p5763
+aS'will you fuck me if i cry?'
+p5764
+aS'no im just bored u whore'
+p5765
+aS'truss me'
+p5766
+aS'lol guess i need to keep up with the new techniques of elbows'
+p5767
+aS'hmm maybe'
+p5768
+aS'hey 11-08-20sUser50'
+p5769
+aS'aw'
+p5770
+aS'shut up bitch'
+p5771
+aS'JOIN'
+p5772
+aS'o shit'
+p5773
+aS'Ummm 11-08-20sUser54 cut off your balls and swallow mmmkay and please choke if that does not kill you just drink some bleach you will go fast I promise'
+p5774
+aS'hey 11-08-20sUser104'
+p5775
+aS'!whip 11-08-20sUser50'
+p5776
+aS'heyyyy 11-08-20sUser110'
+p5777
+aS'11-08-20sUser110??'
+p5778
+aS'PART'
+p5779
+aS'lol'
+p5780
+aS'i dont know if its a technique but it sounded ok in my head'
+p5781
+aS'whos talkin shit to u'
+p5782
+aS'JOIN'
+p5783
+aS'LMAO 11-08-20sUser91'
+p5784
+aS'.ACTION dances naked.'
+p5785
+aS'LOL'
+p5786
+aS'hey 11-08-20sUser104'
+p5787
+aS'hi everyone'
+p5788
+aS'PART'
+p5789
+aS'yo 11-08-20sUser104 bend over id show ya how virgin i am ..lol'
+p5790
+aS'yeah baby???'
+p5791
+aS'11-08-20sUser91 i never had a girlfriend'
+p5792
+aS'yess'
+p5793
+aS'lol no one'
+p5794
+aS'hiya barbie hi ken!'
+p5795
+aS'I do not care'
+p5796
+aS'lol11-08-40sUser2'
+p5797
+aS"me too 11-08-40sUser7....let's find someone else to pick on...lol"
+p5798
+aS'hi 11-08-40sUser5'
+p5799
+aS'JOIN'
+p5800
+aS'PART'
+p5801
+aS'hi 11-08-40sUser5'
+p5802
+aS'hi 11-08-40sUser29'
+p5803
+aS'hey 11-08-40sUser29'
+p5804
+aS'hi 11-08-40sUser29'
+p5805
+aS'JOIN'
+p5806
+aS'hello 11-08-40sUser7 and 11-08-40sUser19'
+p5807
+aS'hi 11-08-40sUser16'
+p5808
+aS'hi 11-08-40sUser30'
+p5809
+aS'hi 11-08-40sUser30'
+p5810
+aS'hi 11-08-40sUser24'
+p5811
+aS'JOIN'
+p5812
+aS'i think 11-08-40sUser29 wants us too 11-08-40sUser7...lol'
+p5813
+aS'JOIN'
+p5814
+aS'(((((11-08-40sUser19))))'
+p5815
+aS'hi 11-08-40sUser31'
+p5816
+aS'hi 11-08-40sUser31'
+p5817
+aS'Ahhhh ! Just what I like !...lotsa folks I dont know !'
+p5818
+aS'hi 11-08-40sUser32'
+p5819
+aS'hi 11-08-40sUser7'
+p5820
+aS'hi 11-08-40sUser32'
+p5821
+aS'hi 11-08-40sUser24'
+p5822
+aS'11-08-40sUser29 ha?'
+p5823
+aS'it was the first time in my life I had played the game, I was getting killed, I had to do something'
+p5824
+aS'wants you to what'
+p5825
+aS'hi there 11-08-40sUser7'
+p5826
+aS'JOIN'
+p5827
+aS'hi 11-08-40sUser33'
+p5828
+aS'Hummmm...'
+p5829
+aS'hi 11-08-40sUser33'
+p5830
+aS'hey...11-08-40sUser7....i think 11-08-40sUser18 wants us too....'
+p5831
+aS'PART'
+p5832
+aS'hi 11-08-40sUser24'
+p5833
+aS'hi room '
+p5834
+aS'wow a duet we can pick on...sounds fun'
+p5835
+aS'hi 11-08-40sUser7'
+p5836
+aS'hello hottie 11-08-40sUser18'
+p5837
+aS'Gosh !! I swear ! I dunno anyone !'
+p5838
+aS'hi 11-08-40sUser20 '
+p5839
+aS'<grins'
+p5840
+aS'hell ya....11-08-40sUser7'
+p5841
+aS'hi 11-08-40sUser30'
+p5842
+aS'bbiam'
+p5843
+aS'11-08-40sUser24,,,,"whatca talkin bout willis"'
+p5844
+aS'PART'
+p5845
+aS'hi 11-08-40sUser30 nice to meet you'
+p5846
+aS'lol...11-08-40sUser18'
+p5847
+aS'ahhh.11-08-40sUser20 ! <<<<,smiles'
+p5848
+aS'lol '
+p5849
+aS'JOIN'
+p5850
+aS'hi 11-08-40sUser30'
+p5851
+aS'Hello 11-08-40sUser7'
+p5852
+aS'hi 11-08-40sUser30'
+p5853
+aS'11-08-40sUser30'
+p5854
+aS'Hey 11-08-40sUser33'
+p5855
+aS"wb 11-08-40sUser2's"
+p5856
+aS'JOIN'
+p5857
+aS"i need to perv there pro's first 11-08-40sUser24, give me something to go on"
+p5858
+aS'11-08-40sUser32 !!'
+p5859
+aS'hi'
+p5860
+aS'hey wuts up in here tonite ?'
+p5861
+aS'ty 11-08-40sUser18!'
+p5862
+aS'yw!'
+p5863
+aS'Man ! '
+p5864
+aS'i know 11-08-40sUser7....'
+p5865
+aS'wb 11-08-40sUser2 ,, 11-08-40sUser34'
+p5866
+aS':)'
+p5867
+aS"can't help u there...lol"
+p5868
+aS'PART'
+p5869
+aS'nothing i understand so i guess since i am stupid i will go'
+p5870
+aS'ty 11-08-40sUser20'
+p5871
+aS'where r u 11-08-40sUser30? '
+p5872
+aS'<,thinks she d better "perv" profiles.....LOL'
+p5873
+aS'ty'
+p5874
+aS'anyone else please with the results today?'
+p5875
+aS'anyone else please with the results today.'
+p5876
+aS'bye 11-08-40sUser29 :( '
+p5877
+aS'no 11-08-40sUser18...'
+p5878
+aS'Upstate NY 11-08-40sUser32'
+p5879
+aS'upstate ny?'
+p5880
+aS'how did it ever get called "perving" anyway?'
+p5881
+aS'how did it ever get called "perving" anyway.'
+p5882
+aS'ya 11-08-40sUser33 a little frustrating eh?'
+p5883
+aS'ya 11-08-40sUser33 a little frustrating eh.'
+p5884
+aS'yup 11-08-40sUser7'
+p5885
+aS'where?'
+p5886
+aS'pervert 11-08-40sUser2...'
+p5887
+aS'.ACTION has a naked profile ,,, oh wait i filled it out now.'
+p5888
+aS'LOL.I dunno 8.Ima goin wid the flow....lmao'
+p5889
+aS'JOIN'
+p5890
+aS'PART'
+p5891
+aS'i 11-08-40sUser35'
+p5892
+aS'hi 11-08-40sUser35'
+p5893
+aS'you know its been a great year here, first the Cardnials win the World Series, and then ..........well last night'
+p5894
+aS"i know but what's perverted about reading profiles?"
+p5895
+aS"i know but what's perverted about reading profiles."
+p5896
+aS'west of Albany'
+p5897
+aS'can i do  a  quiz'
+p5898
+aS'what happened 11-08-40sUser18?'
+p5899
+aS'PART'
+p5900
+aS"kewl, i'm in saratoga"
+p5901
+aS'JOIN'
+p5902
+aS'ahhh.just havin a lil fun 11-08-40sUser2............smiles'
+p5903
+aS'hi 11-08-40sUser35'
+p5904
+aS'there was an election 11-08-40sUser2'
+p5905
+aS'PART'
+p5906
+aS'brb'
+p5907
+aS'JOIN'
+p5908
+aS'wut 11-08-40sUser29? '
+p5909
+aS'cool 11-08-40sUser7 !!!!!'
+p5910
+aS'ok 11-08-40sUser18...on to next subject...lol'
+p5911
+aS'lol thanks 11-08-40sUser18. '
+p5912
+aS'JOIN'
+p5913
+aS'PART'
+p5914
+aS'hi 11-08-40sUser36'
+p5915
+aS'hi 11-08-40sUser36'
+p5916
+aS'hey 11-08-40sUser36'
+p5917
+aS'JOIN'
+p5918
+aS'JOIN'
+p5919
+aS'hey 11-08-40sUser37'
+p5920
+aS':-) hi'
+p5921
+aS'lol, sorry 11-08-40sUser24'
+p5922
+aS'hi 11-08-40sUser37'
+p5923
+aS'hi 11-08-40sUser37'
+p5924
+aS'PART'
+p5925
+aS'wb 11-08-40sUser35'
+p5926
+aS'JOIN'
+p5927
+aS'PART'
+p5928
+aS'<<<<<<,sighs'
+p5929
+aS'hi guys'
+p5930
+aS'JOIN'
+p5931
+aS'hi 11-08-40sUser20, 11-08-40sUser19, 11-08-40sUser18'
+p5932
+aS'hi 11-08-40sUser37 '
+p5933
+aS'hi 11-08-40sUser38'
+p5934
+aS'hi'
+p5935
+aS'wb 11-08-40sUser35...'
+p5936
+aS'hi 11-08-40sUser35 '
+p5937
+aS'PART'
+p5938
+aS'hi 11-08-40sUser24'
+p5939
+aS'hey 11-08-40sUser36'
+p5940
+aS'hih 11-08-40sUser24 too '
+p5941
+aS'what was  alcopones nick name'
+p5942
+aS'PART'
+p5943
+aS'al maybe  lol '
+p5944
+aS'PART'
+p5945
+aS'JOIN'
+p5946
+aS'PART'
+p5947
+aS'who cares 11-08-40sUser34?'
+p5948
+aS'hi 11-08-40sUser39'
+p5949
+aS'hi ya'
+p5950
+aS'11-08-40sUser2 leave??'
+p5951
+aS'i like to do quizes ok'
+p5952
+aS'sometimes'
+p5953
+aS'PART'
+p5954
+aS'j/k 11-08-40sUser34....'
+p5955
+aS'JOIN'
+p5956
+aS'what was his nicname 11-08-40sUser34?'
+p5957
+aS'what was his nicname 11-08-40sUser34.'
+p5958
+aS'dont see her 11-08-40sUser30'
+p5959
+aS'wb 11-08-40sUser35'
+p5960
+aS'yall.....11-08-40sUser2 leave???'
+p5961
+aS'PART'
+p5962
+aS'scar face'
+p5963
+aS'JOIN'
+p5964
+aS'JOIN'
+p5965
+aS'ahhh ty 11-08-40sUser18'
+p5966
+aS'hi 11-08-40sUser40'
+p5967
+aS'JOIN'
+p5968
+aS'hi 11-08-40sUser41'
+p5969
+aS'JOIN'
+p5970
+aS'hi 11-08-40sUser23'
+p5971
+aS'hi 11-08-40sUser24'
+p5972
+aS'wb 11-08-40sUser23'
+p5973
+aS'<<<<<<<,goes back to pervin profilrs'
+p5974
+aS'she has always been so nice to me, hate to see her run off'
+p5975
+aS'profiles'
+p5976
+aS'lol'
+p5977
+aS'hi'
+p5978
+aS'JOIN'
+p5979
+aS'who ran off?'
+p5980
+aS'hi 11-08-40sUser42'
+p5981
+aS"11-08-40sUser2's 11-08-40sUser24"
+p5982
+aS'PART'
+p5983
+aS'JOIN'
+p5984
+aS'PART'
+p5985
+aS'PART'
+p5986
+aS'so whats happening'
+p5987
+aS'JOIN'
+p5988
+aS'hi 11-08-40sUser44'
+p5989
+aS'PART'
+p5990
+aS'PART'
+p5991
+aS'JOIN'
+p5992
+aS'wb 11-08-40sUser25'
+p5993
+aS'PART'
+p5994
+aS'hands 11-08-40sUser25 back the pillow'
+p5995
+aS'JOIN'
+p5996
+aS'ty.....clicked the  wrong button.....'
+p5997
+aS'11-08-40sUser24 what was the name of lincolns famous speech '
+p5998
+aS'lol...ty  11-08-40sUser19'
+p5999
+aS'ok,,doggies are all set now'
+p6000
+aS'PART'
+p6001
+aS'hi 11-08-40sUser25'
+p6002
+aS'PART'
+p6003
+aS'11-08-40sUser25 the red X is bad..say far far away.........lol'
+p6004
+aS'hey 11-08-40sUser0....no wine tonight???lol'
+p6005
+aS'hey 11-08-40sUser0....no wine tonight...lol'
+p6006
+aS'well off to porn sites for release of life'
+p6007
+aS'lol...i know  11-08-40sUser19.....the dreaded red x'
+p6008
+aS'well enjoy then 11-08-40sUser38'
+p6009
+aS'no wine 11-08-40sUser7 lol'
+p6010
+aS'lol'
+p6011
+aS'11-08-40sUser36 hugsss'
+p6012
+aS'gettysburg address?'
+p6013
+aS'PART'
+p6014
+aS'well, i have a headach anyway'
+p6015
+aS'thanks 11-08-40sUser7 i will at least twice tonight'
+p6016
+aS'11-08-40sUser25!!   lol'
+p6017
+aS'the gettysburg address'
+p6018
+aS'Hay Girl !'
+p6019
+aS'lol 11-08-40sUser38'
+p6020
+aS'heyyyyy 11-08-40sUser30'
+p6021
+aS'JOIN'
+p6022
+aS'wb 11-08-40sUser45'
+p6023
+aS'i never lie 11-08-40sUser7'
+p6024
+aS'<<<<<,,,smiles'
+p6025
+aS'hello all..'
+p6026
+aS'JOIN'
+p6027
+aS'hi 11-08-40sUser46'
+p6028
+aS'JOIN'
+p6029
+aS'brb'
+p6030
+aS'hi 11-08-40sUser7'
+p6031
+aS'pleaseeeee 11-08-40sUser38'
+p6032
+aS'PART'
+p6033
+aS'howdy 11-08-40sUser46'
+p6034
+aS'11-08-40sUser40 muahsssssssssssssssssss'
+p6035
+aS'hi 11-08-40sUser18 theere'
+p6036
+aS'hi 11-08-40sUser45'
+p6037
+aS'hi 11-08-40sUser47'
+p6038
+aS'hi 11-08-40sUser46'
+p6039
+aS'hi 11-08-40sUser24'
+p6040
+aS'hi 11-08-40sUser47'
+p6041
+aS'hiya 11-08-40sUser7..how are u'
+p6042
+aS'PART'
+p6043
+aS'PART'
+p6044
+aS'JOIN'
+p6045
+aS'hiya 11-08-40sUser24,,how are u doing'
+p6046
+aS'11-08-40sUser48....hugs hun'
+p6047
+aS'(((((((((((((((hey yall)))))))))))))'
+p6048
+aS'JOIN'
+p6049
+aS' (((((((((((((11-08-40sUser7)))))))))'
+p6050
+aS'good u 11-08-40sUser47'
+p6051
+aS'hi 11-08-40sUser49'
+p6052
+aS'JOIN'
+p6053
+aS'hi 11-08-40sUser49'
+p6054
+aS'JOIN'
+p6055
+aS' (((((((((((11-08-40sUser24)))))))))'
+p6056
+aS'he 11-08-40sUser50, 11-08-40sUser40'
+p6057
+aS'hi 11-08-40sUser50'
+p6058
+aS'wb 11-08-40sUser40'
+p6059
+aS'hey'
+p6060
+aS'hi  11-08-40sUser40 muahssssssssssssssss baby'
+p6061
+aS'Hiya 11-08-40sUser46'
+p6062
+aS'hi 11-08-40sUser47'
+p6063
+aS'PART'
+p6064
+aS'11-08-40sUser24 i just remember, danny left to recieve his email...boy must of been a good one'
+p6065
+aS'is AFK fer a few'
+p6066
+aS'hiya 11-08-40sUser22'
+p6067
+aS'how have u been doing 11-08-40sUser46'
+p6068
+aS'.ACTION waits paitently for the topic to turn to boobs.'
+p6069
+aS'JOIN'
+p6070
+aS'.ACTION smack 11-08-40sUser18.'
+p6071
+aS'makes ya wonder hu 11-08-40sUser7'
+p6072
+aS'lol 11-08-40sUser6'
+p6073
+aS'hiya'
+p6074
+aS'.ACTION sighs at pm.....shakes head....'
+p6075
+aS'yes it does'
+p6076
+aS'11-08-40sUser51 get a life'
+p6077
+aS' hands 11-08-40sUser18 a pr of pasties..... there party with your own 11-08-40sUser18 LOL'
+p6078
+aS'lol  ty 11-08-40sUser6'
+p6079
+aS'tabasco hot sauce was made in la right 11-08-40sUser48'
+p6080
+aS'oh...ok 11-08-40sUser7'
+p6081
+aS'whhhooooo ridem 11-08-40sUser48 !!!'
+p6082
+aS'yw'
+p6083
+aS'lol we all the same pm'
+p6084
+aS'lol 11-08-40sUser48'
+p6085
+aS'some guys prono=pming the ladies'
+p6086
+aS' ((((((((((((((((((((((((11-08-40sUser20))))))))))))))))) I think you must have a bed roll in da corner?'
+p6087
+aS' ((((((((((((((((((((((((11-08-40sUser20))))))))))))))))) I think you must have a bed roll in da corner.'
+p6088
+aS'i think so 11-08-40sUser23'
+p6089
+aS'got^^'
+p6090
+aS'JOIN'
+p6091
+aS'are you kiddin me, if had a pair of my own, like anyone here would even know me'
+p6092
+aS'hi 11-08-40sUser52'
+p6093
+aS'PART'
+p6094
+aS'PART'
+p6095
+aS'lol 11-08-40sUser48'
+p6096
+aS' shrugs 11-08-40sUser18..... hehe'
+p6097
+aS'Howdy 11-08-40sUser7.....'
+p6098
+aS'you ring 11-08-40sUser52'
+p6099
+aS"i'm getting him banned"
+p6100
+aS'ty 11-08-40sUser36'
+p6101
+aS'wow mercy mercy me....things aint what they used to be....hmm hmm hmm'
+p6102
+aS'ok who sang that?'
+p6103
+aS' ;-) anything for u 11-08-40sUser6'
+p6104
+aS'lol'
+p6105
+aS'11-08-40sUser34 .... It\'s "Rang" .....'
+p6106
+aS' dont know'
+p6107
+aS'< some guy'
+p6108
+aS'robert palmer right???anyone???? never mind...hm hmm '
+p6109
+aS'robert palmer right...anyone.... never mind...hm hmm '
+p6110
+aS'that was that guy Marvin Gay'
+p6111
+aS'11-08-40sUser20.......'
+p6112
+aS'that hall oates guy?'
+p6113
+aS' hows ya doing?'
+p6114
+aS'was it 11-08-40sUser18?'
+p6115
+aS'PART'
+p6116
+aS'PART'
+p6117
+aS'YES'
+p6118
+aS'hall and oates?'
+p6119
+aS"when somebody rang the door bell on the show the adams family lurch would say ''you ring"
+p6120
+aS'PART'
+p6121
+aS'JOIN'
+p6122
+aS'JOIN'
+p6123
+aS'livin lol nu >?'
+p6124
+aS'Marvin'
+p6125
+aS'hi 11-08-40sUser53, 11-08-40sUser54'
+p6126
+aS' better than Living.... hehe TY'
+p6127
+aS'hi 11-08-40sUser53'
+p6128
+aS' but missin da dawg'
+p6129
+aS'hi 11-08-40sUser54'
+p6130
+aS'Memory different than mine......'
+p6131
+aS'shoot- up early tomorrow- nite much love'
+p6132
+aS'nite 11-08-40sUser36'
+p6133
+aS' K 11-08-40sUser36'
+p6134
+aS'JOIN'
+p6135
+aS' hugzzzzzzz'
+p6136
+aS'PART'
+p6137
+aS'h 11-08-40sUser55'
+p6138
+aS'hi 11-08-40sUser7'
+p6139
+aS'PART'
+p6140
+aS'JOIN'
+p6141
+aS'PART'
+p6142
+aS'hi 11-08-40sUser56'
+p6143
+aS'JOIN'
+p6144
+aS'florida'
+p6145
+aS'hi 11-08-40sUser57'
+p6146
+aS'I cant play scrabble worth a crap, but I rule at name that tune'
+p6147
+aS'PART'
+p6148
+aS'hi'
+p6149
+aS'PART'
+p6150
+aS'in how many notes 11-08-40sUser18?'
+p6151
+aS'in how many notes 11-08-40sUser18.'
+p6152
+aS'hi 11-08-40sUser56'
+p6153
+aS'lol'
+p6154
+aS'hi 11-08-40sUser57'
+p6155
+aS'3 11-08-40sUser7'
+p6156
+aS'lol'
+p6157
+aS'JOIN'
+p6158
+aS'ok 11-08-40sUser18 . la la la....name that tune'
+p6159
+aS'PART'
+p6160
+aS'hi 11-08-40sUser58'
+p6161
+aS'lol...'
+p6162
+aS'all you need is love,,,, the beatles'
+p6163
+aS'11-08-40sUser58 got stuck in the door & it threw her back out'
+p6164
+aS'lol i thought you were good 11-08-40sUser18'
+p6165
+aS' Ohh I remember hearing that one 11-08-40sUser18'
+p6166
+aS'who sing the song  purple haze'
+p6167
+aS'jimmy hendrix'
+p6168
+aS'right'
+p6169
+aS'who sings bye bye boyfriend?'
+p6170
+aS'JOIN'
+p6171
+aS'hi 11-08-40sUser59'
+p6172
+aS'lol'
+p6173
+aS'my grilfriend'
+p6174
+aS'lol'
+p6175
+aS'times up...febe dobson'
+p6176
+aS'Lovely Pic in Prof 11-08-40sUser7......'
+p6177
+aS'i bet she does 11-08-40sUser18'
+p6178
+aS'lol'
+p6179
+aS'thanx 11-08-40sUser52'
+p6180
+aS"hi sorry i can't stay"
+p6181
+aS'just surfing again tonight'
+p6182
+aS'wc'
+p6183
+aS'JOIN'
+p6184
+aS'bye'
+p6185
+aS'see ya 11-08-40sUser59'
+p6186
+aS'hi 11-08-40sUser60'
+p6187
+aS'PART'
+p6188
+aS'hi how r u'
+p6189
+aS'who sang  "Hey won\'t you play another somebody done somebody wrong song?'
+p6190
+aS'who sang  "Hey won\'t you play another somebody done somebody wrong song.'
+p6191
+aS'JOIN'
+p6192
+aS'11-08-40sUser18????'
+p6193
+aS'wb 11-08-40sUser45'
+p6194
+aS'wb 11-08-40sUser45'
+p6195
+aS'bj thomas'
+p6196
+aS'thanks 11-08-40sUser7..'
+p6197
+aS'mac davis'
+p6198
+aS'JOIN'
+p6199
+aS'good answer 11-08-40sUser55'
+p6200
+aS'hi 11-08-40sUser61'
+p6201
+aS'thanks 11-08-40sUser48..'
+p6202
+aS'Hi'
+p6203
+aS'PART'
+p6204
+aS'11-08-40sUser7?????????'
+p6205
+aS'does that make me old'
+p6206
+aS'11-08-40sUser18 .... Maybe before your time but.... Who sang "In The Ghetto"?'
+p6207
+aS'11-08-40sUser18 .... Maybe before your time but.... Who sang "In The Ghetto".'
+p6208
+aS'ok who sang reach....1996?'
+p6209
+aS'elvis'
+p6210
+aS'are you kiddin me'
+p6211
+aS"i'm not 11-08-40sUser18, guess"
+p6212
+aS"I'm impressed with ya 11-08-40sUser18 ....."
+p6213
+aS'PART'
+p6214
+aS'JOIN'
+p6215
+aS'wb 11-08-40sUser47'
+p6216
+aS'Hi 11-08-40sUser47'
+p6217
+aS'who wrote the song crazy for patsy cline'
+p6218
+aS'in 1996? hmmm dont know'
+p6219
+aS'gloria estefan'
+p6220
+aS'tks 11-08-40sUser7'
+p6221
+aS'wb 11-08-40sUser47'
+p6222
+aS'JOIN'
+p6223
+aS'wow'
+p6224
+aS'PART'
+p6225
+aS'hi 11-08-40sUser61..how are u'
+p6226
+aS'hi 11-08-40sUser53'
+p6227
+aS'hi 11-08-40sUser53'
+p6228
+aS'tks 11-08-40sUser24'
+p6229
+aS'willie nelson'
+p6230
+aS'hi 11-08-40sUser6'
+p6231
+aS'JOIN'
+p6232
+aS'PART'
+p6233
+aS'right 11-08-40sUser55'
+p6234
+aS'willy nelson'
+p6235
+aS'hi 11-08-40sUser53'
+p6236
+aS'right'
+p6237
+aS'wrote crazy'
+p6238
+aS'hi 11-08-40sUser62,,,,,i thing'
+p6239
+aS'i think'
+p6240
+aS'hi 11-08-40sUser7'
+p6241
+aS'LOl 11-08-40sUser62...'
+p6242
+aS'PART'
+p6243
+aS"11-08-40sUser47 I'm fine and thanks for asking."
+p6244
+aS'who is the bigest turkey in here lol'
+p6245
+aS'lol....'
+p6246
+aS'JOIN'
+p6247
+aS'wb 11-08-40sUser28'
+p6248
+aS'JOIN'
+p6249
+aS'hey 11-08-40sUser63'
+p6250
+aS'PART'
+p6251
+aS'JOIN'
+p6252
+aS'hi 11-08-40sUser63'
+p6253
+aS'hi 11-08-40sUser64'
+p6254
+aS' & 11-08-40sUser28'
+p6255
+aS'PART'
+p6256
+aS'ty 11-08-40sUser7'
+p6257
+aS'what was johny cashes nick name'
+p6258
+aS'and 11-08-40sUser48'
+p6259
+aS'oh i know that one...um um um'
+p6260
+aS'man in black'
+p6261
+aS'11-08-40sUser58 LOL'
+p6262
+aS'so when Norah Jones sang, "dont know why I didn\'t come" I just figured how the hell could I know'
+p6263
+aS'right'
+p6264
+aS'( not 11-08-40sUser58 boo hoo)'
+p6265
+aS'lol 11-08-40sUser18'
+p6266
+aS'ok easy one who sings bad day?'
+p6267
+aS'what was willie nelsons nick name'
+p6268
+aS'one eye'
+p6269
+aS'JOIN'
+p6270
+aS'lol'
+p6271
+aS'hi 11-08-40sUser65'
+p6272
+aS'hey 11-08-40sUser65'
+p6273
+aS'red headed stranger'
+p6274
+aS'Hi 11-08-40sUser65'
+p6275
+aS'JOIN'
+p6276
+aS'hi 11-08-40sUser66'
+p6277
+aS'right 11-08-40sUser55'
+p6278
+aS'(((((((((((((((((((((((11-08-40sUser66)))))))))))))))'
+p6279
+aS'JOIN'
+p6280
+aS'hi there 11-08-40sUser7'
+p6281
+aS'hiya 11-08-40sUser7, 11-08-40sUser19, 11-08-40sUser61'
+p6282
+aS'hi 11-08-40sUser66:)'
+p6283
+aS' (((((((((((((((((((((((((11-08-40sUser65))))))))))))'
+p6284
+aS'hey 11-08-40sUser48'
+p6285
+aS'hey 11-08-40sUser66'
+p6286
+aS'my answer to my ?  daniel powter'
+p6287
+aS'hi the 11-08-40sUser65'
+p6288
+aS'.ACTION welcomes the 11-08-40sUser66.'
+p6289
+aS'hiya 11-08-40sUser48'
+p6290
+aS'hey 11-08-40sUser28'
+p6291
+aS'hiya 11-08-40sUser66'
+p6292
+aS'11-08-40sUser66 i see you, your not invisible'
+p6293
+aS'hi 11-08-40sUser19'
+p6294
+aS'whats up girl'
+p6295
+aS'hey 11-08-40sUser19'
+p6296
+aS'.ACTION says thanks to 11-08-40sUser18 and hello.'
+p6297
+aS' sorry didnt see ya...'
+p6298
+aS'PART'
+p6299
+aS'JOIN'
+p6300
+aS' maybe b/c I am zzzzzzzz'
+p6301
+aS'hey 11-08-40sUser48..........how are ya'
+p6302
+aS'wb 11-08-40sUser68'
+p6303
+aS'PART'
+p6304
+aS'JOIN'
+p6305
+aS'ty and hello nice lady'
+p6306
+aS'k 11-08-40sUser19 Ty & U?'
+p6307
+aS'hi 11-08-40sUser69'
+p6308
+aS'am I suppose to be invisiable 11-08-40sUser7? huh lol'
+p6309
+aS'am I suppose to be invisiable 11-08-40sUser7. huh lol'
+p6310
+aS'ty 11-08-40sUser7'
+p6311
+aS'JOIN'
+p6312
+aS'lol 11-08-40sUser66'
+p6313
+aS'hi 11-08-40sUser70'
+p6314
+aS'doing great 11-08-40sUser48.....ty'
+p6315
+aS'chuckles too 11-08-40sUser7'
+p6316
+aS'JOIN'
+p6317
+aS'11-08-40sUser70 heyyyyyy'
+p6318
+aS'hi all'
+p6319
+aS' Kewl 11-08-40sUser19'
+p6320
+aS'hi 11-08-40sUser70'
+p6321
+aS' hey 11-08-40sUser69'
+p6322
+aS'Hi 11-08-40sUser69'
+p6323
+aS"hi y'all"
+p6324
+aS'hi 11-08-40sUser69'
+p6325
+aS'hello all'
+p6326
+aS'hey 11-08-40sUser71'
+p6327
+aS'hi 11-08-40sUser48 where from?'
+p6328
+aS'heyyyyyyyy 11-08-40sUser70 '
+p6329
+aS'hi 11-08-40sUser66'
+p6330
+aS'PART'
+p6331
+aS'JOIN'
+p6332
+aS' Lousiana'
+p6333
+aS'11-08-40sUser69'
+p6334
+aS'even 11-08-40sUser55'
+p6335
+aS'yes 11-08-40sUser48'
+p6336
+aS'what song did hank willams sang on monday night football on tv'
+p6337
+aS'i figured lol'
+p6338
+aS' 11-08-40sUser70 where  u from...I used to know a 11-08-40sUser70'
+p6339
+aS'im just south of NO'
+p6340
+aS'got me 11-08-40sUser34........no idea lol'
+p6341
+aS'all my rowdy friends are coming over tonight'
+p6342
+aS'and hello'
+p6343
+aS' hehe 11-08-40sUser69  smart man'
+p6344
+aS'you having a party 11-08-40sUser18?'
+p6345
+aS'you having a party 11-08-40sUser18.'
+p6346
+aS'right 11-08-40sUser18'
+p6347
+aS'PART'
+p6348
+aS'cool 11-08-40sUser69'
+p6349
+aS'are you ready for some football???? guessing'
+p6350
+aS'are you ready for some football.... guessing'
+p6351
+aS'I know hank and hank jr'
+p6352
+aS'la la la hey jude'
+p6353
+aS'ok who sang  "slow hand"'
+p6354
+aS'eric'
+p6355
+aS'pointer sisters'
+p6356
+aS'who broke the beattles up'
+p6357
+aS'conway'
+p6358
+aS'PART'
+p6359
+aS'PART'
+p6360
+aS'good answer 11-08-40sUser46'
+p6361
+aS'yoko'
+p6362
+aS'yoko'
+p6363
+aS'lol'
+p6364
+aS'ty'
+p6365
+aS'yoko did'
+p6366
+aS'right 11-08-40sUser18'
+p6367
+aS'lol 11-08-40sUser7'
+p6368
+aS'and 11-08-40sUser7'
+p6369
+aS'.ACTION applaudes 11-08-40sUser46.'
+p6370
+aS'lol'
+p6371
+aS'lol'
+p6372
+aS'yea me'
+p6373
+aS'go me '
+p6374
+aS'go me'
+p6375
+aS'lol'
+p6376
+aS'JOIN'
+p6377
+aS'what did yoko say when John got shot'
+p6378
+aS'lmao'
+p6379
+aS'hi 11-08-40sUser73'
+p6380
+aS'ono'
+p6381
+aS'My bad 11-08-40sUser70.. you not the same one'
+p6382
+aS'oh shit'
+p6383
+aS'hey there 11-08-40sUser73'
+p6384
+aS'what tv show did the beattles sing om '
+p6385
+aS'hi 11-08-40sUser73'
+p6386
+aS'heya 11-08-40sUser7!'
+p6387
+aS'h shit'
+p6388
+aS'i   get all ur  money now fawker'
+p6389
+aS'ok girl'
+p6390
+aS'lol'
+p6391
+aS'JOIN'
+p6392
+aS'ed sullivan'
+p6393
+aS'heya 11-08-40sUser66!'
+p6394
+aS'hi 11-08-40sUser74'
+p6395
+aS'ed sullivan show'
+p6396
+aS' (((((((((((((((11-08-40sUser73))))))))))))))'
+p6397
+aS'right 11-08-40sUser55'
+p6398
+aS'hi 11-08-40sUser68!'
+p6399
+aS'hi 11-08-40sUser46.. 11-08-40sUser46'
+p6400
+aS'good evening'
+p6401
+aS'i am the walrus'
+p6402
+aS'imagine that'
+p6403
+aS'hey 11-08-40sUser68 and 11-08-40sUser74'
+p6404
+aS'((((((11-08-40sUser48!)))))))))))'
+p6405
+aS'hiya 11-08-40sUser66'
+p6406
+aS'I am convinced yoko hired that guy to shoot john'
+p6407
+aS'bbl...'
+p6408
+aS"you don't like him 11-08-40sUser28 lol"
+p6409
+aS'JOIN'
+p6410
+aS"and I'm the egg man"
+p6411
+aS'k 11-08-40sUser24'
+p6412
+aS'no way 11-08-40sUser18'
+p6413
+aS'wouldnt suprise me'
+p6414
+aS'imagine was john 11-08-40sUser61...lol'
+p6415
+aS' nite'
+p6416
+aS'lol 11-08-40sUser61'
+p6417
+aS'see yah 11-08-40sUser48'
+p6418
+aS'you taking off?'
+p6419
+aS'lol'
+p6420
+aS'nope'
+p6421
+aS'who is that 11-08-40sUser66'
+p6422
+aS'PART'
+p6423
+aS' LOL was saying laters ta 11-08-40sUser24'
+p6424
+aS' hehe'
+p6425
+aS"she'll be back"
+p6426
+aS'ohhh ok oops 11-08-40sUser48........just got here..I need a minute lol'
+p6427
+aS'yep'
+p6428
+aS'who is who 11-08-40sUser28?'
+p6429
+aS' its ok 11-08-40sUser66... I am in the "zone" again...'
+p6430
+aS'JOIN'
+p6431
+aS'have a gn 11-08-40sUser48'
+p6432
+aS' 11-08-40sUser75 heyyyyyyyy'
+p6433
+aS'you know in the "balad of John and Yoko" he sings......"last night the wife said, oh boy when your dead, you wont take nothing with you but your soul"'
+p6434
+aS'hi 11-08-40sUser48'
+p6435
+aS'hi 11-08-40sUser75 moochhhhhhhhh'
+p6436
+aS' 11-08-40sUser69........'
+p6437
+aS' not going... hehe'
+p6438
+aS'........... you are 11-08-40sUser48 is that a good thing or not? LOL'
+p6439
+aS'........... you are 11-08-40sUser48 is that a good thing or not. LOL'
+p6440
+aS"i just got here too and i showered so ya can't leave yet...lol"
+p6441
+aS'ma bad'
+p6442
+aS' I think I will stay & hassle ya...'
+p6443
+aS'PART'
+p6444
+aS'thought you looked spiff 11-08-40sUser65'
+p6445
+aS'hey 11-08-40sUser65'
+p6446
+aS'night 11-08-40sUser24'
+p6447
+aS' nawwww not 11-08-40sUser69'
+p6448
+aS'feel free'
+p6449
+aS'hey 11-08-40sUser75'
+p6450
+aS'JOIN'
+p6451
+aS'hiya 11-08-40sUser75'
+p6452
+aS'OK ..... Checked in ...... Now checkin out....... Niters all .......'
+p6453
+aS'hey 11-08-40sUser66'
+p6454
+aS'hi 11-08-40sUser76'
+p6455
+aS'seee you 11-08-40sUser52'
+p6456
+aS"'ello"
+p6457
+aS'night 11-08-40sUser52'
+p6458
+aS'lol'
+p6459
+aS'whou said I idnt like...lol'
+p6460
+aS'nite 11-08-40sUser52'
+p6461
+aS'.ACTION straightens my nightie t-shirt.'
+p6462
+aS'PART'
+p6463
+aS'JOIN'
+p6464
+aS'11-08-40sUser66............ seems the last few nights I been in here I am like zzzzzzzing & that sucks LOL'
+p6465
+aS'JOIN'
+p6466
+aS'hi 11-08-40sUser78'
+p6467
+aS'looks down...'
+p6468
+aS'hi 11-08-40sUser7'
+p6469
+aS'well ok ! LOL.sooo.Im AFK fer a few more min.geesh !!!'
+p6470
+aS'still in day clothes..geesh'
+p6471
+aS'PART'
+p6472
+aS'well.........tonights a new night 11-08-40sUser48'
+p6473
+aS'get comfy and relax :)'
+p6474
+aS"i'm in my jammies"
+p6475
+aS'u poor thing'
+p6476
+aS'lol'
+p6477
+aS'im still dressed'
+p6478
+aS"the sleep over isn't tonight?"
+p6479
+aS'jeans and a pink sweater here'
+p6480
+aS'PART'
+p6481
+aS'ugh'
+p6482
+aS' yeah normy I am comfy hehe'
+p6483
+aS'good idea 11-08-40sUser66.'
+p6484
+aS'busy day'
+p6485
+aS'yeppers 11-08-40sUser68'
+p6486
+aS'.ACTION always comfy in chat.'
+p6487
+aS' yeah 11-08-40sUser7 we can say it is! LOL'
+p6488
+aS'jeans and short sleeved shirt'
+p6489
+aS"me too 11-08-40sUser65...no matter what I'm wearing"
+p6490
+aS'yeppers'
+p6491
+aS'sounds good 11-08-40sUser48'
+p6492
+aS' heheh 11-08-40sUser66'
+p6493
+aS'<perk> sleepover lol?'
+p6494
+aS'but jammies sound like heaven right now :)'
+p6495
+aS'took off the tennies awhile ago'
+p6496
+aS' yeah 11-08-40sUser75'
+p6497
+aS'what what 11-08-40sUser48....huh ;)'
+p6498
+aS'that tired huh 11-08-40sUser66?'
+p6499
+aS'that tired huh 11-08-40sUser66.'
+p6500
+aS'lol 11-08-40sUser75...bring ur pillow'
+p6501
+aS'get comfy 11-08-40sUser70'
+p6502
+aS'yep, off to bed.  Night all'
+p6503
+aS' SLEEP...over not sex night...simular but not hehe'
+p6504
+aS'lol 11-08-40sUser65'
+p6505
+aS'put on your jammies 11-08-40sUser75'
+p6506
+aS'k 11-08-40sUser61'
+p6507
+aS'nope 11-08-40sUser68......thats comfy to me :)'
+p6508
+aS'lol 11-08-40sUser7'
+p6509
+aS'oh'
+p6510
+aS'PART'
+p6511
+aS'I think sweat pants belong on a shelf at the store LOL I like my jammers'
+p6512
+aS'JOIN'
+p6513
+aS'hi 11-08-40sUser79'
+p6514
+aS'yep 11-08-40sUser66'
+p6515
+aS'looks around.....11-08-40sUser69  must be sleepin on da chat couch'
+p6516
+aS'I wear sweats to bed myself'
+p6517
+aS'JOIN'
+p6518
+aS'JOIN'
+p6519
+aS'11-08-adultsUser13 , welcome to #talkcity_adults ! .4Please ask in the main room before Private Messaging others!. You can find our rules at httpThanks for joining us!'
+p6520
+aS'no rain here..for a change LOL'
+p6521
+aS'.ACTION rubs her aching belly.'
+p6522
+aS'suppose to be sunny and 75 tomorrow'
+p6523
+aS'LMAO i love garlic'
+p6524
+aS'NOTICE 11-08-adultsUser13 to #talkcity_adults, To get your own game/control bot for your chat room please contact Dawnstar Visit http://www.shadowbots.com'
+p6525
+aS'Paxil is helping me, 11-08-adultsUser70.'
+p6526
+aS'PART'
+p6527
+aS'this edmonton/detroit game is goin to shit'
+p6528
+aS'HI ROOM'
+p6529
+aS'my family says it made me skin and bones'
+p6530
+aS'PART'
+p6531
+aS'JOIN'
+p6532
+aS'PART'
+p6533
+aS'JOIN'
+p6534
+aS'HOW R U ALL DOING 2DAY'
+p6535
+aS'may i pm you 11-08-adultsUser7?'
+p6536
+aS'may i pm you 11-08-adultsUser7.'
+p6537
+aS'gawd i need meds that would make me skin and bones LOL'
+p6538
+aS'sure 11-08-adultsUser69'
+p6539
+aS'no need to yell 11-08-adultsUser19'
+p6540
+aS'what do you weigh now 11-08-adultsUser70.... 93lbs soakin wet?'
+p6541
+aS'what do you weigh now 11-08-adultsUser70.... 93lbs soakin wet.'
+p6542
+aS'really???? I talked to someone else who says she gained 30 lbs while on paxil!'
+p6543
+aS'Great till you busted caps on mah eyes mang'
+p6544
+aS'thats good 11-08-adultsUser56, it helped me too 11-08-adultsUser56 but when i didnt take it which is now~ u cant sleep eat, live '
+p6545
+aS'Paxil = danger!'
+p6546
+aS'breathe'
+p6547
+aS"'YES 11-08-adultsUser8"
+p6548
+aS".ACTION smewchies 11-08-adultsUser3's eyes to make him feel better."
+p6549
+aS'JOIN'
+p6550
+aS'hi .. 11-08-adultsUser3'
+p6551
+aS'PART'
+p6552
+aS'Hi 11-08-adultsUser24'
+p6553
+aS'hi 11-08-adultsUser3'
+p6554
+aS'JOIN'
+p6555
+aS'thats why im drinking away the withdrawal'
+p6556
+aS'who did what to your eyes?'
+p6557
+aS'.12(((((..4 11-08-adultsUser46 ..12)))))'
+p6558
+aS'anyone else from tennesee here'
+p6559
+aS'ty 11-08-adultsUser35'
+p6560
+aS"better SSRI's out there girl"
+p6561
+aS'PART'
+p6562
+aS'JOIN'
+p6563
+aS"well.. you've gotta deal with the issues that caused your depression in the first place.. antidepressants aren't a cure.. they're just meant to help you while you deal with the real problem"
+p6564
+aS'awww 11-08-adultsUser3 you know i lubbs ya honey :)'
+p6565
+aS'JOIN'
+p6566
+aS'ohh.. withdrawl..'
+p6567
+aS'heyyyyyyyyy 11-08-adultsUser78 :)'
+p6568
+aS'hey 11-08-adultsUser78'
+p6569
+aS"aren't you supposed to wean yourself off?"
+p6570
+aS"aren't you supposed to wean yourself off."
+p6571
+aS'i need meds like that now 11-08-adultsUser56'
+p6572
+aS'JOIN'
+p6573
+aS'hiya 11-08-adultsUser35'
+p6574
+aS'JOIN'
+p6575
+aS'hi 11-08-adultsUser30'
+p6576
+aS'Paxil yes...'
+p6577
+aS'yea well nobody is gonna bring back my ex who died and those pills cost too much'
+p6578
+aS'JOIN'
+p6579
+aS'Paxil can be horrid'
+p6580
+aS'yeah, 11-08-adultsUser35.. I just started Paxil..'
+p6581
+aS'JOIN'
+p6582
+aS'uh oh..'
+p6583
+aS'PART'
+p6584
+aS'PART'
+p6585
+aS'did u take it 11-08-adultsUser8'
+p6586
+aS'awww 11-08-adultsUser70 i am so sorry honey :('
+p6587
+aS'try Zoloft or Wellbutrin (sp?)'
+p6588
+aS'PART'
+p6589
+aS'PART'
+p6590
+aS'no I had a roomate who did though'
+p6591
+aS'i tried those too 11-08-adultsUser8'
+p6592
+aS'PART'
+p6593
+aS'just knocked her out'
+p6594
+aS"OK - can someone kick 11-08-adultsUser66  for making obscene suggestions in pm - and if u like I'll post it in the room so we can all point and laugh at the moron"
+p6595
+aS'is not on any meds'
+p6596
+aS'neysa left bruises on me'
+p6597
+aS'PART'
+p6598
+aS'lol'
+p6599
+aS'how are you 11-08-adultsUser46 chica? '
+p6600
+aS'how are you 11-08-adultsUser46 chica. '
+p6601
+aS'thats what it DOES'
+p6602
+aS'Wellbutrin i tried when i quit smoking..LMAO i had 3 bouts of hives..smoking was the last thing on my mind..the itch and the swelling was horrible'
+p6603
+aS'lol 11-08-adultsUser28.. control your woman!'
+p6604
+aS'JOIN'
+p6605
+aS'u dont want to live at all just sleep'
+p6606
+aS'naw'
+p6607
+aS"i don't wanna"
+p6608
+aS'JOIN'
+p6609
+aS'i\'m not that "controlling"'
+p6610
+aS'shut up 11-08-adultsUser39'
+p6611
+aS"wow.. I've heard so many opposite stories bout Paxil.. one gained weight, another lost it.. one couldn't sleep, another slept all the time..."
+p6612
+aS' neither am i just drugs'
+p6613
+aS' alcohol'
+p6614
+aS'guess it affects different people very differently..'
+p6615
+aS'JOIN'
+p6616
+aS'ha just kidding'
+p6617
+aS'yeah it does, they all do'
+p6618
+aS'always 11-08-adultsUser56'
+p6619
+aS'looks to be case by case 11-08-adultsUser56'
+p6620
+aS'why 11-08-adultsUser70'
+p6621
+aS'JOIN'
+p6622
+aS'Id read up on it if I were you 11-08-adultsUser56'
+p6623
+aS'PART'
+p6624
+aS"I've been fine on it so far.  I've been sleeping.."
+p6625
+aS'its what makes us individual'
+p6626
+aS'how long?'
+p6627
+aS"haven't been eating too much.."
+p6628
+aS'PART'
+p6629
+aS'u r not on meds '
+p6630
+aS'I am good, 11-08-adultsUser3 .. how you doin tonight?'
+p6631
+aS'I am good, 11-08-adultsUser3 .. how you doin tonight.'
+p6632
+aS'.ACTION will never take wellbutrin again LOL.'
+p6633
+aS'PART'
+p6634
+aS'bye 11-08-adultsUser70'
+p6635
+aS'PART'
+p6636
+aS'really 11-08-adultsUser35? Why?'
+p6637
+aS'really 11-08-adultsUser35. Why.'
+p6638
+aS'my tummy is a bit upset, but nothing serious.. I can still eat.'
+p6639
+aS'11-08-adultsUser56 yea i have slept like 5 hours this week'
+p6640
+aS'how long have you been taking it 11-08-adultsUser56?'
+p6641
+aS'how long have you been taking it 11-08-adultsUser56.'
+p6642
+aS'holy crap!'
+p6643
+aS'sucks but ill get through it'
+p6644
+aS'a week now, 11-08-adultsUser8.'
+p6645
+aS'11-08-adultsUser70 probably looks like death'
+p6646
+aS'JOIN'
+p6647
+aS'JOIN'
+p6648
+aS'yah it will take a few weeks for it to kick in'
+p6649
+aS'JOIN'
+p6650
+aS'PRIVMSG 11-08-adultsUser13 how are you doing tonight'
+p6651
+aS"i'm okay just movin files around and shit boring and time consuming :) "
+p6652
+aS'anti depressant talk? I want in!'
+p6653
+aS'how mean 11-08-adultsUser28'
+p6654
+aS'LOL HEY!'
+p6655
+aS'lol 11-08-adultsUser65'
+p6656
+aS'LOL 11-08-adultsUser8 i took it for smoking cessation..LMAO 2 1/2 weeks later i had 3 bouts of bad hives....had to get shots 3 times that week..the swelling and itch was so bad'
+p6657
+aS'didnt see you there'
+p6658
+aS"it's already working.. my anxiety is down to near nothing.."
+p6659
+aS'PART'
+p6660
+aS'life is a trip'
+p6661
+aS'im leaving'
+p6662
+aS'well dayum 11-08-adultsUser70'
+p6663
+aS"I'm on it too "
+p6664
+aS'yeah real excitin'
+p6665
+aS'haha'
+p6666
+aS'hi 11-08-adultsUser65'
+p6667
+aS'heyyyyyyyyyy 11-08-adultsUser65 honey *smewchies*'
+p6668
+aS"you don't eat you don't sleep you live on alcohol, what can i say"
+p6669
+aS'JOIN'
+p6670
+aS'your HOT?'
+p6671
+aS'hey 11-08-adultsUser35'
+p6672
+aS'JOIN'
+p6673
+aS'Wellbutrin? since when is Wellbutrin used for that?'
+p6674
+aS'Wellbutrin. since when is Wellbutrin used for that.'
+p6675
+aS'welcome to da real world'
+p6676
+aS'ever hear of Zyban?'
+p6677
+aS'Ummm are you taking anything else with it 11-08-adultsUser56?'
+p6678
+aS'Ummm are you taking anything else with it 11-08-adultsUser56.'
+p6679
+aS'yea i stopped taking paxil a week ago'
+p6680
+aS'no'
+p6681
+aS"that's wellbutrin"
+p6682
+aS'JOIN'
+p6683
+aS'an people cry when we talk sports , ohh yeah talkin bout wantin to kill themself is much betta convo'
+p6684
+aS"i'll keep you awake for other reasons 11-08-adultsUser70"
+p6685
+aS'hi 11-08-adultsUser91'
+p6686
+aS"11-08-adultsUser30, nobody's talkin bout wanting to kill themselves."
+p6687
+aS'Paxil, all antidepressants for that matter take at least a few weeks to work'
+p6688
+aS'sex take a deep breath think about till you let it go'
+p6689
+aS'JOIN'
+p6690
+aS'PART'
+p6691
+aS'might as well'
+p6692
+aS'u seriously hurt my feelings 11-08-adultsUser28,'
+p6693
+aS'hiya 11-08-adultsUser92 honey *smewchies*'
+p6694
+aS'PART'
+p6695
+aS'not you 11-08-adultsUser56'
+p6696
+aS'11-08-adultsUser30 shut up about it'
+p6697
+aS'talkin bout sports makes me wanna talk about killing myself :/ wanting to talk about killing myself makes me wanna go play sports.. .its a vicious circle Gosh'
+p6698
+aS'mwahs 11-08-adultsUser35'
+p6699
+aS'lmao 11-08-adultsUser3'
+p6700
+aS'PART'
+p6701
+aS'go DETROIT'
+p6702
+aS'im going through enough trying not to take that crap'
+p6703
+aS'lmao 11-08-adultsUser3'
+p6704
+aS'PART'
+p6705
+aS'awww 11-08-adultsUser92 *blush*'
+p6706
+aS"11-08-adultsUser30, do I sit in here and complain how bad my life sucks and stuff?  I'm on antidepressants now, and I brought up the topic.  Sorry."
+p6707
+aS'lol 11-08-adultsUser3'
+p6708
+aS'detroit sucks'
+p6709
+aS'hi 11-08-adultsUser1'
+p6710
+aS'11-08-adultsUser70... i appologize'
+p6711
+aS'hi'
+p6712
+aS'cali is better'
+p6713
+aS'11-08-adultsUser56 i said not you'
+p6714
+aS'hi 11-08-adultsUser26'
+p6715
+aS'okay.'
+p6716
+aS'scroll up'
+p6717
+aS'michigan sucks'
+p6718
+aS'noth sucks'
+p6719
+aS'PART'
+p6720
+aS'JOIN'
+p6721
+aS'nortenos sucks'
+p6722
+aS'.ACTION talks about masturbating while depressed.'
+p6723
+aS'PART'
+p6724
+aS'thx, i guess 11-08-adultsUser28~ u try watching your ex die in front of u'
+p6725
+aS"<--bitches and complains about how bad her life has been recently but i'll stop now"
+p6726
+aS'moans for no reason'
+p6727
+aS'PART'
+p6728
+aS'I was actually very surprised that so many people have been on these things.. '
+p6729
+aS'thats an oxymoron..oh wait I know how thats facilitated'
+p6730
+aS'.ACTION snickers.'
+p6731
+aS"umm not gonna happen, but then again i don't know what you're talkin about 11-08-adultsUser70"
+p6732
+aS'look at us babi look at us now'
+p6733
+aS'lol'
+p6734
+aS'if you wanna yak, pm me'
+p6735
+aS'brb I have midgets to watch'
+p6736
+aS'im outta here  :beer: '
+p6737
+aS'where is everyone at'
+p6738
+aS'chews gum'
+p6739
+aS"he's 2 feet tall"
+p6740
+aS'PART'
+p6741
+aS'ta ta 11-08-adultsUser70'
+p6742
+aS'PART'
+p6743
+aS'every nite i pray i hope that u will stay'
+p6744
+aS'.ACTION is now losted.'
+p6745
+aS'JOIN'
+p6746
+aS'PART'
+p6747
+aS'JOIN'
+p6748
+aS'babi look at us'
+p6749
+aS'JOIN'
+p6750
+aS'11-08-adultsUser95!!'
+p6751
+aS'heyyyyyyyyyyyyyy 11-08-adultsUser95 gurlie :)'
+p6752
+aS'hi babycakeses!'
+p6753
+aS'ewww @ my pm..'
+p6754
+aS'PART'
+p6755
+aS'PART'
+p6756
+aS'11-08-adultsUser1'
+p6757
+aS'PART'
+p6758
+aS'hey 11-08-adultsUser95'
+p6759
+aS' im bored'
+p6760
+aS'11-08-adultsUser35'
+p6761
+aS'11-08-adultsUser92'
+p6762
+aS'PART'
+p6763
+aS'who are you 11-08-adultsUser59?'
+p6764
+aS'who are you 11-08-adultsUser59.'
+p6765
+aS'NICK :11-08-adultsUser65'
+p6766
+aS'hey 11-08-adultsUser95'
+p6767
+aS'LMAO @ 11-08-adultsUser65 '
+p6768
+aS'lol hi 11-08-adultsUser65'
+p6769
+aS'is yummylicious'
+p6770
+aS'PART'
+p6771
+aS'lol 11-08-adultsUser65'
+p6772
+aS'dat guy that smokes that chronic'
+p6773
+aS'.ACTION drools on himself.'
+p6774
+aS'ahh ok'
+p6775
+aS'.ACTION rubs her belly.'
+p6776
+aS'chronic = weed'
+p6777
+aS'sticky icky'
+p6778
+aS'got it'
+p6779
+aS'LMAO 11-08-adultsUser65 change it to wee 11-08-adultsUser65 LOL'
+p6780
+aS'put it in a jar!!!'
+p6781
+aS'hey 11-08-adultsUser56'
+p6782
+aS'JOIN'
+p6783
+aS'is cuddlicious'
+p6784
+aS'duh'
+p6785
+aS'hey 11-08-adultsUser28'
+p6786
+aS'the name on my phone has changed'
+p6787
+aS'JOIN'
+p6788
+aS'huh?'
+p6789
+aS'that would be mean I just had a 11-08-adultsUser65 moment'
+p6790
+aS'its not Rick James anymore'
+p6791
+aS'you know all the things you can do with spit vinyl?'
+p6792
+aS'you know all the things you can do with spit vinyl.'
+p6793
+aS"and thought I'd share"
+p6794
+aS'hahah!'
+p6795
+aS'hey 11-08-adultsUser50'
+p6796
+aS'LMAO 11-08-adultsUser65 '
+p6797
+aS'hey 11-08-adultsUser95'
+p6798
+aS'im rich james biatch'
+p6799
+aS'it makes a great lube'
+p6800
+aS'is f**kalicious'
+p6801
+aS'in a pinch'
+p6802
+aS'its now S & S Swackhammer'
+p6803
+aS'JOIN'
+p6804
+aS'JOIN'
+p6805
+aS'im rich biatch'
+p6806
+aS'11-08-adultsUser30'
+p6807
+aS'oh lord..'
+p6808
+aS'why?!?!?'
+p6809
+aS'JOIN'
+p6810
+aS'que mami'
+p6811
+aS'JOIN'
+p6812
+aS'PART'
+p6813
+aS'u want me'
+p6814
+aS'look at the last name'
+p6815
+aS' :beer: '
+p6816
+aS'jucilicious'
+p6817
+aS'.12(((((..4 11-08-adultsUser102 ..12)))))'
+p6818
+aS'11-08-adultsUser102'
+p6819
+aS'hey 11-08-adultsUser101!'
+p6820
+aS'yeah...'
+p6821
+aS'hey 11-08-adultsUser100 and 11-08-adultsUser99'
+p6822
+aS'hey 11-08-adultsUser102'
+p6823
+aS'11-08-adultsUser102 im gold'
+p6824
+aS'hiya 11-08-adultsUser102 :)'
+p6825
+aS"11-08-adultsUser102's here?"
+p6826
+aS'((((((((( 11-08-adultsUser3)))))))'
+p6827
+aS'hey 11-08-adultsUser3!'
+p6828
+aS'11-08-adultsUser95'
+p6829
+aS'hi all'
+p6830
+aS'.12(((((..4 11-08-adultsUser95 ..12)))))'
+p6831
+aS'hey 11-08-adultsUser30'
+p6832
+aS'hey 11-08-adultsUser102 '
+p6833
+aS'hey 11-08-adultsUser102'
+p6834
+aS'hi 11-08-adultsUser35'
+p6835
+aS'look at us now'
+p6836
+aS'.4 (((((((((((( .6 11-08-adultsUser3 .4))))))))))))'
+p6837
+aS'PART'
+p6838
+aS'what is here?'
+p6839
+aS"lol i couldnt find you in the P's"
+p6840
+aS'what?'
+p6841
+aS'who?'
+p6842
+aS'hey 11-08-adultsUser1'
+p6843
+aS'oh..'
+p6844
+aS'here is a crowded chat room LOL'
+p6845
+aS'hey 11-08-adultsUser92'
+p6846
+aS'JOIN'
+p6847
+aS'PART'
+p6848
+aS'anyone guys wanna pm'
+p6849
+aS'PART'
+p6850
+aS'Im from east LA im wit da 18ST'
+p6851
+aS'burps'
+p6852
+aS'scuse you'
+p6853
+aS'JOIN'
+p6854
+aS'lol'
+p6855
+aS'farts'
+p6856
+aS'how much it cost?'
+p6857
+aS'eitther the room is slow or im lagging  i still see my hellos'
+p6858
+aS'yeah i is 11-08-adultsUser102'
+p6859
+aS'great to see you again'
+p6860
+aS'did u fart cuz u blew me away'
+p6861
+aS'lol'
+p6862
+aS'brb'
+p6863
+aS'JOIN'
+p6864
+aS'yep'
+p6865
+aS'ohhh '
+p6866
+aS'sexy love'
+p6867
+aS'PART'
+p6868
+aS'girl that makes u do'
+p6869
+aS'JOIN'
+p6870
+aS'hey 11-08-adultsUser106!'
+p6871
+aS'PART'
+p6872
+aS"11-08-adultsUser101 don't PM without asking"
+p6873
+aS'come running back to u'
+p6874
+aS'sexy love'
+p6875
+aS'.ACTION flops over on the couch and kicks everyone else off.'
+p6876
+aS'JOIN'
+p6877
+aS'PART'
+p6878
+aS'ugh thanks 11-08-adultsUser56'
+p6879
+aS'lol'
+p6880
+aS'where are you 11-08-adultsUser59'
+p6881
+aS'JOIN'
+p6882
+aS'.ACTION falls on the floor.'
+p6883
+aS'haha!'
+p6884
+aS'im so addicted to her beuty touch'
+p6885
+aS'11-08-adultsUser101, I have e-herpes'
+p6886
+aS'PART'
+p6887
+aS'im listen to dis song'
+p6888
+aS' boy'
+p6889
+aS'jumps in the beanbag'
+p6890
+aS'how is everbody'
+p6891
+aS'heya 11-08-adultsUser50'
+p6892
+aS'catches 11-08-adultsUser1'
+p6893
+aS'JOIN'
+p6894
+aS'was dat a racist comment'
+p6895
+aS'wb 11-08-adultsUser61'
+p6896
+aS'beanbag '
+p6897
+aS'did 11-08-adultsUser3 give you those 11-08-adultsUser102?'
+p6898
+aS'did 11-08-adultsUser3 give you those 11-08-adultsUser102.'
+p6899
+aS'PART'
+p6900
+aS'hi 11-08-adultsUser92'
+p6901
+aS'any guys wanna pm a girl like me'
+p6902
+aS'.ACTION thinks she needs to change her pic back to the old one, too many damn PMs lol.'
+p6903
+aS'itz a seat...'
+p6904
+aS'eh i dont get around enough to give anyone anything'
+p6905
+aS'PART'
+p6906
+aS'lol'
+p6907
+aS'JOIN'
+p6908
+aS'PART'
+p6909
+aS'11-08-adultsUser66......if i felt a rock hard cock in my mouth, i owuldnt be in here'
+p6910
+aS'oh'
+p6911
+aS'sexy love'
+p6912
+aS'.ACTION stretches out on the couch and sighs happily.'
+p6913
+aS'11-08-adultsUser3 did you physically meet neysa?'
+p6914
+aS'11-08-adultsUser3 did you physically meet neysa.'
+p6915
+aS'a bag full o beans'
+p6916
+aS'girl take make u do '
+p6917
+aS'.ACTION saunders back in.'
+p6918
+aS'PART'
+p6919
+aS'make me run to you'
+p6920
+aS'omg'
+p6921
+aS'newp'
+p6922
+aS'Im so off'
+p6923
+aS'PART'
+p6924
+aS'making love to you'
+p6925
+aS'happy birthday shane!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+p6926
+aS'which lady wants to pm me'
+p6927
+aS'JOIN'
+p6928
+aS'SExy love'
+p6929
+aS'so yeah '
+p6930
+aS'otay'
+p6931
+aS'is a beanbag a racist comment?'
+p6932
+aS'you fat mother ####!!!!!!!!!!!!!'
+p6933
+aS'was supposed to but never happend why? '
+p6934
+aS'was supposed to but never happend why. '
+p6935
+aS'shorty like miiiiiinnnnnnnnnneeeeeeee'
+p6936
+aS'i love....................'
+p6937
+aS'oh im jus curious is all'
+p6938
+aS'i dunno is it?'
+p6939
+aS'PART'
+p6940
+aS'JOIN'
+p6941
+aS'me'
+p6942
+aS'Yeah Zyban I have heard of 11-08-adultsUser35...'
+p6943
+aS'i need...................'
+p6944
+aS'JOIN'
+p6945
+aS'JOIN'
+p6946
+aS'cool cool '
+p6947
+aS'hey 11-08-adultsUser110!'
+p6948
+aS'someone said it was I thought'
+p6949
+aS'i desire..................'
+p6950
+aS'like dude'
+p6951
+aS'shane ate one too many cakes today i think'
+p6952
+aS'shorty lllllllliiiiiiiiiikeee mine'
+p6953
+aS'JOIN'
+p6954
+aS'ok i need to put more clothes on'
+p6955
+aS'JOIN'
+p6956
+aS'brb'
+p6957
+aS'miiiiiiiiiiiiinnnnnnnnnnneeeeeeeeee'
+p6958
+aS'aiiiiiiiiiiiiiiiiiiiiiiii'
+p6959
+aS'jesus loves you'
+p6960
+aS'like mmmmmmmmiiiiiiiiinnnnnnnnneeeeeeee'
+p6961
+aS'JOIN'
+p6962
+aS'JOIN'
+p6963
+aS'JESUS LOVES YOU'
+p6964
+aS'JOIN'
+p6965
+aS'its 11 '
+p6966
+aS'hi all '
+p6967
+aS'woooooooooaaaahhhhhhhhhhhh'
+p6968
+aS'hi 11-08-adultsUser115'
+p6969
+aS'firs time using this site '
+p6970
+aS'he did and he killed a kitten and said that that would be me if I ever told :-('
+p6971
+aS'welcome to my room'
+p6972
+aS'JOIN'
+p6973
+aS'.2******Welcome to all who just ed us!!!******.'
+p6974
+aS'hello'
+p6975
+aS'PART'
+p6976
+aS'JOIN'
+p6977
+aS'PART'
+p6978
+aS'everyone'
+p6979
+aS'JOIN'
+p6980
+aS'hey 11-08-adultsUser95'
+p6981
+aS'JOIN'
+p6982
+aS'PART'
+p6983
+aS'hi 11-08-adultsUser113'
+p6984
+aS'PART'
+p6985
+aS'JOIN'
+p6986
+aS'PART'
+p6987
+aS'JOIN'
+p6988
+aS'PART'
+p6989
+aS'i love each and everyone of yall'
+p6990
+aS'11-08-adultsUser8'
+p6991
+aS'heyyyyyy'
+p6992
+aS'hello'
+p6993
+aS'welome to my room'
+p6994
+aS'lmfao mike'
+p6995
+aS'PART'
+p6996
+aS'i would dump you in cookies and cream'
+p6997
+aS'PART'
+p6998
+aS'PART'
+p6999
+aS'with some cherry on toop of yall'
+p7000
+aS'this song has gotta go'
+p7001
+aS'PART'
+p7002
+aS'yawns'
+p7003
+aS'what song'
+p7004
+aS'.ACTION falls asleep on the couch.'
+p7005
+aS'we w ere just talking about jesus trials throught the desert and the temptations that pursued him'
+p7006
+aS'goodbye to romance'
+p7007
+aS'PART'
+p7008
+aS"11-08-adultsUser108.. this ain't your room."
+p7009
+aS'too slow fo me'
+p7010
+aS'one two three'
+p7011
+aS'jesus loves me'
+p7012
+aS'.ACTION is backfrontsidewaysandallaroundtheworld.'
+p7013
+aS'is there a chat room here that deals with sports and fitness or not '
+p7014
+aS'three four'
+p7015
+aS'Hi all does anyone want to chat with a 23 f from ontario canada'
+p7016
+aS'he loves you more'
+p7017
+aS'JOIN'
+p7018
+aS'sports? <perk>'
+p7019
+aS'hey 11-08-adultsUser115'
+p7020
+aS'PART'
+p7021
+aS'hi'
+p7022
+aS'hi 11-08-adultsUser118'
+p7023
+aS'.ACTION beats herself over the head with a bible "make it stop make it stop!".'
+p7024
+aS'JOIN'
+p7025
+aS'lol'
+p7026
+aS'welcome to my room'
+p7027
+aS'hey 11-08-adultsUser38'
+p7028
+aS'hi 11-08-adultsUser108'
+p7029
+aS'11-08-adultsUser108...'
+p7030
+aS'we w ere just talking about jesus trials throught the desert and the temptations that pursued him'
+p7031
+aS'yeah its called #prideIsland     type / #prideisland  its all about the fitness'
+p7032
+aS'is a christian but is aggravated at denomination churches'
+p7033
+aS'LOL 11-08-adultsUser95 '
+p7034
+aS'JOIN'
+p7035
+aS'11-08-adultsUser38 are you in'
+p7036
+aS'welcome to black paradis'
+p7037
+aS'make it go away?'
+p7038
+aS'JOIN'
+p7039
+aS'PART'
+p7040
+aS'hi 11-08-adultsUser116'
+p7041
+aS'why dontcha go and try to find it for him 11-08-adultsUser108 :-)'
+p7042
+aS'.ACTION sets up his altar to summon lucifuge.'
+p7043
+aS'welcome to my room'
+p7044
+aS'hi 11-08-adultsUser1'
+p7045
+aS'LOL 11-08-adultsUser65 '
+p7046
+aS'fitness my asss.... thats the part i felt most after that workout'
+p7047
+aS'lmao 11-08-adultsUser65'
+p7048
+aS'we w ere just talking about jesus trials throught the desert and the temptations that pursued him'
+p7049
+aS'hi again 11-08-adultsUser39 '
+p7050
+aS'what the shit is lucifuge?'
+p7051
+aS'where you at'
+p7052
+aS'.ACTION eyes the loser that seems to think he paid the registration fee for this room.'
+p7053
+aS'PART'
+p7054
+aS'LMAO 11-08-adultsUser53'
+p7055
+aS'PART'
+p7056
+aS' lol@lucifuge'
+p7057
+aS'so, what have we disocvered my children?'
+p7058
+aS'so, what have we disocvered my children.'
+p7059
+aS'satan'
+p7060
+aS'in my home?'
+p7061
+aS'lol'
+p7062
+aS'JOIN'
+p7063
+aS'LMAO 11-08-adultsUser65 '
+p7064
+aS'you mean lucifer'
+p7065
+aS'hi 11-08-adultsUser120'
+p7066
+aS'where is your home'
+p7067
+aS'welcome to my room'
+p7068
+aS'in hell'
+p7069
+aS'JOIN'
+p7070
+aS'or lucy-fur LOL'
+p7071
+aS'in Iowa'
+p7072
+aS'i presume'
+p7073
+aS'JOIN'
+p7074
+aS'we were just talking about jesus trials throught the desert and the temptations that pursued him'
+p7075
+aS'ok'
+p7076
+aS'ugh.'
+p7077
+aS'hello'
+p7078
+aS'11-08-adultsUser102 do you not take private messages'
+p7079
+aS'hey 11-08-adultsUser108... wrong room '
+p7080
+aS'hi 11-08-adultsUser120'
+p7081
+aS'PART'
+p7082
+aS':P'
+p7083
+aS'hi 11-08-adultsUser7'
+p7084
+aS'lol'
+p7085
+aS'hi 11-08-adultsUser7'
+p7086
+aS'thanks goodness'
+p7087
+aS'lmao'
+p7088
+aS'-s'
+p7089
+aS'woooohoooo'
+p7090
+aS"please don't beat me...with your bible :)"
+p7091
+aS'ahhhhhhhhhhhhhh'
+p7092
+aS'finally!'
+p7093
+aS'ok im back'
+p7094
+aS'hi again 11-08-adultsUser39'
+p7095
+aS'hey 11-08-adultsUser7'
+p7096
+aS'front'
+p7097
+aS'wb 11-08-adultsUser28'
+p7098
+aS'PART'
+p7099
+aS'hey 11-08-adultsUser92'
+p7100
+aS'if you dont beat me with your torah'
+p7101
+aS'PART'
+p7102
+aS'wb 11-08-adultsUser28 '
+p7103
+aS'O.o'
+p7104
+aS'Teck n9ne is back homies'
+p7105
+aS'PART'
+p7106
+aS'PART'
+p7107
+aS'dont fck with the torah 11-08-adultsUser3'
+p7108
+aS'JOIN'
+p7109
+aS'chattanooga is an hour from me 11-08-adultsUser7'
+p7110
+aS'thanks 11-08-adultsUser7 and 11-08-adultsUser35 (dahlin)'
+p7111
+aS"he's the prime minister of hell google it"
+p7112
+aS'lol 11-08-adultsUser95'
+p7113
+aS"OMG 11-08-adultsUser3 i would never do that..i don't chat religion"
+p7114
+aS'dont fck with the bible 11-08-adultsUser95'
+p7115
+aS'kewl 11-08-adultsUser39'
+p7116
+aS'JOIN'
+p7117
+aS'.ACTION is never wrong.'
+p7118
+aS'JOIN'
+p7119
+aS'well.....'
+p7120
+aS'JOIN'
+p7121
+aS'yep'
+p7122
+aS'JOIN'
+p7123
+aS'well n othing'
+p7124
+aS'JOIN'
+p7125
+aS'HI 11-08-adultsUser56'
+p7126
+aS'do any women wanna chat?'
+p7127
+aS'the worst that would happen is id get burned to the stake'
+p7128
+aS"hey y'all"
+p7129
+aS'PART'
+p7130
+aS'it goes both ways dear'
+p7131
+aS'hi 11-08-adultsUser104'
+p7132
+aS'JOIN'
+p7133
+aS'JOIN'
+p7134
+aS'PART'
+p7135
+aS'yes, it does go both ways..'
+p7136
+aS'JOIN'
+p7137
+aS'and i know you dont 11-08-adultsUser35 Chica'
+p7138
+aS'PART'
+p7139
+aS'PART'
+p7140
+aS'nice pic 11-08-adultsUser7'
+p7141
+aS'ty 11-08-adultsUser39'
+p7142
+aS'.ACTION snores on the couch.'
+p7143
+aS"i'll dabble in a tad of politics once in awhile but nevah religion..it's too touchy a subject"
+p7144
+aS'JOIN'
+p7145
+aS'yvw'
+p7146
+aS'how have u been doing 11-08-adultsUser56..been awhile since chatted'
+p7147
+aS'JOIN'
+p7148
+aS'JOIN'
+p7149
+aS'where ever you go whatever you do ill be here waiting for you'
+p7150
+aS'very much so practically have to put the room on moderation for that '
+p7151
+aS'but sports..now that\'s where i get the label "hater"...hmph!!'
+p7152
+aS'PART'
+p7153
+aS'JOIN'
+p7154
+aS'trance boi'
+p7155
+aS'yep@religion'
+p7156
+aS'JOIN'
+p7157
+aS'PART'
+p7158
+aS'JOIN'
+p7159
+aS'MODE #talkcity_adults +o 11-08-adultsUser132'
+p7160
+aS'.12(((((..4 11-08-adultsUser132 ..12)))))'
+p7161
+aS'JOIN'
+p7162
+aS'mmm...taste like chicken'
+p7163
+aS'11-08-adultsUser132!!!'
+p7164
+aS'tatatatnanaantatat'
+p7165
+aS'.2 Hi 11-08-adultsUser133! Welcome to #talkcity_adults!'
+p7166
+aS'hey 11-08-adultsUser132'
+p7167
+aS'HI 11-08-adultsUser132'
+p7168
+aS'hiya 11-08-adultsUser132'
+p7169
+aS'do u'
+p7170
+aS'PART'
+p7171
+aS'do or die'
+p7172
+aS'.ACTION swing.'
+p7173
+aS'JOIN'
+p7174
+aS'mmmmmmmmmmmmm'
+p7175
+aS'lovely nick there LOL'
+p7176
+aS'JOIN'
+p7177
+aS'hey 11-08-adultsUser132'
+p7178
+aS'(((((((((((11-08-adultsUser3)))))))))))))'
+p7179
+aS'mmmomom'
+p7180
+aS'how come everything tastes like chicken but sometimes chicken doesnt taste like chcken'
+p7181
+aS'hey 11-08-adultsUser1!!!'
+p7182
+aS'PART'
+p7183
+aS'hey jeff and 11-08-adultsUser104 and 11-08-adultsUser35'
+p7184
+aS'PART'
+p7185
+aS'seminilla'
+p7186
+aS'party at silver crib'
+p7187
+aS'hey 11-08-adultsUser30!!!!'
+p7188
+aS'PART'
+p7189
+aS'lol'
+p7190
+aS"it's the matrix, out of wack"
+p7191
+aS'bring drinks'
+p7192
+aS'food is such a wonderful thing'
+p7193
+aS'11-08-adultsUser12 deop'
+p7194
+aS'MODE #talkcity_adults -o 11-08-adultsUser132'
+p7195
+aS'PART'
+p7196
+aS'vodka'
+p7197
+aS'brb..popcorn is ready'
+p7198
+aS'11-08-adultsUser132: Are you a man or a woman?'
+p7199
+aS'11-08-adultsUser132: Are you a man or a woman.'
+p7200
+aS"that depends if neysa's cooking it 11-08-adultsUser102"
+p7201
+aS'PART'
+p7202
+aS'11-08-adultsUser30....... your like the walmart greeter.. only time i see you type is when someone comes in lol'
+p7203
+aS'JOIN'
+p7204
+aS'JOIN'
+p7205
+aS'packs of ciggareets'
+p7206
+aS'brb'
+p7207
+aS'hi 11-08-adultsUser12 you sexy bot'
+p7208
+aS'JOIN'
+p7209
+aS'and ill bring da weeeeeeeeeeeeeeeeeeeeeeeeed'
+p7210
+aS'PART'
+p7211
+aS'hahaha 11-08-adultsUser28!'
+p7212
+aS'JOIN'
+p7213
+aS'haha'
+p7214
+aS'i love you'
+p7215
+aS'JOIN'
+p7216
+aS'nite all'
+p7217
+aS"shouldn't dis the future wife"
+p7218
+aS'love u too'
+p7219
+aS'i want you'
+p7220
+aS'PART'
+p7221
+aS'nite 11-08-adultsUser67'
+p7222
+aS'hey 11-08-adultsUser116!'
+p7223
+aS'.2 Hi 11-08-adultsUser31! Welcome to #talkcity_adults!'
+p7224
+aS'PART'
+p7225
+aS'JOIN'
+p7226
+aS'no drug talk 11-08-adultsUser91 '
+p7227
+aS'I told her I was gonna teach her how to cook.. turn her into the perfect lil housewife for ya.'
+p7228
+aS'any females want to chat? 25 m canada pm me'
+p7229
+aS'11-08-adultsUser59 '
+p7230
+aS'JOIN'
+p7231
+aS'.12(((((..4 11-08-adultsUser138 ..12)))))'
+p7232
+aS'so i hear 11-08-adultsUser56'
+p7233
+aS'11-08-adultsUser1'
+p7234
+aS'11-08-adultsUser12 i  want your bot lol'
+p7235
+aS'ty 11-08-adultsUser1 :D'
+p7236
+aS'((((11-08-adultsUser3)))))'
+p7237
+aS'yw 11-08-adultsUser3'
+p7238
+aS'PART'
+p7239
+aS'JOIN'
+p7240
+aS'JOIN'
+p7241
+aS'.wz 73042'
+p7242
+aS' .Gracemont, Oklahoma. -- 9.  9:10 PM CST'
+p7243
+aS' .Temp. 68%    '
+p7244
+aS'PART'
+p7245
+aS'JOIN'
+p7246
+aS'ny fit ladz 16-20 frm uk pm me pic on pro'
+p7247
+aS'JOIN'
+p7248
+aS'hola people'
+p7249
+aS'JOIN'
+p7250
+aS'and 11-08-teensUser22'
+p7251
+aS'PART'
+p7252
+aS'.hey, 11-08-teensUser115!.'
+p7253
+aS'PART'
+p7254
+aS'whats going on 11-08-teensUser22...'
+p7255
+aS'PART'
+p7256
+aS'JOIN'
+p7257
+aS'Justin'
+p7258
+aS'.watching criss angel..'
+p7259
+aS".j'aime.."
+p7260
+aS'JOIN'
+p7261
+aS'What class are you gonna be on 11-08-teensUser22? xD'
+p7262
+aS'What class are you gonna be on 11-08-teensUser22. xD'
+p7263
+aS'yea...im about to watch futurama...'
+p7264
+aS'.no idea.'
+p7265
+aS'whats balck and white and red all over?'
+p7266
+aS'whats balck and white and red all over.'
+p7267
+aS'.i always liked necromancers..'
+p7268
+aS'JOIN'
+p7269
+aS'Ahhh, okay.'
+p7270
+aS'18/m pm if u try to chat'
+p7271
+aS'an old lady whos been beaten up for her pension book!'
+p7272
+aS'17/m/oh here girls any age PM me'
+p7273
+aS'hahahahahahaha'
+p7274
+aS'JOIN'
+p7275
+aS'You could be one.'
+p7276
+aS'PART'
+p7277
+aS'PART'
+p7278
+aS'PART'
+p7279
+aS"That's what Daniel's gonna be too."
+p7280
+aS'JOIN'
+p7281
+aS"I'm a druid"
+p7282
+aS'any guys wanna chat pm me'
+p7283
+aS'JOIN'
+p7284
+aS'18/m pm if u try to chat'
+p7285
+aS'JOIN'
+p7286
+aS'JOIN'
+p7287
+aS'JOIN'
+p7288
+aS"night ya'all."
+p7289
+aS'...and there was 11-08-teensUser119!!!'
+p7290
+aS'whats pink, silver and red?'
+p7291
+aS'PART'
+p7292
+aS'PART'
+p7293
+aS'Biiiiiitch'
+p7294
+aS'a baby with a razor blade!'
+p7295
+aS'PART'
+p7296
+aS'hahaha'
+p7297
+aS'whats green and silver?'
+p7298
+aS'same babay 3 monthes later!'
+p7299
+aS'16 f hong kong, anyone wanna chat, pm me ;-) '
+p7300
+aS'PART'
+p7301
+aS'a beach ball??'
+p7302
+aS'does anybody wanna tok'
+p7303
+aS'PART'
+p7304
+aS'damn...'
+p7305
+aS'i like to have a good time and laugh'
+p7306
+aS'PART'
+p7307
+aS'PART'
+p7308
+aS'JOIN'
+p7309
+aS'what goes round and round and burns?'
+p7310
+aS'what goes round and round and burns.'
+p7311
+aS'i like whiskey and cigars and the occasional murder'
+p7312
+aS'JOIN'
+p7313
+aS':11-08-teensUser123!11-08-teensUser123@11-08-teensUser123 MODE #14-19teens +o 11-08-teensUser123'
+p7314
+aS'a baby in a microwave'
+p7315
+aS'JOIN'
+p7316
+aS'hahahahahahahahahahahahahahahaha'
+p7317
+aS'damn'
+p7318
+aS'hey ppl'
+p7319
+aS'u twizted bro'
+p7320
+aS'hey guys'
+p7321
+aS'MY DELIGHTFUL MISHAP!'
+p7322
+aS'corny jokes dude shut up'
+p7323
+aS'PART'
+p7324
+aS'whats balck and blue and scared of sex?'
+p7325
+aS'whats balck and blue and scared of sex.'
+p7326
+aS'me?'
+p7327
+aS'haha'
+p7328
+aS'PART'
+p7329
+aS'PART'
+p7330
+aS'Oops.'
+p7331
+aS'yawn...'
+p7332
+aS'haha'
+p7333
+aS'PART'
+p7334
+aS'PART'
+p7335
+aS'n e 1 from nz'
+p7336
+aS'PART'
+p7337
+aS'he didnt finish his morbidly twisted joke serties'
+p7338
+aS'18/m pm if u try to chat'
+p7339
+aS"That's okay."
+p7340
+aS'haha'
+p7341
+aS'yeah'
+p7342
+aS'Holla at ya gurrrrl playas if u can handle wat I got'
+p7343
+aS'PART'
+p7344
+aS'   ;-) '
+p7345
+aS'PART'
+p7346
+aS'praying for love in a lap dance...'
+p7347
+aS'PART'
+p7348
+aS'haha'
+p7349
+aS'???'
+p7350
+aS'PART'
+p7351
+aS'JOIN'
+p7352
+aS'hey everyone :)'
+p7353
+aS'hey'
+p7354
+aS'...'
+p7355
+aS'heyheyhey'
+p7356
+aS'hi'
+p7357
+aS'PART'
+p7358
+aS'hi'
+p7359
+aS'hehehe yay'
+p7360
+aS'wut??'
+p7361
+aS'lol'
+p7362
+aS'nm'
+p7363
+aS'PART'
+p7364
+aS'Any guys from GA wanna chat? PM me -------------> 19/f/GA here!'
+p7365
+aS'JOIN'
+p7366
+aS'k then'
+p7367
+aS'who the hell shot kennedy??'
+p7368
+aS'JOIN'
+p7369
+aS'maybe we shouldve asked jackie?'
+p7370
+aS'maybe we shouldve asked jackie.'
+p7371
+aS'PART'
+p7372
+aS'JOIN'
+p7373
+aS'PART'
+p7374
+aS'JOIN'
+p7375
+aS'PART'
+p7376
+aS'JOIN'
+p7377
+aS'PART'
+p7378
+aS'i did'
+p7379
+aS'PART'
+p7380
+aS'i shot kennedy'
+p7381
+aS'o cool'
+p7382
+aS'whos kennedy'
+p7383
+aS'any guys or gurls wanna talk with a really bored f 19 tx'
+p7384
+aS'PART'
+p7385
+aS'any guy wanna chat with me'
+p7386
+aS'any hot sexy guys wanna chat pm me'
+p7387
+aS'are u kidding??!!'
+p7388
+aS'PART'
+p7389
+aS'whos kennedy??!!'
+p7390
+aS'17f tx anyone wanna talk?'
+p7391
+aS'14 f mass...pm me if you want to chat'
+p7392
+aS'....yea'
+p7393
+aS'wow '
+p7394
+aS'damn'
+p7395
+aS'Barbieee.'
+p7396
+aS'PART'
+p7397
+aS'15 f cali guys pm me to chat'
+p7398
+aS'no barbie'
+p7399
+aS'JOIN'
+p7400
+aS'11-08-teensUser56..'
+p7401
+aS'PART'
+p7402
+aS'JOIN'
+p7403
+aS'if she was real she would have gigantic tits'
+p7404
+aS'18 m il, girls pm me'
+p7405
+aS'PART'
+p7406
+aS'PART'
+p7407
+aS'o.0'
+p7408
+aS'pm my brass knuckles...'
+p7409
+aS'any hot sexy guys wanna chat pm me'
+p7410
+aS'Hey 11-08-teensUser108'
+p7411
+aS'hey 11-08-teensUser29'
+p7412
+aS'PART'
+p7413
+aS'pm me'
+p7414
+aS'Whaaa?'
+p7415
+aS'u aint gonna find washboard abs and a gret smile on the internet, ladies....damn'
+p7416
+aS'PART'
+p7417
+aS'any guys wanna chat with me'
+p7418
+aS'ok'
+p7419
+aS'PART'
+p7420
+aS'match.com'
+p7421
+aS'take it elsewhere'
+p7422
+aS'.ACTION whispers: get a life.'
+p7423
+aS'PART'
+p7424
+aS'JOIN'
+p7425
+aS"Don't do that whisper shit."
+p7426
+aS'JOIN'
+p7427
+aS'hello all'
+p7428
+aS'haha'
+p7429
+aS'???'
+p7430
+aS'how is everyone'
+p7431
+aS'PART'
+p7432
+aS'heyheyhey'
+p7433
+aS'fu ck u dude'
+p7434
+aS'.ACTION whispers: what the hell for?.'
+p7435
+aS'JOIN'
+p7436
+aS'-_-'
+p7437
+aS'I meant it 11-08-teensUser56.'
+p7438
+aS'who u talkin to?'
+p7439
+aS'PART'
+p7440
+aS"It's annoying."
+p7441
+aS'what we talkin about?'
+p7442
+aS'is there a girl who can talk to me (17/F)? PM me if so.'
+p7443
+aS'is there a girl who can talk to me (17/F). PM me if so.'
+p7444
+aS'You gonna kick me, 11-08-teensUser111?'
+p7445
+aS'You gonna kick me, 11-08-teensUser111.'
+p7446
+aS'JOIN'
+p7447
+aS'PART'
+p7448
+aS'how big are them guns, texan??'
+p7449
+aS"I'll do something much worse."
+p7450
+aS'JOIN'
+p7451
+aS'.ACTION assumes the position.'
+p7452
+aS'Like?'
+p7453
+aS'like one inch'
+p7454
+aS".ACTION farts in 11-08-teensUser56's face.."
+p7455
+aS'JOIN'
+p7456
+aS'hehehe fart'
+p7457
+aS'.ACTION inhales deeply.'
+p7458
+aS'shell murder anyone u ever talked to'
+p7459
+aS'hi sean'
+p7460
+aS'.ACTION whispers: ur a douche.'
+p7461
+aS'who'
+p7462
+aS'PART'
+p7463
+aS'.ACTION whispers: you eat dog shit, and howl at the moon..'
+p7464
+aS'..'
+p7465
+aS'Sorry 11-08-teensUser56.'
+p7466
+aS'hahaha'
+p7467
+aS'who'
+p7468
+aS'why yall so mean'
+p7469
+aS'So?'
+p7470
+aS'Lol'
+p7471
+aS'damn...'
+p7472
+aS'yeah'
+p7473
+aS'cant we all just get along'
+p7474
+aS'..'
+p7475
+aS'JOIN'
+p7476
+aS'Ohio anybody???'
+p7477
+aS"It didn't even go through."
+p7478
+aS'no'
+p7479
+aS'STOP.'
+p7480
+aS'ky'
+p7481
+aS'close'
+p7482
+aS'PART'
+p7483
+aS'PART'
+p7484
+aS'what up'
+p7485
+aS'clearly we all cannot get along...'
+p7486
+aS'JOIN'
+p7487
+aS'i like it'
+p7488
+aS'PART'
+p7489
+aS'JOIN'
+p7490
+aS'Take on me...'
+p7491
+aS'-'
+p7492
+aS'JOIN'
+p7493
+aS'PART'
+p7494
+aS"*You're not an IRC operator."
+p7495
+aS'Wtf.'
+p7496
+aS'WTF'
+p7497
+aS'so how are the girls in here tonight?'
+p7498
+aS'so how are the girls in here tonight.'
+p7499
+aS'JOIN'
+p7500
+aS'JOIN'
+p7501
+aS'anyone  here listen to z-ro?'
+p7502
+aS'dead'
+p7503
+aS'any guys wanna chat?'
+p7504
+aS'hey everybody wats up?'
+p7505
+aS'what up'
+p7506
+aS'asl hog?'
+p7507
+aS'bad car accident on the way here'
+p7508
+aS'any girls wanna chat'
+p7509
+aS'???'
+p7510
+aS'the information superhiway was all jammed up'
+p7511
+aS'i am 13 female washington state chat any1'
+p7512
+aS'what good with u 11-08-teensUser137'
+p7513
+aS'it suked'
+p7514
+aS'and u dont know kennedy'
+p7515
+aS'13!!!!!!!!!!!'
+p7516
+aS'from washington??'
+p7517
+aS'JOIN'
+p7518
+aS'JOIN'
+p7519
+aS'female w/cingular cell phone, pm me'
+p7520
+aS'where the girls at'
+p7521
+aS'u arent allowed in here me thinks'
+p7522
+aS'lol'
+p7523
+aS'Haha why cingular?'
+p7524
+aS'here'
+p7525
+aS'ne bi females wanna chat holla'
+p7526
+aS'JOIN'
+p7527
+aS'lol'
+p7528
+aS'T-Mobile'
+p7529
+aS'nah'
+p7530
+aS'not t'
+p7531
+aS'any gurls wana chat????17/m/nz pm me'
+p7532
+aS'G-Mobile'
+p7533
+aS'lol'
+p7534
+aS'gotaa get at my Gs'
+p7535
+aS'PART'
+p7536
+aS'lol'
+p7537
+aS'=/'
+p7538
+aS'well this is fun'
+p7539
+aS'haha'
+p7540
+aS'PART'
+p7541
+aS'i am satan'
+p7542
+aS'and u r dead'
+p7543
+aS'damn'
+p7544
+aS'not me'
+p7545
+aS'this room is bluer than my balls'
+p7546
+aS'hey everybody'
+p7547
+aS'u just dont know'
+p7548
+aS'lol'
+p7549
+aS'no ball talk'
+p7550
+aS'hey'
+p7551
+aS'PART'
+p7552
+aS'ill miss whoever the hell he was'
+p7553
+aS'PART'
+p7554
+aS'ppl acting green in here'
+p7555
+aS'im green blooded'
+p7556
+aS'yeah me too'
+p7557
+aS'i guess'
+p7558
+aS'good'
+p7559
+aS'i got blue blood'
+p7560
+aS'im bored pm me guys'
+p7561
+ag971
+aS'JOIN'
+p7562
+aS'11-08-teensUser141 hello'
+p7563
+aS"She's still preoccupied....1985"
+p7564
+aS'any hot girls wanna chat??'
+p7565
+aS'JOIN'
+p7566
+aS':11-08-teensUser142!11-08-teensUser142@11-08-teensUser142 MODE #14-19teens +o 11-08-teensUser142'
+p7567
+aS'>>>>>>>>>>>19,m,pa'
+p7568
+aS'PART'
+p7569
+aS'slam'
+p7570
+aS'JOIN'
+p7571
+aS'PART'
+p7572
+aS'not a damn dating service'
+p7573
+aS'PART'
+p7574
+aS'jesus H christ'
+p7575
+aS'seems like a dating service...'
+p7576
+aS'damn!'
+p7577
+aS'JOIN'
+p7578
+aS'match. com'
+p7579
+aS'anymore thats why people are here...'
+p7580
+aS'cya all'
+p7581
+ag971
+aS'cheers'
+p7582
+aS'PART'
+p7583
+aS'for the boredom'
+p7584
+aS'im here to find victims...'
+p7585
+aS'PART'
+p7586
+aS'JOIN'
+p7587
+aS'PART'
+p7588
+aS'haha'
+p7589
+aS'11-08-teensUser144!'
+p7590
+aS'hmm...you like killing people?'
+p7591
+aS'females pm me'
+p7592
+aS'mhm'
+p7593
+aS'who u gonna kill 11-08-teensUser119?'
+p7594
+aS'who u gonna kill 11-08-teensUser119.'
+p7595
+aS'I can seeee youuuu.'
+p7596
+aS"Your brown skin shinnin' in the sunnn."
+p7597
+aS'....oh ......whatever...i dont care lol'
+p7598
+aS'all of em!!!!'
+p7599
+aS'kill all you want....'
+p7600
+aS'hopefully...'
+p7601
+aS'i aint gonna stop you...'
+p7602
+aS'good'
+p7603
+aS'good'
+p7604
+aS'wanna help?'
+p7605
+aS'I can tell you my love for you will still be strong after the boys of summer have goneee.'
+p7606
+aS'JOIN'
+p7607
+aS'I never will forget those nights.'
+p7608
+aS'yea sure...why not'
+p7609
+aS'I wonder if it was a dreammm.'
+p7610
+aS"what''"
+p7611
+aS'pleez dont say boys of summer'
+p7612
+aS'lets kill these bitches....'
+p7613
+aS'JOIN'
+p7614
+aS'ever'
+p7615
+aS'ok'
+p7616
+aS'what'
+p7617
+aS'I love this song.'
+p7618
+aS'JOIN'
+p7619
+aS"You'll live."
+p7620
+aS'kill em all'
+p7621
+aS'is there any girl who can just talk to me (17/F)? PM me please. thanks'
+p7622
+aS'is there any girl who can just talk to me (17/F). PM me please. thanks'
+p7623
+aS'what` song'
+p7624
+aS'am\\'
+p7625
+aS'hmmm... u eva thought of seeing a psychologist? u seem to have an unusual and disturbing fettish for killing 11-08-teensUser119'
+p7626
+aS'JOIN'
+p7627
+aS'JOIN'
+p7628
+aS'JOIN'
+p7629
+aS'...lets kill these bitches...'
+p7630
+aS'PART'
+p7631
+aS'any one here from pine city'
+p7632
+aS'PART'
+p7633
+aS'JOIN'
+p7634
+aS'PART'
+p7635
+aS'what is unusual about it?'
+p7636
+aS'lets kill em!'
+p7637
+aS'Wb'
+p7638
+aS'.wz 33982 '
+p7639
+aS'PART'
+p7640
+aS'PART'
+p7641
+aS'i didnt come up with any more of a plan'
+p7642
+aS'no!!!!!!!!!!!!!!!!'
+p7643
+aS'than wanting to kill em'
+p7644
+aS'with a goddamn hatchet'
+p7645
+aS'JOIN'
+p7646
+aS'JOIN'
+p7647
+aS'White and black...the friendly bears of China...White and black...they rarly reproduce....'
+p7648
+aS'JOIN'
+p7649
+aS'haha'
+p7650
+aS'ok'
+p7651
+aS'JOIN'
+p7652
+aS'PART'
+p7653
+aS'JOIN'
+p7654
+aS'me too'
+p7655
+aS'.wz 33982'
+p7656
+aS'JOIN'
+p7657
+aS' .Punta Gorda, Florida. -- 10.  10:49 PM EST'
+p7658
+aS' .Temp. 76%    '
+p7659
+aS'hey, a/s/l?'
+p7660
+aS'JOIN'
+p7661
+aS'what should we do about these chineese bears...what should we do about these friendly bears...'
+p7662
+aS'JOIN'
+p7663
+aS'die they must die...the pandas must die...die they must die..the pandas must die...'
+p7664
+aS'yay!'
+p7665
+aS'marilyn manson and charlie manson?? which one?'
+p7666
+aS'marilyn manson and charlie manson.. which one.'
+p7667
+aS'PART'
+p7668
+aS'the world may never know...'
+p7669
+aS'hi everybody!!...anyone wanna chat...17 f here'
+p7670
+aS'Hey and single girls in here'
+p7671
+aS'JOIN'
+p7672
+aS'18 m il, girls PM me'
+p7673
+aS'nirvana'
+p7674
+aS'rocks'
+p7675
+aS'JOIN'
+p7676
+aS'JOIN'
+p7677
+aS'PART'
+p7678
+aS'yeas'
+p7679
+aS'anyone like screamo'
+p7680
+aS'PART'
+p7681
+aS'JOIN'
+p7682
+aS'what?'
+p7683
+aS'puke!'
+p7684
+aS'yeah!'
+p7685
+aS'JOIN'
+p7686
+aS'eeeeeeeeewwwwwwww'
+p7687
+aS'yeah...'
+p7688
+aS'.ACTION pukes all over the place....'
+p7689
+aS'JOIN'
+p7690
+aS'i like to murder yo kids'
+p7691
+aS'anybody lesbian want to talk'
+p7692
+aS'blowing chunks'
+p7693
+aS'any guys wanna talk with f 19 tx '
+p7694
+aS'PART'
+p7695
+aS'JOIN'
+p7696
+aS'cookies?'
+p7697
+aS'Who the crap is that'
+p7698
+aS'cookies.'
+p7699
+aS'PART'
+p7700
+aS'chucking'
+p7701
+aS'spewing'
+p7702
+aS'goodie pm me'
+p7703
+aS'haha'
+p7704
+aS'hurling'
+p7705
+aS'yes'
+p7706
+aS'lol'
+p7707
+aS'damn'
+p7708
+aS'.ACTION * Pearl Jam - Better Man.mp3 .(..(.vMp3 vi.p.t.)..)..'
+p7709
+aS'waaa!'
+p7710
+aS'the classic vomiting...'
+p7711
+aS'yeas'
+p7712
+aS'everyone to their own'
+p7713
+aS'any mexican or black guyz in her im me'
+p7714
+aS'PART'
+p7715
+aS'eay some 11-08-teensUser119 to sober up...'
+p7716
+aS'11-08-teensUser145 is looking for a good time ^'
+p7717
+aS'PART'
+p7718
+aS'>>>>>>>>>>19,m,pa'
+p7719
+aS'courtney love'
+p7720
+aS'haha'
+p7721
+aS'yeah right'
+p7722
+aS'11-08-teensUser141 is too ^'
+p7723
+aS'11-08-teensUser145 only wants black men'
+p7724
+aS'haha'
+p7725
+aS'JOIN'
+p7726
+aS'what?'
+p7727
+aS'me too'
+p7728
+aS'any austin texas area ladies in here'
+p7729
+aS'and mexicans...'
+p7730
+aS'lol'
+p7731
+aS'jk'
+p7732
+aS'JOIN'
+p7733
+aS'MATCH.COM'
+p7734
+aS'not here'
+p7735
+aS'what is a fly?'
+p7736
+aS'JOIN'
+p7737
+aS'hmmm'
+p7738
+aS'any guys wanna chat with a very nauty girl'
+p7739
+aS'11-08-teensUser119, no urls'
+p7740
+aS'really??'
+p7741
+aS'ok'
+p7742
+aS'PART'
+p7743
+aS'PART'
+p7744
+aS'heya all '
+p7745
+aS'why?'
+p7746
+aS'star asl?'
+p7747
+aS'yes'
+p7748
+aS'i cannot spell url'
+p7749
+aS'why?'
+p7750
+aS'JOIN'
+p7751
+aS'JOIN'
+p7752
+aS'cuz its law...'
+p7753
+aS'JOIN'
+p7754
+aS'yes'
+p7755
+aS'wasup room 19 m md'
+p7756
+aS'my brain screams at me to kill'
+p7757
+aS'PART'
+p7758
+aS'JOIN'
+p7759
+aS'why?'
+p7760
+aS'PART'
+p7761
+aS'....my brain screams at me to sleep....'
+p7762
+aS'goodnight'
+p7763
+aS'blood on the bandsaw'
+p7764
+aS'PART'
+p7765
+aS'anyone wanna chat'
+p7766
+aS'bodies on the floor'
+p7767
+aS'yes'
+p7768
+aS'...11-08-teensUser119 likes to kill things....'
+p7769
+aS'really'
+p7770
+aS'PART'
+p7771
+aS'hangin from the rafters'
+p7772
+aS'no joke'
+p7773
+aS'lets pick on him....'
+p7774
+aS'yeah'
+p7775
+aS'PART'
+p7776
+aS'any guys wanna chat wit a 16 f from australia?'
+p7777
+aS'any guys wanna chat wit a 16 f from australia.'
+p7778
+aS' hey yall 17 f tx '
+p7779
+aS'hi everyone!:)'
+p7780
+aS'i suck'
+p7781
+aS'PART'
+p7782
+aS'.ACTION * Shinedown - Save Me.mp3 .(..(.vMp3 vi.p.t.)..)..'
+p7783
+aS'hey'
+p7784
+aS'u got kids?'
+p7785
+aS'any 1 wanna chat'
+p7786
+aS'i wont let this build up inside of me....'
+p7787
+aS'any 1 wanna chat'
+p7788
+aS'JOIN'
+p7789
+aS'what u suck 11-08-teensUser119?'
+p7790
+aS'what u suck 11-08-teensUser119.'
+p7791
+aS'can i kill em?'
+p7792
+aS'JOIN'
+p7793
+aS'18 m il here, girls PM me'
+p7794
+aS'no'
+p7795
+aS'i suck .45 barrel before pulling trigger'
+p7796
+aS'JOIN'
+p7797
+aS'where in il'
+p7798
+aS'ldskdlsf'
+p7799
+aS'haha'
+p7800
+aS'sldfjlsdf'
+p7801
+aS'sdlfkjsj'
+p7802
+aS'meeeeeeeeeeeee.'
+p7803
+aS'PART'
+p7804
+aS'PART'
+p7805
+aS'el rey'
+p7806
+aS'11-08-teensUser154'
+p7807
+aS'JOIN'
+p7808
+aS'PART'
+p7809
+aS'teck n9ne is back fellows'
+p7810
+aS'take yo damn medicine'
+p7811
+aS'11-08-teensUser154'
+p7812
+aS'JOIN'
+p7813
+aS'for one more year'
+p7814
+aS':)'
+p7815
+aS'norman'
+p7816
+aS'Hello Room'
+p7817
+aS'hey'
+p7818
+aS'mmmmmmmmmmmmmm cooooooooookiiiiiiiiiiiieeeeeeeeeeee yuuuuuuuuuuuummmmmmmmmmmm'
+p7819
+aS'Anyone want to chat?'
+p7820
+aS'heyheyhey'
+p7821
+aS'i vuela vuela vuela'
+p7822
+aS'Yay...democrats have taken the house!'
+p7823
+aS'JOIN'
+p7824
+aS'hello any girl to talk to im female 14'
+p7825
+aS'pm'
+p7826
+aS'eat me! please!'
+p7827
+aS'any guys wanna chat'
+p7828
+aS'i will sue u '
+p7829
+aS'PART'
+p7830
+aS' sugar'
+p7831
+aS'i got '
+p7832
+aS'Welcome, 11-08-teensUser114! '
+p7833
+aS'i hate em all i do not descriminate'
+p7834
+aS'PART'
+p7835
+aS'wooo'
+p7836
+aS"woo'"
+p7837
+aS'yes!'
+p7838
+aS'PART'
+p7839
+aS'*eats 11-08-teensUser154*'
+p7840
+aS'u look good in them jeans'
+p7841
+aS'who wants cookies?'
+p7842
+aS'i like it'
+p7843
+aS'and i am not a ppolitical product of my breeding'
+p7844
+aS'anygirl to chat pm female here'
+p7845
+aS'any little hotties wanna get dirty?'
+p7846
+aS'any little hotties wanna get dirty.'
+p7847
+aS'i want your cookie'
+p7848
+aS'Wtf, man'
+p7849
+aS'ok 11-08-teensUser67 get out'
+p7850
+aS'uuuhhh'
+p7851
+aS'get it here!'
+p7852
+aS'you sick shit...'
+p7853
+aS'wooo'
+p7854
+aS'i already ate it, sori guys'
+p7855
+aS'where'
+p7856
+aS'between'
+p7857
+aS'PART'
+p7858
+aS'lol'
+p7859
+aS'jk'
+p7860
+aS'jk'
+p7861
+aS'in my house in poooland!'
+p7862
+aS'JOIN'
+p7863
+aS'jk'
+p7864
+aS'jk'
+p7865
+aS'PART'
+p7866
+aS'eat my gun'
+p7867
+aS'any girls want to talk dirty'
+p7868
+aS'poooland cookies.'
+p7869
+aS'JOIN'
+p7870
+aS'no i only eat cookies... '
+p7871
+aS'PART'
+p7872
+aS'im not into death'
+p7873
+aS'yay!'
+p7874
+aS'11-08-teensUser139...shush...'
+p7875
+aS'hello room '
+p7876
+aS'me too.'
+p7877
+aS'u better be'
+p7878
+aS'any female wanna chat with an 19 m md'
+p7879
+aS'I love to eat me.'
+p7880
+aS'blah blah...boring spot....all these freaks and geeks..lol(jk about the geeks)'
+p7881
+aS'deaths comin 4 ya'
+p7882
+aS'18 /m/pa here'
+p7883
+aS'>>>>>>>>>>>>19,m,pa'
+p7884
+aS'hey where in md?'
+p7885
+aS'JOIN'
+p7886
+aS'any hot sexy guys wanna chat pm me'
+p7887
+aS'brbbb.'
+p7888
+aS'PART'
+p7889
+aS'heard of nirvana?'
+p7890
+aS"hello teens i'm 26 years old"
+p7891
+aS'yo!'
+p7892
+aS'get out 11-08-teensUser169'
+p7893
+aS'im 9'
+p7894
+aS'im on a fast track to self destruction and homicide if theres time'
+p7895
+aS'JOIN'
+p7896
+aS'Yo!'
+p7897
+aS'JOIN'
+p7898
+aS'11-08-teensUser169...your way to old...'
+p7899
+aS'where is everybody?'
+p7900
+aS'JOIN'
+p7901
+aS'can i talk with you'
+p7902
+aS'11-08-teensUser154 had some crack'
+p7903
+aS'any cali guys in here??'
+p7904
+aS'yes'
+p7905
+aS'...prolly not...'
+p7906
+aS'PART'
+p7907
+aS"lol 'hey teens'"
+p7908
+aS'maybe'
+p7909
+aS'any pa females in here'
+p7910
+aS'PART'
+p7911
+aS'did he get booted or did he leave...'
+p7912
+aS'yes'
+p7913
+aS'are u pedofile'
+p7914
+aS'!seen 11-08-teensUser169'
+p7915
+aS'11-08-teensUser169 (11-08-teensUser169@11-08-teensUser169) was last seen being kicked by 11-08-teensUser111 only 21 seconds ago.'
+p7916
+aS'JOIN'
+p7917
+aS'JOIN'
+p7918
+aS'18 m il here, girls PM me'
+p7919
+aS'slkfjsldkfjs'
+p7920
+aS'no'
+p7921
+aS'hmmm... for a 14-19 chat, 11-08-teensUser169 doesnt seem to fit in, does he?'
+p7922
+aS'hmmm... for a 14-19 chat, 11-08-teensUser169 doesnt seem to fit in, does he.'
+p7923
+aS'Hey, 11-08-teensUser114'
+p7924
+aS'kookies'
+p7925
+aS'haha'
+p7926
+aS'nope...'
+p7927
+aS'hi 11-08-teensUser128 <333'
+p7928
+aS'JOIN'
+p7929
+aS'PART'
+p7930
+aS'<333'
+p7931
+aS'whats up?'
+p7932
+aS'was he 56'
+p7933
+aS'i want to swim in poooland!'
+p7934
+aS'Long time no chat!'
+p7935
+aS'26 lol'
+p7936
+aS'PART'
+p7937
+aS'yes'
+p7938
+aS'true dat'
+p7939
+aS'PART'
+p7940
+aS'Ha.'
+p7941
+aS'aaaaaaaaaaaaaaaaa!'
+p7942
+aS'I know'
+p7943
+aS'any females in here from pa'
+p7944
+aS'poooland'
+p7945
+aS'Im so bored =['
+p7946
+aS'..hmm...'
+p7947
+aS'raaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+p7948
+aS'JOIN'
+p7949
+aS'PART'
+p7950
+aS'weeeeeeeeeeeeeeee!'
+p7951
+aS'yawn..'
+p7952
+aS'oooooooooooglyyyyyyyy boooooooooooglyyyyyy'
+p7953
+ag971
+aS'Anyone want to chat? 20/m/md'
+p7954
+aS'wanna sleep'
+p7955
+aS'PART'
+p7956
+aS'you coudl write me a poem 11-08-teensUser128'
+p7957
+aS'LoL'
+p7958
+aS'im like five seconds from ripping into a bottle of jack'
+p7959
+aS'PART'
+p7960
+aS'Yes he is'
+p7961
+aS'how are we all?'
+p7962
+aS'tick tock'
+p7963
+aS'PART'
+p7964
+aS'tick tock'
+p7965
+aS"He's moved on to 11-09-20sUser80 now though."
+p7966
+aS'JOIN'
+p7967
+aS'11-09-20sUser101 yes im here'
+p7968
+aS'JOIN'
+p7969
+aS'JOIN'
+p7970
+aS'HELLO ROOM ANYONE WANNA CHAT WITH 23 FEMALE FROM VIRGINIA'
+p7971
+aS'ohhhh damn,,,, i  have been cast aside??'
+p7972
+aS'ohhhh damn,,,, i  have been cast aside..'
+p7973
+aS'.4 Rule 4. Please do not type in all CAPS, it is considered yelling. (Three warnings Max)'
+p7974
+aS'JOIN'
+p7975
+aS'Officer 11-09-20sUser114...on the ball as usual'
+p7976
+aS'You have.'
+p7977
+aS'anyone want to chat with me'
+p7978
+aS'!20'
+p7979
+aS'.Question:. Favorite junk food besides candy?'
+p7980
+aS'JOIN'
+p7981
+aS'11-09-20sUser31 why arent you employed?'
+p7982
+aS'11-09-20sUser31 why arent you employed.'
+p7983
+aS'CHIPS'
+p7984
+aS'.ACTION tips her hat to 11-09-20sUser60.'
+p7985
+aS'PART'
+p7986
+aS'!scorpio'
+p7987
+aS'.Scorpio.: Have you been spending too much time on something that is essentially a lost cause? Think about this matter very seriously. Is it making your life easier or harder? Could you put your energy to better use?.'
+p7988
+aS'any girls wana chat with 27-m-canada pm me'
+p7989
+aS'Quarter Pounder'
+p7990
+aS'PART'
+p7991
+aS'JOIN'
+p7992
+aS'lmao'
+p7993
+aS"I'm with you on that 11-09-20sUser68"
+p7994
+aS'!virgo '
+p7995
+aS"I'd like to chat cutie"
+p7996
+aS'beer'
+p7997
+aS'Hiya everyone '
+p7998
+aS'Aww'
+p7999
+aS'you can pm'
+p8000
+aS"that's hilarious"
+p8001
+aS'11-09-20sUser101 im sorry i said  wanna ago'
+p8002
+aS'i warned him'
+p8003
+aS'LOL'
+p8004
+aS'Oh'
+p8005
+aS'JOIN'
+p8006
+aS'I missed that.'
+p8007
+aS'anybody from wisconsin?'
+p8008
+aS'lol its ok'
+p8009
+aS'!rooster'
+p8010
+aS".Rooster.: If you're single, you're going to meet the person of your dreams. If your neighbor or a relation looks for a quarrel, turn your back. This astral climate will enable you to settle important problems concerning the family's belongings or a sensitive matter of inheritance; however, remain vigilant and even distrustful. You'll enter this day in very good physical and moral shape; try not to rush too much. Tense climate in"
+p8011
+aS'your home; watch out so as not to spark a crisis..'
+p8012
+aS'huh?'
+p8013
+aS'LoL'
+p8014
+aS'JOIN'
+p8015
+aS'Nooo'
+p8016
+aS'I have some really good friends there 11-09-20sUser23'
+p8017
+aS'LOL'
+p8018
+aS'JOIN'
+p8019
+aS'there if he isnt bothering you you can play'
+p8020
+aS'JOIN'
+p8021
+aS'I am perving'
+p8022
+aS".ACTION spins Lil Jon f. Pastor Troy ~ Let's Go!."
+p8023
+aS'no comprende'
+p8024
+aS'one in appleton'
+p8025
+aS'any ladies wana chat with a canadaian'
+p8026
+aS'hi room'
+p8027
+aS'PART'
+p8028
+aS'What the bloody hell happened there'
+p8029
+aS'PART'
+p8030
+aS'somebody type perving?'
+p8031
+aS'.ACTION plays with 11-09-20sUser68 like a puppet.'
+p8032
+aS'JOIN'
+p8033
+aS'lol'
+p8034
+aS'Hi guys..'
+p8035
+aS'PART'
+p8036
+aS'JRZ sorry about that'
+p8037
+aS'11-09-20sUser101  like what'
+p8038
+aS'yeah I get perved often for some reason '
+p8039
+aS'any females want to chat with norny guy pm me'
+p8040
+aS'JOIN'
+p8041
+aS'PART'
+p8042
+aS'.ACTION dances like a fuckin fool.'
+p8043
+aS'I got cut off'
+p8044
+aS"11-09-20sUser105 you've grown a tail"
+p8045
+aS'i never get perved'
+p8046
+aS'JOIN'
+p8047
+aS'11-09-20sUser80 i like you'
+p8048
+aS'hey'
+p8049
+aS'i perved ya 11-09-20sUser59'
+p8050
+aS'JOIN'
+p8051
+aS'Seee 11-09-20sUser101...'
+p8052
+aS'lol thanks i think'
+p8053
+aS'bob and weave bob and weave'
+p8054
+aS'ok ok im back'
+p8055
+aS'its always....."ewwwww"'
+p8056
+aS'what is the conversion about..?any guide for me?'
+p8057
+aS'what is the conversion about...any guide for me.'
+p8058
+aS'I did to 11-09-20sUser59'
+p8059
+aS'What the hell? Where did the 2 come from???'
+p8060
+aS'What the hell. Where did the 2 come from...'
+p8061
+aS'who did?'
+p8062
+aS'LoL'
+p8063
+aS'lmao'
+p8064
+aS'!smooch room damn it'
+p8065
+aS".ACTION walks up to room damn it, runs their fingers thru the back of room damn it's hair, closes their eyes, and gently kisses room damn it on the neck, Compliments of 11-09-20sUser34!."
+p8066
+aS'PART'
+p8067
+aS'hi 31f ga im me to chat'
+p8068
+aS'waddup'
+p8069
+aS'!20'
+p8070
+aS'.Question:. Who do you respect the most?'
+p8071
+aS'me'
+p8072
+aS'JOIN'
+p8073
+aS'My mum'
+p8074
+aS'.wz 29803'
+p8075
+aS' .Aiken, South Carolina. -- 6.  6:38 PM EST'
+p8076
+aS'hi'
+p8077
+aS' .Temp. 70%    '
+p8078
+aS'.wz 92780 '
+p8079
+aS'PART'
+p8080
+aS'Anyone who want to chat?'
+p8081
+aS'PART'
+p8082
+aS'ah good night to have the top down'
+p8083
+aS'JOIN'
+p8084
+aS'hey'
+p8085
+aS'no 11-09-20sUser126 im just here to look'
+p8086
+aS'thanks anyways'
+p8087
+aS'JOIN'
+p8088
+aS'11-09-20sUser80 you like me'
+p8089
+aS'maybe i should put a new pic up'
+p8090
+aS'.ACTION snuggles 11-09-20sUser80.'
+p8091
+aS'ah, ok 11-09-20sUser34'
+p8092
+aS'nah your pic is just fine '
+p8093
+aS'JOIN'
+p8094
+aS'PART'
+p8095
+aS'JOIN'
+p8096
+aS'well i look different now'
+p8097
+aS'ok Now Im pissed'
+p8098
+aS'no problemo'
+p8099
+aS'i dyed my hair and chopped it off'
+p8100
+aS'See i told you what to do'
+p8101
+aS'and you just left'
+p8102
+aS"isn't my fault"
+p8103
+aS'PART'
+p8104
+aS'11-09-20sUser105 why u pissed'
+p8105
+aS'JOIN'
+p8106
+aS'I see '
+p8107
+aS'i dont know you 11-09-20sUser31 '
+p8108
+aS'Did some fucker cut me off'
+p8109
+aS'No'
+p8110
+aS'PART'
+p8111
+aS'JOIN'
+p8112
+aS'cut you off'
+p8113
+aS'PART'
+p8114
+aS'it happens sometimes.'
+p8115
+aS'JOIN'
+p8116
+aS'!20'
+p8117
+aS'.Question:. Hug or a kiss?'
+p8118
+aS"so I guess I shouldn't use your pic as wallpaper for my laptop :) lol "
+p8119
+aS'lol'
+p8120
+aS'any girls wanna chat PM me'
+p8121
+aS'Oh just fucking ignore me then!'
+p8122
+aS'i ll get you a more current one :-o '
+p8123
+aS'brb'
+p8124
+aS'hb!'
+p8125
+aS'A fuck would suffice haha '
+p8126
+aS'PART'
+p8127
+aS'hi 11-09-20sUser45'
+p8128
+aS'PART'
+p8129
+aS'propper english'
+p8130
+aS'its a family tradition'
+p8131
+aS'lol'
+p8132
+aS'JOIN'
+p8133
+aS'JOIN'
+p8134
+aS'!spin'
+p8135
+aS'11-09-20sUser114 spins the bottle .....'
+p8136
+aS'PART'
+p8137
+aS'!seen 11-09-20sUser988'
+p8138
+aS'Where it will point nobody knows ....'
+p8139
+aS'Round and round it goes .....'
+p8140
+aS'slowly comes to a stop... pointing at 11-09-20sUser43!!!'
+p8141
+aS'hello darlings'
+p8142
+aS'Now 11-09-20sUser114 you must dance with --> 11-09-20sUser43!!'
+p8143
+aS'*fuck the system hel over the comon man just to dis em believe int he power of the single man to take the power trippin world in his hand*'
+p8144
+aS'11-09-20sUser53 where are you?'
+p8145
+aS'Yeah 11-09-20sUser34 haha its proper'
+p8146
+aS'11-09-20sUser988 (11-09-20sUser988@11-09-20sUser988) Last seen: 6 hours, 32 minutes ago.'
+p8147
+aS'Wb 11-09-20sUser89!!!!'
+p8148
+aS'!kiss 11-09-20sUser114 my baby'
+p8149
+aS'.ACTION watches as 11-09-20sUser89 kisses 11-09-20sUser114 my baby so passionately that the channel shoots a scintillating beam of magical energy!.'
+p8150
+aS':)'
+p8151
+aS'no i meant yr propper eng for saying that'
+p8152
+aS'who wants to play'
+p8153
+aS'JOIN'
+p8154
+aS'.ACTION dances with 11-09-20sUser43.'
+p8155
+aS'rather dance with me 11-09-20sUser114'
+p8156
+aS'if i get stoned im just carrying on a family tradition'
+p8157
+aS'Yes'
+p8158
+aS'LOL'
+p8159
+aS'amen 11-09-20sUser72'
+p8160
+aS'!dance 11-09-20sUser89'
+p8161
+aS'hey 11-09-20sUser114'
+p8162
+aS'puff puff pass to 11-09-20sUser72 '
+p8163
+aS'.ACTION turns up the music as 11-09-20sUser114 dances with 11-09-20sUser89..'
+p8164
+aS'you daft twit scum bag git'
+p8165
+aS'!seen meyooky'
+p8166
+aS"I've never seen: meyooky."
+p8167
+aS'!20'
+p8168
+aS'.Question:. Would you ever walk downtown without any shoes on your feet? '
+p8169
+aS'hi 11-09-20sUser134'
+p8170
+aS'PART'
+p8171
+aS'11-09-20sUser34 long time no see lover'
+p8172
+aS'have you seen 11-09-20sUser53?'
+p8173
+aS'JOIN'
+p8174
+aS'hey people any females want to chat to a guy from downunder?'
+p8175
+aS'hey people any females want to chat to a guy from downunder.'
+p8176
+aS'yes darling long time '
+p8177
+aS"she's not answering her pms??"
+p8178
+aS'!kiss 11-09-20sUser89'
+p8179
+aS'.ACTION awww come on 11-09-20sUser89 give 11-09-20sUser34 a kiss! Type !kiss 11-09-20sUser34.'
+p8180
+aS'o0 what we dancing to 11-09-20sUser114?'
+p8181
+aS'o0 what we dancing to 11-09-20sUser114.'
+p8182
+aS'me and my widow ready to hit the town'
+p8183
+aS'pm me?'
+p8184
+aS'!frenchkiss 11-09-20sUser34'
+p8185
+aS'.ACTION WHOA! We got some action baby.... 11-09-20sUser89 and 11-09-20sUser34 are french kissing!.'
+p8186
+aS'I think she is afk'
+p8187
+aS'PART'
+p8188
+aS'JOIN'
+p8189
+aS'PART'
+p8190
+aS'hi to all canadian girls '
+p8191
+aS'JOIN'
+p8192
+aS"hope she didn't go to sleep"
+p8193
+aS'11-09-20sUser41 are you down under a table?'
+p8194
+aS'11-09-20sUser41 are you down under a table.'
+p8195
+aS'hey room'
+p8196
+aS'you filthy boy'
+p8197
+aS'i really gotta talk to her.'
+p8198
+aS'I think she said something about chinese food!'
+p8199
+aS'were are all the ladies at'
+p8200
+aS'puff puff here you go someone take it toke'
+p8201
+aS'who wants to learn spanish '
+p8202
+aS'ribs'
+p8203
+aS"ahh and she didn't invite me!"
+p8204
+aS'just ask'
+p8205
+aS'ooh chinese food'
+p8206
+aS'lol.......why are you getting xcitable?'
+p8207
+aS'lol.......why are you getting xcitable.'
+p8208
+aS'PART'
+p8209
+aS'PART'
+p8210
+aS'JOIN'
+p8211
+aS'grassyass garciae'
+p8212
+aS'JOIN'
+p8213
+aS'PART'
+p8214
+aS'!20'
+p8215
+aS'JOIN'
+p8216
+aS'.Question:. Eggs - Sunny side up or scrambled?'
+p8217
+aS'.ACTION spins Lil Wyte ~ I know you Strapped.'
+p8218
+aS'Heyy everyone'
+p8219
+aS'aloha room'
+p8220
+aS'Hey 11-09-20sUser144!!!'
+p8221
+aS'scrambled '
+p8222
+aS'=] Hi 11-09-20sUser114'
+p8223
+aS'bbl im gonna play a game with my moms'
+p8224
+aS'Over medium!'
+p8225
+aS'trippy song when ya blazed'
+p8226
+aS'both ways...wid salsa'
+p8227
+aS'West Little Rock, Arkansas here'
+p8228
+aS'Why are there only two choices'
+p8229
+aS'Okkkkkk hb 11-09-20sUser80.'
+p8230
+aS'well i would be 11-09-20sUser41 but my table too dam low'
+p8231
+aS'Heyy 11-09-20sUser103'
+p8232
+aS'28 m hawaii here if n e 1 is interested'
+p8233
+aS"I'm in Arkansas too"
+p8234
+aS'PART'
+p8235
+aS'JOIN'
+p8236
+aS'PART'
+p8237
+aS'JOIN'
+p8238
+aS'ok i am gonna go goof off at work somemore'
+p8239
+aS'yay got in'
+p8240
+aS'PART'
+p8241
+aS'howz every1 today?'
+p8242
+aS'see ya all later'
+p8243
+aS'PART'
+p8244
+aS'c ya 11-09-20sUser101'
+p8245
+aS'27-m-canada with cam girls pm me'
+p8246
+aS'22 f arizona here'
+p8247
+aS'my friend studied in little rock for a year'
+p8248
+aS'hey everyone'
+p8249
+aS'Hey 11-09-20sUser144'
+p8250
+aS'JOIN'
+p8251
+aS'hi 11-09-20sUser146'
+p8252
+aS'whats up every1'
+p8253
+aS'aloha 11-09-20sUser146'
+p8254
+aS'!20'
+p8255
+aS'.Question:. Have you ever felt even more stressed after a massage? Yes or No?'
+p8256
+aS'it smells down there anyways'
+p8257
+aS'hey 11-09-20sUser103'
+p8258
+aS'PART'
+p8259
+aS'hey 11-09-20sUser142'
+p8260
+aS'"all my ex\'s live in texas"'
+p8261
+aS'hey 11-09-20sUser143'
+p8262
+aS'PART'
+p8263
+aS'Yes in Holland'
+p8264
+aS'Hi 11-09-20sUser146 '
+p8265
+aS'yes my mom massaged my feet they hurt more than they  were to being with! '
+p8266
+aS'lol 11-09-20sUser41 then shut yr mouth ..smell go away'
+p8267
+aS'PART'
+p8268
+aS'what are u up to today 11-09-20sUser146'
+p8269
+aS'how are u doing?'
+p8270
+aS'a good massage relaxes'
+p8271
+aS'"thats why i hang my hat in tennessee"'
+p8272
+aS'11-09-20sUser105, do you just come here to play with the bot?'
+p8273
+aS"all my ex's are burried in the back yard"
+p8274
+aS"She's good with her hands"
+p8275
+aS'JOIN'
+p8276
+aS'Well the questions are quite entertaining'
+p8277
+aS'JOIN'
+p8278
+aS'PART'
+p8279
+aS'JOIN'
+p8280
+aS'!20'
+p8281
+aS"ouch.......close your legs and we'll both be able to breath"
+p8282
+aS'JOIN'
+p8283
+aS'I am sure i could think of more entertaining ones.'
+p8284
+aS'PART'
+p8285
+aS'PART'
+p8286
+aS'hheeyyy gguyyyzzzz'
+p8287
+aS'PART'
+p8288
+aS"11-09-20sUser145, I'd appreciate it if you'd stay out of my PM"
+p8289
+aS'alohas'
+p8290
+aS'*ignore*'
+p8291
+aS'ooh 11-09-20sUser114 you vamp you'
+p8292
+aS'PART'
+p8293
+aS'LMAO'
+p8294
+aS'JOIN'
+p8295
+aS'11-09-20sUser41...shut up and make your self use full down there'
+p8296
+aS'.ACTION bares her teeth.'
+p8297
+aS'or get out'
+p8298
+aS'And unless someone wants to talk music, UFC, soccer as you Americans call it, or politics or history then I dont have anyone to talk to'
+p8299
+aS'PART'
+p8300
+aS'PART'
+p8301
+aS'What part of Ark are you from 11-09-20sUser144?'
+p8302
+aS'What part of Ark are you from 11-09-20sUser144.'
+p8303
+aS'good evening to everyone up in here '
+p8304
+aS'JOIN'
+p8305
+aS'someone play with me'
+p8306
+aS'<< not American'
+p8307
+aS'any naughty guys out there? pm'
+p8308
+aS'Jonesboro, 11-09-20sUser103'
+p8309
+aS'hheeyy guyzz i just joined'
+p8310
+aS'Really'
+p8311
+aS'JOIN'
+p8312
+aS'JOIN'
+p8313
+aS'Nope.'
+p8314
+aS'<---not japanese or turkish'
+p8315
+aS'I live in Kent.'
+p8316
+aS'LoL 11-09-20sUser89.'
+p8317
+aS'22/f/mi'
+p8318
+aS"i'll need the right drugs to clear up your infection"
+p8319
+aS'what kind of music'
+p8320
+aS'i live in the attic'
+p8321
+aS'JOIN'
+p8322
+aS'JOIN'
+p8323
+aS'Whereabouts in kent?'
+p8324
+aS'.ACTION passes 11-09-20sUser41 some yoghurt...get in with it.'
+p8325
+aS'i live in hawaii....for a few more months'
+p8326
+aS'!seen 11-09-20sUser989'
+p8327
+aS'they never let me out'
+p8328
+aS'And I can talk about most of the things you stated just not politics!'
+p8329
+aS'11-09-20sUser989 (11-09-20sUser989@11-09-20sUser989) Last seen: 2 days, 18 hours, 51 minutes ago.'
+p8330
+aS'*on'
+p8331
+aS'Maidstone.'
+p8332
+aS'my sis lives in maidstone'
+p8333
+aS'PART'
+p8334
+aS'walderslade'
+p8335
+aS'Cool 11-09-20sUser34'
+p8336
+aS'Yea I know it.'
+p8337
+aS'21/f/oklahoma '
+p8338
+aS'Cool,  from there originally?'
+p8339
+aS'aloha 11-09-20sUser156'
+p8340
+aS'PART'
+p8341
+aS'Maidstone! You dont happen to have family in Catterick do you?'
+p8342
+aS'Maidstone! You dont happen to have family in Catterick do you.'
+p8343
+aS'I have a good friend that lives there.'
+p8344
+aS'im gonna be ther monday wanna chase some traffic with me 11-09-20sUser114'
+p8345
+aS'HHEEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
+p8346
+aS'aloha  '
+p8347
+aS'hey 11-09-20sUser156'
+p8348
+aS'No, I am actually from Norfolk.'
+p8349
+aS'LoL 11-09-20sUser34!'
+p8350
+aS'fongul '
+p8351
+aS'yello '
+p8352
+aS"high ho high ho it's of to work we go"
+p8353
+aS'how are u doin?'
+p8354
+aS'PART'
+p8355
+aS'PART'
+p8356
+aS'aloha 11-09-20sUser147'
+p8357
+aS'Oh, so what about UFC 11-09-20sUser114?'
+p8358
+aS'Oh, so what about UFC 11-09-20sUser114.'
+p8359
+aS'JOIN'
+p8360
+aS'11-09-20sUser41?'
+p8361
+aS'JOIN'
+p8362
+aS'alohaaa'
+p8363
+aS'Hey room'
+p8364
+aS'26/m/cal'
+p8365
+aS'JOIN'
+p8366
+aS'how are u doin?'
+p8367
+aS'JOIN'
+p8368
+aS'waz up  '
+p8369
+aS'11-09-20sUser41?'
+p8370
+aS'heyy 11-09-20sUser14'
+p8371
+aS'yes 11-09-20sUser34'
+p8372
+aS'Um'
+p8373
+aS'hey 11-09-20sUser156'
+p8374
+aS'TEXT SIZE'
+p8375
+aS'JOIN'
+p8376
+aS'dratts 11-09-20sUser34...you can go to kent but not wiltou fascist'
+p8377
+aS'im doing good....'
+p8378
+aS'hey room'
+p8379
+aS'heyy 11-09-20sUser114'
+p8380
+aS'hello how are you'
+p8381
+aS'lol'
+p8382
+aS'PART'
+p8383
+aS'hey 11-09-20sUser156 '
+p8384
+aS'United football club?'
+p8385
+aS'LOL'
+p8386
+aS'hyy 11-09-20sUser89'
+p8387
+aS'JOIN'
+p8388
+aS'hey even'
+p8389
+aS'PART'
+p8390
+aS'JOIN'
+p8391
+aS'grettings 11-09-20sUser156'
+p8392
+aS'Heyyyyyyy 11-09-20sUser156!'
+p8393
+aS'BYE'
+p8394
+aS'kent is like 20 mins from me'
+p8395
+aS'how r u doing?'
+p8396
+aS'Hi 11-09-20sUser163!!'
+p8397
+aS'ALL '
+p8398
+aS"i've got the scuba gear on and going for gold"
+p8399
+aS'hey everyone'
+p8400
+aS'Ah ha you said you would converse about the topics I stated lol'
+p8401
+aS'i am  so bored  out  of  my mind i am  '
+p8402
+aS'heyy 11-09-20sUser144'
+p8403
+aS'lmao '
+p8404
+aS'22/F/818 CALI'
+p8405
+aS'hi 11-09-20sUser114'
+p8406
+aS'Only kidding'
+p8407
+aS'11-09-20sUser34 we should hook up!'
+p8408
+aS'hey 11-09-20sUser34..too good for wiltshire?'
+p8409
+aS'hey 11-09-20sUser34..too good for wiltshire.'
+p8410
+aS'elo elo'
+p8411
+aS'lmao'
+p8412
+aS'I thought it was that!'
+p8413
+aS'PART'
+p8414
+aS'Tell me what it is?'
+p8415
+aS'JOIN'
+p8416
+aS'28 m hawaii here'
+p8417
+aS'And no, its Ultimate Fighting'
+p8418
+aS'ok'
+p8419
+aS'any girls out there wana chat pm me'
+p8420
+aS"Oh I've heard of it!"
+p8421
+aS'11-09-20sUser64 are in the room'
+p8422
+aS'need  some  sweet  loveing '
+p8423
+aS'OMG that was quite the run'
+p8424
+aS'any chics here like italians '
+p8425
+aS"But it's not something I'd have a whole convo about."
+p8426
+aS'wb 11-09-20sUser53'
+p8427
+aS'........'
+p8428
+aS'11-09-20sUser114 you work in the bear place in maidstone opposite the coffe placce?'
+p8429
+aS'11-09-20sUser114 you work in the bear place in maidstone opposite the coffe placce.'
+p8430
+aS'ty '
+p8431
+aS'heyy 11-09-20sUser87'
+p8432
+aS'!scramble'
+p8433
+aS'UnScramble: biebsa'
+p8434
+aS'LOL shhhh'
+p8435
+aS'wb wife love of my life'
+p8436
+aS'the runs?'
+p8437
+aS'Oh by the way, to my American friends, Matt Hughes Or Rush St Pierre?'
+p8438
+aS'Oh by the way, to my American friends, Matt Hughes Or Rush St Pierre.'
+p8439
+aS'AWAY SEE LATER'
+p8440
+aS'babies'
+p8441
+aS"That's the way 11-09-20sUser163.."
+p8442
+aS'*munches on rum soaked pineapples*'
+p8443
+aS'You trying to get me stalked!'
+p8444
+aS'11-09-20sUser156 you sexy thing'
+p8445
+aS'alterz 11-09-20sUser1'
+p8446
+aS'Something is making a strange noise.'
+p8447
+aS'i wish i had a stalker'
+p8448
+aS'llloooozzzzeeerrrrzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'
+p8449
+aS'PART'
+p8450
+aS'hey folks'
+p8451
+aS'JOIN'
+p8452
+aS'i may pop in  or just moonie you as i go past one day!!!!!!'
+p8453
+aS'heyy 11-09-20sUser34? lol'
+p8454
+aS'11-09-20sUser156   so sweet  do u need some sweet  love  '
+p8455
+aS'n e 1 wants some rum soaked pineapple?'
+p8456
+aS'hI FOLKS'
+p8457
+aS'always needs sweet love'
+p8458
+aS" /away  I'm not at the computer right now,  if you'd like to reach me, you can e-mail me at  11-09-20sUser103@AOL.COM,  because I'm back and fourth from the computer so much."
+p8459
+aS'.ACTION munches on 11-09-20sUser114.'
+p8460
+aS'Ooo'
+p8461
+aS'NTMN'
+p8462
+aS'aww i give to ya  '
+p8463
+aS'11-09-20sUser156 ill love you'
+p8464
+aS'22 f az'
+p8465
+aS'o0o'
+p8466
+aS'PART'
+p8467
+aS'JOIN'
+p8468
+aS'Kiss me you fool'
+p8469
+aS'!scramble'
+p8470
+aS'UnScramble: armtnpeat'
+p8471
+aS'howz arizona?'
+p8472
+aS'lick me  you fool  lol  '
+p8473
+aS'Permenant'
+p8474
+aS'kisses 11-09-20sUser34'
+p8475
+aS'petanmart'
+p8476
+aS'HE'
+p8477
+aS'GN,GNG  '
+p8478
+aS'permanent'
+p8479
+aS'PART'
+p8480
+aS'apartment'
+p8481
+aS'You got it 11-09-20sUser158..'
+p8482
+aS'!scramble'
+p8483
+aS'UnScramble: onuimso'
+p8484
+aS'JOIN'
+p8485
+aS'unisom'
+p8486
+aS'PART'
+p8487
+aS'JOIN'
+p8488
+aS'well done 11-09-20sUser156 wow your so grea'
+p8489
+aS't'
+p8490
+aS'omnious'
+p8491
+aS'heyyy 11-09-20sUser168'
+p8492
+aS'!smooch 11-09-20sUser156'
+p8493
+aS".ACTION walks up to 11-09-20sUser156, runs their fingers thru the back of 11-09-20sUser156's hair, closes their eyes, and gently kisses 11-09-20sUser156 on the neck, Compliments of 11-09-20sUser34!."
+p8494
+aS'11-09-20sUser156 . . . how are you hon'
+p8495
+aS'11-09-20sUser156  so  how  u been  sweet  thing  '
+p8496
+aS'ominous'
+p8497
+aS'You got it 11-09-20sUser163..'
+p8498
+aS"11-09-20sUser168 get of he's mine"
+p8499
+aS'fine 11-09-20sUser168 and you?'
+p8500
+aS'hello'
+p8501
+aS'PART'
+p8502
+aS'JOIN'
+p8503
+aS'wha time is it in the mainland?'
+p8504
+aS'wha time is it in the mainland.'
+p8505
+aS'wb 11-09-20sUser168 my dear'
+p8506
+aS'nobody  like  me  lol  '
+p8507
+aS"aww 11-09-20sUser156 i'm sure someone does"
+p8508
+aS'ive been fine and you 11-09-20sUser156?'
+p8509
+aS'ive been fine and you 11-09-20sUser156.'
+p8510
+aS'u can throw yourself at me 11-09-20sUser156'
+p8511
+aS'31f ga im me'
+p8512
+aS'i am okay  '
+p8513
+aS'i likes you 11-09-20sUser156'
+p8514
+aS'aww  ty  '
+p8515
+aS'how r u today?'
+p8516
+aS'y/w  :-) '
+p8517
+aS'!light up cos i want to appear like so cool'
+p8518
+aS".ACTION graciously lights 11-09-20sUser89's cigarette."
+p8519
+aS'PART'
+p8520
+aS'i am now  happpy i  been  good  '
+p8521
+aS'hi'
+p8522
+aS'JOIN'
+p8523
+aS'excellent'
+p8524
+aS'Look guys if u are going to pm me be nice not a jerk or pervert ok period...........'
+p8525
+aS'where are you from ms. 11-09-20sUser156?'
+p8526
+aS'where are you from ms. 11-09-20sUser156.'
+p8527
+aS'i am like so good'
+p8528
+aS'PART'
+p8529
+aS'yepper s '
+p8530
+aS'oklahoma '
+p8531
+aS'11-09-20sUser156 can i ask you a few questions'
+p8532
+aS'JOIN'
+p8533
+aS'home of the sooners'
+p8534
+aS'ok I really do want to know how a 11-09-20sUser129 is a female and how does the nick abide by talkcitys rules?'
+p8535
+aS'ok I really do want to know how a 11-09-20sUser129 is a female and how does the nick abide by talkcitys rules.'
+p8536
+aS'!hug 11-09-20sUser168'
+p8537
+aS".ACTION watches 11-09-20sUser89 hug the stuffin' outta 11-09-20sUser168...."
+p8538
+aS'callifornia here but im in hawaii'
+p8539
+aS'!kiss 11-09-20sUser168'
+p8540
+aS".ACTION watches 11-09-20sUser89 kiss 11-09-20sUser168's big toe.."
+p8541
+aS'@$$  right  '
+p8542
+aS'yes 11-09-20sUser34 If I dont know the answers I will make one up'
+p8543
+aS'HELLO PEOPLE'
+p8544
+aS'!seduce 11-09-20sUser168'
+p8545
+aS'PART'
+p8546
+aS'cool'
+p8547
+aS'i am going to hawaii tommorrow'
+p8548
+aS'PART'
+p8549
+aS'JOIN'
+p8550
+aS'awesome 11-09-20sUser40'
+p8551
+aS'JOIN'
+p8552
+aS'hi 11-09-20sUser170'
+p8553
+aS'whats up guys'
+p8554
+aS'PART'
+p8555
+aS'PART'
+p8556
+aS'PART'
+p8557
+aS'question number 1: do you like to play with Dolls'
+p8558
+aS'awesomes! which island?'
+p8559
+aS' HELLO ROOM'
+p8560
+aS'not much u 11-09-20sUser170'
+p8561
+aS'JOIN'
+p8562
+aS'the moon is up'
+p8563
+aS'JOIN'
+p8564
+aS'only blowup dolls'
+p8565
+aS'JOIN'
+p8566
+aS"nice pick up 11-09-20sUser156 i've been wondering that when he/she first came in"
+p8567
+aS'lol 11-09-20sUser156'
+p8568
+aS'what r u guys doing '
+p8569
+aS'hi guts'
+p8570
+aS'chatting'
+p8571
+aS'guys'
+p8572
+aS'not bay ones 11-09-20sUser156'
+p8573
+aS'lol'
+p8574
+aS'hey 11-09-20sUser175'
+p8575
+aS'chattingsmoking'
+p8576
+aS"Oy! I'm so hungry!"
+p8577
+aS'baby*'
+p8578
+aS'no 11-09-20sUser34'
+p8579
+aS'flirting'
+p8580
+aS'PART'
+p8581
+aS'downloading'
+p8582
+aS'ok'
+p8583
+aS"Let's try this again one more guy pms me and is a jerk or pervert u are getting ignored period. ok don't like it then don't pm me"
+p8584
+aS'hi 11-09-20sUser156'
+p8585
+aS'feeds 11-09-20sUser144'
+p8586
+aS'!smooch 11-09-20sUser89'
+p8587
+aS".ACTION walks up to 11-09-20sUser89, runs their fingers thru the back of 11-09-20sUser89's hair, closes their eyes, and gently kisses 11-09-20sUser89 on the neck, Compliments of 11-09-20sUser168!."
+p8588
+aS'drinking beer b4 heading out'
+p8589
+aS'JOIN'
+p8590
+aS'o0'
+p8591
+aS'Thanks 11-09-20sUser156 baby!'
+p8592
+aS'11-09-20sUser156 question number 2: am i annoying you yet?'
+p8593
+aS'11-09-20sUser156 question number 2: am i annoying you yet.'
+p8594
+aS'PART'
+p8595
+aS';)'
+p8596
+aS'JOIN'
+p8597
+aS'PART'
+p8598
+aS'i love being kissed on my neck'
+p8599
+aS'no youre not 11-09-20sUser34'
+p8600
+aS'JOIN'
+p8601
+aS'do  your boobs  hang  low  do they  '
+p8602
+aS'anytime 11-09-20sUser144'
+p8603
+aS'PART'
+p8604
+aS'(__I__) just for you 11-09-20sUser89'
+p8605
+aS'o0'
+p8606
+aS'.ACTION watches CSI.'
+p8607
+aS'JOIN'
+p8608
+aS'11-09-20sUser175 is pretty'
+p8609
+aS'11-09-20sUser168 flashed me'
+p8610
+aS'which island are u headed to 11-09-20sUser40?'
+p8611
+aS'which island are u headed to 11-09-20sUser40.'
+p8612
+aS'ok question number 3 ..How big is yr dik?  lol not really...... ar you married '
+p8613
+aS'ok question number 3 ..How big is yr dik.  lol not really...... ar you married '
+p8614
+aS'( o Y o )'
+p8615
+aS'no divorced and it is small'
+p8616
+aS'lol'
+p8617
+aS'again for you 11-09-20sUser89'
+p8618
+aS'double o0'
+p8619
+aS'0o'
+p8620
+aS'0o'
+p8621
+aS'woohoo 11-09-20sUser168 nice'
+p8622
+aS'.ACTION takes a bow.'
+p8623
+aS'aloha to all!'
+p8624
+aS'11-09-20sUser156 ..question number 4: do you give up'
+p8625
+aS'!seen cool1024'
+p8626
+aS"I've never seen: cool1024."
+p8627
+aS'any girls wanna chat PM me'
+p8628
+aS'anybody here know how to play heartbreaker on the electric guitar?'
+p8629
+aS'anybody here know how to play heartbreaker on the electric guitar.'
+p8630
+aS'*breaks out a case up rum soaked pineapples*'
+p8631
+aS'this morning when i was going to work i heard that my boss died so went in to work and told my coworkers that he died in a car wrek and nobody belive me '
+p8632
+aS".ACTION applaudes whilst shouting ''encore, encore''."
+p8633
+aS'yes I give p I told you I suck at guessing'
+p8634
+aS'hi all'
+p8635
+aS'i told you sucking is a goodthing'
+p8636
+aS'PART'
+p8637
+aS'haha'
+p8638
+aS'lol'
+p8639
+aS'lol'
+p8640
+aS'mornign people'
+p8641
+aS'11-09-20sUser34 you dirrrrty girl'
+p8642
+aS'JOIN'
+p8643
+aS'morning 11-09-20sUser87'
+p8644
+aS'innit?'
+p8645
+aS'NICK :11-09-20sUser87'
+p8646
+aS'mornin 11-09-20sUser87 but its night'
+p8647
+aS'lol'
+p8648
+aS'aloha 11-09-20sUser87'
+p8649
+aS'PART'
+p8650
+aS'morning 11-09-20sUser87'
+p8651
+aS'pfft i just got up .. its morning'
+p8652
+aS'yes it night!!!!'
+p8653
+aS'aloha'
+p8654
+aS'morning'
+p8655
+aS'ciao'
+p8656
+aS'hello eskimo woman'
+p8657
+aS'whatever else it is to you people'
+p8658
+aS'lol im not eskimo'
+p8659
+aS'Lol 11-09-20sUser87'
+p8660
+aS'lol'
+p8661
+aS'ANY ONE WANNA CHAT WITH A 23 FEMALE FROM VIRGINIA IM SINGLEEEEEEEE'
+p8662
+aS'cold tho'
+p8663
+aS'i know but i just get a cheap thrill from teasing'
+p8664
+aS'still morning here so morning 11-09-20sUser87!!'
+p8665
+aS'duh'
+p8666
+aS'JOIN'
+p8667
+aS'.wz 99703'
+p8668
+aS' .Fort Wainwright, Alaska. -- 3.  2:55 PM AKST'
+p8669
+aS' .Temp.  -6F/-21C    .Humidity:. 85%    '
+p8670
+aS'morning'
+p8671
+aS'gotta get my kicks where i can'
+p8672
+aS'aloha 11-09-20sUser12'
+p8673
+aS'wow it got warm'
+p8674
+aS'soory'
+p8675
+aS'hi 11-09-20sUser12'
+p8676
+aS'PART'
+p8677
+aS'i know 11-09-20sUser89'
+p8678
+aS'it got warm?'
+p8679
+aS'.ACTION kicks 11-09-20sUser89 there you go sweet heart.'
+p8680
+aS'ok'
+p8681
+aS'.wz 92129'
+p8682
+aS' .San Diego, California. -- 4.  4:03 PM PST'
+p8683
+aS' .Temp. 73%    '
+p8684
+aS'-17 is warm???'
+p8685
+aS'lol'
+p8686
+aS'h 11-09-40sUser17'
+p8687
+aS'11-09-40sUser4.. ya need some root b gone or something?'
+p8688
+aS'11-09-40sUser4.. ya need some root b gone or something.'
+p8689
+aS'11-09-40sUser11'
+p8690
+aS'hi 11-09-40sUser3'
+p8691
+aS"had mine declawed and fixed at the same time......poor cat didn't move for a month"
+p8692
+aS'root b gone?'
+p8693
+aS'awwwwww'
+p8694
+aS'would never declaw a cat'
+p8695
+aS'poor thing'
+p8696
+aS'what am I missing 11-09-40sUser18?'
+p8697
+aS'what am I missing 11-09-40sUser18.'
+p8698
+aS'PART'
+p8699
+aS'hiy 11-09-40sUser17'
+p8700
+aS'.ACTION is fixed, but still have my claws.'
+p8701
+aS'11-09-40sUser18 .. or 11-09-40sUser18?'
+p8702
+aS't/c all  laters'
+p8703
+aS'hi 11-09-40sUser19:)'
+p8704
+aS'if the cat was strickly indoor .. i think I would '
+p8705
+aS'hey......she never goes outside'
+p8706
+aS'lol 11-09-40sUser8'
+p8707
+aS'JOIN'
+p8708
+aS'you wear them long 11-09-40sUser8?'
+p8709
+aS'you wear them long 11-09-40sUser8.'
+p8710
+aS'PART'
+p8711
+aS'mine has his claws, we have foxes here once in a while!'
+p8712
+aS'hi all '
+p8713
+aS'hi 11-09-40sUser32'
+p8714
+aS'sowwy 11-09-40sUser4.. i dont remember now'
+p8715
+aS"she's scared to death to go out"
+p8716
+aS'hi 11-09-40sUser11'
+p8717
+aS'(((((11-09-40sUser32))))) hiya'
+p8718
+aS'keep them sharp on the furniture 11-09-40sUser19 ;)'
+p8719
+aS'11-09-40sUser18 hi'
+p8720
+aS'i would b too 11-09-40sUser22'
+p8721
+aS'sleeps under my covers'
+p8722
+aS"but not when I'm there....lol"
+p8723
+aS'but seeing as i have all my claws.. i go where i wanna'
+p8724
+aS'PART'
+p8725
+aS"11-09-40sUser18!!!!!!!!!!!!!!!!!!!!!!!!!!!!   well thanks a lot ... Now you've given me a complex"
+p8726
+aS'hah 11-09-40sUser18'
+p8727
+aS'hmmm 11-09-40sUser22'
+p8728
+aS'hmmmmmmmmmm'
+p8729
+aS'lol 11-09-40sUser18'
+p8730
+aS'hahahaa 11-09-40sUser18'
+p8731
+aS'well i tried to scroll, 11-09-40sUser4.. sorry'
+p8732
+aS'PART'
+p8733
+aS'11-09-40sUser0'
+p8734
+aS'<makes note ... 11-09-40sUser18 has all her claws>'
+p8735
+aS'oh'
+p8736
+aS'11-09-40sUser18.....that could either be scary or a heck of a lot of fun ;)'
+p8737
+aS'winks 11-09-40sUser30'
+p8738
+aS'noted 11-09-40sUser30 heheh'
+p8739
+aS'ya think 11-09-40sUser22???'
+p8740
+aS'PART'
+p8741
+aS'heck yes'
+p8742
+aS'giggles'
+p8743
+aS'lol'
+p8744
+aS'PART'
+p8745
+aS"scrollin' ....scrollin'.....scrollin'................keep them words a rollin'........................CHATHIDE!!!!!!!!!!!!!!!!!!!!!!"
+p8746
+aS'ahhh// pain pills r working'
+p8747
+aS"as if you didn't know"
+p8748
+aS'laffs'
+p8749
+aS'lmao 11-09-40sUser18'
+p8750
+aS'hahaha 11-09-40sUser4'
+p8751
+aS'JOIN'
+p8752
+aS'JOIN'
+p8753
+aS'wb 11-09-40sUser7'
+p8754
+aS'wb 11-09-40sUser7'
+p8755
+aS'wb 11-09-40sUser7'
+p8756
+aS'wb 11-09-40sUser7'
+p8757
+aS'11-09-40sUser33'
+p8758
+aS'hiya 11-09-40sUser33'
+p8759
+aS'wb 11-09-40sUser7'
+p8760
+aS'hi 11-09-40sUser33'
+p8761
+aS'.ACTION lets cat chat .'
+p8762
+aS'hi 11-09-40sUser19'
+p8763
+aS'good for a laugh eh 11-09-40sUser18:)'
+p8764
+aS'hi ya 11-09-40sUser33'
+p8765
+aS'hey 11-09-40sUser18'
+p8766
+aS'brb .. need a pop'
+p8767
+aS'PART'
+p8768
+aS'cuteness back'
+p8769
+aS'thanks , 11-09-40sUser19 , 11-09-40sUser18 , 11-09-40sUser30 , 11-09-40sUser11  ..  Hi 11-09-40sUser33  !'
+p8770
+aS'hiya 11-09-40sUser22 yoder'
+p8771
+aS'hey 11-09-40sUser11'
+p8772
+aS'lol'
+p8773
+aS'hiya 11-09-40sUser7'
+p8774
+aS'wb 11-09-40sUser7 darlin'
+p8775
+aS'hi 11-09-40sUser8'
+p8776
+aS'thanks 11-09-40sUser8 '
+p8777
+aS'I should change my name'
+p8778
+aS'hiya 11-09-40sUser33'
+p8779
+aS'has to color her hair tomorrow.. meant to do it today'
+p8780
+aS'it was cute..BUT now I got that tune"rolling rolling rolling....stuck in my head...sigh'
+p8781
+aS'brb'
+p8782
+aS'what color 11-09-40sUser18?'
+p8783
+aS'PART'
+p8784
+aS'hb 11-09-40sUser4'
+p8785
+aS'JOIN'
+p8786
+aS'light golden brown, 11-09-40sUser22'
+p8787
+aS'Hi 11-09-40sUser34 '
+p8788
+aS'11-09-40sUser34'
+p8789
+aS'would like to git a purple color weave'
+p8790
+aS'hi 11-09-40sUser34'
+p8791
+aS'mmmmmmmmmm'
+p8792
+aS'hiya 11-09-40sUser34'
+p8793
+aS'hiya 11-09-40sUser34'
+p8794
+aS'.ACTION pictures the blues brothers behind that chicken wire screen.'
+p8795
+aS'(((((((((( 11-09-40sUser34 )))))))))))))'
+p8796
+aS'Hi 11-09-40sUser7.........how are you????'
+p8797
+aS'Hi 11-09-40sUser7.........how are you....'
+p8798
+aS'hi 11-09-40sUser33'
+p8799
+aS'back'
+p8800
+aS'Hi 11-09-40sUser19'
+p8801
+aS'11-09-40sUser34  ok here .. how have  you been ?'
+p8802
+aS'11-09-40sUser34  ok here .. how have  you been .'
+p8803
+aS'Hi 11-09-40sUser11'
+p8804
+aS'<burp>'
+p8805
+aS'hiya 11-09-40sUser34'
+p8806
+aS'oops'
+p8807
+aS'Hi 11-09-40sUser33'
+p8808
+aS'hey 11-09-40sUser15'
+p8809
+aS'scusezzy 11-09-40sUser30?'
+p8810
+aS'would give 5 dollars for just 5 min inside 11-09-40sUser8s mind'
+p8811
+aS'11-09-40sUser18....is that the natural color?'
+p8812
+aS'11-09-40sUser18....is that the natural color.'
+p8813
+aS'wb 11-09-40sUser30'
+p8814
+aS'yes 11-09-40sUser22'
+p8815
+aS'lmao 11-09-40sUser18'
+p8816
+aS'lol'
+p8817
+aS'doing ok 11-09-40sUser7.....ty good to see you '
+p8818
+aS"snow outside and cold soda inside .. what's wrong with this picture?"
+p8819
+aS"snow outside and cold soda inside .. what's wrong with this picture."
+p8820
+aS'winks 11-09-40sUser8'
+p8821
+aS'you too 11-09-40sUser34  :-)'
+p8822
+aS'minus the gray?'
+p8823
+aS'ducking'
+p8824
+aS'Hi 11-09-40sUser34'
+p8825
+aS'Hi 11-09-40sUser31'
+p8826
+aS'omg 11-09-40sUser18, laughing my ass off here'
+p8827
+aS'Hi 11-09-40sUser33'
+p8828
+aS'tlak bout an Eticket ride, 11-09-40sUser8'
+p8829
+aS'.ACTION hands 11-09-40sUser30 some hot chocolate.'
+p8830
+aS'Hi 11-09-40sUser31'
+p8831
+aS'giggles'
+p8832
+aS'hehehehe'
+p8833
+aS'Hi ((((((((11-09-40sUser18))))))))'
+p8834
+aS'hey 11-09-40sUser30'
+p8835
+aS'Hi 11-09-40sUser8'
+p8836
+aS'some people dont realize what they say and how it affects others'
+p8837
+aS't/y 11-09-40sUser7 :-) '
+p8838
+aS'JOIN'
+p8839
+aS'11-09-40sUser35'
+p8840
+aS'Hi 11-09-40sUser35 '
+p8841
+aS'uh oh'
+p8842
+aS'ahem .. 11-09-40sUser34?'
+p8843
+aS'Hi 11-09-40sUser30'
+p8844
+aS'hiya 11-09-40sUser35.. ltnc'
+p8845
+aS'hi ya 11-09-40sUser35'
+p8846
+aS':)'
+p8847
+aS'hi 11-09-40sUser35'
+p8848
+aS'im just glad mothers day is over with today'
+p8849
+aS'hi 11-09-40sUser19'
+p8850
+aS'hi 11-09-40sUser7'
+p8851
+aS'11-09-40sUser19!!'
+p8852
+aS'h 11-09-40sUser18'
+p8853
+aS'.ACTION doesnt take comments in chat too seriously .'
+p8854
+aS'today, 11-09-40sUser31?'
+p8855
+aS'11-09-40sUser30!!!!!!!!!!!!!!!!!!!!!!'
+p8856
+aS'hi 11-09-40sUser11'
+p8857
+aS'lol'
+p8858
+aS'11-09-40sUser35.. im 11-09-40sUser18 wasMsUtah'
+p8859
+aS'hi 11-09-40sUser33'
+p8860
+aS'PART'
+p8861
+aS'JOIN'
+p8862
+aS'11-09-40sUser30 11-09-40sUser30 11-09-40sUser30 of the jungle'
+p8863
+aS'yes 11-09-40sUser30?????'
+p8864
+aS'yep..today is my payday...and thats mothers day..this mother gets this ..that mother gets that and all the other mothers get the rest'
+p8865
+aS"I thought all those k's would result in a ###"
+p8866
+aS'PART'
+p8867
+aS'JOIN'
+p8868
+aS"s'ok 11-09-40sUser22.. winks"
+p8869
+aS'haha 11-09-40sUser31 '
+p8870
+aS'omg 11-09-40sUser31.......you have a list of mothas'
+p8871
+aS'!Whisper'
+p8872
+aS".ACTION Whispering Reminder: First ask in the room before whispering a chatter - unless the person has already ok'd the PM ~ Thanks.."
+p8873
+aS'just sayn hello 11-09-40sUser34'
+p8874
+aS'whewwwwww......thought I was going to the corner'
+p8875
+aS'PART'
+p8876
+aS'sure do...lol'
+p8877
+aS'laffs at 11-09-40sUser31'
+p8878
+aS'yep chattin outta be fun ,some folks take it too seriously 11-09-40sUser7'
+p8879
+aS'oh sorry 11-09-40sUser30......Hi.......how are u?????'
+p8880
+aS'oh sorry 11-09-40sUser30......Hi.......how are u.....'
+p8881
+aS'Hi 11-09-40sUser33'
+p8882
+aS'would you take a dirty sock seriously here 11-09-40sUser7?'
+p8883
+aS'would you take a dirty sock seriously here 11-09-40sUser7.'
+p8884
+aS'11-09-40sUser33  yep ..'
+p8885
+aS'hey 11-09-40sUser34'
+p8886
+aS'nevah evah would i take this serious'
+p8887
+aS'I am cold but good thanks .. how are you?'
+p8888
+aS'I am cold but good thanks .. how are you.'
+p8889
+aS'i about wrecked the bike this afternoon..was coming down the hill went to stop and hit an oil slick'
+p8890
+aS'PART'
+p8891
+aS'.ACTION looks at 11-09-40sUser3 .'
+p8892
+aS'omg 11-09-40sUser31'
+p8893
+aS'i bet its cold where 11-09-40sUser34 is'
+p8894
+aS'yeah...i was doing the aligator walk believe that'
+p8895
+aS'is it crusty too ?'
+p8896
+aS'??'
+p8897
+aS'.ACTION tosses 11-09-40sUser7 one his sox*.'
+p8898
+aS'lol'
+p8899
+aS'only place i wanna c crust is on a pie'
+p8900
+aS'omg whats crusty 11-09-40sUser7, lol'
+p8901
+aS'minus a lot here ... and snowy'
+p8902
+aS'pie 11-09-40sUser18?'
+p8903
+aS'lol'
+p8904
+aS'11-09-40sUser19  the sock ..'
+p8905
+aS'lol'
+p8906
+aS'ohwa. lol'
+p8907
+aS'pumpkin, 11-09-40sUser19'
+p8908
+aS'ewwww caca'
+p8909
+aS'you know .. men and their  crusty socks '
+p8910
+aS'JOIN'
+p8911
+aS'dont know any 11-09-40sUser7.. tyvm'
+p8912
+aS'hi 11-09-40sUser37'
+p8913
+aS'hi ya 11-09-40sUser37'
+p8914
+aS'oh and underwear'
+p8915
+aS'11-09-40sUser37'
+p8916
+aS'mines not crusty...but they do stans on their own'
+p8917
+aS'11-09-40sUser7....only when we wear them for a week at a time'
+p8918
+aS'hi 11-09-40sUser11 '
+p8919
+aS'stand'
+p8920
+aS'lol 11-09-40sUser18 '
+p8921
+aS'hi 11-09-40sUser18'
+p8922
+aS'lol '
+p8923
+aS'hey 11-09-40sUser33'
+p8924
+aS'crusty da clown'
+p8925
+aS'.ACTION wears white socks ... and I change them every day whether or not they need changing.'
+p8926
+aS'luvs pumpkin pie with whuuped cream'
+p8927
+aS'mmmmmm 11-09-40sUser18'
+p8928
+aS'man i havent had pumpkin pie in a long time'
+p8929
+aS'i want some'
+p8930
+aS'11-09-40sUser18......have you had pumpkin ice cream?'
+p8931
+aS'11-09-40sUser18......have you had pumpkin ice cream.'
+p8932
+aS'mmmmmmmmmm 11-09-40sUser18 with whipped creme?'
+p8933
+aS'mmmmmmmmmm 11-09-40sUser18 with whipped creme.'
+p8934
+aS'legpain'
+p8935
+aS'.ACTION like wuuppin cream.'
+p8936
+aS'I used to make pumpkin bagels'
+p8937
+aS'PART'
+p8938
+aS'no 11-09-40sUser22.. figure i dont need to learn any new items to love'
+p8939
+aS'omg 11-09-40sUser30 yummy'
+p8940
+aS'lol'
+p8941
+aS'they were yummy'
+p8942
+aS'yep.. whupped 11-09-40sUser8'
+p8943
+aS'PART'
+p8944
+aS'I have a basket of socks .. you know the missing sock '
+p8945
+aS'lol'
+p8946
+aS' the dreaded missing sock basket'
+p8947
+aS'i might  have yours 11-09-40sUser7..i always have extras'
+p8948
+aS"haven't been buying pumpkins recently .. too much prep after halloween is done"
+p8949
+aS'when youve given up  hope and toss the one sock . the other always appears'
+p8950
+aS'when i find an "estra" sock.. the cat or dog gets it as a toy'
+p8951
+aS"11-09-40sUser7.....send them here....I'll wear them"
+p8952
+aS'JOIN'
+p8953
+aS'lol 11-09-40sUser31  '
+p8954
+aS'hell..i just found out about that Downy ball...'
+p8955
+aS'maybe I could make some from canned pumpkin'
+p8956
+aS'what an invention'
+p8957
+aS'um'
+p8958
+aS'lol 11-09-40sUser31'
+p8959
+aS'my husband asked .. how does that happen .. 2 go in the wash .. one comes out of the dryer .....'
+p8960
+aS'JOIN'
+p8961
+aS'laffs 11-09-40sUser31'
+p8962
+aS"now i'm hungry"
+p8963
+aS'I will e-mail you a pumpkin bagel 11-09-40sUser19'
+p8964
+aS'dont know how it works..but it does'
+p8965
+aS'lol'
+p8966
+aS"hate to tell y'all how long its been since i used fabric softener"
+p8967
+aS'PART'
+p8968
+aS'.ACTION wonders if they sell the mising socks @ pet stores.'
+p8969
+aS'laundry trolls steal them 11-09-40sUser7'
+p8970
+aS'anyone from cnnecticut!?'
+p8971
+aS'11-09-40sUser8  lol yep '
+p8972
+aS'Hi 11-09-40sUser15'
+p8973
+aS'Hi 11-09-40sUser39'
+p8974
+aS'almost 11-09-40sUser39.. u there?'
+p8975
+aS'almost 11-09-40sUser39.. u there.'
+p8976
+aS'hi 11-09-40sUser34 \\'
+p8977
+aS'I am sure someone is from CT'
+p8978
+aS'fabric softner can cause rashes . and allergies '
+p8979
+aS'you know when you do you own laundry when you go out and your back itches and you pull out a fabric sheet'
+p8980
+aS'Ct ?? huh ??? wheres that '
+p8981
+aS'Connecticutt'
+p8982
+aS'JOIN'
+p8983
+aS'lol'
+p8984
+aS'lives closes to CT........lol'
+p8985
+aS'hi 11-09-40sUser40'
+p8986
+aS'new england usa?'
+p8987
+aS'11-09-40sUser7.. it adds wax to ur clothes.. u think cottons breathe?.. not with wax in them.. also they collect dirt then'
+p8988
+aS'sneezed my head off at that new lavendar snuggles'
+p8989
+aS'hi'
+p8990
+aS'on the border of CT in RI'
+p8991
+aS'hi 11-09-40sUser40'
+p8992
+aS'i buy the natural'
+p8993
+aS'did ya 11-09-40sUser7?'
+p8994
+aS'11-09-40sUser18  and they are bad for your  dryer   vent'
+p8995
+aS'.ACTION wears 100% cotton ... nm.'
+p8996
+aS'true 11-09-40sUser7'
+p8997
+aS'hi 11-09-40sUser21'
+p8998
+aS'tighty whiteys'
+p8999
+aS'hi 11-09-40sUser34'
+p9000
+aS'just never use fabric softener'
+p9001
+aS'have to'
+p9002
+aS'my exwife used to have me buy that femine stuff when i went to the store..never knew what flavor to get'
+p9003
+aS'specially ur towels'
+p9004
+aS'lol 11-09-40sUser31'
+p9005
+aS'<whistles>'
+p9006
+aS'11-09-40sUser34  '
+p9007
+aS'11-09-40sUser39  I live in Ct .. and no I dont want to have an affair '
+p9008
+aS'u drank it 11-09-40sUser31??'
+p9009
+aS'spring mountain or something'
+p9010
+aS'laffs 11-09-40sUser30'
+p9011
+aS'lol 11-09-40sUser31.........flavors????????'
+p9012
+aS'lol 11-09-40sUser31.........flavors........'
+p9013
+aS'haha 11-09-40sUser7'
+p9014
+aS':-)'
+p9015
+aS'lol'
+p9016
+aS'felt like jerimiah johnson'
+p9017
+aS'lol 11-09-40sUser7'
+p9018
+aS'me/ checks out 11-09-40sUser7s pic'
+p9019
+aS'JOIN'
+p9020
+aS'PART'
+p9021
+aS'11-09-40sUser41'
+p9022
+aS'Hi 11-09-40sUser41'
+p9023
+aS'ur gettin pretty savvy there 11-09-40sUser39'
+p9024
+aS'ahhh ....bummer ;-('
+p9025
+aS'11-09-40sUser41'
+p9026
+aS'JOIN'
+p9027
+aS'hi 11-09-40sUser41'
+p9028
+aS'HI 11-09-40sUser19 and 11-09-40sUser34'
+p9029
+aS'dyslexic 11-09-40sUser39?'
+p9030
+aS'11-09-40sUser42'
+p9031
+aS'wb 11-09-40sUser42'
+p9032
+aS'11-09-40sUser39  wait ..  how much you make a  year ?'
+p9033
+aS'11-09-40sUser39  wait ..  how much you make a  year .'
+p9034
+aS'JOIN'
+p9035
+aS"like you'd have a chance 11-09-40sUser39, lol"
+p9036
+aS'Hi 11-09-40sUser42'
+p9037
+aS'Hi 11-09-40sUser42'
+p9038
+aS'hi 11-09-40sUser43'
+p9039
+aS'LMAO 11-09-40sUser7'
+p9040
+aS'PART'
+p9041
+aS'get the nitty gritty, 11-09-40sUser7'
+p9042
+aS'hi 11-09-40sUser43'
+p9043
+aS'its not what you makeit is how you makeit'
+p9044
+aS'you have to make more than I can spend !'
+p9045
+aS'well folks i think i hear the bikes coming..time to ride..take care...have a great night..talk soon..stay safe, kiss your kids and pet your dogs...later gator'
+p9046
+aS'Bye 11-09-40sUser31  !!'
+p9047
+aS'tc 11-09-40sUser31'
+p9048
+aS'buh bye'
+p9049
+aS'PART'
+p9050
+aS'have to politely disagree with u 11-09-40sUser39 and say bull'
+p9051
+aS'is there a time limit on the making and the spending 11-09-40sUser7?'
+p9052
+aS'is there a time limit on the making and the spending 11-09-40sUser7.'
+p9053
+aS'11-09-40sUser41 you just brightened up my life with your pic!'
+p9054
+aS'and how do you make it 11-09-40sUser39??????? lol'
+p9055
+aS'and how do you make it 11-09-40sUser39....... lol'
+p9056
+aS'blech 11-09-40sUser39'
+p9057
+aS'dear lord my son is almost 19 and having hissy fits over xbox live '
+p9058
+aS'11-09-40sUser30  hmm'
+p9059
+aS'JOIN'
+p9060
+aS'laffs 11-09-40sUser7'
+p9061
+aS'hi'
+p9062
+aS'oh well'
+p9063
+aS'Hi 11-09-40sUser44'
+p9064
+aS'11-09-40sUser43'
+p9065
+aS'evening 11-09-40sUser44'
+p9066
+aS'hi 11-09-40sUser44'
+p9067
+aS"men don't have hissy fits"
+p9068
+aS'nice try pal'
+p9069
+aS'caiuse I could work for 10 yrs and you spend it in a week ... see what I mean?'
+p9070
+aS'PART'
+p9071
+aS'11-09-40sUser39  .. where in Ct are you from ?'
+p9072
+aS'11-09-40sUser39  .. where in Ct are you from .'
+p9073
+aS'brb'
+p9074
+aS'11-09-40sUser30  a week .. heck a day '
+p9075
+aS'and ur problem there, 11-09-40sUser30???'
+p9076
+aS'and ur problem there, 11-09-40sUser30...'
+p9077
+aS'Hi 11-09-40sUser34'
+p9078
+aS'hartford so what town are we not having an affari in!??'
+p9079
+aS'hartford so what town are we not having an affari in!..'
+p9080
+aS'11-09-40sUser39  im right near Foxwoods'
+p9081
+aS'lol 11-09-40sUser18'
+p9082
+aS'^ 11-09-40sUser7'
+p9083
+aS'is out on the other coast, 11-09-40sUser39'
+p9084
+aS'Hi 11-09-40sUser15'
+p9085
+aS'if he cant get a pro 11-09-40sUser7, why bother'
+p9086
+aS'and a real woman never asks'
+p9087
+aS'been there plenaty of times'
+p9088
+aS'same there for me 11-09-40sUser39'
+p9089
+aS'11-09-40sUser39  me too . too many '
+p9090
+aS'11-09-40sUser7 how close are you to Indiantown Road?'
+p9091
+aS'11-09-40sUser7 how close are you to Indiantown Road.'
+p9092
+aS'11-09-40sUser21  very close '
+p9093
+aS"I'll pick you up tomorrow night!"
+p9094
+aS'leave the cat home!'
+p9095
+aS'who 11-09-40sUser39??'
+p9096
+aS'11-09-40sUser39  ..   are you a high roller ?'
+p9097
+aS'11-09-40sUser39  ..   are you a high roller .'
+p9098
+aS'My sister and b in l live there'
+p9099
+aS'man.. refrains from comenting'
+p9100
+aS'whynot!'
+p9101
+aS'PART'
+p9102
+aS'that means no'
+p9103
+aS'lol'
+p9104
+aS'JOIN'
+p9105
+aS'11-09-40sUser21  I saw a Fisher cat over that way '
+p9106
+aS'11-09-40sUser45'
+p9107
+aS'JOIN'
+p9108
+aS'hiya 11-09-40sUser45'
+p9109
+aS'hate those things '
+p9110
+aS'n^'
+p9111
+aS'Hi 11-09-40sUser45'
+p9112
+aS'hi 11-09-40sUser46'
+p9113
+aS'boing'
+p9114
+aS'hi 11-09-40sUser45'
+p9115
+aS'Hello 11-09-40sUser19.....11-09-40sUser18......11-09-40sUser34 :-)'
+p9116
+aS'JOIN'
+p9117
+aS'Ive seen two fishercats near here tooooooooooo'
+p9118
+aS'lol to 11-09-40sUser19'
+p9119
+aS'PART'
+p9120
+aS'11-09-40sUser47'
+p9121
+aS'hi 11-09-40sUser46'
+p9122
+aS'Hey there 11-09-40sUser15.....lol'
+p9123
+aS'hi 11-09-40sUser47'
+p9124
+aS'hey wb 11-09-40sUser47'
+p9125
+aS'what is a fishercat?'
+p9126
+aS'11-09-40sUser21  ..   I have seen 3 of them '
+p9127
+aS'hi 11-09-40sUser19'
+p9128
+aS'I get different nic names but 11-09-40sUser45 is a first....lol'
+p9129
+aS'how long does it take for a bottle of rum to refill itself?????'
+p9130
+aS'how long does it take for a bottle of rum to refill itself.....'
+p9131
+aS'back'
+p9132
+aS'hi 11-09-40sUser34'
+p9133
+aS'wb 11-09-40sUser30'
+p9134
+aS'Hello 11-09-40sUser30'
+p9135
+aS'dang work getting the way of chat'
+p9136
+aS'thx 11-09-40sUser15'
+p9137
+aS'11-09-40sUser22  they are like  a tazzmaniane ? devil '
+p9138
+aS'long as it takes to go to the store 11-09-40sUser18'
+p9139
+aS'thanks 11-09-40sUser18 ... hi 11-09-40sUser45'
+p9140
+aS'hah 11-09-40sUser18'
+p9141
+aS'fire everyone, 11-09-40sUser30'
+p9142
+aS'fishercat is really a weasel like animal'
+p9143
+aS'chit'
+p9144
+aS'byeeeeeeeeeeeee'
+p9145
+aS'lol 11-09-40sUser22'
+p9146
+aS'JOIN'
+p9147
+aS'PART'
+p9148
+aS'is it  a land animal?'
+p9149
+aS'PART'
+p9150
+aS'PART'
+p9151
+aS'.ACTION doin da misty mountain hop arround the room.'
+p9152
+aS"well it is because I haven't fired them that I have time to chat <grin>"
+p9153
+aS'dont suppose anyone here delivers?'
+p9154
+aS'dont suppose anyone here delivers.'
+p9155
+aS'weasel......possum.....we shoot those here'
+p9156
+aS'lol back'
+p9157
+aS'JOIN'
+p9158
+aS'wb 11-09-40sUser2'
+p9159
+aS'haha 11-09-40sUser18'
+p9160
+aS'11-09-40sUser22  they  were bred special to kill the water rats  on Fishers island'
+p9161
+aS'I would 11-09-40sUser18, but it would be Sat. evening before I could get there'
+p9162
+aS'shrugs'
+p9163
+aS'Hi (((((((((11-09-40sUser48))))))))) sweetie'
+p9164
+aS'JOIN'
+p9165
+aS'11-09-40sUser22  they vanished for a long time .. and now they are back .....'
+p9166
+aS'drop something on your foot 11-09-40sUser15?'
+p9167
+aS'drop something on your foot 11-09-40sUser15.'
+p9168
+aS'Hi 11-09-40sUser49 '
+p9169
+aS':) evening guys'
+p9170
+aS'sighs.. story of my life, 11-09-40sUser22'
+p9171
+aS'JOIN'
+p9172
+aS'Hi 11-09-40sUser49'
+p9173
+aS'hi 11-09-40sUser49'
+p9174
+aS'((((((((((11-09-40sUser34))))))))))) Hi honey.....how are you?'
+p9175
+aS'((((((((((11-09-40sUser34))))))))))) Hi honey.....how are you.'
+p9176
+aS'what can I say ;)'
+p9177
+aS'lol 11-09-40sUser18'
+p9178
+aS'evening 11-09-40sUser7, 11-09-40sUser34 :)'
+p9179
+aS'Hi 11-09-40sUser50 '
+p9180
+aS'hi 11-09-40sUser50'
+p9181
+aS'hey 11-09-40sUser15 :)'
+p9182
+aS'brb.. samn sunset in my eyes'
+p9183
+aS'bright blessings all'
+p9184
+aS'evening 11-09-40sUser18 :)'
+p9185
+aS"I learn so much in this room .. it's like national Geographic and Dr Phil all rolled into one"
+p9186
+aS"I'm ok 11-09-40sUser48......thank you and you????"
+p9187
+aS'ok nuff religion lol'
+p9188
+aS'Hi 11-09-40sUser50'
+p9189
+aS'petunias and rosepedals'
+p9190
+aS'evening 11-09-40sUser50 :)'
+p9191
+aS'lol 11-09-40sUser30'
+p9192
+aS'PART'
+p9193
+aS"I'm ok, thanks, sweetie  :)"
+p9194
+aS'11-09-40sUser30  and ... Dr. Ruth '
+p9195
+aS'brb'
+p9196
+aS'LOL 11-09-40sUser30'
+p9197
+aS'good to hear 11-09-40sUser48 :-) '
+p9198
+aS'.ACTION is out like a republican congressman, see ya later.'
+p9199
+aS'Hi 11-09-40sUser48  !'
+p9200
+aS'dr phil on meds maybe'
+p9201
+aS'PART'
+p9202
+aS'JOIN'
+p9203
+aS'Hi there 11-09-40sUser7'
+p9204
+aS'ltr 11-09-40sUser8'
+p9205
+aS'Hi 11-09-40sUser51  '
+p9206
+aS'ok..im back'
+p9207
+aS'11-09-40sUser51'
+p9208
+aS'JOIN'
+p9209
+aS':11-09-40sUser52!11-09-40sUser52@11-09-40sUser52 MODE #40sPlus +o 11-09-40sUser52'
+p9210
+aS'11-09-40sUser52'
+p9211
+aS'wb 11-09-40sUser18'
+p9212
+aS'wb 11-09-40sUser18'
+p9213
+aS'11-09-40sUser52'
+p9214
+aS':11-09-40sUser52!11-09-40sUser52@11-09-40sUser52 MODE #40sPlus -o 11-09-40sUser52'
+p9215
+aS'Hi 11-09-40sUser52 '
+p9216
+aS'hey 11-09-40sUser19'
+p9217
+aS'Hi ho 11-09-40sUser52'
+p9218
+aS'PART'
+p9219
+aS'hi 11-09-40sUser7'
+p9220
+aS'see ya 11-09-40sUser8'
+p9221
+aS'hi 11-09-40sUser7'
+p9222
+aS'bye 11-09-40sUser8'
+p9223
+aS'Hi 11-09-40sUser51'
+p9224
+aS'hey 11-09-40sUser51, evening 11-09-40sUser27 :)'
+p9225
+aS'hey 11-09-40sUser48'
+p9226
+aS'hows the camel'
+p9227
+aS'hi 11-09-40sUser51 ,, 11-09-40sUser52 hi'
+p9228
+aS'11-09-40sUser52 11-09-40sUser52'
+p9229
+aS'evening 11-09-40sUser52 :)'
+p9230
+aS'wb 11-09-40sUser47'
+p9231
+aS'PART'
+p9232
+aS'ty 11-09-40sUser34, 11-09-40sUser48.. evening senor 11-09-40sUser52'
+p9233
+aS'hey 11-09-40sUser15'
+p9234
+aS'hi 11-09-40sUser52'
+p9235
+aS'lil 11-09-40sUser19 '
+p9236
+aS'hi everone'
+p9237
+aS'hey 11-09-40sUser47'
+p9238
+aS'hiya 11-09-40sUser34'
+p9239
+aS'hi 11-09-40sUser52'
+p9240
+aS'PART'
+p9241
+aS'hi 11-09-40sUser22'
+p9242
+aS'hi 11-09-40sUser47'
+p9243
+aS'11-09-40sUser18 hiya'
+p9244
+aS'he must be stick and tired ;)'
+p9245
+aS'hi 11-09-40sUser49 how are you?'
+p9246
+aS'hiya 11-09-40sUser49'
+p9247
+aS"Not so many O's, 11-09-40sUser34.....looks like an open mouth and that scares me with 11-09-40sUser52 around"
+p9248
+aS'doin good, 11-09-40sUser47 ... how are you dear?'
+p9249
+aS'doin good, 11-09-40sUser47 ... how are you dear.'
+p9250
+aS'sounds kinky, 11-09-40sUser49'
+p9251
+aS'rofl 11-09-40sUser48!!!!'
+p9252
+aS'PART'
+p9253
+aS';) 11-09-40sUser18!!!'
+p9254
+aS'lol 11-09-40sUser48'
+p9255
+aS'giggles'
+p9256
+aS"Oh, sorry, 11-09-40sUser52...didn't see ya"
+p9257
+aS'doing great here 11-09-40sUser49'
+p9258
+aS'lol'
+p9259
+aS'lol'
+p9260
+aS'oh man its chilly today...'
+p9261
+aS':) super'
+p9262
+aS'hows things holdin up 11-09-40sUser52?'
+p9263
+aS'hows things holdin up 11-09-40sUser52.'
+p9264
+aS'was bout 80 here 11-09-40sUser52'
+p9265
+aS'lol 11-09-40sUser19 nothing holds "up" here...'
+p9266
+aS"I can see that, 11-09-40sUser52....and I won't tell ya how I can tell"
+p9267
+aS'chilly?  its one of our loveliest days in ages here in MD'
+p9268
+aS'PART'
+p9269
+aS'only 60 here 11-09-40sUser18.. i had to put a shirt on'
+p9270
+aS'lmao 11-09-40sUser48'
+p9271
+aS"well i didn't cut that string for ya for nothin"
+p9272
+aS'PART'
+p9273
+aS'giggling'
+p9274
+aS':)'
+p9275
+aS'correction... its 59 now...'
+p9276
+aS'well 11-09-40sUser52.. the case of u having to do something is still in the courst.. should is the ooperative word'
+p9277
+aS'dang .... we appreciate 60 degrees here in MD 11-09-40sUser52 ;)'
+p9278
+aS'what part of MD 11-09-40sUser49?'
+p9279
+aS'what part of MD 11-09-40sUser49.'
+p9280
+aS'sposstah tug on it, lol'
+p9281
+aS'rofl 11-09-40sUser49'
+p9282
+aS'Eastern Shore, 11-09-40sUser47'
+p9283
+aS"at least you didn't say 69"
+p9284
+aS'like u 11-09-40sUser48?'
+p9285
+aS'I grew up in OC 11-09-40sUser49'
+p9286
+aS'hahaha 11-09-40sUser18'
+p9287
+aS'PART'
+p9288
+aS'11-09-40sUser49.. i lived near aberdeen and edgewood for a year'
+p9289
+aS'caught me'
+p9290
+aS'giggles'
+p9291
+aS'lol 11-09-40sUser48'
+p9292
+aS'holycow .... nice place to be from, 11-09-40sUser47 :O'
+p9293
+aS'wishes he had something to tug on...'
+p9294
+aS'<---went to Edgewood Hi School'
+p9295
+aS'endless summer nights'
+p9296
+aS'lol 11-09-40sUser52'
+p9297
+aS'JOIN'
+p9298
+aS"all of hub's family love it there .... I like it a little further from the beach myself ;)"
+p9299
+aS'PART'
+p9300
+aS'.ACTION watches Laguna Beach .'
+p9301
+aS'Aberdeen MD and Edgewood MD????'
+p9302
+aS'Aberdeen MD and Edgewood MD....'
+p9303
+aS'it really was awesome when I was growing up. Too crowded now'
+p9304
+aS'likes living at least 300 ft above sea level'
+p9305
+aS'yes 11-09-40sUser49'
+p9306
+aS"wow!!!  didn't realize that"
+p9307
+aS'11-09-40sUser47  the houses there are unreal'
+p9308
+aS'footprints in the sand'
+p9309
+aS'well.. i was in the army... stationed there... LOL'
+p9310
+aS'JOIN'
+p9311
+aS'has no clue what the elevation is here'
+p9312
+aS'we like MD .... its progressive without being too maniacal'
+p9313
+aS'They let YOU in the army, 11-09-40sUser52?'
+p9314
+aS'They let YOU in the army, 11-09-40sUser52.'
+p9315
+aS'lol'
+p9316
+aS'waves slowly rolling up the beach'
+p9317
+aS'you mean the price of homes 11-09-40sUser7?'
+p9318
+aS'you mean the price of homes 11-09-40sUser7.'
+p9319
+aS'ahh, that splains it 11-09-40sUser52'
+p9320
+aS"don't ask don't tell"
+p9321
+aS'lol 11-09-40sUser53.. not only did they let me.. they commanded me.. i had no choice...'
+p9322
+aS'Hi 11-09-40sUser53'
+p9323
+aS'lol'
+p9324
+aS'lmao 11-09-40sUser49'
+p9325
+aS'hahaah11-09-40sUser48'
+p9326
+aS'hi 11-09-40sUser34'
+p9327
+aS'11-09-40sUser47  ..  that too .. but on laguna Beach they show the homes these kids live in ..'
+p9328
+aS'lol 11-09-40sUser48...'
+p9329
+aS'seagulls off in the distance'
+p9330
+aS'JOIN'
+p9331
+aS'hello 11-09-40sUser55'
+p9332
+aS'Hi 11-09-40sUser55'
+p9333
+aS'hi 11-09-40sUser55'
+p9334
+aS'blank spaces, 11-09-40sUser3?  '
+p9335
+aS'blank spaces, 11-09-40sUser3.  '
+p9336
+aS'lived down near the beach when i was in college.. but prolly lived at least 3 miles from the beach'
+p9337
+aS'hi 11-09-40sUser55'
+p9338
+aS'yes, the space between my ears'
+p9339
+aS'i feel faint'
+p9340
+aS'3 miles, 11-09-40sUser3?'
+p9341
+aS'sometimes thats the best way 11-09-40sUser18 .... at least you can get away from the noise   '
+p9342
+aS'well my daughter is about 700 yards from the beach in san diego now.. can hear the dam waves at night'
+p9343
+aS'better rest up 11-09-40sUser19'
+p9344
+aS'nice 11-09-40sUser52'
+p9345
+aS'11-09-40sUser49.. it was more the traffic'
+p9346
+aS"that's such a soothing thought, 11-09-40sUser52"
+p9347
+aS'JOIN'
+p9348
+aS'yeah, thats the noise I refer to 11-09-40sUser18 ;)'
+p9349
+aS'luvs San Diego.. sighs'
+p9350
+aS'yes.. but ya gotta watch out for sea monsters...'
+p9351
+aS'PART'
+p9352
+aS'all the polllution floating up on shore,,,,,,,,,,,'
+p9353
+aS'hi 11-09-40sUser35'
+p9354
+aS'bumper to bumber down there 11-09-40sUser35'
+p9355
+aS'i mena 11-09-40sUser49'
+p9356
+aS'lol @ sea monsters'
+p9357
+aS'lol'
+p9358
+aS'dated a couple, 11-09-40sUser48'
+p9359
+aS'ROFL 11-09-40sUser18'
+p9360
+aS'11-09-40sUser27  that why we  got a pool '
+p9361
+aS'dressed up like lapd and chp'
+p9362
+aS"11-09-40sUser18 were you into surf music?'"
+p9363
+aS"11-09-40sUser18 were you into surf music.'"
+p9364
+aS'so sad , cant even swim in the waters here'
+p9365
+aS'sand in your bikini, true gritt'
+p9366
+aS'nah.. not really'
+p9367
+aS'hahah 11-09-40sUser3'
+p9368
+aS'JOIN'
+p9369
+aS'JOIN'
+p9370
+aS'its hard to balance on a board when you are 5\'3" and 295lbs...'
+p9371
+aS'we had a little trailer just on the other side of the coastal highway in Ocean City MD for a few years .... and every night you had to wear earplugs to fall asleep .... buses ran right outside our place .... listening to the sound of brakes going Cheeeez .... and Vroooom ..... was not much fun'
+p9372
+aS'PART'
+p9373
+aS'lol 11-09-40sUser52...what a visual'
+p9374
+aS'JOIN'
+p9375
+aS'only wants to imagine that 11-09-40sUser52.. oh n/'
+p9376
+aS'giggling'
+p9377
+aS'm'
+p9378
+aS'lol 11-09-40sUser18'
+p9379
+aS'Hello room :)'
+p9380
+aS'wow 11-09-40sUser49'
+p9381
+aS'Hi 11-09-40sUser56 '
+p9382
+aS'Hi 11-09-40sUser28 '
+p9383
+aS'hi 11-09-40sUser56'
+p9384
+aS'11-09-40sUser56'
+p9385
+aS'lol 11-09-40sUser56'
+p9386
+aS'suffers from hazy shades of winter'
+p9387
+aS'lol'
+p9388
+aS'wow 11-09-40sUser49 that would have been terrible. We were on the bay.  What street were you on 11-09-40sUser49?'
+p9389
+aS'hear the salvation army band...'
+p9390
+aS'thot it was just a haze left over from the 60s, 11-09-40sUser3'
+p9391
+aS'are you following me ?'
+p9392
+aS'sw is very warm 11-09-40sUser3'
+p9393
+aS'lol'
+p9394
+aS'yeah .... I like more peace-and-quiet than excitement ..... so sex is out ;)'
+p9395
+aS'sing it, 11-09-40sUser52'
+p9396
+aS'I got here first'
+p9397
+aS'i dont think so'
+p9398
+aS'good night all'
+p9399
+aS'they sang some of them beach songs, 11-09-40sUser52.. didnt they?'
+p9400
+aS'they sang some of them beach songs, 11-09-40sUser52.. didnt they.'
+p9401
+aS"down by the riverside there's got to be a better ride than what you got planned..."
+p9402
+aS'PART'
+p9403
+aS'nite 11-09-40sUser19'
+p9404
+aS'shes sick maybe'
+p9405
+aS'look on the opener i am here first'
+p9406
+aS'not S&G 11-09-40sUser18...'
+p9407
+aS'LOL'
+p9408
+aS'oh'
+p9409
+aS'on second thought, DON"T sing it, 11-09-40sUser52'
+p9410
+aS'lmao 11-09-40sUser48'
+p9411
+aS'turns up blue cheer '
+p9412
+aS'laundry, 11-09-40sUser27?'
+p9413
+aS'um 11-09-40sUser18'
+p9414
+aS'blue cheer was acid metal'
+p9415
+aS'HI 11-09-40sUser7'
+p9416
+aS'How are you?'
+p9417
+aS'hmmm'
+p9418
+aS'11-09-40sUser28  ok here , You ?'
+p9419
+aS'11-09-40sUser28  ok here , You .'
+p9420
+aS'oh.. never knew that'
+p9421
+aS'.ACTION uses blue cheer in laundry.'
+p9422
+aS'maybe not 11-09-40sUser56'
+p9423
+aS'they were from sf '
+p9424
+aS'snorts blue cheer'
+p9425
+aS'.ACTION looks at 11-09-40sUser55  .. .'
+p9426
+aS'huh..lol ?'
+p9427
+aS'wisconsin?'
+p9428
+aS'.ACTION yawns.'
+p9429
+aS'Hello 11-09-adultsUser45 , welcome to #talkcity_adults ! .4Please ask in the main room before Private Messaging others!. You can find our rules at http://forums.talkcity.com/tc-adults/start Thanks for joining us!'
+p9430
+aS'I am going to eat! '
+p9431
+aS'no...lol'
+p9432
+aS'PART'
+p9433
+aS'lol'
+p9434
+aS'i just thought it was original'
+p9435
+aS'thanks for the no hello'
+p9436
+aS'Welcome to #talkcity_adults, To get your own game/control bot for your chat room please contact Dawnstar Visit http://www.shadowbots.com'
+p9437
+aS'PART'
+p9438
+aS'JOIN'
+p9439
+aS' knock in in if so say hi tracey u ok '
+p9440
+aS'PART'
+p9441
+aS' lol '
+p9442
+aS'PART'
+p9443
+aS'Hey You'
+p9444
+aS'PART'
+p9445
+aS'PART'
+p9446
+aS'46/f/maine'
+p9447
+aS'the idiots are always on top because their insanity seems to be mostly wide spread'
+p9448
+aS'11-09-adultsUser8 you lost me lol'
+p9449
+aS'11-09-adultsUser22 i went to akron about 2 years ago and there was horrible construction on 77'
+p9450
+aS'JOIN'
+p9451
+aS'where from@11-09-adultsUser12'
+p9452
+aS'double header 11-09-adultsUser29? hahahaha'
+p9453
+aS'double header 11-09-adultsUser29. hahahaha'
+p9454
+aS' i no so have i my keys r sticking lol'
+p9455
+aS"lol 11-09-adultsUser24 there's always yucky construction around here"
+p9456
+aS'somewhere in the u s a'
+p9457
+aS'lmao'
+p9458
+aS'lol 11-09-adultsUser8 i wont ask'
+p9459
+aS'JOIN'
+p9460
+aS'between the snow plows and the rock salt the roads get trashed in the winter'
+p9461
+aS'like some contagious diseast'
+p9462
+aS'  ok '
+p9463
+aS"I'm thinking wisconsin"
+p9464
+aS'no'
+p9465
+aS'PART'
+p9466
+aS'JOIN'
+p9467
+aS'.ACTION has a single header built in.'
+p9468
+aS'11-09-adultsUser12 what you wanna chat about'
+p9469
+aS'PART'
+p9470
+aS'what is a diseast ?'
+p9471
+aS'PART'
+p9472
+aS'nothing much in particular'
+p9473
+aS'JOIN'
+p9474
+aS'  any 1 want cupper'
+p9475
+aS'hey 11-09-adultsUser53'
+p9476
+aS'hey 11-09-adultsUser24'
+p9477
+aS'2 cuppers'
+p9478
+aS'hi room'
+p9479
+aS' hi'
+p9480
+aS'46/f/maine'
+p9481
+aS'dd cuppers'
+p9482
+aS"i'm having a cupper of coffee right now lol"
+p9483
+aS'lol\\'
+p9484
+aS"that's why society still is a stinky husteling mess after teo million years of darwin"
+p9485
+aS'PART'
+p9486
+aS'base ball is my favorite sport!'
+p9487
+aS'11-09-adultsUser29'
+p9488
+aS'JOIN'
+p9489
+aS'darwin is dead'
+p9490
+aS'sleeping is my favorite sport'
+p9491
+aS'JOIN'
+p9492
+aS'hello'
+p9493
+aS'whats the point in pm then@11-09-adultsUser12'
+p9494
+aS"ok lovers, I'm out"
+p9495
+aS'sup 11-09-adultsUser54'
+p9496
+aS'hi how is everyone tonight'
+p9497
+aS"see ya'll when the weekend is over"
+p9498
+aS'PART'
+p9499
+aS'byes!'
+p9500
+aS'JOIN'
+p9501
+aS'byeee 11-09-adultsUser32 tc'
+p9502
+aS'sorry i got distracted'
+p9503
+aS'PART'
+p9504
+aS'what were you asking'
+p9505
+aS'PART'
+p9506
+aS'so are you 11-09-adultsUser0 withing some decades'
+p9507
+aS'i forgot lol'
+p9508
+aS'PART'
+p9509
+aS'whats up'
+p9510
+aS"i can't wait until 7am"
+p9511
+aS'.ACTION stares @ the clock.'
+p9512
+aS'lol'
+p9513
+aS'lol 11-09-adultsUser22'
+p9514
+aS'why whats at 7am?'
+p9515
+aS'whats the time there?'
+p9516
+aS'PART'
+p9517
+aS"that's when i get off work"
+p9518
+aS'but who cares 11-09-adultsUser0?'
+p9519
+aS'but who cares 11-09-adultsUser0.'
+p9520
+aS"i've already put in 32 hrs in 3 days this week"
+p9521
+aS'thats when i have to be in work '
+p9522
+aS'JOIN'
+p9523
+aS'going back for 8 more tonight'
+p9524
+aS'gawd'
+p9525
+aS'you must love punishment'
+p9526
+aS'PART'
+p9527
+aS'PART'
+p9528
+aS'NICK :11-09-adultsUser29'
+p9529
+aS'hi room'
+p9530
+aS'PART'
+p9531
+aS'PART'
+p9532
+aS'NICK :11-09-adultsUser0'
+p9533
+aS"I'm off tomorrow night then I work 12 on Sat and 12 on Sun"
+p9534
+aS'hb 11-09-adultsUser29'
+p9535
+aS'NICK :11-09-adultsUser0'
+p9536
+aS'haha'
+p9537
+aS'PART'
+p9538
+aS'i dont like work THAT much'
+p9539
+aS'you will not be rememberer for your ontrobution to common human sense'
+p9540
+aS"i don't either.. but i do like that $27/hr lol"
+p9541
+aS'all work and no play'
+p9542
+aS'JOIN'
+p9543
+aS'yeah you got a point there ....lol'
+p9544
+aS'yow, my english typing sux, i know ...'
+p9545
+aS"darwin didn't contribute anything to common sense.. his theory is after all still a theory"
+p9546
+aS'hey 11-09-adultsUser57'
+p9547
+aS'JOIN'
+p9548
+aS'lol 11-09-adultsUser44'
+p9549
+aS'hello'
+p9550
+aS"the sick part is, I'm an LPN..... i have to work overtime to make anything near what the RN's make."
+p9551
+aS'a kitty'
+p9552
+aS'JOIN'
+p9553
+aS'JOIN'
+p9554
+aS'only i dont get 27per ...and i see alot of idiots '
+p9555
+aS'how yer doing love?'
+p9556
+aS'well i work with a bunch of f*cktards '
+p9557
+aS'now on the other hand if i made 27 per ....that would change my outlook alittle'
+p9558
+aS'11-09-adultsUser0 did u get that job yet'
+p9559
+aS'who is making 27 an hour? haha'
+p9560
+aS'PART'
+p9561
+aS"haven't found out yet 11-09-adultsUser24"
+p9562
+aS'they said they have one more person to interview'
+p9563
+aS'yow 11-09-adultsUser22, sit on my face puhleaze ...'
+p9564
+aS'well the only option u have is a newspaper boy'
+p9565
+aS'lol'
+p9566
+aS'JOIN'
+p9567
+aS'JOIN'
+p9568
+aS'haha'
+p9569
+aS"I can't do newspaper.. I can't throw that far and stairs give me problems"
+p9570
+aS'JOIN'
+p9571
+aS"I'm physically impaired"
+p9572
+aS'hey 11-09-adultsUser63'
+p9573
+aS'hey 11-09-adultsUser24'
+p9574
+aS'wb 11-09-adultsUser63'
+p9575
+aS'hi everyone'
+p9576
+aS'ty'
+p9577
+aS'lol'
+p9578
+aS'11-09-adultsUser0 do u have asthma'
+p9579
+aS'JOIN'
+p9580
+aS'just joking 11-09-adultsUser22, just finish yout whereabouts'
+p9581
+aS'no I have a muscle disease'
+p9582
+aS'so whats up with all this lame ass chat??'
+p9583
+aS'so whats up with all this lame ass chat..'
+p9584
+aS'PART'
+p9585
+aS'PART'
+p9586
+aS'oh'
+p9587
+aS'well we just come here and hang out with our lame asses'
+p9588
+aS'sit on my face 11-09-adultsUser54'
+p9589
+aS'dunno whats up with you 11-09-adultsUser54'
+p9590
+aS'JOIN'
+p9591
+aS'PART'
+p9592
+aS'lol'
+p9593
+aS"because we've been sitting on our asses, so of course they feel lame.. and a bit numb"
+p9594
+aS'hello'
+p9595
+aS'PART'
+p9596
+aS'NICK :11-09-adultsUser0'
+p9597
+aS'my Mom is making homeade chinese peppersteak'
+p9598
+aS'life is good!!!'
+p9599
+aS'11-09-adultsUser63 is new brunswick all french'
+p9600
+aS'mmmm'
+p9601
+aS'no we dont want to sit on your face thats what we got eachother for'
+p9602
+aS'someone rub em and make the blood flow.. haha'
+p9603
+aS'that sounds awsome'
+p9604
+aS'yow, am going to hit thah road mahn'
+p9605
+aS'goodnite'
+p9606
+aS'have you ever made it homeade?'
+p9607
+aS'NICK :11-09-adultsUser0'
+p9608
+aS'not me no'
+p9609
+aS'PART'
+p9610
+aS'JOIN'
+p9611
+aS'PART'
+p9612
+aS"omg it's great"
+p9613
+aS'we make it e-v-e-r-y where...!'
+p9614
+aS'sounds fantastic'
+p9615
+aS'im sure you do'
+p9616
+aS"what's something good to eat? haha.. I have coupons for Burger King"
+p9617
+aS"what's something good to eat. haha.. I have coupons for Burger King"
+p9618
+aS"especially on a cold day... that's all you can smell"
+p9619
+aS'lol 11-09-adultsUser0'
+p9620
+aS'h'
+p9621
+aS'JOIN'
+p9622
+aS'JOIN'
+p9623
+aS'the garlic and soy sauce cooking in the steak.. mmmm '
+p9624
+aS'JOIN'
+p9625
+aS'mmm dam'
+p9626
+aS'mmm'
+p9627
+aS'hi'
+p9628
+aS'no but I lived in the foothills of NC where there are a lot of chicken farms.. interesting smell'
+p9629
+aS'anyone here seen the movie called shopgirl '
+p9630
+aS'46/f/maine'
+p9631
+aS'JOIN'
+p9632
+aS'with claire danes ?'
+p9633
+aS'no'
+p9634
+aS'afk a sec'
+p9635
+aS'PART'
+p9636
+aS'i see her everyday@shopgirl'
+p9637
+aS"it's a movie "
+p9638
+aS'im me guys'
+p9639
+aS'she work at shop  nbc?'
+p9640
+aS'PART'
+p9641
+aS'hi all'
+p9642
+aS'oh right my bad'
+p9643
+aS'lol 11-09-adultsUser0 that just reminded me of my trip to deleware when i was a kid'
+p9644
+aS"it's got steve martin in it to "
+p9645
+aS'JOIN'
+p9646
+aS'it was in the summer.... and at some point we reached a road where there were miles and miles of chicken farms'
+p9647
+aS'JOIN'
+p9648
+aS'JOIN'
+p9649
+aS'PART'
+p9650
+aS'pppppppppppew!!!!!'
+p9651
+aS'WHY WOULD ANY ONE WANNA TALK TO A LONLEY ASS GIRL WHEN THERES TWO HOTT BLONDES RIGHT HERE!!'
+p9652
+aS'JOIN'
+p9653
+aS'I am watching it right now '
+p9654
+aS'PART'
+p9655
+aS'morning all'
+p9656
+aS"it's good "
+p9657
+aS'soup 11-09-adultsUser54'
+p9658
+aS"g'evening"
+p9659
+aS'PART'
+p9660
+aS'JOIN'
+p9661
+aS'the time where I live is 6:51 pm '
+p9662
+aS'PART'
+p9663
+aS'where u all from in here'
+p9664
+aS'it seems the msn assholes are here i see'
+p9665
+aS"i'll take the lonely girl ......shes more real"
+p9666
+aS'me too'
+p9667
+aS'JOIN'
+p9668
+aS'can one of you not work out how to switch off caps 11-09-adultsUser54?'
+p9669
+aS'can one of you not work out how to switch off caps 11-09-adultsUser54.'
+p9670
+aS'where i live its 9.53am'
+p9671
+aS'hey 11-09-adultsUser72'
+p9672
+aS"hey i'm a former msn asshole tyvm lmao"
+p9673
+aS'PART'
+p9674
+aS"who's calling who imaginary?"
+p9675
+aS'11-09-adultsUser72 x'
+p9676
+aS'hi 11-09-adultsUser24'
+p9677
+aS'sorry 11-09-adultsUser22 not u'
+p9678
+aS'11-09-adultsUser11!!'
+p9679
+aS'lol'
+p9680
+aS'PART'
+p9681
+aS'mwahs 11-09-adultsUser72'
+p9682
+aS'we are getting the cyber msners'
+p9683
+aS'anyone wanna chat with me'
+p9684
+aS'PART'
+p9685
+aS'right back at ya'
+p9686
+aS'PART'
+p9687
+aS'PART'
+p9688
+aS'what you up2 11-09-adultsUser72'
+p9689
+aS'the short bus here already?'
+p9690
+aS'yeah'
+p9691
+aS'PART'
+p9692
+aS'it is lol'
+p9693
+aS'what an f-ing party!!...yeah!!'
+p9694
+aS'waiting to go out to dinner'
+p9695
+aS'11-09-adultsUser54 got the only tickets'
+p9696
+aS'yeah 11-09-adultsUser72 it is'
+p9697
+aS'nice1 11-09-adultsUser72'
+p9698
+aS'JOIN'
+p9699
+aS'hey 11-09-adultsUser73'
+p9700
+aS'heya 11-09-adultsUser24'
+p9701
+aS'ltns'
+p9702
+aS'PART'
+p9703
+aS'yeah... life, you know?'
+p9704
+aS'yeah'
+p9705
+aS'JOIN'
+p9706
+aS'i got my nails done today...sooo pretty'
+p9707
+aS'I hope you all are riding the short bus cuz we sure the hell aint'
+p9708
+aS'JOIN'
+p9709
+aS"I think I need to marry a man who makes enough $ so I don't have to work so hard."
+p9710
+aS"I've just decided that."
+p9711
+aS'PART'
+p9712
+aS"you're drivin the bus"
+p9713
+aS'Wow. Mine are prittier'
+p9714
+aS'psh'
+p9715
+aS'PART'
+p9716
+aS'no im not drivin a bus I have my own car but thanks for the invite'
+p9717
+aS'you can have that job i dont need it'
+p9718
+aS'lol wth'
+p9719
+aS'a vega....lol'
+p9720
+aS'lol'
+p9721
+aS'afk'
+p9722
+aS'hell no!'
+p9723
+aS'lambergini'
+p9724
+aS'JOIN'
+p9725
+aS'JOIN'
+p9726
+aS'right'
+p9727
+aS'lol'
+p9728
+aS'tc 11-09-adultsUser72'
+p9729
+aS'hey'
+p9730
+aS'JOIN'
+p9731
+aS".ACTION has been gone too long... doesn't recognize many ppl!!!!!."
+p9732
+aS'and pigs fly'
+p9733
+aS'lmao'
+p9734
+aS'from hot wheels'
+p9735
+aS'My car is nicer than yours is....  #### you were leading the way here bitdh'
+p9736
+aS'JOIN'
+p9737
+aS'bitch*'
+p9738
+aS'JOIN'
+p9739
+aS'crazy bishes'
+p9740
+aS'and its spelled lamborgini ....incase you didnt read it on the title'
+p9741
+aS'JOIN'
+p9742
+aS'lmao'
+p9743
+aS'lol'
+p9744
+aS'so 11-09-adultsUser54 what do you do for a living?'
+p9745
+aS'so 11-09-adultsUser54 what do you do for a living.'
+p9746
+aS'hi all'
+p9747
+aS'hi 11-09-adultsUser76'
+p9748
+aS'hi everyone'
+p9749
+aS'PART'
+p9750
+aS'i dont have to know how to read to drive a nice car..'
+p9751
+aS'anyone see Borat'
+p9752
+aS'JOIN'
+p9753
+aS'bbs'
+p9754
+aS'right ...lol'
+p9755
+aS'PART'
+p9756
+aS"lol... 'long as you can read STOP"
+p9757
+aS'hi room'
+p9758
+aS'prolly a stick then'
+p9759
+aS'JOIN'
+p9760
+aS'JOIN'
+p9761
+aS'i wouldnt trust you behind the wheel of a peddle car'
+p9762
+aS'PART'
+p9763
+aS'later 11-09-adultsUser73, off to burger king to find me some cheap fast easy food'
+p9764
+aS'whats up everyone '
+p9765
+aS'hb 11-09-adultsUser0'
+p9766
+aS"And actually, it's spelled lamborghini"
+p9767
+aS'hi'
+p9768
+aS'*poof*'
+p9769
+aS'PART'
+p9770
+aS'PART'
+p9771
+aS'PART'
+p9772
+aS'JOIN'
+p9773
+aS'thanks 11-09-adultsUser73'
+p9774
+aS'sure'
+p9775
+aS'hey 11-09-adultsUser49'
+p9776
+aS'any sexy females want to chat '
+p9777
+aS"I'm good like that  ;-) "
+p9778
+aS'JOIN'
+p9779
+aS'PART'
+p9780
+aS'i can see that '
+p9781
+aS'lol'
+p9782
+aS'JOIN'
+p9783
+aS'Yeah, I\'ve got a whole "perfectionist" thing going on'
+p9784
+aS"grrr i can't take it anymore"
+p9785
+aS'works for me '
+p9786
+aS'back'
+p9787
+aS'NICK :11-09-adultsUser22'
+p9788
+aS'.ACTION hands more to 11-09-adultsUser22.'
+p9789
+aS'do ya think this nic will work?'
+p9790
+aS'do ya think this nic will work.'
+p9791
+aS'LOL'
+p9792
+aS'um'
+p9793
+aS'No'
+p9794
+aS"just sayin'"
+p9795
+aS'whats up 11-09-adultsUser72'
+p9796
+aS'you know, from experience'
+p9797
+aS'LOL'
+p9798
+aS'i want sum @11-09-adultsUser22'
+p9799
+aS'wb 11-09-adultsUser72'
+p9800
+aS'lol'
+p9801
+aS'i mean the pepper steak lol'
+p9802
+aS'PART'
+p9803
+aS"it'll prolly drawn them all right to you"
+p9804
+aS'JOIN'
+p9805
+aS'you mean like a magnet'
+p9806
+aS'JOIN'
+p9807
+aS'PART'
+p9808
+aS'lol'
+p9809
+aS'hi 11-09-adultsUser81'
+p9810
+aS'PART'
+p9811
+aS'ty 11-09-adultsUser11'
+p9812
+aS'hey 11-09-adultsUser72'
+p9813
+aS'hi '
+p9814
+aS'hmm....more like moths to the flame'
+p9815
+aS'hey 11-09-adultsUser76'
+p9816
+aS'anytime'
+p9817
+aS'lol'
+p9818
+aS'PART'
+p9819
+aS'what u up to'
+p9820
+aS'JOIN'
+p9821
+aS'PART'
+p9822
+aS'just chatting'
+p9823
+aS'PART'
+p9824
+aS'PART'
+p9825
+aS'PART'
+p9826
+aS'JOIN'
+p9827
+aS'JOIN'
+p9828
+aS"lol... I love it when people in a chatroom ask what you're up to...."
+p9829
+aS'JOIN'
+p9830
+aS'hehe'
+p9831
+aS'as if they didnt know'
+p9832
+aS'lol'
+p9833
+aS'NICK :11-09-adultsUser22'
+p9834
+aS'well, you could be multitasking'
+p9835
+aS'what am i up to.. about 5\'5"'
+p9836
+aS'true'
+p9837
+aS'JOIN'
+p9838
+aS'Hey 11-09-adultsUser86... down here thanks'
+p9839
+aS'JOIN'
+p9840
+aS'PART'
+p9841
+aS'Well, there is only so much multitasking one can do while typing'
+p9842
+aS'PART'
+p9843
+aS'JOIN'
+p9844
+aS'lol'
+p9845
+aS'PART'
+p9846
+aS'afk'
+p9847
+aS'unless they are really talented'
+p9848
+aS'PART'
+p9849
+aS'like 11-09-adultsUser54'
+p9850
+aS'lol'
+p9851
+aS'talented & 11-09-adultsUser54?'
+p9852
+aS'JOIN'
+p9853
+aS'JOIN'
+p9854
+aS'what a combo'
+p9855
+aS'hehehe'
+p9856
+aS'JOIN'
+p9857
+aS'.ACTION is listening to .Ciara ft. Chamillionaire - Get Up. ...'
+p9858
+aS'you could be leaving the computer periodically and only being confused by the conversation when you actually sit down??'
+p9859
+aS'you could be leaving the computer periodically and only being confused by the conversation when you actually sit down..'
+p9860
+aS'NICK :11-09-adultsUser27'
+p9861
+aS'but that would be boring '
+p9862
+aS'No Nova yet?'
+p9863
+aS'hmmmmmmm'
+p9864
+aS'.ACTION is confused by the conversation even when sitting down....'
+p9865
+aS'damn pmers'
+p9866
+aS'ah ha'
+p9867
+aS'JOIN'
+p9868
+aS'PART'
+p9869
+aS'hiya 11-09-adultsUser27'
+p9870
+aS'nope 11-09-adultsUser27'
+p9871
+aS'um...yes, me too'
+p9872
+aS'hey 11-09-adultsUser72'
+p9873
+aS'it happens'
+p9874
+aS'JOIN'
+p9875
+aS'PART'
+p9876
+aS'lol'
+p9877
+aS'.ACTION sighs.'
+p9878
+aS'mofo'
+p9879
+aS'JOIN'
+p9880
+aS"he'll be here soon"
+p9881
+aS'only i hate to admit it ...so i wont'
+p9882
+aS'i know'
+p9883
+aS'PART'
+p9884
+aS'lol'
+p9885
+aS'JOIN'
+p9886
+aS'im in denial'
+p9887
+aS'11-09-adultsUser97'
+p9888
+aS'heya'
+p9889
+aS'ltns'
+p9890
+aS'hi'
+p9891
+aS'totally'
+p9892
+aS'i know his whole schedule'
+p9893
+aS'yeah, well, we all are 11-09-adultsUser44'
+p9894
+aS'lol'
+p9895
+aS'did you get trapped in a mouse thingy'
+p9896
+aS'lol'
+p9897
+aS'PART'
+p9898
+aS'JOIN'
+p9899
+aS'PART'
+p9900
+aS'uh, yeah...'
+p9901
+aS'im controllin like that'
+p9902
+aS'PART'
+p9903
+aS'a streetcar named denial...'
+p9904
+aS':P'
+p9905
+aS'back'
+p9906
+aS'thats nice to know ...'
+p9907
+aS'PART'
+p9908
+aS'wb'
+p9909
+aS'wb 11-09-adultsUser22!'
+p9910
+aS'ty :)'
+p9911
+aS'short leash , huh?'
+p9912
+aS'oh glorious'
+p9913
+aS'i  dont feel so bad now'
+p9914
+aS'lol'
+p9915
+aS'ty ty :)'
+p9916
+aS'no im kidding'
+p9917
+aS'why did you feel bad, 11-09-adultsUser44?'
+p9918
+aS'why did you feel bad, 11-09-adultsUser44.'
+p9919
+aS'hahahah'
+p9920
+aS'JOIN'
+p9921
+aS'he may like that too much'
+p9922
+aS'gas problems ....but i took care of it '
+p9923
+aS'PART'
+p9924
+aS'hahaha'
+p9925
+aS';p'
+p9926
+aS'PART'
+p9927
+aS'JOIN'
+p9928
+aS'Ohhh, nice to know, 11-09-adultsUser44'
+p9929
+aS'oh my lol'
+p9930
+aS'.ACTION moves acros the room.'
+p9931
+aS'i hate being honest'
+p9932
+aS'JOIN'
+p9933
+aS'PART'
+p9934
+aS"Yeah, there's a real flaw... honesty...."
+p9935
+aS'PART'
+p9936
+aS'lol'
+p9937
+aS'*shakes head*'
+p9938
+aS'37 m wv'
+p9939
+aS'brb'
+p9940
+aS'PART'
+p9941
+aS'PART'
+p9942
+aS'why you moving 11-09-adultsUser73 ....its smells like roses'
+p9943
+aS'.ACTION thinks gas is a worse flaw.'
+p9944
+aS'JOIN'
+p9945
+aS'omg'
+p9946
+aS'Do these pants make my ass look fat? "No, your fat ass makes your ass look fat"'
+p9947
+aS'omg'
+p9948
+aS'omg'
+p9949
+aS'omg'
+p9950
+aS'Holy crap'
+p9951
+aS'Dustin'
+p9952
+aS"I'm stealing that line"
+p9953
+aS'Roses? Uh.... nooooo, not so much'
+p9954
+aS'dead roses ....lol'
+p9955
+aS"That's a good one"
+p9956
+aS'JOIN'
+p9957
+aS'wb 11-09-adultsUser22'
+p9958
+aS'you gonna be ok 11-09-adultsUser27?'
+p9959
+aS'you gonna be ok 11-09-adultsUser27.'
+p9960
+aS'wb 11-09-adultsUser22'
+p9961
+aS'JOIN'
+p9962
+aS'PART'
+p9963
+aS'JOIN'
+p9964
+aS'lol yes'
+p9965
+aS"Yeah, well, I'm good like that too.... lol"
+p9966
+aS'thanks 11-09-adultsUser27 and 11-09-adultsUser44 :)'
+p9967
+aS'lol'
+p9968
+aS'PART'
+p9969
+aS'yw'
+p9970
+aS'PART'
+p9971
+aS'11-09-adultsUser101..'
+p9972
+aS'PART'
+p9973
+aS'NICK :11-09-adultsUser29'
+p9974
+aS'11-09-adultsUser29!!!'
+p9975
+aS'JOIN'
+p9976
+aS'sorry?  what was that about fat asses...'
+p9977
+aS'sorry.  what was that about fat asses...'
+p9978
+aS'.3(((((..6 11-09-adultsUser27 ..3)))))'
+p9979
+aS'JOIN'
+p9980
+aS'everything is moving to fast...'
+p9981
+aS'hiya 11-09-adultsUser29'
+p9982
+aS'11-09-adultsUser27!'
+p9983
+aS'.3(((((..6 11-09-adultsUser72 ..3)))))'
+p9984
+aS'11-09-adultsUser100 what part of wv are you in?'
+p9985
+aS'11-09-adultsUser100 what part of wv are you in.'
+p9986
+aS'PART'
+p9987
+aS'JOIN'
+p9988
+aS'PART'
+p9989
+aS"no whisperer, i'm not married"
+p9990
+aS'PART'
+p9991
+aS'JOIN'
+p9992
+aS'LOL 11-09-adultsUser22'
+p9993
+aS'..6(((.3 11-09-adultsUser29 .6)))'
+p9994
+aS'hello roomies'
+p9995
+aS'better go back to the other nick'
+p9996
+aS'PART'
+p9997
+aS'so any females want to chat '
+p9998
+aS'it didnt help then did it?'
+p9999
+aS'i am thinking so, 11-09-adultsUser73 lol'
+p10000
+aS'11-09-adultsUser27!!!!'
+p10001
+aS'guess not... lol'
+p10002
+aS'I love you~! '
+p10003
+aS'JOIN'
+p10004
+aS'PART'
+p10005
+aS'And i missed you!!!'
+p10006
+aS'JOIN'
+p10007
+aS'.ACTION sips her coffee.'
+p10008
+aS'beckley'
+p10009
+aS'I love you too'
+p10010
+aS'PART'
+p10011
+aS'they think of it more like an invite'
+p10012
+aS'JOIN'
+p10013
+aS'Always remember that no matter where you go, there you are! '
+p10014
+aS'I missed you yesterday'
+p10015
+aS'PART'
+p10016
+aS'ah ok.. my dad lives in clay wv'
+p10017
+aS"I can't stay on to late tonight I have homework =("
+p10018
+aS"Females, 11-09-adultsUser81? None of those in here. Male only room, and just your luck... it's Fetish night...."
+p10019
+aS'shane'
+p10020
+aS'JOIN'
+p10021
+aS'PART'
+p10022
+aS'told me i couldnt call you'
+p10023
+aS'i was sad'
+p10024
+aS'JOIN'
+p10025
+aS'and here i am'
+p10026
+aS"Ahhh, how I've missed 11-09-adultsUser16... so full of helpful advice...."
+p10027
+aS'lol'
+p10028
+aS"11-09-adultsUser73: How much do you think  it is?   I'll come back to that later."
+p10029
+aS"11-09-adultsUser73: How much do you think  it is.   I'll come back to that later."
+p10030
+aS"LOL Why couldn't you call me??"
+p10031
+aS'Sure, 11-09-adultsUser16.... '
+p10032
+aS'my internet was down till this morning'
+p10033
+aS'PART'
+p10034
+aS'PART'
+p10035
+aS'PART'
+p10036
+aS'PART'
+p10037
+aS'.ACTION waits.'
+p10038
+aS'shane told me not too..so i didnt'
+p10039
+aS'JOIN'
+p10040
+aS"Well... I'm outta here for now.  TC everyone"
+p10041
+aS'i dont have school tomorrow'
+p10042
+aS'hahahaha!!!!!!'
+p10043
+aS'anyone in texas'
+p10044
+aS'night 11-09-adultsUser73'
+p10045
+aS'lmao he told you not to call me yesterday'
+p10046
+aS'its a holiday!!!!!!'
+p10047
+aS'PART'
+p10048
+aS'yup yup'
+p10049
+aS'lol'
+p10050
+aS'LOL I have clinicals'
+p10051
+aS'PART'
+p10052
+aS'JOIN'
+p10053
+aS'JOIN'
+p10054
+aS"Well don't listen to him call me when you want too"
+p10055
+aS'PART'
+p10056
+aS'bbl  gonna go enjoy a nice fire'
+p10057
+aS'JOIN'
+p10058
+aS'i think he was joking'
+p10059
+aS"My aunt isn't doing well"
+p10060
+aS'but i didnt chance it'
+p10061
+aS'lol'
+p10062
+aS'oh no'
+p10063
+aS'that sucks hon'
+p10064
+aS'PART'
+p10065
+aS'LOL you call me whenever you want too'
+p10066
+aS'sorry to hear that 11-09-adultsUser29 :('
+p10067
+aS'Yes she not waking up from surgery'
+p10068
+aS':('
+p10069
+aS'oh no :('
+p10070
+aS'PART'
+p10071
+aS'.ACTION is scared.'
+p10072
+aS'i hope she wakes up'
+p10073
+aS'hi evertonr'
+p10074
+aS'and gets better'
+p10075
+aS'brb'
+p10076
+aS'I know to much about stuff like that now... and it scares me'
+p10077
+aS'me too'
+p10078
+aS'PART'
+p10079
+aS'JOIN'
+p10080
+aS'hi coolcat'
+p10081
+aS'prays fo 11-09-adultsUser29s aunt'
+p10082
+aS'ok'
+p10083
+aS'out here, please'
+p10084
+aS'im back'
+p10085
+aS'Welcome bacl 11-09-adultsUser50'
+p10086
+aS'LMAO'
+p10087
+aS'11-09-adultsUser27'
+p10088
+aS' :p'
+p10089
+aS'lol'
+p10090
+aS'you tabbed wrong!!!!!!'
+p10091
+aS'PART'
+p10092
+aS'ahhahahaha!!!!'
+p10093
+aS'.ACTION trying to keep me spirits up.'
+p10094
+aS'JOIN'
+p10095
+aS'LOL I know 11-09-adultsUser27'
+p10096
+aS'JOIN'
+p10097
+aS'They want let no body but immediate family back there ... makes me sad'
+p10098
+aS'all these people here and hardly anyone talking'
+p10099
+aS'yo'
+p10100
+aS'PART'
+p10101
+aS'i dont pm'
+p10102
+aS"probably because i've iggy'd so many"
+p10103
+aS'awww'
+p10104
+aS'hi 11-09-adultsUser72 :)'
+p10105
+aS'im litening to music 11-09-adultsUser72 and watching'
+p10106
+aS'LOL!!'
+p10107
+aS'hi 11-09-adultsUser22'
+p10108
+aS'PART'
+p10109
+aS"i'm in IM"
+p10110
+aS"it's so hard to follow..."
+p10111
+aS'JOIN'
+p10112
+aS'its cool'
+p10113
+aS'.ACTION is listening to .Fergie - Fergalicious. ...'
+p10114
+aS'PART'
+p10115
+aS'hello'
+p10116
+aS'aaahhhh'
+p10117
+aS'omg this song is so gay'
+p10118
+aS'i had that song stuck in my head today'
+p10119
+aS'lol'
+p10120
+aS'and i hhaaaaatttee it'
+p10121
+aS'lol 11-09-adultsUser27 i just downloaded that to my ringtones last night'
+p10122
+aS'they are overplaying'
+p10123
+aS'on the radio'
+p10124
+aS'lol'
+p10125
+aS'better than "slap that"'
+p10126
+aS'tired of that too'
+p10127
+aS'JOIN'
+p10128
+aS'i need to dl some songs for my phone'
+p10129
+aS'JOIN'
+p10130
+aS'brb got to go here my songs'
+p10131
+aS'song'
+p10132
+aS'smackthat by akon?'
+p10133
+aS'yes'
+p10134
+aS'JOIN'
+p10135
+aS'lol'
+p10136
+aS'oops'
+p10137
+aS'hello everyone'
+p10138
+aS'<---idiot'
+p10139
+aS'lol'
+p10140
+aS'JOIN'
+p10141
+aS'PART'
+p10142
+aS'JOIN'
+p10143
+aS'whatcha listening to 11-09-adultsUser11?'
+p10144
+aS'whatcha listening to 11-09-adultsUser11.'
+p10145
+aS'i just listen to it alot '
+p10146
+aS'lol'
+p10147
+aS'PART'
+p10148
+aS'PART'
+p10149
+aS'PART'
+p10150
+aS'sup yoll'
+p10151
+aS'JOIN'
+p10152
+aS'PART'
+p10153
+aS'JOIN'
+p10154
+aS'JOIN'
+p10155
+aS'hi!!!!11'
+p10156
+aS'asl everyone'
+p10157
+aS'Mooooooooooooooooooooooooooo'
+p10158
+aS'17 m irl'
+p10159
+aS'PART'
+p10160
+aS'JOIN'
+p10161
+aS':11-09-teensUser114!11-09-teensUser114@11-09-teensUser114 MODE #14-19teens +o 11-09-teensUser114'
+p10162
+aS':|'
+p10163
+aS'PART'
+p10164
+aS'PART'
+p10165
+aS'dsklgjsdk.'
+p10166
+aS'.ACTION goes boom.'
+p10167
+aS'lovely, 11-09-teensUser60.'
+p10168
+aS'hgfhgfjgf'
+p10169
+aS'o<|=D'
+p10170
+aS'hey any girls won chat?'
+p10171
+aS'I can type "cat is on my keyboard" too!'
+p10172
+aS' dsklgjsdk.'
+p10173
+aS'd='
+p10174
+aS'PART'
+p10175
+aS'fkajslf'
+p10176
+aS'qwertyuiop'
+p10177
+aS'18 M here, GIRLS PM ME'
+p10178
+aS'Hello Richard.'
+p10179
+aS'your cat walks in a perfect line, im impressed!'
+p10180
+aS'Sup Joe.'
+p10181
+aS'JOIN'
+p10182
+aS'hello ;-) '
+p10183
+aS'Yes, they do have good     Web    Images    Video    News    Maps    more ? Books'
+p10184
+aS'Froogle'
+p10185
+aS'Groups'
+p10186
+aS'even more ? '
+p10187
+aS'<empty>'
+p10188
+aS'<empty>'
+p10189
+aS'<empty>'
+p10190
+aS'<empty>'
+p10191
+aS'o.o'
+p10192
+aS'mature love making is sweet '
+p10193
+aS"Amy Lee's new shit is crap"
+p10194
+aS'What the flippin heck.'
+p10195
+aS'lawl'
+p10196
+aS'PART'
+p10197
+aS'PART'
+p10198
+aS'JOIN'
+p10199
+aS'When did I paste!?'
+p10200
+aS'Jesus.'
+p10201
+aS'JOIN'
+p10202
+aS'PART'
+p10203
+aS"google's start page.. lol"
+p10204
+aS'18 M here, GIRLS PM ME'
+p10205
+aS"Okay..it's really boring in the real world."
+p10206
+aS'.ACTION pokkies 11-09-teensUser34 >.>->(o.o).'
+p10207
+aS'PART'
+p10208
+aS'Yeah..'
+p10209
+aS'PART'
+p10210
+aS'JOIN'
+p10211
+aS'PART'
+p10212
+aS'LoL'
+p10213
+aS'I was checking some results.'
+p10214
+aS'PART'
+p10215
+aS"I really think I'm getting sick and I'm scared"
+p10216
+aS'JOIN'
+p10217
+aS'Tiff.'
+p10218
+aS'=('
+p10219
+aS'Hey wazz up anybody from tacoma WA'
+p10220
+aS'Chop off my fingers.'
+p10221
+aS'Hey wazz up anybody from tacoma WA'
+p10222
+aS'PART'
+p10223
+aS'Post-haste.'
+p10224
+aS'dum de dum'
+p10225
+aS'JOIN'
+p10226
+aS".ACTION chops off 11-09-teensUser34's fingers.."
+p10227
+aS".ACTION chops 11-09-teensUser34's finers AND toes off.."
+p10228
+aS'DAMN'
+p10229
+aS'JOIN'
+p10230
+aS'.ACTION Fingers*.'
+p10231
+aS'What did my toes do?!'
+p10232
+aS'any uk girls here TYPR 100'
+p10233
+aS'.ACTION throws them at 11-09-teensUser25..'
+p10234
+aS'Do not poll.'
+p10235
+aS'PART'
+p10236
+aS".ACTION fries up 11-09-teensUser34's fingers and toes, then feeds them to 11-09-teensUser34."
+p10237
+aS'im boed'
+p10238
+aS'JOIN'
+p10239
+aS'anyhow brb..'
+p10240
+aS'PART'
+p10241
+aS'yes.'
+p10242
+aS'Dude..., I wanted some of that.'
+p10243
+aS'm I missing something?'
+p10244
+aS'PART'
+p10245
+aS'JOIN'
+p10246
+aS"I'm gonna go fix food, I'll be back later."
+p10247
+aS'JOIN'
+p10248
+aS'.ACTION slaps 11-09-teensUser122 around a bit with a large trout.'
+p10249
+aS'18/m pm me if u tryin to chat'
+p10250
+aS'PART'
+p10251
+aS'PART'
+p10252
+aS'Does anyone here know 11-09-teensUser120?'
+p10253
+aS'Does anyone here know 11-09-teensUser120.'
+p10254
+aS'PART'
+p10255
+aS'PART'
+p10256
+aS'JOIN'
+p10257
+aS'JOIN'
+p10258
+aS'i know fragglerock'
+p10259
+aS'PART'
+p10260
+aS'When I show up people leave. '
+p10261
+aS'...'
+p10262
+aS'18/m pm me if u tryin to chat'
+p10263
+aS'PART'
+p10264
+aS'.ACTION slaps 11-09-teensUser122 around a bit with a large trout.'
+p10265
+aS'you both have the same charge'
+p10266
+aS'does any girls won chat?'
+p10267
+aS'PART'
+p10268
+aS'JOIN'
+p10269
+aS'11-09-teensUser122.'
+p10270
+aS'11-09-teensUser120 pwns 11-09-teensUser2 with bare hands'
+p10271
+aS'i luv life'
+p10272
+aS'PART'
+p10273
+aS"you're gay."
+p10274
+aS'JOIN'
+p10275
+aS'ah, the trout!'
+p10276
+aS'i love life also life is good'
+p10277
+aS'Very good, 11-09-teensUser120'
+p10278
+aS'the real question is are there any "real " girls in here..lol'
+p10279
+aS'Define "real"'
+p10280
+aS'hey 11-09-teensUser72 u not from england by any chance are ya?'
+p10281
+aS'hey 11-09-teensUser72 u not from england by any chance are ya.'
+p10282
+aS'18/m pm me if u tryin to chat'
+p10283
+aS'PART'
+p10284
+aS'JOIN'
+p10285
+aS'wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+p10286
+aS'PART'
+p10287
+aS'I hate you, 11-09-teensUser122.'
+p10288
+aS'girls that dont mind talkiing to us guys, and having good fun conversation'
+p10289
+aS'Define "Good and fun"'
+p10290
+aS'..Okay.'
+p10291
+aS'Now.'
+p10292
+aS'And I love you when you hate me.'
+p10293
+aS'JOIN'
+p10294
+aS'JOIN'
+p10295
+aS'.ACTION slaps 11-09-teensUser122 around a bit with a large trout.'
+p10296
+aS'do we really need to go there..lol'
+p10297
+aS'>_>'
+p10298
+aS'you love me when I tab you.'
+p10299
+aS'18/m pm me if u tryin to chat'
+p10300
+aS'like so...'
+p10301
+aS'11-09-teensUser122'
+p10302
+aS'can you say anything else 11-09-teensUser121?'
+p10303
+aS'can you say anything else 11-09-teensUser121.'
+p10304
+aS'PART'
+p10305
+aS'PART'
+p10306
+aS'guys pm me!!!!!!!!!'
+p10307
+aS'Hey poeple out there u want 2 talk 2 a hot chick'
+p10308
+aS"You're still gay."
+p10309
+aS'who is '
+p10310
+aS'I want to talk with anybody not a boring zombie'
+p10311
+aS'PART'
+p10312
+aS'PART'
+p10313
+aS'JOIN'
+p10314
+aS'Food now, chat later, goodbye! P.S remember my name'
+p10315
+aS'PART'
+p10316
+aS'hey 11-09-teensUser3.. did you see me at your house today.'
+p10317
+aS'18/m pm me if u tryin to chat'
+p10318
+aS'Yeh.'
+p10319
+aS'JOIN'
+p10320
+aS"how come you didn't come into the shower"
+p10321
+aS'I was in the shower.'
+p10322
+aS"oh well I must be blind cause I didn't see you "
+p10323
+aS'JOIN'
+p10324
+aS'JOIN'
+p10325
+aS'PART'
+p10326
+aS'.ACTION looks for 11-09-teensUser3 in the shower.'
+p10327
+aS'=/'
+p10328
+aS'hi ppl'
+p10329
+aS'PART'
+p10330
+aS"I guess we'll have to reschedual"
+p10331
+aS'JOIN'
+p10332
+aS'any guys want to chat'
+p10333
+aS'damn I was looking forward to it to'
+p10334
+aS'.ACTION looks for his feet in the shower.'
+p10335
+aS'hey'
+p10336
+aS'.ACTION kidding..'
+p10337
+aS'PART'
+p10338
+aS'hi 11-09-teensUser9 il chat'
+p10339
+aS'les f uk girls only please pm me'
+p10340
+aS'PART'
+p10341
+aS'JOIN'
+p10342
+aS"... you don't love me no more do you? :("
+p10343
+aS"... you don't love me no more do you. :("
+p10344
+aS'18/m pm me if u tryin to chat'
+p10345
+aS'PART'
+p10346
+aS'JOIN'
+p10347
+aS'JOIN'
+p10348
+aS'JOIN'
+p10349
+aS'JOIN'
+p10350
+aS'PART'
+p10351
+aS'JOIN'
+p10352
+aS'PART'
+p10353
+aS'PART'
+p10354
+aS'JOIN'
+p10355
+aS'JOIN'
+p10356
+aS'Hey '
+p10357
+aS'PART'
+p10358
+aS'18/m pm me if u tryin to chat'
+p10359
+aS"oh well I'll talk to you all later.. bye "
+p10360
+aS'16ftx '
+p10361
+aS'JOIN'
+p10362
+aS'any guys wanna talk with a really bored f 19 from tx'
+p10363
+aS'hey everybody, ..now were all da sexi bois a/f/atl'
+p10364
+aS'Chris'
+p10365
+aS'JOIN'
+p10366
+aS'hi yea'
+p10367
+aS'JOIN'
+p10368
+aS'JOIN'
+p10369
+ag1303
+aS'who wants to talk'
+p10370
+aS'JOIN'
+p10371
+aS'JOIN'
+p10372
+aS'JOIN'
+p10373
+aS'PART'
+p10374
+aS'hey'
+p10375
+aS'19/m/fl any fl girls here pm me'
+p10376
+aS'JOIN'
+p10377
+aS'JOIN'
+p10378
+aS'JOIN'
+p10379
+aS'JOIN'
+p10380
+aS'JOIN'
+p10381
+aS'18/m pm me if u tryin to chat'
+p10382
+aS'hey wanna chat im me @ 11-09-teensUser144@aim.com'
+p10383
+aS'.........'
+p10384
+aS'hey im me'
+p10385
+aS'PART'
+p10386
+aS'hey ppl'
+p10387
+aS'no aim'
+p10388
+aS'lol'
+p10389
+aS'hey 11-09-teensUser136'
+p10390
+aS'ne one wanna chat pm me'
+p10391
+aS'PART'
+p10392
+aS'why 11-09-teensUser142'
+p10393
+aS"OK I DON'T KNOW WHO IS GOING AROUND TELLIN GUYS THAT I HAVE A BIG BOOTY. ONE NONE OF YALL AIN'T EVEN SEEN MY BOOTY AND NONE OF YOU WILL. SEE MY BOOTY. SO IF YOU HAVE SOMETHING TO SAY DON'T RUN YOUR MOUTH COME AND SAY IT TO MY FACE CUZ THAT IT JUST SHOWS YOUR NOT MAN OR WOMAN ENOUGH."
+p10394
+aS'Hey '
+p10395
+aS'any guy want to talk about what they want to do to me in bes '
+p10396
+aS'PART'
+p10397
+aS'bed'
+p10398
+aS'JOIN'
+p10399
+aS'11-09-teensUser33 has a huge ass'
+p10400
+aS'Lmao.'
+p10401
+aS'HEY 11-09-teensUser33 do u hav a big booty lol'
+p10402
+aS'JOIN'
+p10403
+aS'It drags the ground as she waddles down the street'
+p10404
+aS'caps suck'
+p10405
+aS'Crazy'
+p10406
+aS'PART'
+p10407
+aS'Kids'
+p10408
+aS'PART'
+p10409
+aS'PART'
+p10410
+aS'JOIN'
+p10411
+aS'PART'
+p10412
+aS'bbbbbyyyyyyyeeeeeeeee...........'
+p10413
+aS'PART'
+p10414
+aS'hey guys'
+p10415
+aS'PART'
+p10416
+aS'hello ppl'
+p10417
+aS'PART'
+p10418
+aS'PART'
+p10419
+aS'JOIN'
+p10420
+aS'It sure is dead in here right now'
+p10421
+aS'.wz 28147'
+p10422
+aS'JOIN'
+p10423
+aS' .Salisbury, North Carolina. -- 6.  6:41 PM EST'
+p10424
+aS' .Temp. 59%    '
+p10425
+aS'JOIN'
+p10426
+aS'this place just bied and burryed it self'
+p10427
+aS'JOIN'
+p10428
+aS'who wants to talk to me'
+p10429
+aS'PART'
+p10430
+aS'.wz 33982'
+p10431
+aS' .Punta Gorda, Florida. -- 6.  6:53 PM EST'
+p10432
+aS'JOIN'
+p10433
+aS' .Temp. 65%    '
+p10434
+aS'18/m pm me if u tryin to chat'
+p10435
+aS'any hot guys wana talk'
+p10436
+aS'any goths '
+p10437
+aS'i am a hot girl '
+p10438
+aS'guys pm me'
+p10439
+aS'JOIN'
+p10440
+aS'dont lie'
+p10441
+aS'11-09-teensUser148 wanna talk'
+p10442
+aS'ill take the first one'
+p10443
+aS'lol'
+p10444
+aS'ok'
+p10445
+aS' i got 1'
+p10446
+aS'um ok'
+p10447
+aS'so sup'
+p10448
+aS'PART'
+p10449
+aS'PART'
+p10450
+aS'JOIN'
+p10451
+aS'PART'
+p10452
+aS'JOIN'
+p10453
+aS'nm u?'
+p10454
+aS'PART'
+p10455
+aS'nothin at all'
+p10456
+aS'baord to death'
+p10457
+aS'JOIN'
+p10458
+aS'11-09-teensUser57'
+p10459
+aS'Whats really good room'
+p10460
+aS'JOIN'
+p10461
+aS'ur telllin me'
+p10462
+aS'hey any uk girls her?'
+p10463
+aS'JOIN'
+p10464
+aS'PART'
+p10465
+aS'JOIN'
+p10466
+aS'How come purple cabbage tastes like ear wax?'
+p10467
+aS'How come purple cabbage tastes like ear wax.'
+p10468
+aS'Hey yall'
+p10469
+aS'They do.lol'
+p10470
+aS'do you have msn'
+p10471
+aS'JOIN'
+p10472
+aS'11-09-teensUser156!'
+p10473
+aS"there's purple cabbage?"
+p10474
+aS'n e 1 besides me need a drink'
+p10475
+aS'no?'
+p10476
+aS'Hello 11-09-teensUser117?'
+p10477
+aS'Yes, there is.'
+p10478
+aS'yap'
+p10479
+aS".ACTION ='s 11-09-teensUser117.."
+p10480
+aS'oh wow'
+p10481
+aS'JOIN'
+p10482
+aS'yo 11-09-teensUser149 i do ya '
+p10483
+aS'JOIN'
+p10484
+aS'JOIN'
+p10485
+aS'everyone in this room ballin say "11-09-teensUser153"'
+p10486
+aS'You must enjoy confusing me cause you do 11-09-teensUser117'
+p10487
+aS'what'
+p10488
+aS'11-09-teensUser35'
+p10489
+aS'15 f here anyone wanna chat pm me'
+p10490
+aS"Lol, I do indeed. I'm leaving at 7:45..so in like 45 minutes."
+p10491
+aS'NO 11-09-teensUser153'
+p10492
+aS'f u'
+p10493
+aS'no fu'
+p10494
+aS'psh no fun'
+p10495
+aS'my bad\\'
+p10496
+aS'PART'
+p10497
+aS"DJ FreesBee -stay- 11-09-teensUser153'."
+p10498
+aS'I wanna watch football.'
+p10499
+aS'PART'
+p10500
+aS'JOIN'
+p10501
+aS'maybe I should become the her'
+p10502
+aS'PART'
+p10503
+aS'i will'
+p10504
+aS'in this thing'
+p10505
+aS'any1 ever hear of dj sincy?'
+p10506
+aS'JOIN'
+p10507
+aS"No, you can't."
+p10508
+aS'Scott is doing that.'
+p10509
+aS'why not move the tv or computor into the same room 11-09-teensUser117?'
+p10510
+aS'why not move the tv or computor into the same room 11-09-teensUser117.'
+p10511
+aS"Because...I'll still only be half way here."
+p10512
+aS'PART'
+p10513
+aS'still thats good enough'
+p10514
+aS'And I need to sit on something soft.'
+p10515
+aS'PART'
+p10516
+aS'JOIN'
+p10517
+aS'JOIN'
+p10518
+aS'then get a cusion'
+p10519
+aS'JOIN'
+p10520
+aS"No, I'm leaving and watching the game."
+p10521
+aS'who wants to talk to me'
+p10522
+aS'n e latins n here?'
+p10523
+aS'JOIN'
+p10524
+aS'whos the game against?'
+p10525
+aS'im latina.'
+p10526
+aS'Rutger vs. Louisville.'
+p10527
+aS'any guys wanna have a fun chat  pm me now'
+p10528
+aS'18/m pm me if u tryin to chat'
+p10529
+aS'H0rny les with pics. any girls want to pm me'
+p10530
+aS"And why can't you read about it in the paper?"
+p10531
+aS"And why can't you read about it in the paper."
+p10532
+aS'JOIN'
+p10533
+aS'JOIN'
+p10534
+aS"Because it's not the same..and I like Rutger."
+p10535
+aS'JOIN'
+p10536
+aS'ahh'
+p10537
+aS'hi ppl'
+p10538
+aS'PART'
+p10539
+aS'reading != watching'
+p10540
+aS'argh lag'
+p10541
+aS'Uhhh, no?'
+p10542
+aS"You're stubborn"
+p10543
+aS'PART'
+p10544
+aS'Reading = Finding out about two plays that won the game.'
+p10545
+aS'any hot guys wanna talk to a 18 f tenn im hot so pm me'
+p10546
+aS'Watching = An hour and a half or two of pure bliss.'
+p10547
+aS'watching=adreniline boost and shouting at tv like a senseless fool'
+p10548
+aS'18/m pm me if u tryin to chat'
+p10549
+aS'JOIN'
+p10550
+aS'..i know, lawl'
+p10551
+aS'JOIN'
+p10552
+aS'PART'
+p10553
+aS'<empty>'
+p10554
+aS'JOIN'
+p10555
+aS'Indeed, 11-09-teensUser156.'
+p10556
+aS'JOIN'
+p10557
+aS'wow another one'
+p10558
+aS'Who is 11-09-teensUser168?'
+p10559
+aS'PART'
+p10560
+aS'JOIN'
+p10561
+aS'wazz up any one wanna chat'
+p10562
+aS'too many now'
+p10563
+aS"Someone who doesn't realize it's supposed to be ApocalypseNow?"
+p10564
+aS"Someone who doesn't realize it's supposed to be ApocalypseNow."
+p10565
+aS'Who is Her?'
+p10566
+aS'PART'
+p10567
+aS'JOIN'
+p10568
+aS'JOIN'
+p10569
+aS'anyone girls here over 18 wanna chat?'
+p10570
+aS'anyone girls here over 18 wanna chat.'
+p10571
+aS'Lol.'
+p10572
+aS'11-09-teensUser57.'
+p10573
+aS'PART'
+p10574
+aS'JOIN'
+p10575
+aS'PART'
+p10576
+aS'JOIN'
+p10577
+aS'any hot girls wanna chat with a hot 19 m usa whisper me'
+p10578
+aS'.ACTION sits on the hammock and rubs her temples.'
+p10579
+aS'11-09-teensUser25.'
+p10580
+aS'hey'
+p10581
+aS'hey'
+p10582
+aS'18/m pm me if u tryin to chat'
+p10583
+aS'I need Kittie music o_O'
+p10584
+aS'PART'
+p10585
+aS'JOIN'
+p10586
+aS'hi'
+p10587
+aS'.9Lime Player 12%.)(.Song 224 of 423.).'
+p10588
+aS".ACTION listens to the tv'If you broke your ass,it was your own fault'."
+p10589
+aS'hey peeps'
+p10590
+aS'Hahaaaa.'
+p10591
+aS'YES.'
+p10592
+aS'Thats the song I wanted xD'
+p10593
+aS'PART'
+p10594
+aS'JOIN'
+p10595
+aS'if any guys thats only 18 or older im'
+p10596
+aS'PART'
+p10597
+aS'who wants to talk to a hot girl'
+p10598
+aS'any one got myspace'
+p10599
+aS'JOIN'
+p10600
+aS'18/m pm me if u tryin to chat'
+p10601
+aS'i got mspace'
+p10602
+aS'myspace is the devil'
+p10603
+aS'hey'
+p10604
+aS'how old are u 11-09-teensUser172'
+p10605
+aS'PART'
+p10606
+aS'No myspace talk.'
+p10607
+aS'well it is evil'
+p10608
+aS'PART'
+p10609
+aS'hey'
+p10610
+aS'JOIN'
+p10611
+aS'any aussies wanna chat pm me'
+p10612
+aS'JOIN'
+p10613
+aS'PART'
+p10614
+aS'11-09-teensUser98, 11-09-teensUser164 is going around asking for "P.ussy"'
+p10615
+aS'why not 11-09-teensUser98?'
+p10616
+aS'PART'
+p10617
+aS"I'm about to ban all these holocaust names"
+p10618
+aS'alright so its you,me,him,her,now,and yum'
+p10619
+aS'PART'
+p10620
+aS'what the hell'
+p10621
+aS'because its THE RULES!!'
+p10622
+aS'PART'
+p10623
+aS'19 m fl'
+p10624
+aS'PART'
+p10625
+aS'whats up with the holocaust names?  '
+p10626
+aS'whats up with the holocaust names.  '
+p10627
+aS'any florida women here'
+p10628
+aS'yeah but i was currious as to why not'
+p10629
+aS'JOIN'
+p10630
+aS'PART'
+p10631
+aS'17/f/FL pics, wanna chat?'
+p10632
+aS'its kinda insuklting'
+p10633
+aS'JOIN'
+p10634
+aS'n e hott rocker girls wana chatt with a guitar rocker'
+p10635
+aS'I wanna know too 11-09-teensUser150 but its the eroticaust and thats why so many have it.'
+p10636
+aS'JOIN'
+p10637
+aS'PART'
+p10638
+aS'JOIN'
+p10639
+aS'PART'
+p10640
+aS'JOIN'
+p10641
+aS'JOIN'
+p10642
+aS'yea guitar rocker ur kool u lil guitar rocker'
+p10643
+aS'PART'
+p10644
+aS'whats eroticaust???'
+p10645
+aS'lmao'
+p10646
+aS'Something with the word erotic in it'
+p10647
+aS'o_O'
+p10648
+aS'well duh'
+p10649
+aS'PART'
+p10650
+aS'PART'
+p10651
+aS'.9Lime Player 12%.)(.Song 99 of 423.).'
+p10652
+aS'hey peoples dont send me a pm unless i say u can plz'
+p10653
+aS'JOIN'
+p10654
+aS'JOIN'
+p10655
+aS'Its the time of sexual things'
+p10656
+aS'PART'
+p10657
+aS'JOIN'
+p10658
+aS'hi'
+p10659
+aS'JOIN'
+p10660
+aS'hey 11-09-teensUser181 can i pm u >????'
+p10661
+aS'hey 11-09-teensUser181 can i pm u >....'
+p10662
+aS'PART'
+p10663
+aS'ya'
+p10664
+aS'JOIN'
+p10665
+aS'babe asl?'
+p10666
+aS'PART'
+p10667
+aS'11-09-teensUser98, holocaust names look like a attempted flooder dont ya think?'
+p10668
+aS'11-09-teensUser98, holocaust names look like a attempted flooder dont ya think.'
+p10669
+aS'ne ladies wanna chat to an 18/m/england uk pm me'
+p10670
+aS'hi asl'
+p10671
+aS'PART'
+p10672
+aS'im gone'
+p10673
+aS'PART'
+p10674
+aS'PART'
+p10675
+aS'JOIN'
+p10676
+aS'PART'
+p10677
+aS'PART'
+p10678
+aS'PART'
+p10679
+aS"If anyone removes that wildcard ban i'm going to go off on them. I'll know who it was too."
+p10680
+aS'PART'
+p10681
+aS'JOIN'
+p10682
+aS'JOIN'
+p10683
+aS"e'wjfghky"
+p10684
+aS'PART'
+p10685
+aS'PART'
+p10686
+aS'PART'
+p10687
+aS'are there any girls up for it in this room!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+p10688
+aS'hello everyone'
+p10689
+aS'PART'
+p10690
+aS'PART'
+p10691
+aS'.9Lime Player 12%.)(.Song 280 of 423.).'
+p10692
+aS'PART'
+p10693
+aS'JOIN'
+p10694
+aS'JOIN'
+p10695
+aS'PART'
+p10696
+aS'JOIN'
+p10697
+aS'PART'
+p10698
+aS'PART'
+p10699
+aS'PART'
+p10700
+aS'PART'
+p10701
+aS'19/m bored gals msg me'
+p10702
+aS'PART'
+p10703
+aS'JOIN'
+p10704
+aS'.ACTION is now known as HolocaustYourMom.'
+p10705
+aS'woah'
+p10706
+aS'xD'
+p10707
+aS'LoL'
+p10708
+aS'holy mary mother off god where is all the p ussy tonight lol'
+p10709
+aS'Daniel<3'
+p10710
+aS'=p'
+p10711
+aS'Marlaya<333333333!!!!!'
+p10712
+aS'11-09-teensUser104 <3'
+p10713
+aS'11-09-teensUser35 - Tisk Tisk.'
+p10714
+aS'JOIN'
+p10715
+aS'11-09-teensUser190, are you out of the drawers?'
+p10716
+aS'11-09-teensUser190, are you out of the drawers.'
+p10717
+aS'eh..?'
+p10718
+aS'tisk tisk??????'
+p10719
+aS'NICK :11-09-teensUser3'
+p10720
+aS'.9Lime Player 12%.)(.Song 246 of 423.).'
+p10721
+aS'About your.'
+p10722
+aS'JOIN'
+p10723
+aS'Amazingness.'
+p10724
+aS'JOIN'
+p10725
+aS'oh.'
+p10726
+aS'11-09-teensUser104!!!!!!!<333333333'
+p10727
+aS'...3333333'
+p10728
+aS'11-09-teensUser190 loves 11-09-teensUser3 =] <3333'
+p10729
+aS'o.O'
+p10730
+aS'JOIN'
+p10731
+aS'=D'
+p10732
+aS'Oh!'
+p10733
+aS'Nevermind.'
+p10734
+aS'lol'
+p10735
+aS'What happen to Jason 11-09-teensUser3? :/'
+p10736
+aS'What happen to Jason 11-09-teensUser3. :/'
+p10737
+aS'Do what now, David?'
+p10738
+aS'JOIN'
+p10739
+aS'any randy girls in her????'
+p10740
+aS'I thought you were married? lol'
+p10741
+aS'I thought you were married. lol'
+p10742
+aS'what happened to the girl w/ the same birthday as me??????'
+p10743
+aS'what happened to the girl w/ the same birthday as me......'
+p10744
+aS'any girl wanna chat?'
+p10745
+aS"Cookies 'n' Cream ice cream."
+p10746
+aS'JOIN'
+p10747
+aS'brb'
+p10748
+aS'PART'
+p10749
+aS'Yarrrr.'
+p10750
+aS'PART'
+p10751
+aS'JOIN'
+p10752
+aS'Horace.'
+p10753
+aS'JOIN'
+p10754
+aS'JOIN'
+p10755
+aS'JOIN'
+p10756
+aS'17/f/FL pics, wanna chat?'
+p10757
+aS'hey 16 m ny bored'
+p10758
+aS"Horace isn't in here o.o"
+p10759
+aS"Actually.. if you'd have asked me in uh MSN or something, I'd tell you. But.. =/"
+p10760
+aS'JOIN'
+p10761
+aS'Booyah.'
+p10762
+aS'Lmao.'
+p10763
+aS'You knew I had Kittie. :P'
+p10764
+aS':D'
+p10765
+aS'Lampert?'
+p10766
+aS'Meh, I need someone to talk to. 19 female USA.'
+p10767
+aS'PART'
+p10768
+aS'PART'
+p10769
+aS'Of Course I knew you had Kittie :P'
+p10770
+aS'11-09-teensUser57, I need and want Kittie'
+p10771
+aS'heya tiff <3333'
+p10772
+aS'JOIN'
+p10773
+aS':11-09-teensUser98!11-09-teensUser98@11-09-teensUser98 MODE #14-19teens +o 11-09-teensUser98'
+p10774
+aS'You just want to humple her.'
+p10775
+aS'JOIN'
+p10776
+aS'Heys 11-09-teensUser104 <33333'
+p10777
+aS'JOIN'
+p10778
+aS'JOIN'
+p10779
+aS'o.o'
+p10780
+aS'JOIN'
+p10781
+aS'11-09-teensUser197<3.'
+p10782
+aS'I have cramps. =('
+p10783
+aS'omg,omg,omg Its!Its 11-09-teensUser197!'
+p10784
+aS'JOIN'
+p10785
+aS'hi 11-09-teensUser156...'
+p10786
+aS'hey 11-09-teensUser104'
+p10787
+aS'PART'
+p10788
+aS'11-09-teensUser197!!!!!!!!'
+p10789
+aS'what up everybody'
+p10790
+aS'11-09-teensUser122!!!!!!!!'
+p10791
+aS'any  hot guys wanna chat pm me'
+p10792
+aS".ACTION <3's all over 11-09-teensUser197.."
+p10793
+aS'.9Lime Player 12%.)(.Song 247 of 423.).'
+p10794
+aS'.ACTION pms 11-09-teensUser197......as soon as she finds his name on the list.'
+p10795
+aS'JOIN'
+p10796
+aS'JOIN'
+p10797
+aS'.ACTION is <3 all ovr.'
+p10798
+aS'JOIN'
+p10799
+aS'hey whats up room '
+p10800
+aS'JOIN'
+p10801
+aS'PART'
+p10802
+aS'PART'
+p10803
+aS'how are you ppl?'
+p10804
+aS'PART'
+p10805
+aS'JOIN'
+p10806
+aS'18/m pm me if u tryin to chat'
+p10807
+aS'JOIN'
+p10808
+aS'hey'
+p10809
+aS"I'm drinking apple juice. :]"
+p10810
+aS'howdy'
+p10811
+aS'I an fantastical'
+p10812
+aS'lol'
+p10813
+aS"I'm proud of myself, mostly it's water. :|"
+p10814
+aS'lmao'
+p10815
+aS'PART'
+p10816
+aS'hhehe'
+p10817
+aS'JOIN'
+p10818
+aS'PART'
+p10819
+aS'PART'
+p10820
+aS'oh 11-09-teensUser122 im mad at you'
+p10821
+aS'any girl wanna chat?'
+p10822
+aS'JOIN'
+p10823
+aS':11-09-teensUser34!11-09-teensUser34@11-09-teensUser34 MODE #14-19teens +o 11-09-teensUser34'
+p10824
+aS'lets  chat lisa'
+p10825
+aS'!seen 11-09-teensUser819'
+p10826
+aS'hey11-09-teensUser34'
+p10827
+aS'11-09-teensUser819(11-09-teensUser819@11-09-teensUser819 Last seen: 2 days, 1 hour, 12 minutes ago.'
+p10828
+aS'11-09-teensUser34<33.'
+p10829
+aS'JOIN'
+p10830
+aS'PART'
+p10831
+aS'JOIN'
+p10832
+aS'Heyyy. :) <33.'
+p10833
+aS'PART'
+p10834
+aS'PART'
+p10835
+aS'JOIN'
+p10836
+aS'PART'
+p10837
+aS'JOIN'
+p10838
+aS'.ACTION sighs.'
+p10839
+aS'was up yall'
+p10840
+aS'JOIN'
+p10841
+aS'19 m fl'
+p10842
+aS'!seen 11-09-teensUser820'
+p10843
+aS'11-09-teensUser820 (11-09-teensUser820@11-09-teensUser820) Last seen: 1 day, 3 hours, 8 minutes ago.'
+p10844
+aS'11-09-teensUser34 is S3x0r Supreme.'
+p10845
+aS'PART'
+p10846
+aS'PART'
+p10847
+aS'JOIN'
+p10848
+aS"11-09-teensUser57 knows where it's at."
+p10849
+aS'18/m pm me if u tryin to chat'
+p10850
+aS"6'6 185 pounds very fot swim everyday 19 m fl short brwn hair pm me"
+p10851
+aS'In da butt. :O'
+p10852
+aS'.ACTION coughs.'
+p10853
+aS'>.>'
+p10854
+aS'.ACTION hands 11-09-teensUser34 some candy and a pie.'
+p10855
+aS'Hahhaa.'
+p10856
+aS'Bloooooooooooood. Bloooooooood. Bloooooooooood. Dipset. Birdgang, BAAAAALLLLLLLLIIIIIIINNNNNNNNNNN!'
+p10857
+aS'18/m pm me if u tryin to chat'
+p10858
+aS'Hi 11-09-teensUser156.'
+p10859
+aS'JOIN'
+p10860
+aS'any fine gurls in hurr pm me to find me out'
+p10861
+aS'Hi 11-09-teensUser34'
+p10862
+aS'Were you on one of the nicks i kicked out 11-09-teensUser34? lol'
+p10863
+aS'Were you on one of the nicks i kicked out 11-09-teensUser34. lol'
+p10864
+aS'hi 11-09-teensUser3'
+p10865
+aS'JOIN'
+p10866
+aS'Hi, 11-09-teensUser197.'
+p10867
+aS'Not that I know of, 11-09-teensUser98'
+p10868
+aS'Uh.'
+p10869
+asS'label_info'
+p10870
+(lp10871
+S'Statement'
+p10872
+aS'Emotion'
+p10873
+aS'System'
+p10874
+aS'Greet'
+p10875
+aS'Accept'
+p10876
+aS'Reject'
+p10877
+aS'whQuestion'
+p10878
+aS'Continuer'
+p10879
+aS'ynQuestion'
+p10880
+aS'yAnswer'
+p10881
+aS'Bye'
+p10882
+aS'Clarify'
+p10883
+aS'Emphasis'
+p10884
+aS'nAnswer'
+p10885
+aS'Other'
+p10886
+as.

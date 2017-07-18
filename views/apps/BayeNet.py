@@ -1,8 +1,7 @@
 import cherrypy
 import jinja2 as jj2
-from utils.dataset_helper import read_csv
+from helpers.dataset_helper import read_csv
 from models.H3BayesNet import H3BayesNet
-
 
 class BayesNet(object):
    def __init__(self):

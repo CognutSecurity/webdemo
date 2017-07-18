@@ -30,7 +30,7 @@ class Preprocessor(object):
         self._FEATURE_NAMES = feature_names
         self._FEATURE_SIZE = 0
         for elem in pipeline:
-            worker_class = getattr(importlib.import_module("mlcore.engine.PipelineWorkers"), elem['worker'])
+            worker_class = getattr(importlib.import_module("webdemo.engine.PipelineWorkers"), elem['worker'])
             if elem.has_key('params'):
                 worker = worker_class(elem['params'])
             else:
