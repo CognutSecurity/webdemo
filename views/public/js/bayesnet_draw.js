@@ -1,62 +1,13 @@
 $(document).ready(function() {
-   var ci_coef = "{{ ci_coef }}"
-   var adjmat = "{{ adjmat }}"
-   console.log(ci_coef);
-   console.log(adjmat);
+   var elements = [];
+   var elems = $('#graph_canvas').data('elements').replace(/'/g, '"').slice(1,-1).split(', ');
+   console.log(elems);
+   for (e in elems) {
+     elements.push(JSON.parse(elems[e].trim()));
+   }
    var g = cytoscape({
       container: $('#graph_canvas'),
-
-      elements: [ // list of graph elements to start with
-         { // node a
-            data: {
-               id: 'a'
-            }
-         },
-         { // node b
-            data: {
-               id: 'b'
-            }
-         },
-         { // node b
-            data: {
-               id: 'c'
-            }
-         },
-         { // node b
-            data: {
-               id: 'd'
-            }
-         },
-         { // edge ab
-            data: {
-               id: 'ab',
-               source: 'a',
-               target: 'b'
-            }
-         },
-         { // edge ab
-            data: {
-               id: 'ac',
-               source: 'a',
-               target: 'c'
-            }
-         },
-         { // edge ab
-            data: {
-               id: 'bc',
-               source: 'b',
-               target: 'c'
-            }
-         },
-         {
-            data: {
-               id: 'cd',
-               source: 'c',
-               target: 'd'
-            }
-         }
-      ],
-
+      elements: elements,
       style: [ // the stylesheet for the graph
          {
             selector: 'node',
@@ -78,12 +29,10 @@ $(document).ready(function() {
             }
          }
       ],
-
       layout: {
          name: 'grid',
          rows: 2
       },
-
       // initial viewport state:
      zoom: 1,
      pan: { x: 0, y: 0 },
@@ -113,6 +62,5 @@ $(document).ready(function() {
      motionBlurOpacity: 0.2,
      wheelSensitivity: 1,
      pixelRatio: 'auto'
-
    });
 });

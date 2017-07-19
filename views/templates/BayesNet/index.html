@@ -50,7 +50,7 @@
                                 <input type="file" accept=".csv" class="btn btn-secondary" name="upload_input">
                             </fieldset>
                             <div class="btn-group">
-                                <button type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Explore </button>
+                                <button id="btn_explore" type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Explore </button>
                             </div>
                         </form>
                     </div>
@@ -58,9 +58,7 @@
                 <hr>
                 <div class="row">
                     <div class="col-md-12">
-                        <div>{{ ci_coef }}</div>
-                        <div>{{ adjmat }}</div>
-                        <div id="graph_canvas">
+                        <div id="graph_canvas" data-elements="{{ cy_obj }}">
                             <!-- put Bayes net here -->
                         </div>
                     </div>
