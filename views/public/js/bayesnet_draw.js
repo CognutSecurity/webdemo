@@ -1,10 +1,43 @@
 $(document).ready(function() {
-   var elements = [];
-   var elems = $('#graph_canvas').data('elements').replace(/'/g, '"').slice(1,-1).split(', ');
-   console.log(elems);
-   for (e in elems) {
-     elements.push(JSON.parse(elems[e].trim()));
-   }
+
+   // add ajax on btn_explore file upload button
+   $("#bnt_explore").click(function(e) {
+      // body...
+      e.stopPropagation();
+      e.preventDefault();
+
+      if ($("#upload_input").val() == '') {
+         alert("No file selected!");
+         e.preventDefault();
+         return;
+      }
+
+//      var uploaded_file = $("#upload_input").prop("files")[0];
+       var form = new FormData();
+       form.append('upload_input', $("#upload_input").prop("files")[0], $("#upload_input").name);
+      // ajax process uploaded file
+       $.ajax({
+          url: "/bayesnet/draw",
+          data: form,
+          cache: false,
+          contentType: false,
+          processData: false,
+          type: 'POST'}).done(function(r) {
+             // body...
+//             alert(JSON.parse(r))
+//             init_graph(r);
+            var elems = r;
+            init_graph(elems);
+          });
+//      $.post("/bayesnet/draw", {"data": uploaded_file}).done(function(res) {
+//         // body...
+//         alert(res);
+//      });
+   });
+});
+
+function init_graph (elements) {
+   // body...
    var g = cytoscape({
       container: $('#graph_canvas'),
       elements: elements,
@@ -63,4 +96,4 @@ $(document).ready(function() {
      wheelSensitivity: 1,
      pixelRatio: 'auto'
    });
-});
+}

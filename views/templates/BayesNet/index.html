@@ -6,10 +6,10 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
         <!-- bokeh.js -->
-        <link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.css" rel="stylesheet" type="text/css">
-        <link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.css" rel="stylesheet" type="text/css">
-        <script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.js"></script>
-        <script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.js"></script>
+        <!--<link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.css" rel="stylesheet" type="text/css">-->
+        <!--<link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.css" rel="stylesheet" type="text/css">-->
+        <!--<script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.js"></script>-->
+        <!--<script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.js"></script>-->
 
         <!-- my own resource -->
         <link href="/bayesnet/static/css/style.css" rel="stylesheet">
@@ -44,13 +44,13 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12">
-                        <form role="acttype" method="post" action="draw" enctype="multipart/form-data">
+                        <form id="file_upload" role="acttype" method="post" action="#" enctype="multipart/form-data">
                             <fieldset class="form-group">
                                 <label for="upload_input"><span class="glyphicon glyphicon-open"></span> Upload Your .csv File</label>
-                                <input type="file" accept=".csv" class="btn btn-secondary" name="upload_input">
+                                <input type="file" accept=".csv" class="btn btn-secondary" id="upload_input">
                             </fieldset>
                             <div class="btn-group">
-                                <button id="btn_explore" type="submit" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Explore </button>
+                                <button id="bnt_explore" class="btn btn-success btn-left"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Explore </button>
                             </div>
                         </form>
                     </div>

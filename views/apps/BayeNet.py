@@ -16,8 +16,6 @@ class BayesNet(object):
    @cherrypy.expose
    def draw(self, upload_input):
       # handle the uploaded file
-      template = self.env.get_template('index.html')
-      # upload file first
       file_uploaded = self.UPLOADED_DIR + upload_input.filename
       with open(file_uploaded, 'w+') as f:
          f.writelines(upload_input.file.readlines())
@@ -31,8 +29,7 @@ class BayesNet(object):
       ci_coef = clf.ci_coef_
       adjmat = clf.conditional_independences_
       cy_list = self._get_cy_g(ci_coef, adjmat, nodes)
-      # TODO: ajax reload
-      return template.render(cy_obj = cy_list)
+      return simplejson.dumps(cy_list)
 
    def _get_cy_g(self, coef, adjmat, node_names):
       # parse coef and adjacent matrix into a cytoscape-compatible dist
