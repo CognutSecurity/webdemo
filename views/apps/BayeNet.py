@@ -28,38 +28,29 @@ class BayesNet(object):
       clf.fit(Xtr)
       ci_coef = clf.ci_coef_
       adjmat = clf.conditional_independences_
-      cy_list = self._get_cy_g(ci_coef, adjmat, nodes)
-      return simplejson.dumps(cy_list)
+      edges = self._get_e(ci_coef, adjmat, nodes)
+      return simplejson.dumps({"edges": edges,
+                               "node_names": nodes})
 
-   def _get_cy_g(self, coef, adjmat, node_names):
+   def _get_e(self, coef, adjmat, node_names):
       # parse coef and adjacent matrix into a cytoscape-compatible dist
       node_size = coef.shape[0]
-      cy_elements = []
-      for n in range(node_size):
-         data = {"data": {
-            "id": node_names[n]
-         }}
-         cy_elements.append(data)
-
+      e = []
       for i in range(node_size):
          for j in range(i+1, node_size):
             if adjmat[i, j] == 1 and adjmat[j, i] == 0:
-               data = {"data": {
-                  "id": coef[i, j],"source": node_names[i],"target": node_names[j]
-               }}
-               cy_elements.append(data)
+               e.append({
+                  "id": coef[i, j], "source": node_names[i], "target": node_names[j]
+               })
             if adjmat[i, j] == 0 and adjmat[j, i] == 1:
-               data = {"data": {
-                  "id": str(coef[j, i]),"source": node_names[j],"target": node_names[i]
-               }}
-               cy_elements.append(data)
+               e.append({
+                  "id": coef[j, i], "source": node_names[j], "target": node_names[i]
+               })
             if adjmat[i, j] == 1 and adjmat[j, i] == 1:
-               data = {"data": {
-                  "id": str(coef[i, j]),"source": node_names[i],"target": node_names[j]
-               }}
-               cy_elements.append(data)
-
-      return cy_elements
+               e.append({
+                  "id": coef[i, j], "source": node_names[i], "target": node_names[j], "directed": False
+               })
+      return e
 
 
 
