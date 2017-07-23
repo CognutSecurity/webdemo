@@ -68,12 +68,13 @@ function init_graph(elements) {
          {
             selector: 'edge',
             style: {
-               'width': 3,
+               'width': 2,
                'curve-style': 'bezier',
                'line-color': '#aaa',
                'target-arrow-color': '#aaa',
                'target-arrow-shape': 'triangle',
-               'label': 'data(id)'
+               'label': 'data(id)',
+               'text-rotation': 'autorotate'
             }
          }
       ],
