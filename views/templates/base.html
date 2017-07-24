@@ -1,0 +1,52 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        {% block head %}
+        {% endblock %}
+    </head>
+    <body>
+        <div class="main-wrapper">
+            <div class="app" id="app">
+                <header class="header">
+                    {% block header %}
+                    {% endblock %}
+                </header>
+                <aside class="sidebar">
+                    <div class="sidebar-container">
+                        {% block sidebar %}
+                        {% endblock %}
+                    </div>
+                    <footer class="sidebar-footer">
+                        {% block sidebar_footer %}
+                        {% endblock %}
+                    </footer>
+                </aside>
+                <div class="sidebar-overlay" id="sidebar-overlay"></div>
+                <article class="content dashboard-page">
+                    {% block content %}
+                    {% endblock %}
+                </article>
+                <footer class="footer">
+                    {% block footer %}
+                    {% endblock %}
+                </footer>
+                {% block modal_media %}
+                {% endblock %}
+                <!-- /.modal -->
+                {% block modal_confirm %}
+                {% endblock %}
+                <!-- /.modal -->
+            </div>
+        </div>
+        <!-- Reference block for JS -->
+        <div class="ref" id="ref">
+            <div class="color-primary"></div>
+            <div class="chart">
+                <div class="color-primary"></div>
+                <div class="color-secondary"></div>
+            </div>
+        </div>
+        <script src="js/vendor.js"></script>
+        <script src="js/app.js"></script>
+    </body>
+</html>
