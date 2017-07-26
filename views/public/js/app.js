@@ -1376,6 +1376,16 @@ $(function() {
 	$("body").addClass("loaded");
 
 });
+//// -- active clicked link
+//$(function() {
+//    $('.nav li a').click(function(e) {
+//        $('.nav li.active').removeClass('active');
+//        var $parent = $(this).parent();
+//        $parent.addClass('active');
+////        e.preventDefault();
+//    });
+//});
+
 
 
 /***********************************************

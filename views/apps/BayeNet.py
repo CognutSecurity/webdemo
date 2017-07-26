@@ -5,13 +5,15 @@ from models.H3BayesNet import H3BayesNet
 
 class BayesNet(object):
    def __init__(self):
-      self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates/BayesNet/'))
+      self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
       self.UPLOADED_DIR = cherrypy.config['uploads_path']
       self.CSV_FILE = ''
 
    @cherrypy.expose
    def index(self):
-      return self.env.get_template('index.html').render()
+      app_list = cherrypy.config['app_list']
+      return self.env.get_template('BayesNet/index.html').render({"apps": app_list,
+                                                                  "page_subtitle": "Copula Bayes Networks"})
 
    @cherrypy.expose
    def draw(self, upload_input):
