@@ -2,12 +2,13 @@ import cherrypy
 import jinja2 as jj2
 
 class Home(object):
+
    def __init__(self):
       self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
 
    @cherrypy.expose
    def index(self):
-      app_list = cherrypy.request.app.config['APPS']['app_list']
+      app_list = cherrypy.config['app_list']
       return self.env.get_template('Home/index.html').render({"apps": app_list,
                                                           "page_subtitle": "Home"})
 

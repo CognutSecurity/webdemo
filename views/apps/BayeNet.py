@@ -11,7 +11,9 @@ class BayesNet(object):
 
    @cherrypy.expose
    def index(self):
-      return self.env.get_template('BayesNet/index.html').render({"page_subtitle": "Copula Bayes Networks"})
+      app_list = cherrypy.config['app_list']
+      return self.env.get_template('BayesNet/index.html').render({"apps": app_list,
+                                                                  "page_subtitle": "Copula Bayes Networks"})
 
    @cherrypy.expose
    def draw(self, upload_input):
