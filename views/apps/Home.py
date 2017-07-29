@@ -1,19 +1,15 @@
-import cherrypy
+import cherrypy, simplejson
 import jinja2 as jj2
 from peewee import *
 from DataModels.Users import User
 from datetime import datetime
 
 
-class Home(object):
+class Authentication(object):
    def __init__(self):
       self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
-
-   @cherrypy.expose
-   def index(self):
-      app_list = cherrypy.config['app_list']
-      return self.env.get_template('Home/index.html').render({"apps": app_list,
-                                                              "page_subtitle": "Home"})
+      self._db = SqliteDatabase(cherrypy.config['sql_db'])
+      self._db.connect()
 
    @cherrypy.expose
    def signup(self):
@@ -29,14 +25,60 @@ class Home(object):
 
    @cherrypy.expose
    def register(self, uname, email, password, retype_password, agree):
-      db = SqliteDatabase(cherrypy.config['sql_db'])
-      User._meta.database = db
-      db.connect()
-      new_user = User(username = uname,
-                      email = email,
-                      password = password,
-                      join_date = datetime.now())
-      new_user.save(force_insert=True)
-      db.close()
-      cherrypy.HTTPRedirect('/')
+      # TODO: ajax handle error msg
+      User._meta.database = self._db
+      error_msg = dict()
+      try:
+         User.get(User.username == uname)
+         error_msg['username'] = 'User {:s} already exists!'.format(uname)
+         return simplejson.dumps(error_msg)
+      except DoesNotExist:
+         try:
+            User.get(User.email == email)
+            error_msg['email'] = 'Email {:s} has been already taken!'.format(email)
+            return simplejson.dumps(error_msg)
+         except DoesNotExist:
+            # registered data complies DB
+            User.insert(username=uname,
+                        email=email,
+                        password=password,
+                        join_date=datetime.now()).execute()
+            cherrypy.session['logged_user'] = uname
+            self._db.close()
+            raise cherrypy.HTTPRedirect('/')
 
+   @cherrypy.expose
+   def do_auth(self, username, password):
+      # TODO: ajax handle error msg
+      User._meta.database = self._db
+      error_msg = dict()
+      try:
+         u = User.get(User.username == username)
+         if u.password == password:
+            cherrypy.session['logged_user'] = username
+            # TODO: ajax redirect
+            raise cherrypy.HTTPRedirect('/')
+         else:
+            error_msg['info'] = 'Either user or password is not correct!'
+            return simplejson.dumps(error_msg)
+      except DoesNotExist:
+         error_msg['username'] = 'User {:s} does not exist!'.format(username)
+         return simplejson.dumps(error_msg)
+
+
+class Home(object):
+   def __init__(self):
+      self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
+      self.auth = Authentication()
+
+   @cherrypy.expose
+   def index(self):
+      app_list = cherrypy.config['app_list']
+      if "logged_user" in cherrypy.session:
+         return self.env.get_template('Home/index.html').render({"apps": app_list,
+                                                              "page_subtitle": "Home",
+                                                              "logged_user": cherrypy.session['logged_user']})
+      else:
+         return self.env.get_template('Home/index.html').render({"apps": app_list,
+                                                              "page_subtitle": "Home",
+                                                              "logged_user": ''})
