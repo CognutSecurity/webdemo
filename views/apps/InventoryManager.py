@@ -28,6 +28,11 @@ class InventoryManger(object):
                               'datasets': example_datasets})
 
 
+   @cherrypy.expose
+   def checkpoints(self):
+      pass
+
+
 
 
 
