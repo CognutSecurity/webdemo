@@ -1,0 +1,189 @@
+{% extends "base.html" %}
+{% block head %}
+    {% include "elements/_head.html" %}
+{% endblock %}
+{% block header %}
+    {% include "elements/_header.html" %}
+{% endblock %}
+{% block sidebar %}
+    {% include "elements/_sidebar.html" %}
+{% endblock %}
+{% block sidebar_footer %}
+    {% include "elements/_sidebar_footer.html" %}
+{% endblock %}
+{% block footer %}
+    {% include "elements/_footer.html" %}
+{% endblock %}
+{% block content %}
+<article class="content items-list-page">
+    <div class="title-search-block">
+        <div class="title-block">
+            <div class="row">
+                <div class="col-md-6">
+                    <h3 class="title"> Datasets
+                        <a href="/inventory/datasets/add" class="btn btn-primary btn-sm rounded-s"> Add New </a>
+                        <!--
+ -->
+                        <div class="action dropdown">
+                            <button class="btn  btn-sm rounded-s btn-secondary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More actions... </button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                <a class="dropdown-item" href="#">
+                                    <i class="fa fa-download icon"></i>Download</a>
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#confirm-modal">
+                                    <i class="fa fa-close icon"></i>Delete</a>
+                            </div>
+                        </div>
+                    </h3>
+                    <p class="title-description"> List of available datasets, e.g., in format .csv, .json ...  </p>
+                </div>
+            </div>
+        </div>
+        <div class="items-search">
+            <form class="form-inline">
+                <div class="input-group">
+                    <input type="text" class="form-control boxed rounded-s" placeholder="Search for...">
+                    <span class="input-group-btn">
+                        <button class="btn btn-secondary rounded-s" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="card items">
+        <ul class="item-list striped">
+            <li class="item item-list-header hidden-sm-down">
+                <div class="item-row">
+                    <div class="item-col fixed item-col-check">
+                        <label class="item-check" id="select-all-items">
+                            <input type="checkbox" class="checkbox">
+                            <span></span>
+                        </label>
+                    </div>
+                    <div class="item-col item-col-header">
+                        <div>
+                            <span>Data Name</span>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-title">
+                        <div>
+                            <span>Description</span>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-sales">
+                        <div>
+                            <span>Downloads</span>
+                        </div>
+                    </div>
+                    <!-- <div class="item-col item-col-header item-col-stats">
+                        <div class="no-overflow">
+                            <span>Stats</span>
+                        </div>
+                    </div> -->
+                    <div class="item-col item-col-header item-col-category">
+                        <div class="no-overflow">
+                            <span>Category</span>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-author">
+                        <div class="no-overflow">
+                            <span>Owner</span>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-date">
+                        <div>
+                            <span>Published</span>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header fixed item-col-actions-dropdown"> </div>
+                </div>
+            </li>
+            {% for dataset in datasets %}
+            <li class="item">
+                <div class="item-row">
+                    <div class="item-col fixed item-col-check">
+                        <label class="item-check" id="select-all-items">
+                            <input type="checkbox" class="checkbox">
+                            <span></span>
+                        </label>
+                    </div>
+                    <div class="item-col item-col-header">
+                        <a href="" class="">
+                            <h4 class="item-title"> {{ dataset.name }} </h4>
+                        </a>
+                    </div>
+                    <div class="item-col item-col-header item-col-title">
+                        <div class="item-heading">Name</div>
+                        <div>
+                            <h4 class="item-title">
+                                {{ dataset.description }}
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-sales">
+                        <div class="item-heading">Sales</div>
+                        <div> {{ dataset.downloads }} </div>
+                    </div>
+                    <!-- <div class="item-col item-col-stats no-overflow">
+                        <div class="item-heading">Stats</div>
+                        <div class="no-overflow">
+                            <div class="item-stats sparkline" data-type="bar"></div>
+                        </div>
+                    </div> -->
+                    <div class="item-col item-col-header item-col-category no-overflow">
+                        <div class="item-heading">Category</div>
+                        <div class="no-overflow">
+                            <a href="">{{ dataset.category }}</a>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-author">
+                        <div class="item-heading">Author</div>
+                        <div class="no-overflow">
+                            <a href=""> {{ dataset.owner }}</a>
+                        </div>
+                    </div>
+                    <div class="item-col item-col-header item-col-date">
+                        <div class="item-heading">Published</div>
+                        <div class="no-overflow">
+                            {{ dataset.pub_date }}
+                        </div>
+                    </div>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <nav class="text-xs-right">
+        <ul class="pagination">
+            <li class="page-item">
+                <a class="page-link" href=""> Prev </a>
+            </li>
+            <!-- <li class="page-item active">
+                <a class="page-link" href=""> 1 </a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href=""> 2 </a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href=""> 3 </a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href=""> 4 </a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href=""> 5 </a>
+            </li> -->
+            <li class="page-item">
+                <a class="page-link" href=""> Next </a>
+            </li>
+        </ul>
+    </nav>
+</article>
+{% endblock %}
+{% block modal_media %}
+    {% include "elements/_modal_media.html" %}
+{% endblock %}
+{% block modal_confirm %}
+    {% include "elements/_modal_confirm.html" %}
+{% endblock %}

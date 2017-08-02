@@ -8,7 +8,7 @@ Mail: huang.xiao@aisec.fraunhofer.de
 Copyright@2017
 '''
 
-from peewee import *
+from peewee import CharField, DateTimeField, Model
 
 class User(Model):
     '''

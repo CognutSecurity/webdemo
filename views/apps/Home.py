@@ -13,14 +13,17 @@ class Authentication(object):
 
    @cherrypy.expose
    def signup(self):
+      # TODO: ajax handle error msg
       return self.env.get_template('signup.html').render(page_subtitle="Sign Up")
 
    @cherrypy.expose
    def login(self):
+      # TODO: ajax handle error msg
       return self.env.get_template('login.html').render(page_subtitle="Login")
 
    @cherrypy.expose
    def reset(self):
+      # TODO: email reset password
       return self.env.get_template('reset.html').render(page_subtitle="Reset Password")
 
    @cherrypy.expose
@@ -67,6 +70,7 @@ class Authentication(object):
 
 
 class Home(object):
+
    def __init__(self):
       self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
       self.auth = Authentication()
@@ -76,9 +80,9 @@ class Home(object):
       app_list = cherrypy.config['app_list']
       if "logged_user" in cherrypy.session:
          return self.env.get_template('Home/index.html').render({"apps": app_list,
-                                                              "page_subtitle": "Home",
-                                                              "logged_user": cherrypy.session['logged_user']})
+                                                                 "page_subtitle": "Home",
+                                                                 "logged_user": cherrypy.session['logged_user']})
       else:
          return self.env.get_template('Home/index.html').render({"apps": app_list,
-                                                              "page_subtitle": "Home",
-                                                              "logged_user": ''})
+                                                                 "page_subtitle": "Home",
+                                                                 "logged_user": ''})
