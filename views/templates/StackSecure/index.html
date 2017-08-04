@@ -2,6 +2,7 @@
 {% block head %}
 {% include "elements/_head.html" %}
 <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 <!-- bokeh.js -->
 <!--<link href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.css" rel="stylesheet" type="text/css">-->
 <!--<link href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.css" rel="stylesheet" type="text/css">-->
@@ -24,4 +25,104 @@
 {% include "elements/_footer.html" %}
 {% endblock %}
 {% block content %}
+<article class="content">
+  <section class="section">
+    <!-- code snippets-->
+    <div class="row sameheight-container">
+      <div class="col-md-6"> 
+        <div class="card card-danger"> 
+          <div class="card-header"> 
+            <div class="header-block"> 
+              <p class="title"> Insecure Code Snippet </p> 
+            </div> 
+          </div> 
+          <div class="card-block">  </div> 
+          <pre class="prettyprint"><code>public static String encrypt(byte[] raw, byte[] clear) throws Exception {
+      Cipher cipher = Cipher.getInstance("AES");
+      cipher.init(Cipher.ENCRYPT_MODE, skeySpec);
+}</code>
+          </pre>
+          <div class="card-footer">
+            <button type="button" class="btn btn-primary-outline">Next</button>
+          </div> 
+        </div> 
+      </div>
+      <div class="col-md-6"> 
+        <div class="card card-success"> 
+          <div class="card-header"> 
+            <div class="header-block"> 
+              <p class="title"> Similar Secure Code Snippet </p> 
+            </div> 
+          </div> 
+          <div class="card-block">  </div> 
+          <pre class="prettyprint"><code>public static String encrypt(byte[] raw, byte[] clear) throws Exception {
+      Cipher cipher = Cipher.getInstance("AES/GCM/NoPadding");
+      cipher.init(Cipher.ENCRYPT_MODE, skeySpec);
+}</code>
+          </pre>
+          <div class="card-footer">
+            <button type="button" class="btn btn-primary-outline">Next</button>
+          </div> 
+        </div> 
+      </div>
+    <!-- annotations -->
+    <!--
+    <div class="row sameheight-container">
+      <div class="col-md-6">
+        <div class="card card-block">
+          <div class="title-block">
+            <h3 class="title"> Annotations </h3>
+          </div>
+          <form role="form">
+            <div class="form-group">
+              <label class="control-label">Security</label>
+              <div>
+                <label>
+                  <input class="radio" name="radios" type="radio">
+                  <span>secure</span>
+                </label>
+                <div>
+                  <label>
+                    <input class="radio" type="radio" name="radios" checked="checked">
+                     <span>insecure</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="card-footer">
+          <button type="button" class="btn btn-primary-outline">Annontate</button>
+        </div> 
+      </div>
+      <div class="col-md-6">
+        <div class="card card-block">
+          <div class="title-block">
+            <h3 class="title"> Annotations </h3>
+          </div>
+          <form role="form">
+            <div class="form-group">
+              <label class="control-label">Security</label>
+              <div>
+                <label>
+                  <input class="radio" name="radios" type="radio">
+                  <span>secure</span>
+                </label>
+                <div>
+                  <label>
+                    <input class="radio" type="radio" name="radios" checked="checked">
+                     <span>insecure</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="card-footer">
+          <button type="button" class="btn btn-primary-outline">Annotate</button>
+        </div> 
+      </div>
+    </div>-->
+  </section>
+</articile>
 {% endblock %}
