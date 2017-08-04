@@ -1,7 +1,7 @@
 import cherrypy, simplejson
 import jinja2 as jj2
 from peewee import *
-from DataModels.Users import User
+from orm.Users import User
 from datetime import datetime
 
 

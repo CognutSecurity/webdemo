@@ -4,8 +4,8 @@ from apps.BayeNet import BayesNet
 from apps.InventoryManager import InventoryManger
 from apps.Home import Home
 from peewee import *
-from DataModels.Users import User
-from DataModels.Datasets import Dataset
+from orm.Users import User
+from orm.Datasets import Dataset
 
 
 def init_db():

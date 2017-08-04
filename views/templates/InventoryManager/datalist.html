@@ -15,7 +15,7 @@
     {% include "elements/_footer.html" %}
 {% endblock %}
 {% block content %}
-<article class="content items-list-page">
+<article class="content">
     <div class="title-search-block">
         <div class="title-block">
             <div class="row">
@@ -61,14 +61,14 @@
                             <span></span>
                         </label>
                     </div>
-                    <div class="item-col item-col-header">
+                    <!-- <div class="item-col item-col-header">
                         <div>
                             <span>Data Name</span>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="item-col item-col-header item-col-title">
                         <div>
-                            <span>Description</span>
+                            <span>Dataset Name</span>
                         </div>
                     </div>
                     <div class="item-col item-col-header item-col-sales">
@@ -108,20 +108,21 @@
                             <span></span>
                         </label>
                     </div>
-                    <div class="item-col item-col-header">
+                    <!-- <div class="item-col">
                         <a href="" class="">
                             <h4 class="item-title"> {{ dataset.name }} </h4>
                         </a>
-                    </div>
-                    <div class="item-col item-col-header item-col-title">
-                        <div class="item-heading">Name</div>
+                    </div> -->
+                    <div class="item-col item-col-title no-overflow">
                         <div>
-                            <h4 class="item-title">
-                                {{ dataset.description }}
-                            </h4>
+                            <a href="" class="">
+                                <h4 class="item-title no-wrap">
+                                    {{ dataset.name }}
+                                </h4>
+                            </a>
                         </div>
                     </div>
-                    <div class="item-col item-col-header item-col-sales">
+                    <div class="item-col item-col-sales">
                         <div class="item-heading">Sales</div>
                         <div> {{ dataset.downloads }} </div>
                     </div>
@@ -131,16 +132,16 @@
                             <div class="item-stats sparkline" data-type="bar"></div>
                         </div>
                     </div> -->
-                    <div class="item-col item-col-header item-col-category no-overflow">
+                    <div class="item-col item-col-category">
                         <div class="item-heading">Category</div>
-                        <div class="no-overflow">
-                            <a href="">{{ dataset.category }}</a>
+                        <div>
+                            {{ dataset.category }}
                         </div>
                     </div>
-                    <div class="item-col item-col-header item-col-author">
-                        <div class="item-heading">Author</div>
+                    <div class="item-col item-col-author">
+                        <div class="item-heading">Owner</div>
                         <div class="no-overflow">
-                            <a href=""> {{ dataset.owner }}</a>
+                            <a href=""> {{ dataset.owner }} </a>
                         </div>
                     </div>
                     <div class="item-col item-col-header item-col-date">
