@@ -1,6 +1,7 @@
 import cherrypy
 from apps.DialogType import Mails
 from apps.BayeNet import BayesNet
+from apps.StackSecure import StackSecure
 from apps.InventoryManager import InventoryManger
 from apps.Home import Home
 from peewee import *
@@ -26,6 +27,7 @@ cherrypy.config.update(config='confs/global.cfg')
 cherrypy.tree.mount(Home(), '/', config='confs/default.cfg')
 cherrypy.tree.mount(Mails(), '/mails', config='confs/DialogType.cfg')
 cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
+cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
 cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
 db = init_db()
 cherrypy.engine.start()
