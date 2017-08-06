@@ -14,6 +14,12 @@
 {% block footer %}
     {% include "elements/_footer.html" %}
 {% endblock %}
+{% block modal_media %}
+    {% include "elements/_modal_media.html" %}
+{% endblock %}
+{% block modal_confirm %}
+    {% include "elements/_modal_confirm.html" %}
+{% endblock %}
 {% block content %}
     <!-- {% include "elements/_content_test.html" %} -->
 <article class="content dashboard-page">
@@ -123,10 +129,4 @@
         </div>
     </section>
 </article>
-{% endblock %}
-{% block modal_media %}
-    {% include "elements/_modal_media.html" %}
-{% endblock %}
-{% block modal_confirm %}
-    {% include "elements/_modal_confirm.html" %}
 {% endblock %}

@@ -81,11 +81,11 @@
                             <span>Stats</span>
                         </div>
                     </div> -->
-                    <div class="item-col item-col-header item-col-category">
-                        <div class="no-overflow">
-                            <span>Category</span>
-                        </div>
-                    </div>
+                    <!--<div class="item-col item-col-header item-col-category">-->
+                        <!--<div class="no-overflow">-->
+                            <!--<span>Category</span>-->
+                        <!--</div>-->
+                    <!--</div>-->
                     <div class="item-col item-col-header item-col-author">
                         <div class="no-overflow">
                             <span>Owner</span>
@@ -99,7 +99,7 @@
                     <div class="item-col item-col-header fixed item-col-actions-dropdown"> </div>
                 </div>
             </li>
-            {% for dataset in datasets %}
+            {% for dataset in available_datasets %}
             <li class="item">
                 <div class="item-row">
                     <div class="item-col fixed item-col-check">
@@ -132,12 +132,12 @@
                             <div class="item-stats sparkline" data-type="bar"></div>
                         </div>
                     </div> -->
-                    <div class="item-col item-col-category">
-                        <div class="item-heading">Category</div>
-                        <div>
-                            {{ dataset.category }}
-                        </div>
-                    </div>
+                    <!--<div class="item-col item-col-category">-->
+                        <!--<div class="item-heading">Category</div>-->
+                        <!--<div>-->
+                            <!--{{ dataset.category }}-->
+                        <!--</div>-->
+                    <!--</div>-->
                     <div class="item-col item-col-author">
                         <div class="item-heading">Owner</div>
                         <div class="no-overflow">

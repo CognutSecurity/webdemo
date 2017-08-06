@@ -1,0 +1,12 @@
+{% macro param_selector(name, kvals, id="learning-params") %}
+<div class="control-ui {{ name }}">
+   <label for="{{ name }}"> {{ name }} </label>
+   <div class="select">
+      <select id="{{ id }}">
+          {% for key, val in kvals %}
+          <option value="{{ val }}">{{ key }}</option>
+          {% endfor %}
+      </select>
+   </div>
+</div>
+{%- endmacro %}

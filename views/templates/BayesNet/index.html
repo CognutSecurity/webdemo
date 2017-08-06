@@ -8,9 +8,9 @@
 <!--<script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.0.min.js"></script>-->
 <!--<script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.0.min.js"></script>-->
 <!-- my own resource -->
-<link href="css/style.css" rel="stylesheet">
+<link href="css/bayesnet-style.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.1.3/cytoscape.js"></script>
-<script src="js/bayesnet_draw.js"></script>
+<script src="js/bayesnet.js"></script>
 {% endblock %}
 {% block header %}
 {% include "elements/_header.html" %}
@@ -24,55 +24,62 @@
 {% block footer %}
 {% include "elements/_footer.html" %}
 {% endblock %}
+{% block modal_media %}
+    {% include "elements/_modal_media.html" %}
+{% endblock %}
+{% block modal_confirm %}
+    {% include "elements/_modal_confirm.html" %}
+{% endblock %}
 {% block content %}
+{% from "Widgets/param_ui.html" import param_selector %}
 <article class="content">
     <section class="section">
-        <div class="row sameheight-container">
+        <div class="row">
             <!-- website statistics -->
-            <div class="col col-xs-12 col-sm-12 col-md-6 col-xl-5 stats-col">
-                <div class="card sameheight-item stats" data-exclude="xs">
-                    <div class="card-block">
-                        <div class="title-block">
-                            <h4 class="title"> Dataset Overview </h4>
-                            <p class="title-description">
-                                Uploaded file ...
-                            </p>
+            <div class="col col-xs-12 col-sm-12 col-md-12">
+                <div class="card">
+                    <!-- <div class="card-header card-header-sm bordered">
+                        <div class="header-block">
+                            <h3 class="title">Controls</h3>
                         </div>
-                        <div class="row row-sm stats-container">
-                            <div class="col-xs-12 col-sm-12 stat-col">
-                                <form id="file_upload" role="acttype" method="post" action="#"
-                                      enctype="multipart/form-data">
-                                    <fieldset class="form-group">
-                                        <label for="upload_input"><span class="glyphicon glyphicon-open"></span> Upload Your
-                                            .csv File</label>
-                                        <input type="file" accept=".csv" class="btn btn-secondary" id="upload_input">
-                                    </fieldset>
-                                    <div class="btn-group">
-                                        <button id="bnt_explore" class="btn btn-success btn-left"><span
-                                                class="glyphicon glyphicon-search" aria-hidden="true"></span> Explore
-                                        </button>
-                                    </div>
-                                </form>
+                    </div> -->
+                    <div id="controls" class="card-block">
+                        {% include "Widgets/play-buttons.html" %}
+                        {% set alphas=[("0.01", 0.01), ("0.05", 0.05), ("0.1", 0.1), ("0.15", 0.15), ("0.2", 0.2)] %}
+                        {{ param_selector("sensitivity", alphas, id="alphas") }}
+                        {% set methods=[("L2 regularization", "ledoit_wolf"), ("Graphical Lasso", "glasso"), ("MLE", "mle"), ("PC Algorithm", "ic")] %}
+                        {{ param_selector("methods", methods, id="methods") }}
+                        {% set penalties=[("0.01", 0.01), ("0.1", 0.1), ("0.25", 0.25), ("0.5", 0.5), ("1", 1)] %}
+                        {{ param_selector("sparsity", penalties, id="penalties") }}
+                        {% set bins=[("2", 2), ("3", 3), ("4", 4), ("5", 5), ("10", 10)] %}
+                        {{ param_selector("bins", bins, id="bins") }}
+                        {% set pvals=[("0.01", 0.01), ("0.05", 0.05), ("0.1", 0.1), ("0.5", 0.5)] %}
+                        {{ param_selector("p-value", pvals, id="pvals") }}
+                        {% include "Widgets/file-selector-ui.html" %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-xs-12 col-sm-12 col-md-7">
+                <div class="card sameheight-item">
+                    <div class="card-header card-header-sm bordered">
+                        <div class="header-block">
+                            <h3 class="title">Feature Relationship</h3>
+                        </div>
+                    </div>
+                    <div class="card-block">
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane active fade in">
+                                <div id="graph_canvas"></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Request history -->
-            <div class="col col-xs-12 col-sm-12 col-md-6 col-xl-7 history-col">
-                <div class="card sameheight-item" data-exclude="xs">
-                    <div class="card-header card-header-sm bordered">
-                        <div class="header-block">
-                            <h3 class="title">Causal Graph</h3>
-                        </div>
-                    </div>
+            <div class="col col-xs-12 col-sm-12 col-md-5">
+                <div class="card sameheight-item">
                     <div class="card-block">
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane active fade in" id="requests">
-                                <p class="title-description"> Causal Graph </p>
-                                <div id="graph_canvas"></div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

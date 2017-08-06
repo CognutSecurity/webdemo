@@ -21,7 +21,7 @@ class Dataset(Model):
    name = CharField(null=False, unique=True)
    path = CharField(null=False)
    owner = ForeignKeyField(User, to_field="username", on_delete="CASCADE", on_update="CASCADE", null=False)
-   description = CharField()
+   description = CharField(default='No description')
    downloads = IntegerField(default=0)
    pub_date = DateTimeField(null=False)
 

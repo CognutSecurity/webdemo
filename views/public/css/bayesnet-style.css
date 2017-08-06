@@ -1,0 +1,55 @@
+.control-ui {
+   flex-grow: 1;
+   max-width: 280px;
+   min-width: 110px;
+   margin-left: 30px;
+   margin-top: 6px;
+   display: inline-block;
+}
+
+.control-ui label {
+   color: #777;
+   font-size: 13px;
+   display: block;
+   margin-bottom: 6px;
+   font-weight: 300;
+}
+
+.control-ui select {
+   /*-webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;*/
+   display: block;
+   background: none;
+   border: none;
+   border-radius: 0;
+   padding: 6px 0;
+   width: 100%;
+   font-size: 14px;
+   border-bottom: solid 1px #ccc;
+   color: #333;
+   outline: none;
+}
+
+.form-select-file .table-datalist {
+   display: none;
+   position: absolute;
+   width: 300px;
+   background-color: white;
+   border-radius: .28571429rem;
+   box-shadow: 0 2px 4px 0 rgba(34, 36, 38, .12), 0 2px 10px 0 rgba(34, 36, 38, .15);
+   border: 1px solid #d4d4d5;
+   z-index: 998;
+   overflow: scroll;
+}
+
+.table-datalist td {
+   width: 580px;
+}
+
+#graph_canvas {
+    width: 100%;
+    height: 400px;
+    display: block;
+    margin: auto;
+}

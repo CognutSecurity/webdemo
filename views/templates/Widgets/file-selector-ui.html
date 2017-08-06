@@ -1,0 +1,22 @@
+<div class="control-ui form-select-file">
+   <form class="form-inline">
+      <div class="input-group">
+         <input id="input_data" name="data_name" type="text" class="form-control boxed" placeholder="choose data...">
+         <span class="input-group-btn">
+                <button id="choosefile-input" class="btn btn-secondary" type="button">
+                <i class="fa fa-upload"></i>
+                </button>
+            </span>
+         <input type="file" style="display: none" name="upload_input">
+      </div>
+   </form>
+   <table class="table table-hover table-datalist">
+      <tbody>
+         {% for dataset in available_datasets %}
+         <tr>
+            <td class="table-datalist-row">{{ dataset.name }}</td>
+         </tr>
+         {% endfor %}
+      </tbody>
+   </table>
+</div>
