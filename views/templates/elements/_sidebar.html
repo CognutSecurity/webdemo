@@ -15,33 +15,32 @@
 </div>
 <nav class="menu">
     <ul class="nav metismenu" id="sidebar-menu">
-        <li class="active">
-            <a href="/">
-                <i class="fa fa-home"></i> Dashboard </a>
+        <li {% if navlink_l1 == 'home' %} class="active" {% endif %}>
+            <a href="/"> <i class="fa fa-home"></i> Dashboard </a>
         </li>
-        <li>
+        <li {% if navlink_l1 == 'apps' %} class="open active" {% endif %}>
             <a href="">
                 <i class="fa fa-th-large"></i> Apps
                 <i class="fa arrow"></i>
             </a>
             <ul>
                 {% for app in apps %}
-                    <li>
+                    <li {% if navlink_l2 == app.name %} class="active" {% endif %}>
                         <a href={{ app.link }}> {{ app.name }} </a>
                     </li>
                 {% endfor %}
             </ul>
         </li>
-        <li>
+        <li {% if navlink_l1 == 'inventory' %} class="open active" {% endif %}>
             <a href="">
                 <i class="fa fa-cube"></i> Inventory Manager
                 <i class="fa arrow"></i>
             </a>
             <ul>
-                <li>
+                <li {% if navlink_l2 == 'datasets' %} class="active" {% endif %}>
                     <a href="/inventory/datasets"> Data Inventory </a>
                 </li>
-                <li>
+                <li {% if navlink_l2 == 'checkpoints' %} class="active" {% endif %}>
                     <a href="/inventory/checkpoints"> Checkpoints </a>
                 </li>
             </ul>
@@ -130,9 +129,9 @@
                 </li>
             </ul>
         </li> -->
-        <li>
+        <!-- <li>
             <a href="https://github.com/modularcode/modular-admin-html">
                 <i class="fa fa-github-alt"></i> Theme Docs </a>
-        </li>
+        </li> -->
     </ul>
 </nav>
