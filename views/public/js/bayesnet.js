@@ -1,7 +1,7 @@
 $(document).ready(function() {
    // add handler to choose data list
-   addChooseDataHandlers();
    addAnalyzeHandlers();
+   addChooseDataHandlers();
 });
 
 function initGraph(elements) {
@@ -84,11 +84,13 @@ function addChooseDataHandlers() {
       $(".form-select-file .table-datalist").css("display", "none");
    });
 
-   $(".table-datalist-row").click(function(e) {
+   $(".btn-choose-data").click( function(e) {
+      // e.preventDefault();
       // select a dataset from list
-      $(".form-select-file .table-datalist").css("display", "none");
-      $("#input_data").val(e.target.html());
-   });
+      // $(".form-select-file .table-datalist").css("display", "none");
+      // alert($(e.target).data('inputname'));
+      $("#input_data").val($(e.target).data('inputname'));
+   } );
 
    $("#choosefile-input").click(function() {
       // click upload button
