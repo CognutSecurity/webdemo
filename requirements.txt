@@ -13,4 +13,4 @@ Jinja2==2.9.5
 libpgm==1.3
 numpy==1.11.1
 matplotlib==1.5.1
-scikit_learn==0.19
+scikit_learn==0.19b2
