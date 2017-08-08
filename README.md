@@ -1,5 +1,5 @@
 ### Next-Generation Security Intelligence Platform
-This project aims to provide demonstrations of a security intelligence platform boosted by machine learning. 
+This project aims to provide demonstrations of a security intelligence platform boosted by machine learning.
 
 #### Installation
 In order to run the demo, pull the repo and go to the root, then run the following command in your terminal to install dependencies.
@@ -7,6 +7,8 @@ In order to run the demo, pull the repo and go to the root, then run the followi
 ```bash
 pip install -r requirements.txt
 ```
+
+Add project to your `PYTHONPATH`.
 
 Afterwards, go to ___views___ directory, and run
 
