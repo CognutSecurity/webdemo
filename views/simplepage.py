@@ -1,6 +1,6 @@
 import cherrypy
 from apps.DialogType import Mails
-from apps.BayeNet import BayesNet
+from apps.BayesNet import BayesNet
 from apps.StackSecure import StackSecure
 from apps.InventoryManager import InventoryManger
 from apps.Home import Home
@@ -32,10 +32,13 @@ cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
 cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
 cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
 
-# initialize necessary databases
+# TODO: better logging
+# enhancement goes here...
+
+# initialize necessary databases for the first time
 db = init_db()
 
-# setup WebSocket support
+# setup WebSocket support for cherrypy
 WebSocketPlugin(cherrypy.engine).subscribe()
 cherrypy.tools.websocket = WebSocketTool()
 

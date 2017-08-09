@@ -11,7 +11,7 @@ Mail: huang.xiao@aisec.fraunhofer.de
 Copyright@2017
 '''
 
-import sys, argparse, logging
+import sys, argparse, logging, simplejson
 from scipy.stats import gaussian_kde
 from scipy.stats import norm
 from scipy import linalg
@@ -43,7 +43,9 @@ class H3BayesNet(object):
                 verbose=False,
                 normalize=True,
                 bin=5,
-                pval=0.05):  # maximal iterations for optimization
+                pval=0.05,
+                samplesize=1000,
+                websocket=None):  # maximal iterations for optimization
 
       self.Vdata = vdata
       self.vertexes = vnames
@@ -70,6 +72,8 @@ class H3BayesNet(object):
       self.verbose = verbose
       self.bins = bin
       self.pval = pval
+      self.samplesize = samplesize
+      self.websocket = websocket
 
    def get_params(self, key=None):
       if key is None:
@@ -101,6 +105,13 @@ class H3BayesNet(object):
       '''
 
       N, d = X.shape
+      if self.samplesize >= N or self.samplesize == 0:
+         # simply use all data
+         pass
+      else:
+         rnd_idx = np.random.choice(N, self.samplesize)
+         X = X[rnd_idx, :]
+
       if self.scaler is not None:
          X_scale = self.scaler.fit_transform(X)
       else:
@@ -116,6 +127,10 @@ class H3BayesNet(object):
       # TODO: complexity O(Nd) is high
       if self.verbose:
          colored('>> Computing marginals', color='blue')
+      if self.websocket:
+         self.websocket.send(simplejson.dumps({'info': 'Computing marginals ...',
+                                               'stats': 99}))
+
       for j in range(cum_marginals.shape[1]):
          self.kernels.append(gaussian_kde(X_scale[:, j]))
          cum_pdf_overall = self.kernels[-1].integrate_box_1d(X_scale[:, j].min(), X_scale[:, j].max())
@@ -138,6 +153,9 @@ class H3BayesNet(object):
          empirical_cov.fit(inv_norm_cdf)
          if self.verbose:
             print colored('>> Running MLE to estiamte precision matrix', color='blue')
+         if self.websocket:
+            self.websocket.send(simplejson.dumps({'info': 'running MLE to estimate precision matrix ...',
+                                                  'stats': 99}))
 
          self.est_cov = empirical_cov.covariance_
          self.corr = scale_matrix(self.est_cov)
@@ -146,6 +164,9 @@ class H3BayesNet(object):
       if self.method == 'glasso':
          if self.verbose:
             print colored('>> Running glasso to estiamte precision matrix', color='blue')
+         if self.websocket:
+            self.websocket.send(simplejson.dumps({'info': 'running glasso to estimate precision matrix ...',
+                                                 'stats': 99}))
 
          empirical_cov = EmpiricalCovariance()
          empirical_cov.fit(inv_norm_cdf)
@@ -159,6 +180,9 @@ class H3BayesNet(object):
       if self.method == 'ledoit_wolf':
          if self.verbose:
             print colored('>> Running ledoit_wolf to estiamte precision matrix', color='blue')
+         if self.websocket:
+            self.websocket.send(simplejson.dumps({'info': 'running L2-regularization to estimate precision matrix ...',
+                                                 'stats': 99}))
 
          self.est_cov, _ = ledoit_wolf(inv_norm_cdf)
          self.corr = scale_matrix(self.est_cov)
@@ -166,6 +190,12 @@ class H3BayesNet(object):
 
 
       if self.method == 'pc':
+         if self.verbose:
+            print colored('>> Running PC algorithm to estiamte precision matrix', color='blue')
+         if self.websocket:
+            self.websocket.send(simplejson.dumps({'info': 'running PC algorithm to estimate precision matrix ...',
+                                                 'stats': 99}))
+
          clf = pgmlearner.PGMLearner()
          data_list = list([])
          for row_id in range(X_scale.shape[0]):
@@ -182,6 +212,12 @@ class H3BayesNet(object):
          self.conditional_independences_ = dag
 
       if self.method == 'ic':
+         if self.verbose:
+            print colored('>> Running IC algorithm to estiamte precision matrix', color='blue')
+         if self.websocket:
+            self.websocket.send(simplejson.dumps({'info': 'running IC algorithm to estimate precision matrix ...',
+                                                 'stats': 99}))
+
          df = dict()
          variable_types = dict()
          for j in range(X_scale.shape[1]):
@@ -318,6 +354,9 @@ class H3BayesNet(object):
          if directable:
             if self.verbose:
                print colored('Cycle found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]), color='green')
+            if self.websocket:
+               self.websocket.send(simplejson.dumps({'info': 'Cycle found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]),
+                                                    'stats': 99}))
             changed = 1
             continue
 
@@ -345,6 +384,9 @@ class H3BayesNet(object):
          if directable:
             if self.verbose:
                print colored('V-node found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]), color='green')
+            if self.websocket:
+               self.websocket.send(simplejson.dumps({'info': 'V-node found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]),
+                                                    'stats': 99}))
             changed = 1
             continue
 
@@ -364,6 +406,9 @@ class H3BayesNet(object):
          if directable:
             if self.verbose:
                print colored('Diamond found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]), color='green')
+            if self.websocket:
+               self.websocket.send(simplejson.dumps({'info': 'Diamond found for {:s}-{:s}'.format(self.vertexes[p], self.vertexes[q]),
+                                                    'stats': 99}))
             changed = 1
             continue
 

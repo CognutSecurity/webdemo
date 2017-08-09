@@ -53,3 +53,7 @@
     display: block;
     margin: auto;
 }
+
+#debug-canvas {
+   text-align: center;
+}

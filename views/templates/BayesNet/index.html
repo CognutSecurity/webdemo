@@ -57,6 +57,8 @@
                         {{ param_selector("bins", bins, id="bins") }}
                         {% set pvals=[("0.01", 0.01), ("0.05", 0.05), ("0.1", 0.1), ("0.5", 0.5)] %}
                         {{ param_selector("p-value", pvals, id="pvals") }}
+                        {% set ssamples=[("100", 100), ("500", 500), ("1000", 1000), ("All", 0)] %}
+                        {{ param_selector("subsample size", ssamples, id="ssamples") }}
                         {% include "Widgets/file-selector-ui.html" %}
                     </div>
                 </div>
@@ -74,6 +76,9 @@
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane active fade in">
                                 <div id="graph_canvas"></div>
+                                <div id="debug-canvas">
+                                    <p class="text-info"></p>
+                                </div>
                             </div>
                         </div>
                     </div>

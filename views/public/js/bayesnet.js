@@ -2,7 +2,6 @@ $(document).ready(function() {
    // add handler to choose data list
    addAnalyzeHandlers();
    addChooseDataHandlers();
-   test_websocket_play();
 });
 
 function initGraph(elements) {
@@ -86,20 +85,17 @@ function addChooseDataHandlers() {
    });
 
    $(".btn-choose-data").click( function(e) {
-      // e.preventDefault();
-      // select a dataset from list
-      // $(".form-select-file .table-datalist").css("display", "none");
-      // alert($(e.target).data('inputname'));
+      // FIXME: did not work yet
       $("#input_data").val($(e.target).data('inputname'));
    } );
 
    $("#choosefile-input").click(function() {
-      // click upload button
+      // trigger click upload button
       $("input[name='upload_input']").trigger('click');
    });
 
    $("input[name='upload_input']").change(function(e) {
-      // alert($("input[name='upload_input']").val());
+      // TODO: ask before upload
       var filename = $("input[name='upload_input']").val().split("\\");
       if (filename) {
          $("#input_data").val(filename[filename.length-1]);
@@ -124,72 +120,62 @@ function addChooseDataHandlers() {
 
 function addAnalyzeHandlers() {
    // play btn clicked
-   $("#play-pause-btn").click(function(e) {
-      var dataName = $("#input_data").val();
-      if (!dataName) {
-         alert('No data selected!');
-         return;
-      } else {
-         $("#graph_canvas").html("<img src='/imgs/simple_loading.gif' style='display: block; margin: auto;'>");
-      }
+   $("#play-pause-btn").click( function(e) {
+      var socket = new WebSocket("ws://"+window.location.hostname+":8080/bayesnet/ws")
 
-      // var uploaded_file = $("#upload_input").prop("files")[0];
-      var form = new FormData();
-      form.append('datafile_name', dataName);
-      form.append('alpha', $("#alphas").val());
-      form.append('method', $("#methods").val());
-      form.append('penalty', $("#penalties").val());
-      form.append('bin', $("#bins").val());
-      form.append('pval', $("#pvals").val());
-      // ajax process uploaded file
-      $.ajax({
-         url: "/bayesnet/draw",
-         data: form,
-         cache: false,
-         contentType: false,
-         processData: false,
-         method: "POST",
-         dataType: "json"
-      }).done(function(response) {
-         $("#graph_canvas").empty();
-         var elements = [];
-         for (var node in response.node_names) {
-            elements.push({
-               data: {
-                  "id": response.node_names[node]
-               }
-            });
+      socket.onopen = function(e) {
+         var dataName = $("#input_data").val();
+         if (!dataName) {
+            alert('No data selected!');
+            return;
+         } else {
+            var form = {};
+            form['datafile_name'] = dataName;
+            form['alpha'] = $("#alphas").val();
+            form['method'] = $("#methods").val();
+            form['penalty'] = $("#penalties").val();
+            form['bin'] = $("#bins").val();
+            form['pval'] = $("#pvals").val();
+            form['ssample'] = $("#ssamples").val();
+            $("#graph_canvas").html("<img src='/imgs/simple_loading.gif' style='display: block; margin: auto;'>");
+            socket.send(JSON.stringify({'cmd': 'train', 'formData': form}))
          }
-         for (var e in response.edges) {
-            edge = response.edges[e];
-            elements.push({
-               data: {
-                  "id": edge.id.toFixed(2),
-                  "source": edge.source,
-                  "target": edge.target
-               }
-            });
-         }
-         initGraph(elements);
-      });
-   });
-}
-
-function test_websocket_play() {
-   // add websocket on click of reload button
-   var socket = new WebSocket("ws://"+window.location.hostname+":8080/ws");
-   $("#reload-btn").click(function(e) {
-      // connect to websocket
-      var message = {
-         'cmd': 'open',
-         'content': 'test websocket'
-      }
-      socket.onopen = function (e) {
-         socket.send(JSON.stringify(message));
       };
+
       socket.onmessage = function(e) {
-         console.log(e.data);
-         $("#graph_canvas").append(e.data);
+         resp = JSON.parse(e.data);
+         if (resp.hasOwnProperty('stats') && resp.stats == 100) {
+            $("#graph_canvas").empty();
+            var elements = [];
+            for (var node in resp.node_names) {
+               elements.push({
+                  data: {
+                     "id": resp.node_names[node]
+                  }
+               });
+            }
+            for (var e in resp.edges) {
+               edge = resp.edges[e];
+               elements.push({
+                  data: {
+                     "id": edge.id.toFixed(2),
+                     "source": edge.source,
+                     "target": edge.target
+                  }
+               });
+            }
+            initGraph(elements);
+            $("#debug-canvas p").empty();
+         } else {
+            if (resp.hasOwnProperty('stats') && resp.stats == 99) {
+               // 99: in progress
+               $("#debug-canvas p").html(resp.info);
+            } else if (resp.hasOwnProperty('stats') && resp.stats == 101) {
+               // 101: errors
+               $("#graph_canvas").empty();
+               $("#graph_canvas").html("<p class=text-danger>" + resp.info);
+            }
+         }
       };
    });
 }

@@ -90,5 +90,6 @@ class Home(object):
 
    @cherrypy.expose
    def ws(self):
+      # REMOVE: this is a test websocket zone
       '''You can not send yet, because handshake has not been completed'''
       cherrypy.log('Handler created: %r' % cherrypy.request.ws_handler)
