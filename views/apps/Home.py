@@ -69,6 +69,7 @@ class Authentication(object):
          return simplejson.dumps(error_msg)
 
 
+
 class Home(object):
 
    def __init__(self):
@@ -86,3 +87,8 @@ class Home(object):
          return self.env.get_template('Home/index.html').render({"apps": app_list,
                                                                  "page_subtitle": "Home",
                                                                  "logged_user": ''})
+
+   @cherrypy.expose
+   def ws(self):
+      '''You can not send yet, because handshake has not been completed'''
+      cherrypy.log('Handler created: %r' % cherrypy.request.ws_handler)

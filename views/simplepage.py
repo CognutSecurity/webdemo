@@ -4,9 +4,11 @@ from apps.BayeNet import BayesNet
 from apps.StackSecure import StackSecure
 from apps.InventoryManager import InventoryManger
 from apps.Home import Home
+from apps.WebSocketHandler import WebSocketHandler
 from peewee import *
 from orm.Users import User
 from orm.Datasets import Dataset
+from ws4py.server.cherrypyserver import WebSocketPlugin, WebSocketTool
 
 
 def init_db():
@@ -22,13 +24,21 @@ def init_db():
       cherrypy.log('Database error happens.')
    return db
 
-# initialize necessary databases
+# mount apps
 cherrypy.config.update(config='confs/global.cfg')
 cherrypy.tree.mount(Home(), '/', config='confs/default.cfg')
 cherrypy.tree.mount(Mails(), '/mails', config='confs/DialogType.cfg')
 cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
 cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
 cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
+
+# initialize necessary databases
 db = init_db()
+
+# setup WebSocket support
+WebSocketPlugin(cherrypy.engine).subscribe()
+cherrypy.tools.websocket = WebSocketTool()
+
+# start cherrypy bus and server
 cherrypy.engine.start()
 cherrypy.engine.block()

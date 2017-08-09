@@ -2,6 +2,7 @@ $(document).ready(function() {
    // add handler to choose data list
    addAnalyzeHandlers();
    addChooseDataHandlers();
+   test_websocket_play();
 });
 
 function initGraph(elements) {
@@ -171,5 +172,24 @@ function addAnalyzeHandlers() {
          }
          initGraph(elements);
       });
+   });
+}
+
+function test_websocket_play() {
+   // add websocket on click of reload button
+   var socket = new WebSocket("ws://"+window.location.hostname+":8080/ws");
+   $("#reload-btn").click(function(e) {
+      // connect to websocket
+      var message = {
+         'cmd': 'open',
+         'content': 'test websocket'
+      }
+      socket.onopen = function (e) {
+         socket.send(JSON.stringify(message));
+      };
+      socket.onmessage = function(e) {
+         console.log(e.data);
+         $("#graph_canvas").append(e.data);
+      };
    });
 }
