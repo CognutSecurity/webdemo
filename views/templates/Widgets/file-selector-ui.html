@@ -9,19 +9,19 @@
             </span>
          <input type="file" style="display: none" name="upload_input">
       </div>
+      <table class="table table-hover table-datalist">
+         <tbody>
+            {% for dataset in available_datasets %}
+            <tr>
+               <td class="table-datalist-row">{{ dataset.name }}</td>
+               <td>
+                   <button class='btn btn-oval btn-primary btn-sm btn-choose-data' type='button' data-inputname={{ dataset.name }}>
+                       choose
+                   </button>
+               </td>
+            </tr>
+            {% endfor %}
+         </tbody>
+      </table>
    </form>
-   <table class="table table-hover table-datalist">
-      <tbody>
-         {% for dataset in available_datasets %}
-         <tr>
-            <td class="table-datalist-row">{{ dataset.name }}</td>
-            <td>
-                <button class='btn btn-oval btn-primary btn-sm btn-choose-data' type='button' data-inputname={{ dataset.name }}>
-                    choose
-                </button>
-            </td>
-         </tr>
-         {% endfor %}
-      </tbody>
-   </table>
 </div>

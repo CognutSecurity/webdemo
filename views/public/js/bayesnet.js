@@ -2,6 +2,7 @@ $(document).ready(function() {
    // add handler to choose data list
    addAnalyzeHandlers();
    addChooseDataHandlers();
+   // $(".form-select-file .table-datalist").hide();
 });
 
 function initGraph(elements) {
@@ -74,19 +75,31 @@ function initGraph(elements) {
 }
 
 function addChooseDataHandlers() {
+
+   var dontblur = false;
+   $(".form-select-file .table-datalist").mouseover(function(e) {
+      dontblur = true;
+   });
+
+   $(".form-select-file .table-datalist").mouseleave(function(e) {
+      dontblur = false;
+   });
+
    $("#input_data").focus( function() {
       // display data list
-      $(".form-select-file .table-datalist").css("display", "block");
+      $(".form-select-file .table-datalist").css('visibility', 'visible');
    });
 
    $("#input_data").blur( function() {
       // hide data list
-      $(".form-select-file .table-datalist").css("display", "none");
+      if (!dontblur) {
+         $(".form-select-file .table-datalist").css('visibility', 'hidden');
+      }
    });
 
    $(".btn-choose-data").click( function(e) {
-      // FIXME: did not work yet
       $("#input_data").val($(e.target).data('inputname'));
+      $(".form-select-file .table-datalist").css('visibility', 'hidden');
    } );
 
    $("#choosefile-input").click(function() {
@@ -137,7 +150,7 @@ function addAnalyzeHandlers() {
             form['bin'] = $("#bins").val();
             form['pval'] = $("#pvals").val();
             form['ssample'] = $("#ssamples").val();
-            $("#graph_canvas").html("<img src='/imgs/simple_loading.gif' style='display: block; margin: auto;'>");
+            $("#graph_canvas").html("<img id='img-loading' src='/imgs/simple_loading.gif'>");
             socket.send(JSON.stringify({'cmd': 'train', 'formData': form}))
          }
       };
@@ -166,6 +179,8 @@ function addAnalyzeHandlers() {
             }
             initGraph(elements);
             $("#debug-canvas p").empty();
+            // only close socket if it sucesses
+            socket.close(1000);
          } else {
             if (resp.hasOwnProperty('stats') && resp.stats == 99) {
                // 99: in progress
