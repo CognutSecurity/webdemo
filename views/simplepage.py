@@ -31,6 +31,12 @@ cherrypy.tree.mount(Mails(), '/mails', config='confs/DialogType.cfg')
 cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
 cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
 cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
+cameraInstance = camera.Camera(config.camera['index'], config.camera['width'], config.camera['height'])
+if config.camera['interval'] > 0:
+        camera.removeOldImages(config.cleaner['interval'], config.camera['folder'], config.cleaner['old'])
+        camera.storeImageByTimer(cameraInstance, config.camera['interval'], config.camera['folder'])
+
+cherrypy.tree.mount(EvilFace(cameraInstance, config.server['html'], config.camera['folder'], config.camera['count']), "/evilface", config={"/": {}})
 
 # initialize necessary databases
 db = init_db()
