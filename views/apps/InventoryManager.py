@@ -5,7 +5,7 @@ from peewee import SqliteDatabase, DoesNotExist, DatabaseError
 from datetime import datetime
 
 
-class InventoryManger(object):
+class InventoryManager(object):
    def __init__(self):
       self.env = jj2.Environment(loader=jj2.FileSystemLoader('./templates'))
       self.UPLOADED_DIR = cherrypy.config['data_path']

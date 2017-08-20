@@ -2,7 +2,7 @@ import cherrypy
 from apps.DialogType import Mails
 from apps.BayesNet import BayesNet
 from apps.StackSecure import StackSecure
-from apps.InventoryManager import InventoryManger
+from apps.InventoryManager import InventoryManager
 from apps.Home import Home
 from apps.WebSocketHandler import WebSocketHandler
 from peewee import *
@@ -30,7 +30,7 @@ cherrypy.tree.mount(Home(), '/', config='confs/default.cfg')
 cherrypy.tree.mount(Mails(), '/mails', config='confs/DialogType.cfg')
 cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
 cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
-cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
+cherrypy.tree.mount(InventoryManager(), '/inventory', config='confs/InventoryManager.cfg')
 
 # TODO: better logging
 # enhancement goes here...
