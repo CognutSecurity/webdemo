@@ -5,6 +5,8 @@ from models.H3BayesNet import H3BayesNet
 from peewee import DoesNotExist, SqliteDatabase
 from orm.Datasets import Dataset
 from ws4py.websocket import WebSocket
+from sklearn.decomposition import PCA
+import numpy as np
 
 class BayesNet(object):
 
@@ -87,8 +89,13 @@ class BayesNet(object):
                edges = self._get_e(ci_coef, adjmat, nodes)
 
                # dimension reduction
-
-               self.send(simplejson.dumps({"edges": edges, "node_names": nodes, "stats": 100}))
+               pca = PCA(n_components=2,)
+               if int(msg['formData']['ssample']) >= Xtr.shape[0] or int(msg['formData']['ssample']) == 0:
+                  X_proj = pca.fit_transform(Xtr)
+               else:
+                  X_proj = pca.fit_transform(Xtr[np.random.choice(Xtr.shape[0], int(msg['formData']['ssample']))])
+               sample_dist = {'x': X_proj[:,0].tolist(), 'y': X_proj[:,1].tolist()}
+               self.send(simplejson.dumps({"edges": edges, "node_names": nodes, "samples2d": sample_dist, "stats": 100}))
 
             except DoesNotExist:
                error_msg['stats'] = 101
