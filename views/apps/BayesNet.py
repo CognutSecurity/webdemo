@@ -46,27 +46,6 @@ class BayesNet(object):
       resp['available_datasets'] = available_datasets
       return self.env.get_template('BayesNet/index.html').render(resp)
 
-   # @cherrypy.expose
-   # def draw(self, datafile_name, alpha, method, penalty, bin, pval):
-   #    # get the data from store
-   #    Dataset._meta.database = self.db
-   #    error_msg = dict()
-   #    try:
-   #       data = Dataset.get(Dataset.name == datafile_name)
-   #       # handle the uploaded file
-   #       Xtr, nodes = read_csv(data.path)
-   #       clf = H3BayesNet(alpha=float(alpha), vnames=nodes, method=method, penalty=float(penalty), bin=int(bin), pval=float(pval))
-   #       clf.fit(Xtr)
-   #       ci_coef = clf.ci_coef_
-   #       adjmat = clf.conditional_independences_
-   #       edges = self._get_e(ci_coef, adjmat, nodes)
-   #       return simplejson.dumps({"edges": edges,
-   #                                "node_names": nodes})
-   #    except DoesNotExist:
-   #       error_msg['stats'] = 101
-   #       error_msg['info'] = 'Requested dataset does not exit!'
-   #       return simplejson.dumps(error_msg)
-
 
    class SocketHandler(WebSocket):
       '''
@@ -91,6 +70,8 @@ class BayesNet(object):
 
             try:
                data = Dataset.get(Dataset.name == msg['formData']['datafile_name'])
+               # TODO: ML program should be sent to cpu/gpu cluster
+               # learn the causal structure by CBN
                Xtr, nodes = read_csv(data.path)
                clf = H3BayesNet(alpha=float(msg['formData']['alpha']),
                                 vnames=nodes,
@@ -104,6 +85,9 @@ class BayesNet(object):
                ci_coef = clf.ci_coef_
                adjmat = clf.conditional_independences_
                edges = self._get_e(ci_coef, adjmat, nodes)
+
+               # dimension reduction
+
                self.send(simplejson.dumps({"edges": edges, "node_names": nodes, "stats": 100}))
 
             except DoesNotExist:
