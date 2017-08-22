@@ -16,18 +16,18 @@ function initGraph(elements) {
             style: {
                'background-color': '#177',
                'label': 'data(id)',
-               'width': 20,
-               'height': 20
+               'width': 15,
+               'height': 15
             }
          },
 
          {
             selector: 'edge',
             style: {
-               'width': 2.5,
+               'width': 2,
                'curve-style': 'bezier',
-               'line-color': '#aaa',
-               'target-arrow-color': '#aaa',
+               'line-color': '#000',
+               'target-arrow-color': '#000',
                'target-arrow-shape': 'triangle',
                'label': 'data(id)',
                'text-rotation': 'autorotate'
@@ -159,6 +159,8 @@ function addAnalyzeHandlers() {
          resp = JSON.parse(e.data);
          if (resp.hasOwnProperty('stats') && resp.stats == 100) {
             $("#graph_canvas").empty();
+            $("#sample-dist-canvas").empty();
+            // plot nodes DAG
             var elements = [];
             for (var node in resp.node_names) {
                elements.push({
@@ -179,6 +181,16 @@ function addAnalyzeHandlers() {
             }
             initGraph(elements);
             $("#debug-canvas p").empty();
+
+            // plot sample distribution 
+            var samples = {
+                x: resp.samples2d['x'],
+                y: resp.samples2d['y'],
+                mode: 'markers',
+                type: 'scatter'
+              };
+            var data = [samples];
+            Plotly.newPlot("sample-dist-canvas", data);
             // only close socket if it sucesses
             socket.close(1000);
          } else {
