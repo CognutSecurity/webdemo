@@ -16,18 +16,18 @@ function initGraph(elements) {
             style: {
                'background-color': '#177',
                'label': 'data(id)',
-               'width': 20,
-               'height': 20
+               'width': 15,
+               'height': 15
             }
          },
 
          {
             selector: 'edge',
             style: {
-               'width': 2.5,
+               'width': 2,
                'curve-style': 'bezier',
-               'line-color': '#aaa',
-               'target-arrow-color': '#aaa',
+               'line-color': '#000',
+               'target-arrow-color': '#000',
                'target-arrow-shape': 'triangle',
                'label': 'data(id)',
                'text-rotation': 'autorotate'
