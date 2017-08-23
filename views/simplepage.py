@@ -2,7 +2,11 @@ import cherrypy
 from apps.DialogType import Mails
 from apps.BayesNet import BayesNet
 from apps.StackSecure import StackSecure
-from apps.InventoryManager import InventoryManager
+from apps.StackSecure import SnippetWebService
+from apps.StackSecure import SimilarSnippetWebService
+from apps.StackSecure import SecurityAnalysisWebService
+from apps.StackSecure import SnippetDatabaseHelperWebService
+from apps.InventoryManager import InventoryManger
 from apps.Home import Home
 from apps.WebSocketHandler import WebSocketHandler
 from peewee import *
@@ -29,13 +33,16 @@ cherrypy.config.update(config='confs/global.cfg')
 cherrypy.tree.mount(Home(), '/', config='confs/default.cfg')
 cherrypy.tree.mount(Mails(), '/mails', config='confs/DialogType.cfg')
 cherrypy.tree.mount(BayesNet(), '/bayesnet', config='confs/BayesNet.cfg')
-cherrypy.tree.mount(StackSecure(), '/stacksecure', config='confs/StackSecure.cfg')
-cherrypy.tree.mount(InventoryManager(), '/inventory', config='confs/InventoryManager.cfg')
+cherrypy.tree.mount(InventoryManger(), '/inventory', config='confs/InventoryManager.cfg')
 
-# TODO: better logging
-# enhancement goes here...
+# initialize StackSecure web services
+stacksecure = StackSecure()
+stacksecure.snippet = SnippetWebService(stacksecure)
+stacksecure.similarsnippet = SimilarSnippetWebService()
+stacksecure.security = SecurityAnalysisWebService()
+stacksecure.snippetdatabasehelper = SnippetDatabaseHelperWebService(stacksecure)
+cherrypy.tree.mount(stacksecure, '/stacksecure', config='confs/StackSecure.cfg')
 
-# initialize necessary databases for the first time
 db = init_db()
 
 # setup WebSocket support for cherrypy
