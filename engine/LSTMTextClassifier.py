@@ -114,15 +114,15 @@ class LSTMTextClassifier(BaseActor):
         return pred, ('data',), ('softmax_label',)
 
     def initialize(self, data_iter):
-        """Initialize the neural network model 
+        """Initialize the neural network model
 
-        This should be called during model constructor. It tries to load NN parameters from 
+        This should be called during model constructor. It tries to load NN parameters from
         a file, if it does exist, otherwise initialize it. It sets up optimizer and optimization
-        parameters as well. 
+        parameters as well.
 
         Args:
-          data_iter(mx.io.NDArrayIter): initialize the model with data iterator, it should be 
-            of type BucketSeqLabelIter. 
+          data_iter(mx.io.NDArrayIter): initialize the model with data iterator, it should be
+            of type BucketSeqLabelIter.
         """
 
         if not isinstance(data_iter, BucketSeqLabelIter):
@@ -152,8 +152,8 @@ class LSTMTextClassifier(BaseActor):
     def step(self, data_batch):
         """Feed one data batch from data iterator to train model
 
-        This function is called when we feed one data batch to model to update parameters. 
-        it can be used in train_epochs. 
+        This function is called when we feed one data batch to model to update parameters.
+        it can be used in train_epochs.
         See also: train_epochs.
 
         Args:
@@ -174,13 +174,13 @@ class LSTMTextClassifier(BaseActor):
 
         The model will be trained in epochs and possibly evaluated with validation dataset. The
         model parameters will be saved on disk. Note that for Bucketing model, only network parameters
-        will be saved in checkpoint, since model symbols need to be created according to buckets 
-        which match the training data. 
+        will be saved in checkpoint, since model symbols need to be created according to buckets
+        which match the training data.
 
         Args:
-          train_data (BucketSeqLabelIter): Training data iterator  
+          train_data (BucketSeqLabelIter): Training data iterator
           eval_data (BucketSeqLabelIter): Validation data iterator
-          num_epochs (int): Number of epochs to train  
+          num_epochs (int): Number of epochs to train
         """
 
         for e in range(num_epochs):
@@ -199,16 +199,16 @@ class LSTMTextClassifier(BaseActor):
             self.logger.info('Parameters saved in %s.' % (saved_path))
 
     def predict(self, test_data, batch_size=32):
-        """Predict labels on test dataset which is a list of list of encoded tokens (integer). 
+        """Predict labels on test dataset which is a list of list of encoded tokens (integer).
 
         Predict labels on a list of list of integers. As for training, test data sample is
-        a list of integers mapped from token. 
+        a list of integers mapped from token.
 
         Args:
           test_data (list): A list of list of integers
 
         Returns:
-          labels (list): a list of integers (labels)  
+          labels (list): a list of integers (labels)
         """
 
         sample_ids = range(len(test_data))
@@ -247,45 +247,51 @@ if __name__ == '__main__':
     #    # default
     #     ctx = mx.cpu(0)
 
-    import numpy as np
     from termcolor import colored
-    from nltk.tokenize import word_tokenize
+#    from nltk.tokenize import word_tokenize
     from sklearn.model_selection import train_test_split
+    from helpers.dataset_helper import load_snp17, java_tokenize
 
     # load data
-    datafile = "../datasets/npc_chat_data2.p"
-    data = pickle.load(open(datafile, 'r'))
-    all_sents = data['Xtr']
-    sents = [word_tokenize(sent) for sent in all_sents]
-    labels = np.array(data['ytr'], dtype=int) - 1
-    label_names = data['label_info']
+    # datafile = "../datasets/npc_chat_data2.p"
+    # data = pickle.load(open(datafile, 'r'))
+    # all_sents = data['Xtr']
+    # sents = [word_tokenize(sent) for sent in all_sents]
+    # labels = np.array(data['ytr'], dtype=int) - 1
+    # label_names = data['label_info']
+    all_sents, all_labels, _ = load_snp17(csv_file='/Users/hxiao/repos/h3lib/h3db/snp17/train/answer_snippets_coded.csv',
+                                          save_path='/Users/hxiao/repos/webdemo/datasets/snp17.p',
+                                          force_overwrite=True)
+    
+    sents, labels, discard_snippets = java_tokenize(all_sents, all_labels)
     sents_encoded, vocab = mx.rnn.encode_sentences(sents, vocab=None, invalid_key='\n',
                                                    invalid_label=-1, start_label=0)
     word_map = dict([(index, word) for word, index in vocab.iteritems()])
-    print 'Total #of sentences: %d, total #of words: %d' % (len(sents_encoded), len(vocab))
+    print 'Total #encoded_snippets: %d, #issue_snippets: %d, total #tokens: %d' % (len(sents_encoded), discard_snippets, len(vocab))
     tr_data, tt_data, tr_labels, tt_labels = train_test_split(
         sents_encoded, labels, train_size=0.8)
-    tr_iter = BucketSeqLabelIter(tr_data, tr_labels, batch_size=64)
-    tt_iter = BucketSeqLabelIter(tt_data, tt_labels, batch_size=64)
+    tr_iter = BucketSeqLabelIter(
+        tr_data, tr_labels, max_bucket_key=500, batch_size=5)
+    tt_iter = BucketSeqLabelIter(
+        tt_data, tt_labels, max_bucket_key=500, batch_size=5)
 
-    clf = LSTMTextClassifier(input_dim=len(vocab), num_classes=len(label_names),
-                             params_file='checkpoints/LSTMTextClassifier.params')
+    clf = LSTMTextClassifier(input_dim=len(vocab), num_classes=5)
     clf.initialize(tr_iter)
     clf.train_epochs(tr_iter, tt_iter, num_epochs=10)
 
     # test
-    test_sents = [word_tokenize(sent) for sent in all_sents[100:400]]
-    test_labels = labels[100:400]
-    test_sents_encoded, _ = mx.rnn.encode_sentences(test_sents, vocab=vocab)
-    preds, logits = clf.predict(test_sents_encoded, batch_size=50)
-    for s, p, lgt, real in zip(all_sents[100:300], preds, logits, test_labels):
-        if real == p:
-            print colored(s, color='blue') + \
-                colored(' -> ' + label_names[p] +
-                        ' <- ' + label_names[real], color='green')
-        else:
-            print colored(s, color='blue') + \
-                colored(' -> ' + label_names[p] +
-                        ' <- ' + label_names[real], color='red')
+    # test_sents = [word_tokenize(sent) for sent in all_sents[100:400]]
+    # test_labels = labels[100:400]
+    # test_sents_encoded, _ = mx.rnn.encode_sentences(test_sents, vocab=vocab)
+    # preds, logits = clf.predict(test_sents_encoded, batch_size=50)
+    # for s, p, lgt, real in zip(all_sents[100:300], preds, logits, test_labels):
+    #     if real == p:
+    #         print colored(s, color='blue') + \
+    #             colored(' -> ' + label_names[p] +
+    #                     ' <- ' + label_names[real], color='green')
+    #     else:
+    #         print colored(s, color='blue') + \
+    #             colored(' -> ' + label_names[p] +
+    #                     ' <- ' + label_names[real], color='red')
 
-        # print 'Logits: ', lgt
+    # print 'Logits: ', lgt
