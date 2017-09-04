@@ -31,11 +31,9 @@ class LSTMTextClassifier(BaseActor):
                  lstm_layer=1,
                  num_classes=2,
                  params_file='',
-                 checkpoint_file='',
-                 save_checkpoints_path='',
-                 default_bucket_key=10,
                  learning_rate=.1,
                  optimizer='sgd',
+                 metric='acc',
                  use_gpus=[],
                  use_cpus=[],
                  logging_root_dir='logs/',
@@ -67,14 +65,15 @@ class LSTMTextClassifier(BaseActor):
         self.lstm_layer = lstm_layer
         self.num_classes = num_classes
         self.params_file = params_file
-        self.checkpoint_file = checkpoint_file
-        if not save_checkpoints_path:
-            save_checkpoints_path = logging_root_dir + '/checkpoints/'
-            if not os.path.exists(save_checkpoints_path):
-                os.makedirs(save_checkpoints_path)
-            self.save_checkpoints_path = save_checkpoints_path
         self.learning_rate = learning_rate
         self.optimizer = optimizer
+        if metric == 'acc':
+            self.metric = mx.metric.Accuracy()
+        elif metric == 'cross-entropy':
+            self.metric = mx.metric.CrossEntropy()
+        elif metric == 'topk':
+            self.metric = mx.metric.TopKAccuracy(top_k=3)
+
         self.ctx = []
         if use_gpus:
             self.ctx = [mx.gpu(i) for i in use_gpus]
@@ -82,6 +81,7 @@ class LSTMTextClassifier(BaseActor):
             self.ctx = [mx.cpu(i) for i in use_cpus]
         else:
             self.ctx = mx.cpu(0)
+        self.model = None
 
     def _sym_gen(self, seq_len):
         """Dynamic symbol generator
@@ -126,7 +126,7 @@ class LSTMTextClassifier(BaseActor):
         """
 
         if not isinstance(data_iter, BucketSeqLabelIter):
-            err_msg = "Data iterator for this model should be of type BUcketSeqLabelIter."
+            err_msg = "Data iterator for this model should be of type BucketSeqLabelIter."
             raise TypeError(err_msg)
             self.logger.error(err_msg, exc_info=True)
             return
@@ -134,14 +134,14 @@ class LSTMTextClassifier(BaseActor):
         self.model = mx.module.BucketingModule(
             sym_gen=self._sym_gen, default_bucket_key=data_iter.default_bucket_key, context=self.ctx)
         self.model.bind(data_iter.provide_data, data_iter.provide_label)
-        if self.params_file:
+        if os.path.isfile(self.params_file):
             try:
                 self.model.load_params(self.params_file)
                 self.logger.info(
                     "LSTM model parameters loaded from file: %s." % (self.params_file))
-            except IOError:
+            except (IOError, ValueError):
                 self.logger.warning(
-                    "Parameters file does not exist! please check your file path.")
+                    "Parameters file does not exist or not valid! please check the file.")
         else:
             self.model.init_params()
             self.logger.info("LSTM Model initialized.")
@@ -189,14 +189,9 @@ class LSTMTextClassifier(BaseActor):
                 self.step(data_batch=batch)
             if eval_data:
                 eval_data.reset()
-                topk = 2
-                eval_metric = mx.metric.TopKAccuracy(top_k=topk)
-                self.model.score(eval_data, eval_metric)
-                self.logger.info("Training epoch %d -- Evaluate top %d acccuracy: %f"
-                                 % (e + 1, topk, eval_metric.get()[1]))
-            saved_path = self.save_checkpoints_path + self.__class__.__name__ + '.params'
-            self.model.save_params(saved_path)
-            self.logger.info('Parameters saved in %s.' % (saved_path))
+                self.model.score(eval_data, self.metric)
+                self.logger.info("Training epoch %d -- Evaluate %s: %f"
+                                 % (e + 1, self.metric.name, self.metric.get()[1]))
 
     def predict(self, test_data, batch_size=32):
         """Predict labels on test dataset which is a list of list of encoded tokens (integer).
@@ -223,6 +218,25 @@ class LSTMTextClassifier(BaseActor):
                 labels[idx] = np.argmax(logits)
                 scores[idx] = logits
         return labels, scores
+
+    def save(self, path, epoch=None):
+        """Save model parameters for BucketingModel
+
+        This function saves model offline, either a checkpoint or parameters for Bucketing model.
+        Note that normally it can be saved as checkpoint, but for variable length model such as 
+        BucketingModel, we can only save parameters and initialize the model with parameter loading,
+        since the unrolled version of models need to be determined by data iterator, which can be
+        any length. 
+
+        Args:
+          path (str): a valid path to save the checkpoint/parameters
+        """
+
+        if epoch:
+            path = path + '-' + str(epoch)
+
+        self.model.save_params(path)
+        self.logger.info('Network parameters saved in %s' % (path))
 
 
 if __name__ == '__main__':
@@ -261,23 +275,25 @@ if __name__ == '__main__':
     # label_names = data['label_info']
     all_sents, all_labels, _ = load_snp17(csv_file='/Users/hxiao/repos/h3lib/h3db/snp17/train/answer_snippets_coded.csv',
                                           save_path='/Users/hxiao/repos/webdemo/datasets/snp17.p',
-                                          force_overwrite=True)
-    
+                                          force_overwrite=False)
+
     sents, labels, discard_snippets = java_tokenize(all_sents, all_labels)
     sents_encoded, vocab = mx.rnn.encode_sentences(sents, vocab=None, invalid_key='\n',
                                                    invalid_label=-1, start_label=0)
     word_map = dict([(index, word) for word, index in vocab.iteritems()])
-    print 'Total #encoded_snippets: %d, #issue_snippets: %d, total #tokens: %d' % (len(sents_encoded), discard_snippets, len(vocab))
+    print 'Total #encoded_snippets: %d, #issue_snippets: %d, total #tokens: %d' \
+        % (len(sents_encoded), discard_snippets, len(vocab))
     tr_data, tt_data, tr_labels, tt_labels = train_test_split(
         sents_encoded, labels, train_size=0.8)
+    buckets = [50, 100, 200, 1000]
     tr_iter = BucketSeqLabelIter(
-        tr_data, tr_labels, max_bucket_key=500, batch_size=5)
+        tr_data, tr_labels, buckets=buckets, batch_size=64)
     tt_iter = BucketSeqLabelIter(
-        tt_data, tt_labels, max_bucket_key=500, batch_size=5)
+        tt_data, tt_labels, buckets=buckets, batch_size=64)
 
-    clf = LSTMTextClassifier(input_dim=len(vocab), num_classes=5)
+    clf = LSTMTextClassifier(input_dim=len(vocab), num_classes=np.unique(labels).size)
     clf.initialize(tr_iter)
-    clf.train_epochs(tr_iter, tt_iter, num_epochs=10)
+    clf.train_epochs(tr_iter, tt_iter, num_epochs=50)
 
     # test
     # test_sents = [word_tokenize(sent) for sent in all_sents[100:400]]

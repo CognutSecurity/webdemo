@@ -17,8 +17,8 @@ class BaseActor(object):
    def step(self, data_batch): 
        raise NotImplementedError("Method not implemented.")
 
-#    def predict(self, data_batch): 
-#        raise NotImplementedError("Method not implemented.")
+   def predict(self, data_batch): 
+       raise NotImplementedError("Method not implemented.")
 
 #    def score(self, data_batch): 
 #        raise NotImplementedError("Method not implemented.")
@@ -26,8 +26,8 @@ class BaseActor(object):
 #    def save_checkpoint(self, save_ckp_path=None): 
 #        raise NotImplementedError("Method not implemented.")
 
-#    def save_parameters(self, save_param_path=None): 
-#        raise NotImplementedError("Method not implemented.")
+   def save(self, path=None): 
+       raise NotImplementedError("Method not implemented.")
 
 #    def listen(self, events_q): 
 #        raise NotImplementedError("Method not implemented.")
