@@ -7,7 +7,14 @@ Email: xh0217@gmail.com
 Copyright@2016, Stanford
 """
 
-import json, numpy as np
+import json
+import csv
+import os.path
+import numpy as np
+from termcolor import colored
+from javalang.tokenizer import tokenize as javalang_tokenize
+from javalang.tokenizer import LexerError   
+
 
 def get_data_batch(events_json):
    '''
@@ -96,8 +103,6 @@ def read_csv(filename, header_line=True):
    :return: training features, a list of node names
    '''
 
-   import csv
-
    csv_file = open(filename, 'r')
    reader = csv.reader(csv_file)
    cnt = 0
@@ -127,3 +132,57 @@ def csv2dict(csv):
          instance[n] = data[row_id, i]
       res.append(instance)
    return res
+
+
+def load_snp17(csv_file,
+               sep=',',
+               header_line=False,
+               force_overwrite=False,
+               save_path='../datasets/snp17.p'):
+   '''
+   Load S&P'17 Stackoverflow dataset from file and save
+   the ndarray into pickle.
+   '''
+
+   if os.path.isfile(save_path) and not force_overwrite:
+      data = json.load(open(save_path, 'r'))
+      return data['data'], data['labels'], data['features']
+
+   snippets = []
+   labels = []
+   feature_names = []
+   try:
+      with open(csv_file, 'r') as fd:
+         reader = csv.reader(fd)
+         for row in reader:
+            if header_line and len(snippets) == 0:
+               feature_names = row
+               continue
+            snippets.append(row[0])
+            labels.append(int(row[2]))
+         snp_dict = {'data': snippets,
+                     'labels': labels,
+                     'features': feature_names}
+         json.dump(snp_dict, open(save_path, 'w'))
+         return snippets, labels, feature_names
+   except IOError:
+      print 'File does not exist.'
+      return False
+   finally:
+      msg = "=" * 10 + "\n"
+      msg += "Total: %d java snippets in %d classes. " % (len(snippets), np.unique(labels).size)
+      print colored(msg, color='green')
+
+def java_tokenize(snippets, labels=None):
+      X = []
+      y = []
+      discard_snippets = 0
+      for sent, label in zip(snippets, labels):
+            try:
+                  token_list = [token.value for token in list(javalang_tokenize(sent))]
+                  X.append(token_list)
+                  y.append(label)
+            except LexerError:
+                  discard_snippets += 1
+                  continue
+      return X, y, discard_snippets
