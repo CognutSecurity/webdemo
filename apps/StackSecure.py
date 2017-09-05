@@ -1,7 +1,7 @@
 import cherrypy, simplejson
 import jinja2 as jj2
 import sqlite3
-from helpers.dataset_helper import read_csv
+from h3mlcore.utils.DatasetHelper import read_csv
 
 # TODO delete snippets and use the database and the users related table
 # snippets = []
