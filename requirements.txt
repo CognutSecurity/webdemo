@@ -1,11 +1,10 @@
 nltk==3.2.1
 peewee==2.10.1
 ws4py==0.4.2
-h3mlcore.egg==info
 Jinja2==2.9.6
 dill==0.2.5
 simplejson==3.11.1
 CherryPy==11.0.0
 numpy==1.13.1
-h3mlcore==0.3.dev0
+h3mlcore==0.5.dev0
 scikit_learn==0.19.0
