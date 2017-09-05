@@ -10,10 +10,10 @@ pip install -r requirements.txt
 
 Add project to your `PYTHONPATH`.
 
-Afterwards, go to ___views___ directory, and run
+Afterwards, go to project root directory, and run
 
 ```bash
-python simplypage.py
+python run.py
 ```
 
 If console gives you
