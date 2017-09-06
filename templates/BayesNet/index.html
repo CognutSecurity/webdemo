@@ -69,32 +69,48 @@
         <div class="row">
             <div class="col col-xs-12 col-sm-12 col-md-6">
                 <div class="card sameheight-item">
-                    <div class="card-header card-header-sm bordered">
-                        <div class="header-block">
-                            <h3 class="title">Feature Relationship</h3>
-                        </div>
-                    </div>
                     <div class="card-block">
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane active fade in">
+                        <ul class="nav nav-tabs nav-tabs-bordered">
+                            <li class="nav-item">
+                                <a href="#feature_relationship" 
+                                    class="nav-link active" data-target="#feature_relationship" data-toggle="tab" 
+                                    aria-controls="feature_relationship" role="tab">Feature Relationship</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#file_info" class="nav-link" data-target="#file_info" 
+                                aria-controls="file_info" 
+                                data-toggle="tab" role="tab">Data Information</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tabs-bordered">
+                            <div class="tab-pane fade in active" id="feature_relationship">
                                 <div id="graph_canvas"></div>
-                                <div id="debug-canvas">
-                                    <p class="text-info"></p>
-                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="file_info">
+                                <div id="data_info_canvas"></div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div id="debug-canvas">
+                    <p class="text-info"></p>
+                </div>
             </div>
             <div class="col col-xs-12 col-sm-12 col-md-6">
                 <div class="card sameheight-item">
-                    <div class="card-header card-header-sm bordered">
-                        <div class="header-block">
-                            <h3 class="title">Sample distribution</h3>
-                        </div>
-                    </div>
                     <div class="card-block">
-                        <div id="sample-dist-canvas"></div>
+                        <ul class="nav nav-tabs nav-tabs-bordered">
+                            <li class="nav-item">
+                                <a href="#sample_distribution" 
+                                    class="nav-link active" data-target="#sample_distribution" data-toggle="tab" 
+                                    aria-controls="sample_distribution" role="tab">Samples distribution</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content tabs-bordered">
+                            <div class="tab-pane fade in active" id="sample_distribution">
+                                <div id="sample_dist_canvas"></div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

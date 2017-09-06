@@ -26,8 +26,8 @@ function initGraph(elements) {
             style: {
                'width': 2,
                'curve-style': 'bezier',
-               'line-color': '#000',
-               'target-arrow-color': '#000',
+               'line-color': '#D7DDE4',
+               'target-arrow-color': '#D7DDE4',
                'target-arrow-shape': 'triangle',
                'label': 'data(id)',
                'text-rotation': 'autorotate'
@@ -187,10 +187,11 @@ function addAnalyzeHandlers() {
                 x: resp.samples2d['x'],
                 y: resp.samples2d['y'],
                 mode: 'markers',
-                type: 'scatter'
+                type: 'scatter',
+                marker: { color: '#177' }
               };
             var data = [samples];
-            Plotly.newPlot("sample-dist-canvas", data);
+            Plotly.newPlot("sample_dist_canvas", data);
             // only close socket if it sucesses
             socket.close(1000);
          } else {
