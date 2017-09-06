@@ -3,17 +3,17 @@
 .CodeMirror {
   /* Set height, width, borders, and global font properties here */
   font-family: monospace;
-  height: 300px;
+  height: auto;
   color: black;
 }
 
 /* PADDING */
 
 .CodeMirror-lines {
-  padding: 4px 0; /* Vertical padding around content */
+  padding: 2px 0; /* Vertical padding around content */
 }
 .CodeMirror pre {
-  padding: 0 4px; /* Horizontal padding of content */
+  padding: 0 2px; /* Horizontal padding of content */
 }
 
 .CodeMirror-scrollbar-filler, .CodeMirror-gutter-filler {
@@ -236,7 +236,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {color: #f22;}
   border-width: 0;
   background: transparent;
   font-family: inherit;
-  font-size: inherit;
+  font-size: 10pt;
   margin: 0;
   white-space: pre;
   word-wrap: normal;

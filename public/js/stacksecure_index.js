@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
   
   // init code snippet editor
   var codeMirror = CodeMirror.fromTextArea(document.getElementById('editor'), {
@@ -7,9 +7,24 @@ $(document).ready(function() {
     mode: "text/x-java"
   });
 
+  var init_snippet = 
+  `// Insert security-related Java code snippet
+  SecretKeySpec getKey() {
+  final pass = "47e7717f0f37ee72cb226278279aebef".getBytes("UTF-8");
+  final sha = MessageDigest.getInstance("SHA-256");
+
+  def key = sha.digest(pass);
+  // use only first 128 bit (16 bytes). By default Java only supports AES 128 bit key sizes for encryption.
+  // Updated jvm policies are required for 256 bit.
+  key = Arrays.copyOf(key, 16);
+  return new SecretKeySpec(key, AES);
+}`;
+  
+  codeMirror.setValue(init_snippet);
+
   // analyze snippet in editor
   $("#analyze-security").click(function(e) {
-    analyzeCodeInEditor();
+    analyzeCodeInEditor(codeMirror);
   });
 
   // init .csv file and analyze snippets
@@ -52,8 +67,9 @@ $(document).ready(function() {
   });
 });
 
-function analyzeCodeInEditor() {
-  var code = $('#editor').val();
+function analyzeCodeInEditor(codeMirror) {
+  // var code = $('#editor').val();
+  var code = codeMirror.getValue();
     
   $.ajax({
     url: "/stacksecure/security",
@@ -93,13 +109,18 @@ function setSnippet(pretty, card, snippet) {
   });
 }
 
-function setSnippetCard(card, security) {
-  if (security == "1") {
+function setSnippetCard(card, resp) {
+  var response = JSON.parse(resp)
+  var security = response['label'];
+  var proba = response['proba'].toFixed(2);
+  if (security == 1) {
     $(card).removeClass("card-default card-success");
     $(card).addClass("card-danger");
-  } else if (security == "-1") {
+    $(card).find('p.title').text('Insecure Java Code: ' + proba)
+  } else if (security == 0) {
     $(card).removeClass("card-default card-danger");
     $(card).addClass("card-success");
+    $(card).find('p.title').text('Secure Java Code: '  + proba)
   }
 }
 

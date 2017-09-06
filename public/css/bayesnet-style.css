@@ -61,6 +61,22 @@
    vertical-align: middle;
 }
 
+#sample_dist_canvas {
+    width: 100%;
+    height: 400px;
+    display: block;
+    margin: auto;
+   vertical-align: middle;
+}
+
+#data_info_canvas {
+    width: 100%;
+    height: 400px;
+    display: block;
+    margin: auto;
+   vertical-align: middle;
+}
+
 #img-loading {
    display: block;
    position: absolute;
